@@ -1,0 +1,56 @@
+[
+  {
+    "chunk_id": "1cSzxlhxOw8_000003_000112",
+    "video_id": "1cSzxlhxOw8",
+    "video_title": "Lecture 88: Cycle Detection in Undirected Graphs || Using BFS and DFS",
+    "lecture_number": 88,
+    "playlist_index": 96,
+    "video_url": "https://www.youtube.com/watch?v=1cSzxlhxOw8",
+    "start_time": 3.44,
+    "end_time": 112.3,
+    "start_timestamp_str": "00:03",
+    "end_timestamp_str": "01:52",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=1cSzxlhxOw8&t=3s",
+    "text": "Hello, how's the Love Babbar C++ Placement? C1 & C2",
+    "segment_span": [
+      0,
+      1
+    ]
+  },
+  {
+    "chunk_id": "1cSzxlhxOw8_000931_001162",
+    "video_id": "1cSzxlhxOw8",
+    "video_title": "Lecture 88: Cycle Detection in Undirected Graphs || Using BFS and DFS",
+    "lecture_number": 88,
+    "playlist_index": 96,
+    "video_url": "https://www.youtube.com/watch?v=1cSzxlhxOw8",
+    "start_time": 931.34,
+    "end_time": 1162.74,
+    "start_timestamp_str": "15:31",
+    "end_timestamp_str": "19:22",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=1cSzxlhxOw8&t=931s",
+    "text": "و ساتھی آپ کا پیرنت بھی نہ ہو. تو ہم نے کہا کی and and neighbor is not equal to parent of front فکر یہ کنڈیشن حول فیل ہو گئی, اس کا مطلب ہے, Cycle Panty return toward Bumayat Nekar Nehwara ایک ایک کنٹیشنت کیا ہوگی؟ کیا کرویشٹر نہیں ہے? اگر ویشریٹ نہیں ہے اگری آپ کا نبار جہاویچر نہیں ہیں جم کرتے آر تھے اگر میں DFS کرتا تو کیا ہوتا ہے یہاں شروع کر لیا معلوم سوٹ سیا مع",
+    "segment_span": [
+      2,
+      11
+    ]
+  },
+  {
+    "chunk_id": "1cSzxlhxOw8_001826_001922",
+    "video_id": "1cSzxlhxOw8",
+    "video_title": "Lecture 88: Cycle Detection in Undirected Graphs || Using BFS and DFS",
+    "lecture_number": 88,
+    "playlist_index": 96,
+    "video_url": "https://www.youtube.com/watch?v=1cSzxlhxOw8",
+    "start_time": 1826.59,
+    "end_time": 1922.49,
+    "start_timestamp_str": "30:26",
+    "end_timestamp_str": "32:02",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=1cSzxlhxOw8&t=1826s",
+    "text": "7 Bye bye",
+    "segment_span": [
+      12,
+      13
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "chunk_id": "6XmzL04mlgQ_000003_000149",
+    "video_id": "6XmzL04mlgQ",
+    "video_title": "Lecture 91: Topological Sort ( Using Kahn's Algorithm )  || Placement Series",
+    "lecture_number": 91,
+    "playlist_index": 99,
+    "video_url": "https://www.youtube.com/watch?v=6XmzL04mlgQ",
+    "start_time": 3.34,
+    "end_time": 149.1,
+    "start_timestamp_str": "00:03",
+    "end_timestamp_str": "02:29",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=6XmzL04mlgQ&t=3s",
+    "text": "Hello, this is Love Babbar and welcome to the channel. We are here on lecture number 91 Last lecture about topological sort of quiz ھا بی افس کا ایوز کرے کے توپلاوگیگل سوٹنگ کرنے والے ہیں توپراوگگی گو سوارٹنک ہوتا کیا ہے وٹیس توپلوگیکل سورٹنیک یہ آلری ہم لاش اور لیکچر میں دیسکار چکے ہیں یہ سیf directed or cyclic graph پر کیوں لگائے جا سکتا ہے وہ بھی ہم ریزن سب لاش لیکشر میں دیсکار شکے گرفیک چھوٹہ سپ چھوبٹہ صپیار سری کیا آپ چاہتے ہیں تو دیکھلے پھیں ہم نے کہاں کہ لٹسے آپ کو یہ گرف ہے اجیسا اشفرکار ہوں گی یہ تینجزوں گھی",
+    "segment_span": [
+      0,
+      11
+    ]
+  },
+  {
+    "chunk_id": "6XmzL04mlgQ_000149_000213",
+    "video_id": "6XmzL04mlgQ",
+    "video_title": "Lecture 91: Topological Sort ( Using Kahn's Algorithm )  || Placement Series",
+    "lecture_number": 91,
+    "playlist_index": 99,
+    "video_url": "https://www.youtube.com/watch?v=6XmzL04mlgQ",
+    "start_time": 149.1,
+    "end_time": 213.77,
+    "start_timestamp_str": "02:29",
+    "end_timestamp_str": "03:33",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=6XmzL04mlgQ&t=149s",
+    "text": "اگر میں بولنوں کے 1,2 ,3 مجھیکلین اور درینگ ہے تو کیا 1, 2 سے پہلیا رہے ہیں کیا 2, 3 سے پھلیا ہے کیا 3,1 سے پلیا لہا ہے نہیں ہی جی دہان سے رکھو 1, II سے پےلیا רہ اشپرکر 2-3 سے پھیلیا R ۔ So that's why directed a cyclic graph آپ ایک valed topological sort نہیں بناصیکتے So in this lecture we will use BFS algorithm to implement the top logical sort of algorithms. ھاں سے وہ پیڑ کوٹسے لے پائیں گے, سپسے پیاری چیز جو لوگ طریف کرتے ہیں",
+    "segment_span": [
+      12,
+      23
+    ]
+  },
+  {
+    "chunk_id": "6XmzL04mlgQ_000214_000278",
+    "video_id": "6XmzL04mlgQ",
+    "video_title": "Lecture 91: Topological Sort ( Using Kahn's Algorithm )  || Placement Series",
+    "lecture_number": 91,
+    "playlist_index": 99,
+    "video_url": "https://www.youtube.com/watch?v=6XmzL04mlgQ",
+    "start_time": 214.77,
+    "end_time": 278.12,
+    "start_timestamp_str": "03:34",
+    "end_timestamp_str": "04:38",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=6XmzL04mlgQ&t=214s",
+    "text": "کیوں کہ یہاں باہنان باں, دوٹر دولیم سپوٹے ہوگے گے آپ کوئی بھی دووتھا ہے ایک سے 2 hr. جا ہے گا کورسے جو بنائی جاتے ہیں بہت بلس ٹرکٹھے دویم بنائے جاتیں کیا گا آپ میں نے دالیں گی تو آپ کو ریزاں دیفرٹے ملے گا ہے کورス بنانے والے بندے اور ریڈی بڑی بھڑھی کمپریم فورٹ چکے ہیں تو اس کے آپ کو τنشل لنے کی نید نہیں ہے اللانگوچ کی کر بات کریں ہندھی انگلش دونوں میں بلےبل ہیں کشن سوال کرتے ہیں آپ کو حنتビڑیوز میں میں جائیں گے تو اگر آپ کو کوئی بھی پیڈ کٹھ کرینا ہے تو اب آپ سمجھ رہے ہیں آپ کے پاس یہ لیکن дисکفشنے پڑا ہوئے اچھپیٹ کر کیا آپ لے سکتے و 20% дисکنوں جو کے میکسیم ہے باکھا میں لے جائے گا Danyo 1,2 ,3 ,4 ,5 پڑھڑ کرتے ہیں کیا کرنا,",
+    "segment_span": [
+      24,
+      43
+    ]
+  },
+  {
+    "chunk_id": "6XmzL04mlgQ_000278_000613",
+    "video_id": "6XmzL04mlgQ",
+    "video_title": "Lecture 91: Topological Sort ( Using Kahn's Algorithm )  || Placement Series",
+    "lecture_number": 91,
+    "playlist_index": 99,
+    "video_url": "https://www.youtube.com/watch?v=6XmzL04mlgQ",
+    "start_time": 278.52,
+    "end_time": 613.32,
+    "start_timestamp_str": "04:38",
+    "end_timestamp_str": "10:13",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=6XmzL04mlgQ&t=278s",
+    "text": "تو یہاں پر فٹھہ پڈھا پژھا میں انگری کا اپنی کی گزوال ریپنٹیشہ مداریتا ہوں میں نے کہاں یہ 1 2 3 4 5 ما نگریہ 1 2 3 4 5 یہ ساری میں نوڑس ہیں کیا ریفاستنوڈ سکیں نوٹھ اور یہ پورا جیڑتے رہی ہے انگری کو درشاتا ہے ٹھیک ہے تو میں نے والا 1 دگری 0 اور 2 کی 1 ہے 3 کی 1 ہے 5 کی جو ہے وہ 2 ہے اور 4 کی جا 1 کیا 1,2 ,3 ,4",
+    "segment_span": [
+      44,
+      64
+    ]
+  },
+  {
+    "chunk_id": "6XmzL04mlgQ_000615_000637",
+    "video_id": "6XmzL04mlgQ",
+    "video_title": "Lecture 91: Topological Sort ( Using Kahn's Algorithm )  || Placement Series",
+    "lecture_number": 91,
+    "playlist_index": 99,
+    "video_url": "https://www.youtube.com/watch?v=6XmzL04mlgQ",
+    "start_time": 615.32,
+    "end_time": 637.64,
+    "start_timestamp_str": "10:15",
+    "end_timestamp_str": "10:37",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=6XmzL04mlgQ&t=615s",
+    "text": "1-2 3 4 1-3 Rm Rm Rm",
+    "segment_span": [
+      65,
+      70
+    ]
+  }
+]

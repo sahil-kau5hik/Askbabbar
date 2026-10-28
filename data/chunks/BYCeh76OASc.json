@@ -1,0 +1,128 @@
+[
+  {
+    "chunk_id": "BYCeh76OASc_000190_000252",
+    "video_id": "BYCeh76OASc",
+    "video_title": "Lecture 41: Time & Space Complexity of Recursive Algorithms || C++ Placement Course",
+    "lecture_number": 41,
+    "playlist_index": 45,
+    "video_url": "https://www.youtube.com/watch?v=BYCeh76OASc",
+    "start_time": 190.29,
+    "end_time": 252.29,
+    "start_timestamp_str": "03:10",
+    "end_timestamp_str": "04:12",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=BYCeh76OASc&t=190s",
+    "text": "Topics, Linear Search, Lineart Search, Interface, Linearity, جنگر لپیڑ کے پچھا میں لیکن کوشنانگے وہ سال کرنے",
+    "segment_span": [
+      0,
+      1
+    ]
+  },
+  {
+    "chunk_id": "BYCeh76OASc_000252_000434",
+    "video_id": "BYCeh76OASc",
+    "video_title": "Lecture 41: Time & Space Complexity of Recursive Algorithms || C++ Placement Course",
+    "lecture_number": 41,
+    "playlist_index": 45,
+    "video_url": "https://www.youtube.com/watch?v=BYCeh76OASc",
+    "start_time": 252.79,
+    "end_time": 434.66,
+    "start_timestamp_str": "04:12",
+    "end_timestamp_str": "07:14",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=BYCeh76OASc&t=252s",
+    "text": "اور آپ اپلای کرنہ میں سکسسسفل ہو جائیں گے קورس کنر بہت آئی چیزوں ہونے والی جس کی موقع انٹریبوز عسائلمنٹ کوئیز ایس ایڈرسشیز انڈریبن پروجیکٹ پویسلن میں τریک بہا سا چی تو ریشٹر پکھا کر کیا ہے ٹیشت وقا دیکھا ہے فری ہے کوئے پیسنے لیکھنے والے ٹیکا تو کرنا but this is the recursive one, i dont have any other solution",
+    "segment_span": [
+      2,
+      13
+    ]
+  },
+  {
+    "chunk_id": "BYCeh76OASc_000436_000967",
+    "video_id": "BYCeh76OASc",
+    "video_title": "Lecture 41: Time & Space Complexity of Recursive Algorithms || C++ Placement Course",
+    "lecture_number": 41,
+    "playlist_index": 45,
+    "video_url": "https://www.youtube.com/watch?v=BYCeh76OASc",
+    "start_time": 436.69,
+    "end_time": 967.63,
+    "start_timestamp_str": "07:16",
+    "end_timestamp_str": "16:07",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=BYCeh76OASc&t=436s",
+    "text": "try it first because its recurrence relation if you write a correct answer let me take some number how can I write n star factorial of N minus 1 i will use many more t of n equals 2 k log in",
+    "segment_span": [
+      14,
+      21
+    ]
+  },
+  {
+    "chunk_id": "BYCeh76OASc_001342_001408",
+    "video_id": "BYCeh76OASc",
+    "video_title": "Lecture 41: Time & Space Complexity of Recursive Algorithms || C++ Placement Course",
+    "lecture_number": 41,
+    "playlist_index": 45,
+    "video_url": "https://www.youtube.com/watch?v=BYCeh76OASc",
+    "start_time": 1342.44,
+    "end_time": 1408.12,
+    "start_timestamp_str": "22:22",
+    "end_timestamp_str": "23:28",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=BYCeh76OASc&t=1342s",
+    "text": "t of n is equal to ھاپنے گولا وہیا سان تھا کچھ کس مشکلتا نہیں تھا",
+    "segment_span": [
+      22,
+      23
+    ]
+  },
+  {
+    "chunk_id": "BYCeh76OASc_001408_002025",
+    "video_id": "BYCeh76OASc",
+    "video_title": "Lecture 41: Time & Space Complexity of Recursive Algorithms || C++ Placement Course",
+    "lecture_number": 41,
+    "playlist_index": 45,
+    "video_url": "https://www.youtube.com/watch?v=BYCeh76OASc",
+    "start_time": 1408.14,
+    "end_time": 2025.79,
+    "start_timestamp_str": "23:28",
+    "end_timestamp_str": "33:45",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=BYCeh76OASc&t=1408s",
+    "text": "ہم نے کیا vola تھا کہ یار یہ کچھی میرا ایسا آسا جیا یہاں میں نے کوئی کچچھ انٹ اینڈ دیا پھر میں رہ کوئے بیس کے سوطا تھا ہے IF n is equal to zero یار فر n is equals 2 is equal 1 تو اس کے اس میں کیا کرنا تھا جو بھی تھا وہ ریٹن کر دو اور بیاسے ہم کیا بولتے ریطن کرdough Fib of N minus one plus Fib off N minus two ھا آپ کا انسر آ گیا ایش پر گا",
+    "segment_span": [
+      24,
+      40
+    ]
+  },
+  {
+    "chunk_id": "BYCeh76OASc_002026_002202",
+    "video_id": "BYCeh76OASc",
+    "video_title": "Lecture 41: Time & Space Complexity of Recursive Algorithms || C++ Placement Course",
+    "lecture_number": 41,
+    "playlist_index": 45,
+    "video_url": "https://www.youtube.com/watch?v=BYCeh76OASc",
+    "start_time": 2026.79,
+    "end_time": 2202.5,
+    "start_timestamp_str": "33:46",
+    "end_timestamp_str": "36:42",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=BYCeh76OASc&t=2026s",
+    "text": "سلٹ سے ہم سب سے پہلے فکٹوریل جو والا کوڑ ہی اٹھالے ہیں فکطوریال والا کورڈ کی بات کر لے کہ یار فکتوریول والا چیز کو ملیکشیٹی بتا دوں کی تنی ہونے والی ہے ہم جاتیں دوارے ہیں ہمیں ہمارے ریگر جان دے 1 پہیں یہاں پہ جا گے فیکٹورڑ اس رہت کر لیں ہم نے کوڈ کو اس پر کر لیکا ہوا ہے کہ یعر یہ میرا بیس کے سا یہ میں ایک وریبل بنارے کہ 6.",
+    "segment_span": [
+      41,
+      48
+    ]
+  },
+  {
+    "chunk_id": "BYCeh76OASc_002203_002231",
+    "video_id": "BYCeh76OASc",
+    "video_title": "Lecture 41: Time & Space Complexity of Recursive Algorithms || C++ Placement Course",
+    "lecture_number": 41,
+    "playlist_index": 45,
+    "video_url": "https://www.youtube.com/watch?v=BYCeh76OASc",
+    "start_time": 2203.5,
+    "end_time": 2231.0,
+    "start_timestamp_str": "36:43",
+    "end_timestamp_str": "37:11",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=BYCeh76OASc&t=2203s",
+    "text": "8. 9. 9. 9. 9. 9. 9. 9. 9. 9. 9. 9. 10.",
+    "segment_span": [
+      49,
+      61
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "chunk_id": "U095bJJtW3w_000002_000203",
+    "video_id": "U095bJJtW3w",
+    "video_title": "Lecture 136: Longest Palindromic Subsequence || DP on Strings",
+    "lecture_number": 136,
+    "playlist_index": 145,
+    "video_url": "https://www.youtube.com/watch?v=U095bJJtW3w",
+    "start_time": 2.77,
+    "end_time": 203.62,
+    "start_timestamp_str": "00:02",
+    "end_timestamp_str": "03:23",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=U095bJJtW3w&t=2s",
+    "text": "Hello, G. KSOSALA this is Love Babbar and welcome to the channel code help You are already on my DPI on strings 2nd lecture but here I am going to solve a very important question called longest palandromic sub sequence In input you will give an extra string that S equals B Pallandromic Subsequence",
+    "segment_span": [
+      0,
+      4
+    ]
+  },
+  {
+    "chunk_id": "U095bJJtW3w_000231_000439",
+    "video_id": "U095bJJtW3w",
+    "video_title": "Lecture 136: Longest Palindromic Subsequence || DP on Strings",
+    "lecture_number": 136,
+    "playlist_index": 145,
+    "video_url": "https://www.youtube.com/watch?v=U095bJJtW3w",
+    "start_time": 231.62,
+    "end_time": 439.08,
+    "start_timestamp_str": "03:51",
+    "end_timestamp_str": "07:19",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=U095bJJtW3w&t=231s",
+    "text": "ایک ایک سبسیکن سابھی بنا پارے ہو کہ بی بی اور بی یا اس کو جوز گر لی اس کو کر لی اس کو نلت کر لیا اس کو دیا پراً سچار آ رہا ہے تو یہ میرا میکشی منصر ہے ٹیک ہے اِس پراکار آپ کو سمجھ میں تھولا بہا ہوتا ہے ایے سب سیکنص ہوتتا گئے اس کو ایس اچھٹ کیوں میں سالگ کر دیں گے کیسے میں نے معنا بکھل لنگا اشٹ وامن سبсیکنز نہیں کال آ را آ رتا ہے ھاکہ آپ کو 2 Strings or m.a.p. ھوڑا مجھے ھتے ہیں ھیں آپ کو بڑھا کامن سب سکویں سے تاپ بطا پاولی ہے جلال اشکتے میں نے سال کیا تھا ھائی وہ ہی کامسٹ لگا ہی ابھی سال کر بھی میں نے کہاں ایسٹیار جو آپ کو انپٹ میں دیا ہوئے وہ ہے بی بی بی اگر میں اس کو ریورس کر دوں اگер میں یہ اور Strings بنادو ریورس STR وہ کیا ہوں کہ ہوں؟ اگer میں ایک اور String بناد و ریوعس Str ھاکلہ کیا کہتے ہیں؟",
+    "segment_span": [
+      5,
+      28
+    ]
+  },
+  {
+    "chunk_id": "U095bJJtW3w_000440_000503",
+    "video_id": "U095bJJtW3w",
+    "video_title": "Lecture 136: Longest Palindromic Subsequence || DP on Strings",
+    "lecture_number": 136,
+    "playlist_index": 145,
+    "video_url": "https://www.youtube.com/watch?v=U095bJJtW3w",
+    "start_time": 440.08,
+    "end_time": 503.28,
+    "start_timestamp_str": "07:20",
+    "end_timestamp_str": "08:23",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=U095bJJtW3w&t=440s",
+    "text": "ھوڑھ فورس کیا ہے؟ ھال سب سیکنس کیکا ہے ھل سب بھائیں گے ھانے گا ہوا ہے ھار سب چیک کرو ھیچ سب کچھ سیکو ھئے ہیں کہ وہ ایک پیلینڈروم ہے ھیاں یہ نہیں ھگر وہ اے پیڑینڇروم ہیں ھجا آپ کے میکس لنث ہوگی ھولے ہیں ھیں گا یہ ایک طریقات آپ کے بھا سیک ویچوی حایدتا کہ ان کی بی ساہیتا ہوں سکیں ارسی رمیت نہیں مینیں آپ سنگ نکشو ریمتا اپتک لیئے بای",
+    "segment_span": [
+      29,
+      43
+    ]
+  }
+]

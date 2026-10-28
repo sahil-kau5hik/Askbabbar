@@ -1,0 +1,284 @@
+{
+  "video_id": "b5kij1Akf9I",
+  "lecture_number": 86,
+  "video_title": "Lecture 86: BFS Traversal in Graph || C++ Placement Series",
+  "total_duration": 1418.37,
+  "segments": [
+    {
+      "id": 0,
+      "start": 33.47,
+      "end": 43.47,
+      "text": "Liste-Balley Repetition is printed. BFS, BFS if we talk about the form of BFS"
+    },
+    {
+      "id": 1,
+      "start": 135.94,
+      "end": 137.94,
+      "text": "4-3"
+    },
+    {
+      "id": 2,
+      "start": 139.94,
+      "end": 141.94,
+      "text": "3-4"
+    },
+    {
+      "id": 3,
+      "start": 143.94,
+      "end": 145.94,
+      "text": "5-3"
+    },
+    {
+      "id": 4,
+      "start": 147.94,
+      "end": 149.94,
+      "text": "2-2"
+    },
+    {
+      "id": 5,
+      "start": 151.94,
+      "end": 153.94,
+      "text": "3"
+    },
+    {
+      "id": 6,
+      "start": 155.94,
+      "end": 157.94,
+      "text": "3-1"
+    },
+    {
+      "id": 7,
+      "start": 160.06,
+      "end": 162.06,
+      "text": "4-2"
+    },
+    {
+      "id": 8,
+      "start": 620.61,
+      "end": 622.61,
+      "text": "ھاں کیا ہے کہاں پڑھ کرسکتا ہوں نہیں کر سکا کیوں کی 1"
+    },
+    {
+      "id": 9,
+      "start": 622.71,
+      "end": 625.41,
+      "text": "ھولری ٹرو ہے اور آپ نے 4 بھی آپ نے پر انٹ کر آگی ہے"
+    },
+    {
+      "id": 10,
+      "start": 625.51,
+      "end": 627.81,
+      "text": "لیکن آپ کا BFF traversal جہے وہ پر اٹھا ہو گیا"
+    },
+    {
+      "id": 11,
+      "start": 627.91,
+      "end": 630.0,
+      "text": "یہ آپ کا bff traversal"
+    },
+    {
+      "id": 12,
+      "start": 630.1,
+      "end": 632.1,
+      "text": "پر نٹ ہو گئے اور آپ کی QBMT ہو چکی ہے"
+    },
+    {
+      "id": 13,
+      "start": 632.2,
+      "end": 634.05,
+      "text": "احان سے رہے کو"
+    },
+    {
+      "id": 14,
+      "start": 634.15,
+      "end": 635.55,
+      "text": "پہلا آپ کا 0 آیا"
+    },
+    {
+      "id": 15,
+      "start": 635.65,
+      "end": 637.05,
+      "text": "پھر آپ کا 3 آیا"
+    },
+    {
+      "id": 16,
+      "start": 637.15,
+      "end": 638.45,
+      "text": "پھیر آپ کے بنائیا"
+    },
+    {
+      "id": 17,
+      "start": 638.55,
+      "end": 639.85,
+      "text": "پھے آپ کا 2 آیا"
+    },
+    {
+      "id": 18,
+      "start": 639.95,
+      "end": 641.25,
+      "text": "و پھیک آپ کا 4 آیا"
+    },
+    {
+      "id": 19,
+      "start": 641.35,
+      "end": 642.25,
+      "text": "اسی same dry run"
+    },
+    {
+      "id": 20,
+      "start": 642.35,
+      "end": 643.45,
+      "text": "آپ הפلای کریں گے"
+    },
+    {
+      "id": 21,
+      "start": 643.55,
+      "end": 644.25,
+      "text": "اسی Same Dry Run"
+    },
+    {
+      "id": 22,
+      "start": 644.35,
+      "end": 645.15,
+      "text": "کو آپ הפلائے کریںگے"
+    },
+    {
+      "id": 23,
+      "start": 645.25,
+      "end": 645.95,
+      "text": "کہاہ پر"
+    },
+    {
+      "id": 24,
+      "start": 645.95,
+      "end": 655.95,
+      "text": "ایک کس او رفوسکتا ہے یہاں پر کی لد سے آپ کو یہ والا گراف دیا ہوئے"
+    },
+    {
+      "id": 25,
+      "start": 748.8,
+      "end": 753.8,
+      "text": "1 node is selected and then all of its adjacent nodes are visited by one."
+    },
+    {
+      "id": 26,
+      "start": 754.8,
+      "end": 757.8,
+      "text": "Unactive draft definition, if you have a graphic discantreed"
+    },
+    {
+      "id": 27,
+      "start": 758.8,
+      "end": 759.8,
+      "text": "what happens to that?"
+    },
+    {
+      "id": 28,
+      "start": 760.8,
+      "end": 763.8,
+      "text": "Now we understand the whole game's properties"
+    },
+    {
+      "id": 29,
+      "start": 764.8,
+      "end": 765.8,
+      "text": "Let us understand this"
+    },
+    {
+      "id": 30,
+      "start": 766.8,
+      "end": 767.8,
+      "text": "What I said in it"
+    },
+    {
+      "id": 31,
+      "start": 768.8,
+      "end": 769.8,
+      "text": "We asked for these numbers of nodes"
+    },
+    {
+      "id": 32,
+      "start": 770.8,
+      "end": 771.8,
+      "text": "And you can add them"
+    },
+    {
+      "id": 33,
+      "start": 772.8,
+      "end": 774.8,
+      "text": "So they will also need to be made from adjacent"
+    },
+    {
+      "id": 34,
+      "start": 1286.91,
+      "end": 1288.91,
+      "text": "1.2x runganthur kis case"
+    },
+    {
+      "id": 35,
+      "start": 1289.91,
+      "end": 1292.74,
+      "text": "2.3x rnganthu"
+    },
+    {
+      "id": 36,
+      "start": 1293.74,
+      "end": 1294.74,
+      "text": "4.4x rg"
+    },
+    {
+      "id": 37,
+      "start": 1295.74,
+      "end": 1297.74,
+      "text": "6.5x"
+    },
+    {
+      "id": 38,
+      "start": 1298.74,
+      "end": 1301.66,
+      "text": "7.6x"
+    },
+    {
+      "id": 39,
+      "start": 1302.66,
+      "end": 1303.66,
+      "text": "9.8x"
+    },
+    {
+      "id": 40,
+      "start": 1304.66,
+      "end": 1306.66,
+      "text": "8.9x"
+    },
+    {
+      "id": 41,
+      "start": 1307.66,
+      "end": 1309.66,
+      "text": "10.7x"
+    },
+    {
+      "id": 42,
+      "start": 1310.66,
+      "end": 1311.66,
+      "text": "11.10x"
+    },
+    {
+      "id": 43,
+      "start": 1312.66,
+      "end": 1314.66,
+      "text": "12.11x"
+    },
+    {
+      "id": 44,
+      "start": 1315.66,
+      "end": 1317.66,
+      "text": "13.15x"
+    },
+    {
+      "id": 45,
+      "start": 1416.13,
+      "end": 1417.45,
+      "text": "till then, bye."
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AskBabbar — Love Babbar DSA Assistant</title>
+  <meta name="description" content="Ask any DSA or C++ question and get answers grounded in Love Babbar's complete lecture series with exact YouTube timestamps." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="chat-app">
+
+    <!-- Top Chat Header (like WhatsApp/Telegram) -->
+    <header class="chat-header">
+      <div class="header-left">
+        <div class="chat-avatar">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/>
+          </svg>
+        </div>
+        <div class="chat-title-info">
+          <div class="chat-name">
+            <span>AskBabbar</span>
+            <span class="dsa-badge">DSA Assistant</span>
+          </div>
+          <div class="chat-status">
+            <span class="status-dot" id="statusDot"></span>
+            <span class="status-text" id="statusText">Connecting...</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="header-right">
+        <button class="settings-toggle-btn" id="settingsToggleBtn" title="Filter & Retrieval Settings" onclick="toggleSettings()">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"/>
+          </svg>
+          <span class="settings-label">Settings</span>
+        </button>
+        <button class="clear-chat-btn" id="clearChatBtn" title="Clear chat" onclick="clearChat()">
+          <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="3 6 5 6 21 6"/><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/>
+          </svg>
+        </button>
+      </div>
+    </header>
+
+    <!-- Slide-down Settings Drawer (clean & compact) -->
+    <div class="settings-drawer" id="settingsDrawer" style="display: none;">
+      <div class="settings-drawer-inner">
+        <div class="setting-item">
+          <label for="topKSelect">Sources Count:</label>
+          <select id="topKSelect" class="setting-select">
+            <option value="3">3 Sources</option>
+            <option value="5" selected>5 Sources (Default)</option>
+            <option value="8">8 Sources</option>
+          </select>
+        </div>
+        <div class="setting-item">
+          <label for="thresholdSelect">Threshold:</label>
+          <select id="thresholdSelect" class="setting-select">
+            <option value="0.20">Low (0.20)</option>
+            <option value="0.25" selected>Balanced (0.25)</option>
+            <option value="0.35">Strict (0.35)</option>
+          </select>
+        </div>
+        <div class="setting-item">
+          <label class="setting-checkbox-label">
+            <input type="checkbox" id="searchOnlyToggle" />
+            <span>Show sources only (No LLM)</span>
+          </label>
+        </div>
+      </div>
+    </div>
+
+    <!-- Main Scrollable Chat Area -->
+    <main class="chat-main" id="chatMain">
+      <div class="chat-container" id="chatContainer">
+
+        <!-- Welcome Banner inside conversation -->
+        <div class="welcome-box" id="welcomeBox">
+          <div class="welcome-badge">Love Babbar DSA Playlist</div>
+          <h2 class="welcome-title">Ask any DSA or C++ question</h2>
+          <p class="welcome-desc">
+            Answers are grounded in transcripts from all 149 lectures with exact YouTube timestamps.
+          </p>
+
+          <div class="chips-label">Frequently asked:</div>
+          <div class="quick-chips">
+            <button class="chip" onclick="sendSuggestion('What is dynamic programming?')">What is dynamic programming?</button>
+            <button class="chip" onclick="sendSuggestion('Explain binary search with example')">Explain binary search</button>
+            <button class="chip" onclick="sendSuggestion('How does Dijkstra algorithm work?')">How does Dijkstra work?</button>
+            <button class="chip" onclick="sendSuggestion('How to detect cycle in a linked list?')">Cycle in linked list</button>
+            <button class="chip" onclick="sendSuggestion('What is heapify in Heap data structure?')">Heapify in Heap</button>
+            <button class="chip" onclick="sendSuggestion('What is time complexity of merge sort?')">Merge sort complexity</button>
+          </div>
+        </div>
+
+        <!-- Chat Messages Container -->
+        <div class="messages-list" id="messagesList">
+          <!-- Messages will be injected here dynamically -->
+        </div>
+
+        <!-- Typing Indicator Bubble -->
+        <div class="message-row assistant-row typing-row" id="typingIndicator" style="display: none;">
+          <div class="msg-avatar">
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/>
+            </svg>
+          </div>
+          <div class="message-bubble assistant-bubble typing-bubble">
+            <div class="typing-dots">
+              <span></span><span></span><span></span>
+            </div>
+            <span class="typing-label">Searching Babbar's lectures...</span>
+          </div>
+        </div>
+
+      </div>
+    </main>
+
+    <!-- Bottom Docked Chat Input Bar (like WhatsApp) -->
+    <footer class="chat-input-bar">
+      <div class="input-bar-inner">
+        <div class="input-field-wrapper">
+          <textarea
+            id="queryInput"
+            class="chat-textarea"
+            placeholder="Type a DSA question... (e.g. How does binary search work?)"
+            rows="1"
+            maxlength="600"
+          ></textarea>
+        </div>
+        <button class="send-btn" id="queryBtn" onclick="submitQuery()" title="Send Message (Enter)">
+          <svg width="19" height="19" viewBox="0 0 24 24" fill="currentColor">
+            <path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/>
+          </svg>
+        </button>
+      </div>
+      <div class="input-hint">
+        Press <strong>Enter</strong> to send, <strong>Shift+Enter</strong> for newline
+      </div>
+    </footer>
+
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

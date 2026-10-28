@@ -1,0 +1,236 @@
+[
+  {
+    "chunk_id": "VxOFflTXlXo_000003_000066",
+    "video_id": "VxOFflTXlXo",
+    "video_title": "Lecture47: Detect & Remove Loop in Linked List [Approach Discussion + Optimised Implementation]",
+    "lecture_number": 47,
+    "playlist_index": 52,
+    "video_url": "https://www.youtube.com/watch?v=VxOFflTXlXo",
+    "start_time": 3.02,
+    "end_time": 66.37,
+    "start_timestamp_str": "00:03",
+    "end_timestamp_str": "01:06",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=VxOFflTXlXo&t=3s",
+    "text": "Hello Ji, How are you? Welcome to the channel. maar اسما جو کشن پوچھا جاتا ہے وہ یہ ہوتا ہے کہ یا رہاں سے پہلکوشن یہ بن جاتتا کہ ریٹیکٹ Psychle & Link List checked, kRO ki yar link list na cycle hai ya nahin دوسرا کشند جو پو چاہتا ہوتے کہ رہیم ہو سائکل asa po chasak saqtagia rrr mhoo psychal from linkedlist ki ar hagiye hai psycho butsko remove kar do تیسرا کچند جا پو پچھаتا ہے و آتاگیاں آپ کو اوپڑ میں دینی ہوتی ہے beginning node of loop beginning or start not off loob in linked list تھی تھی انت تھی ایک سکوشن پوسے جازکتا ہے",
+    "segment_span": [
+      0,
+      15
+    ]
+  },
+  {
+    "chunk_id": "VxOFflTXlXo_000066_000127",
+    "video_id": "VxOFflTXlXo",
+    "video_title": "Lecture47: Detect & Remove Loop in Linked List [Approach Discussion + Optimised Implementation]",
+    "lecture_number": 47,
+    "playlist_index": 52,
+    "video_url": "https://www.youtube.com/watch?v=VxOFflTXlXo",
+    "start_time": 66.39,
+    "end_time": 127.46,
+    "start_timestamp_str": "01:06",
+    "end_timestamp_str": "02:07",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=VxOFflTXlXo&t=66s",
+    "text": "آپ کو بتا ہوگا تو آپ پڑے ہی پیارسے اس کو بدا دیں گے اور سال کر دیںگے ایک بنا بکو آئیڈیاتا ہیں کچھن کہتا کیا ہے تھی کہا تھی یہاں پہ دیکھتے ہیں اس پر کار کے لیکنش شوزکتی ہے جہاں بر میں کہتوں کہ یہ ایک نوڑ ہے فی ایک اور نوٹ ہے فی یک اور נوڇ ہے فی ویک اور νوڋ ہے ایک اوڒ روژ ہے یہاہ مال لوگی 6th نوđ ہے اس میں لوب بین باتی کا تمو بھی لوب اپسنٹ بھی دیگہ تو سیمپر صالوجی کیا ہے ہم اس پرکارس سے کوشن سالو کریں گے آپ سے انتینا میں سے کوئی دی کشن پوسید ہے آپ اس کو سال و کرپائیں",
+    "segment_span": [
+      16,
+      33
+    ]
+  },
+  {
+    "chunk_id": "VxOFflTXlXo_000127_000251",
+    "video_id": "VxOFflTXlXo",
+    "video_title": "Lecture47: Detect & Remove Loop in Linked List [Approach Discussion + Optimised Implementation]",
+    "lecture_number": 47,
+    "playlist_index": 52,
+    "video_url": "https://www.youtube.com/watch?v=VxOFflTXlXo",
+    "start_time": 127.66,
+    "end_time": 251.86,
+    "start_timestamp_str": "02:07",
+    "end_timestamp_str": "04:11",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=VxOFflTXlXo&t=127s",
+    "text": "اپر اوچھی طرف چلتے ہیں کیسے اس کو آلو کرنا ڈیوشن کیا کیا سمید دی مگ میں سالیوچن آئیں گیا اس کو this course کر لے so approach pay directly آنے سے پہلے ایک پر اپنے βیڈے sponsor کو شاوٹ کر دے ایک ایک محنان تعلنی کے تو آپ کو رزال دفرٹے ملے والا ہے کچھ بھنانے والے بنتے وارڈی بڑی بھڑھی قمپنیا فورچ جو گئے ہیں تو اس کی آپ کو ٹنشل لنگیڈ نہیں ہے اللہ انگوچ کی کر بات کریں حندی انگلش دونوں میں بلے بل ہے کشن سوال کرتے ہیں آپ کو حند تی بیڭڈوز میں جائیں گے تو آپ کا کوئی بھی پیڑ کچھی خریدنا ہے تو اب آپ سمجدار ہے آپ کے پاس یہ لیکن дисکفشنے پڑا ہوئے 20% discount อ่ะ แม้บคำ I have kvlpg form store",
+    "segment_span": [
+      34,
+      53
+    ]
+  },
+  {
+    "chunk_id": "VxOFflTXlXo_000251_000682",
+    "video_id": "VxOFflTXlXo",
+    "video_title": "Lecture47: Detect & Remove Loop in Linked List [Approach Discussion + Optimised Implementation]",
+    "lecture_number": 47,
+    "playlist_index": 52,
+    "video_url": "https://www.youtube.com/watch?v=VxOFflTXlXo",
+    "start_time": 251.9,
+    "end_time": 682.26,
+    "start_timestamp_str": "04:11",
+    "end_timestamp_str": "11:22",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=VxOFflTXlXo&t=251s",
+    "text": "ที่ 3K corresponding model x string ฟัง isknaam htr 4K corresponding models ตังสรกฟิติฟ ฮัง ฝัง ธีเกา ฦิ ศัง 7K corresponding strings ฤษ าัง ฬัง ฎัง ฒัง ริตัการ kvlo ke firm ะัง map ฆังดี in datastore ฐัง ฺัง ฑี ภัง ฏัง ฯ ััง ืัง اسٹیلوالی ویڈیو کندر بھی دیکھ لیا گا کی مابکوں کی سپرکار یوز کیا جاتا ہے کیسے یواز کرتے ہیں دیکہ تو یہ چیز آپ آرڈے جانتے ہیں اب ہم نے کیا بولا ہم نکہ بولہ کہ پہلا اپروج جو ہمار دیماغنا رہا ہے وہ یہ ہو سکتا ہے کی مینہ ہر ادرس کے قرص فونڈنگ شٹور کرلوں کہ یار یہ ویزٹڈ ہے یا نہیں ہے جیس میں آپ کو بیدا تھا لاز لیکن سکن اپROJ میں سے موسیٹڑار کے ھاں پہ پر انڈ کروں گا تو سب کو چھاکھا دیکھنا",
+    "segment_span": [
+      54,
+      86
+    ]
+  },
+  {
+    "chunk_id": "VxOFflTXlXo_000683_000877",
+    "video_id": "VxOFflTXlXo",
+    "video_title": "Lecture47: Detect & Remove Loop in Linked List [Approach Discussion + Optimised Implementation]",
+    "lecture_number": 47,
+    "playlist_index": 52,
+    "video_url": "https://www.youtube.com/watch?v=VxOFflTXlXo",
+    "start_time": 683.26,
+    "end_time": 877.89,
+    "start_timestamp_str": "11:23",
+    "end_timestamp_str": "14:37",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=VxOFflTXlXo&t=683s",
+    "text": "لگی ہمیں اگر اگری شکر شیئن ہو گیا ہوا گیا پاکل ہے اگی یہ انفنٹ لوب میں فتز گیا کہ بھائی وہ جیسی یہاں بھی گھوم نہیں آتا ہے جیاسی وہ یہاے ہیں کہ آپ نے یہا ہے یہاہا ہے کہ آپ کا نلوانا چیتا اور بجا تھا اب ہی یہ جنچب بھوم کیا ہے اسے اسے اسے بارو گھUM میں جا رہا آپ کو دکھ رہوے بااربٹ سیم ٹیپ کا دیتہ پرینٹور ہے لیکن یہ بات آپ کو سمجھ میں آگئی ہے اس کو ہم نحنہاں پے حطا دیتے کنت رول سی کر کے ایک بار سماجھ م آگے چیزا میں تو بیسکلی انفرنت روب میں فتگیا تو اب ہمیں پتلاگئے کہ ہم یہ لوب تک جیشٹ کرتا اس کو چیک کرنگ لیم نے اپنا قوڑ ایک پتا پٹ سے دیکھا اور ہم نے لکھا کہ ایک ایک دیکٹ آج دوس Cycle اسمیں میں دالدی احد ھاکل دیٹیکشن اگر دن",
+    "segment_span": [
+      87,
+      105
+    ]
+  },
+  {
+    "chunk_id": "VxOFflTXlXo_000877_001300",
+    "video_id": "VxOFflTXlXo",
+    "video_title": "Lecture47: Detect & Remove Loop in Linked List [Approach Discussion + Optimised Implementation]",
+    "lecture_number": 47,
+    "playlist_index": 52,
+    "video_url": "https://www.youtube.com/watch?v=VxOFflTXlXo",
+    "start_time": 877.91,
+    "end_time": 1300.2,
+    "start_timestamp_str": "14:37",
+    "end_timestamp_str": "21:40",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=VxOFflTXlXo&t=877s",
+    "text": "یا نلاز سوڑیم آپ کو پڑھا کیا ہے آپ نئی بڑے توپی بات نہیں کر پڈلی دبہ بات چی باتا ہے آپ کو اورچے سمجھ میں آئے گئی سائکل ٹیکشین اگری دن اس کے بعد ان بات کر نے والے so یہ لگر ما کہتی ہے یہ کہتا کہ یار مانا لوگی یہ ایک لنگگلشٹ ہے مانان لوگیا کہ یہ کلنگلیشٹ ہیں یہاں پہا ہے دہ اب کیا ہوگا start-ting میں ایک پونٹر صلو یہاہ لگا دوں میں نے کہتے ہیں کہ اس پر کار کیا ہے",
+    "segment_span": [
+      106,
+      118
+    ]
+  },
+  {
+    "chunk_id": "VxOFflTXlXo_001300_001455",
+    "video_id": "VxOFflTXlXo",
+    "video_title": "Lecture47: Detect & Remove Loop in Linked List [Approach Discussion + Optimised Implementation]",
+    "lecture_number": 47,
+    "playlist_index": 52,
+    "video_url": "https://www.youtube.com/watch?v=VxOFflTXlXo",
+    "start_time": 1300.2,
+    "end_time": 1455.47,
+    "start_timestamp_str": "21:40",
+    "end_timestamp_str": "24:15",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=VxOFflTXlXo&t=1300s",
+    "text": "کی ہی دی ہاں پیدا اور آپ کیا کرتے ہو آپ کے لیکنگلے جیسے جا رہی ہے تو اگر اسکتورا اور اسکھا آپ کو سمجھانا ہو و لگتی ہی آپ جارے ہو اب آپ کوсامج مگتے گئے گلگلگس اس پراکار سے ہیں یہ اس لیکلگٹ کا یہ والا پارٹ جیلوپے اس کا ہم نے کہا بولا کہ یا ایک پونٹر ہا لگیا اس لونہ مق ایٹریشن کے ساتھ ان کے بیچ کا تیشتنس کا مہوتا جارا ہے",
+    "segment_span": [
+      119,
+      127
+    ]
+  },
+  {
+    "chunk_id": "VxOFflTXlXo_001456_001654",
+    "video_id": "VxOFflTXlXo",
+    "video_title": "Lecture47: Detect & Remove Loop in Linked List [Approach Discussion + Optimised Implementation]",
+    "lecture_number": 47,
+    "playlist_index": 52,
+    "video_url": "https://www.youtube.com/watch?v=VxOFflTXlXo",
+    "start_time": 1456.29,
+    "end_time": 1654.22,
+    "start_timestamp_str": "24:16",
+    "end_timestamp_str": "27:34",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=VxOFflTXlXo&t=1456s",
+    "text": "اور جب یہ تیستنس وان ہو جائے گا تو ایمیٹ کرزائیں گے صلوناس ہنٹ کیا؟ یہا گیا؟ فاشی ہنے سیڈ گیا اور فاشت بھی یہاں آ گیا اور یہ تینس ون ہو گیا ایک نوڑ کو one man ke chalra اگر آپ جانیں دونوں کے بيچ میں نہیں کالیں لازم لوگ سمتریں ایک تیچنس کام ہو رہا so یہ تکنس قام ہو گئا ھاں میں دیکھیا کہ بھیا یہ تو دیستنس ہر ایک آیٹریشنے کیسات ان کے بیچ کا دیسٹنس جو ہے وہ ایک ایک پائنٹ کم ہوتا جاتا ھاں پہنے پہاستا گیاں پے یہ مرہ فاست ہو گیا یہ مراسلو گیا",
+    "segment_span": [
+      128,
+      139
+    ]
+  },
+  {
+    "chunk_id": "VxOFflTXlXo_001654_001779",
+    "video_id": "VxOFflTXlXo",
+    "video_title": "Lecture47: Detect & Remove Loop in Linked List [Approach Discussion + Optimised Implementation]",
+    "lecture_number": 47,
+    "playlist_index": 52,
+    "video_url": "https://www.youtube.com/watch?v=VxOFflTXlXo",
+    "start_time": 1654.24,
+    "end_time": 1779.34,
+    "start_timestamp_str": "27:34",
+    "end_timestamp_str": "29:39",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=VxOFflTXlXo&t=1654s",
+    "text": "پہر میں اس لوگ اگیاں بہت ہے یہاں بھی اور میرا فا استا گئیاں گیا ہاں دونوں میٹ کر گیا وہیں تو جب دونیں میٹ کر جائیں ایک کر گئے انا جب یہاہ پہیں وہ لوں کہ وان سلو میٹ کر گے بایکس کو فاشٹ کو یہاے آپ کا start point اللوب کا یہ آپ کا start point ہے اللوب جاں پہنٹر سیکشن میں وہ بھی ہے",
+    "segment_span": [
+      140,
+      155
+    ]
+  },
+  {
+    "chunk_id": "VxOFflTXlXo_001779_002270",
+    "video_id": "VxOFflTXlXo",
+    "video_title": "Lecture47: Detect & Remove Loop in Linked List [Approach Discussion + Optimised Implementation]",
+    "lecture_number": 47,
+    "playlist_index": 52,
+    "video_url": "https://www.youtube.com/watch?v=VxOFflTXlXo",
+    "start_time": 1779.84,
+    "end_time": 2270.48,
+    "start_timestamp_str": "29:39",
+    "end_timestamp_str": "37:50",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=VxOFflTXlXo&t=1779s",
+    "text": "و فرمہ نے کہاں کہ یا ری جا پوری نوڑ ہے یہ پورy cycle کی جلن تھی وہ مہنے وہ لگیا see تو ایک اا ہے یہاں سے ہاتھا قدستنس بھی ایک آہ start-ing node سے لے کے آپ کا point of intersection tk distance and seek an entire cycle cdistence دیکھا یہ باستمرجم آبھی اب ایک expression oupa وہ کہتا کہ کہ ایار Distance by fastwala pointer Fastwala jp. ھاں ہم نے کہاں کہاہ کہا ہم نکلیست ہے",
+    "segment_span": [
+      156,
+      174
+    ]
+  },
+  {
+    "chunk_id": "VxOFflTXlXo_002271_002361",
+    "video_id": "VxOFflTXlXo",
+    "video_title": "Lecture47: Detect & Remove Loop in Linked List [Approach Discussion + Optimised Implementation]",
+    "lecture_number": 47,
+    "playlist_index": 52,
+    "video_url": "https://www.youtube.com/watch?v=VxOFflTXlXo",
+    "start_time": 2271.48,
+    "end_time": 2361.54,
+    "start_timestamp_str": "37:51",
+    "end_timestamp_str": "39:21",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=VxOFflTXlXo&t=2271s",
+    "text": "اگر یہ ایک لنکلіست ہے جو کی اس پرکار کی ہے ہم کرنا گیا ہے اگری میں اس کو دیکھوں تو کیا ہو رہے اگیسے جاتا ہوں یہاں پوچھ کے پھر دوبارگ ہم لگ گھو اگار میں اس پائنتر کو حطا دوں اس پانٹر کو ہطا کہ یہاً اس کو نل کر دوں start of loop",
+    "segment_span": [
+      175,
+      183
+    ]
+  },
+  {
+    "chunk_id": "VxOFflTXlXo_002363_002674",
+    "video_id": "VxOFflTXlXo",
+    "video_title": "Lecture47: Detect & Remove Loop in Linked List [Approach Discussion + Optimised Implementation]",
+    "lecture_number": 47,
+    "playlist_index": 52,
+    "video_url": "https://www.youtube.com/watch?v=VxOFflTXlXo",
+    "start_time": 2363.99,
+    "end_time": 2674.18,
+    "start_timestamp_str": "39:23",
+    "end_timestamp_str": "44:34",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=VxOFflTXlXo&t=2363s",
+    "text": "get starting node starting mode simple jump up ھاہاں لگتے ہیں",
+    "segment_span": [
+      184,
+      188
+    ]
+  },
+  {
+    "chunk_id": "VxOFflTXlXo_002675_002700",
+    "video_id": "VxOFflTXlXo",
+    "video_title": "Lecture47: Detect & Remove Loop in Linked List [Approach Discussion + Optimised Implementation]",
+    "lecture_number": 47,
+    "playlist_index": 52,
+    "video_url": "https://www.youtube.com/watch?v=VxOFflTXlXo",
+    "start_time": 2675.18,
+    "end_time": 2700.7,
+    "start_timestamp_str": "44:35",
+    "end_timestamp_str": "45:00",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=VxOFflTXlXo&t=2675s",
+    "text": "ھوڑھا ہوں ھنے گا ہاں ھانے گرنے ھیں گا ہے ھے گارنے ھتے گھاں ھہا ہے ھی گر نکل گر گیا ھیکنے ھئے ھائی ھگر",
+    "segment_span": [
+      189,
+      200
+    ]
+  }
+]

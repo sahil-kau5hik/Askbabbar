@@ -1,0 +1,344 @@
+{
+  "video_id": "Fe2GeXEzWM0",
+  "lecture_number": 106,
+  "video_title": "Lecture 106: House Robbery Problem || DP Series",
+  "total_duration": 692.27,
+  "segments": [
+    {
+      "id": 0,
+      "start": 2.86,
+      "end": 3.86,
+      "text": "Hello, this is Love Babbar and welcome to the channel."
+    },
+    {
+      "id": 1,
+      "start": 32.86,
+      "end": 36.86,
+      "text": "So Mr.X is a professional robber, planning to rob houses along the street"
+    },
+    {
+      "id": 2,
+      "start": 37.86,
+      "end": 39.86,
+      "text": "Each house has certain amount of money hidden"
+    },
+    {
+      "id": 3,
+      "start": 40.86,
+      "end": 42.86,
+      "text": "All houses along this streets are arranged in circle"
+    },
+    {
+      "id": 4,
+      "start": 43.86,
+      "end": 45.86,
+      "text": "So as far as there's no roads or houses"
+    },
+    {
+      "id": 5,
+      "start": 46.86,
+      "end": 49.86,
+      "text": "There was one circular arrangement that had been housed"
+    },
+    {
+      "id": 6,
+      "start": 50.86,
+      "end": 54.41,
+      "text": "That it would be another household"
+    },
+    {
+      "id": 7,
+      "start": 55.41,
+      "end": 60.41,
+      "text": "And I said this house number 1"
+    },
+    {
+      "id": 8,
+      "start": 60.41,
+      "end": 67.66,
+      "text": "1-2, 3-4 , 5-6-7"
+    },
+    {
+      "id": 9,
+      "start": 68.66,
+      "end": 70.66,
+      "text": "1 circular arrangement"
+    },
+    {
+      "id": 10,
+      "start": 71.66,
+      "end": 73.66,
+      "text": "1st house is the neighbor of last one"
+    },
+    {
+      "id": 11,
+      "start": 74.66,
+      "end": 75.66,
+      "text": "The first house was the neighbors"
+    },
+    {
+      "id": 12,
+      "start": 76.66,
+      "end": 77.66,
+      "text": "Last House"
+    },
+    {
+      "id": 13,
+      "start": 78.66,
+      "end": 81.66,
+      "text": "Meanwhile adjacent houses have a security system connected to each other"
+    },
+    {
+      "id": 14,
+      "start": 82.66,
+      "end": 84.66,
+      "text": "All those are adjacent houses"
+    },
+    {
+      "id": 15,
+      "start": 85.66,
+      "end": 87.66,
+      "text": "It will automatically contact police"
+    },
+    {
+      "id": 16,
+      "start": 179.04,
+      "end": 181.04,
+      "text": "ھاکہ لیکنے کیا ہے کہ یہ آپ کا first house"
+    },
+    {
+      "id": 17,
+      "start": 187.04,
+      "end": 189.04,
+      "text": "یہ آپ کے lasthouse"
+    },
+    {
+      "id": 18,
+      "start": 191.04,
+      "end": 193.04,
+      "text": "987"
+    },
+    {
+      "id": 19,
+      "start": 195.04,
+      "end": 197.04,
+      "text": "یہ آپ اس میں نیبر ہے"
+    },
+    {
+      "id": 20,
+      "start": 199.04,
+      "end": 201.04,
+      "text": "1 کے سب کو حل کرنا بڑے گا ہے"
+    },
+    {
+      "id": 21,
+      "start": 203.04,
+      "end": 205.04,
+      "text": "آپ کا ایک کچھ نیم ہے"
+    },
+    {
+      "id": 22,
+      "start": 205.04,
+      "end": 207.04,
+      "text": "و نون اجیزنٹ ایلیمنز کے"
+    },
+    {
+      "id": 23,
+      "start": 209.55,
+      "end": 210.55,
+      "text": "بس ایک ایگنیسن ایک شخص"
+    },
+    {
+      "id": 24,
+      "start": 211.55,
+      "end": 213.55,
+      "text": "وہ یہ ہے کہ فرست اور لازت جو ہواس ہیں"
+    },
+    {
+      "id": 25,
+      "start": 214.55,
+      "end": 215.55,
+      "text": "وہ نیوارہ ہے"
+    },
+    {
+      "id": 26,
+      "start": 216.55,
+      "end": 217.55,
+      "text": "اس کو سمالنا ہے"
+    },
+    {
+      "id": 27,
+      "start": 218.55,
+      "end": 219.55,
+      "text": "اور ہمارا کام ہو گیا"
+    },
+    {
+      "id": 28,
+      "start": 220.55,
+      "end": 222.06,
+      "text": "یہ ہے"
+    },
+    {
+      "id": 29,
+      "start": 223.06,
+      "end": 226.06,
+      "text": "فتح فرد انسر سوشنش بارئے بس پنس سبانسرش کو شاوتار دیتے ہیں"
+    },
+    {
+      "id": 30,
+      "start": 227.06,
+      "end": 228.06,
+      "text": "thanks to them coding ninjas"
+    },
+    {
+      "id": 31,
+      "start": 229.06,
+      "end": 230.06,
+      "text": "it is one of the largest coding agitation platform"
+    },
+    {
+      "id": 32,
+      "start": 231.06,
+      "end": 232.06,
+      "text": "where you can give a course"
+    },
+    {
+      "id": 33,
+      "start": 233.06,
+      "end": 234.06,
+      "text": "but if you want to implement an intrusive create courses"
+    },
+    {
+      "id": 34,
+      "start": 264.06,
+      "end": 265.58,
+      "text": "انگلیس دوونہ میں بلے بل ہے"
+    },
+    {
+      "id": 35,
+      "start": 265.82,
+      "end": 267.7,
+      "text": "کشن سوال کرتے ہیں آپ کو حنتی بتیشیں میں ہو گئے گئیں گے"
+    },
+    {
+      "id": 36,
+      "start": 267.78,
+      "end": 269.58,
+      "text": "تو آپ کو کوئی بھی پیڑ کچھ کریں گا"
+    },
+    {
+      "id": 37,
+      "start": 269.98,
+      "end": 270.98,
+      "text": "تو اب آپ صنگ دار ہے"
+    },
+    {
+      "id": 38,
+      "start": 271.18,
+      "end": 273.1,
+      "text": "آپ کے پاس یہ لیکن дисکشنے پڑا ہوں"
+    },
+    {
+      "id": 39,
+      "start": 273.18,
+      "end": 274.44,
+      "text": "ایش پیقلیک کر کیا آپ لایا सکتے"
+    },
+    {
+      "id": 40,
+      "start": 274.54,
+      "end": 275.94,
+      "text": "اور 20% дисکان جو کی میکسیم ہے"
+    },
+    {
+      "id": 41,
+      "start": 276.22,
+      "end": 277.02,
+      "text": "واقعا من جائیں گа"
+    },
+    {
+      "id": 42,
+      "start": 277.46,
+      "end": 277.94,
+      "text": "Thank you"
+    },
+    {
+      "id": 43,
+      "start": 294.29,
+      "end": 296.29,
+      "text": "तो लाशने हैं।"
+    },
+    {
+      "id": 44,
+      "start": 296.49,
+      "end": 299.87,
+      "text": "आसकबरी वहाँ कि एक सरे नाषत है"
+    },
+    {
+      "id": 45,
+      "start": 300.03,
+      "end": 300.69,
+      "text": "तo लग़ाच नहो"
+    },
+    {
+      "id": 46,
+      "start": 300.85,
+      "end": 301.71,
+      "text": "अर रासत हे"
+    },
+    {
+      "id": 47,
+      "start": 301.87,
+      "end": 303.71,
+      "text": "तeto फ़़़् यप भ़ूड"
+    },
+    {
+      "id": 48,
+      "start": 303.87,
+      "end": 305.43,
+      "text": "ख़रोट ज़नयान से देखो"
+    },
+    {
+      "id": 49,
+      "start": 305.59,
+      "end": 306.33,
+      "text": "त़ो दो उग लिजने"
+    },
+    {
+      "id": 50,
+      "start": 306.47,
+      "end": 307.43,
+      "text": "तेळाण नईलिषने"
+    },
+    {
+      "id": 51,
+      "start": 307.59,
+      "end": 308.53,
+      "text": "तम द्धाओइाथाखा"
+    },
+    {
+      "id": 52,
+      "start": 308.73,
+      "end": 309.23,
+      "text": "तa याटाब आछ ले"
+    },
+    {
+      "id": 53,
+      "start": 683.34,
+      "end": 685.34,
+      "text": "او او تانا اپسا مجھمتشے زااجگا ہو تو"
+    },
+    {
+      "id": 54,
+      "start": 685.34,
+      "end": 687.34,
+      "text": "و رہلوں اپنے نکس لکچر کی اندر"
+    },
+    {
+      "id": 55,
+      "start": 688.34,
+      "end": 691.34,
+      "text": "مجا پاہتے لکس بہت چھوٹ ہے تو تو یہ جانبوچ کی عج کتنا ہم نے دول لکتیار اپلوڈ کی ان"
+    }
+  ]
+}

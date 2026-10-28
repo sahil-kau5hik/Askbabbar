@@ -1,0 +1,92 @@
+[
+  {
+    "chunk_id": "tWnHbSHwNmA_000003_000121",
+    "video_id": "tWnHbSHwNmA",
+    "video_title": "Lecture38: Phone Keypad Problem Recursion || C++ Placement Course",
+    "lecture_number": 38,
+    "playlist_index": 42,
+    "video_url": "https://www.youtube.com/watch?v=tWnHbSHwNmA",
+    "start_time": 3.18,
+    "end_time": 121.41,
+    "start_timestamp_str": "00:03",
+    "end_timestamp_str": "02:01",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=tWnHbSHwNmA&t=3s",
+    "text": "Hello, how are you? Welcome to the channel Code Help. This is our lecture number 38 if we talk about this in a 10-day session ھاں ھوچن کیا کہتا ہے پہلے اس کو ساملت لتے ہیں ھکوشن نے وہ کہ آپ کو انیپٹ میں ایک ھرگ دی ہو گی آپ کو aniputm a ھیک ڈھرک دی ہوں گی ان پٹم a ڑھریک ۔ جو کس فامے گویں نمبرز کی فام میں ہو اس میں 1 2 3 4 لتسے اس کا نمپر اسکن 0 سے لیکن 9 تک کچھ گی tq nm رو سکتا آپ کو کیا بولنا ہے؟ آپ کو بتانے کی اس نمبر اس کو اگر میں اس ولي فون کی پیڑ میں دباطا ھاں ہم نے کیوں لگا گا 20 3 ہے",
+    "segment_span": [
+      0,
+      12
+    ]
+  },
+  {
+    "chunk_id": "tWnHbSHwNmA_000121_000655",
+    "video_id": "tWnHbSHwNmA",
+    "video_title": "Lecture38: Phone Keypad Problem Recursion || C++ Placement Course",
+    "lecture_number": 38,
+    "playlist_index": 42,
+    "video_url": "https://www.youtube.com/watch?v=tWnHbSHwNmA",
+    "start_time": 121.41,
+    "end_time": 655.38,
+    "start_timestamp_str": "02:01",
+    "end_timestamp_str": "10:55",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=tWnHbSHwNmA&t=121s",
+    "text": "ایس سے کیوں انتتتا ہے A, B , C ایت ای ای فر آپ نے کیا کیا بیسے گلی ایک بار ایک کو دیگیست ترکلیا ایک بار بیک کو دےگیسات ایگے ساتھ پھر بیی کو ایف کے ساتh ایے کے ساث ای کے ستھ ایقے ساؤ ایش فکر آپ نہیں یہ سوڑیشن کریٹ کر لیا و آگر ایک تک ہے کہ آپ کسی بھی آورڈنا میں او او بہار نکل گا کو دیجٹوالی STRINGS",
+    "segment_span": [
+      13,
+      24
+    ]
+  },
+  {
+    "chunk_id": "tWnHbSHwNmA_000655_001269",
+    "video_id": "tWnHbSHwNmA",
+    "video_title": "Lecture38: Phone Keypad Problem Recursion || C++ Placement Course",
+    "lecture_number": 38,
+    "playlist_index": 42,
+    "video_url": "https://www.youtube.com/watch?v=tWnHbSHwNmA",
+    "start_time": 655.4,
+    "end_time": 1269.37,
+    "start_timestamp_str": "10:55",
+    "end_timestamp_str": "21:09",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=tWnHbSHwNmA&t=655s",
+    "text": "تو او if index is greater than equal to digit dot length your base اس کے سمی کرنے آنسر کی انتر آپ کا اوپٹ شور کرنا پہلے تو جسل last for lecture kenda rekaat se mousipagar offer return gala بہت بڑیا تیگئے یہ والی جی آپ کو سمجھ ما گئیئے آو آگئی بڈ جاتے ہیں Now what happened?",
+    "segment_span": [
+      25,
+      33
+    ]
+  },
+  {
+    "chunk_id": "tWnHbSHwNmA_001269_001515",
+    "video_id": "tWnHbSHwNmA",
+    "video_title": "Lecture38: Phone Keypad Problem Recursion || C++ Placement Course",
+    "lecture_number": 38,
+    "playlist_index": 42,
+    "video_url": "https://www.youtube.com/watch?v=tWnHbSHwNmA",
+    "start_time": 1269.65,
+    "end_time": 1515.03,
+    "start_timestamp_str": "21:09",
+    "end_timestamp_str": "25:15",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=tWnHbSHwNmA&t=1269s",
+    "text": "This Recursion call was coming back I solved something and then there were some states He had to solve it, I didn't know anything about the interest But he solved everything And came back line number 17 Why would i have to do this Because here when we come in direction In empty string It was added So whenever When you go up When you come from here Today is a call Now if I move on top of that I will make sure That these are falling tx",
+    "segment_span": [
+      34,
+      50
+    ]
+  },
+  {
+    "chunk_id": "tWnHbSHwNmA_001635_001664",
+    "video_id": "tWnHbSHwNmA",
+    "video_title": "Lecture38: Phone Keypad Problem Recursion || C++ Placement Course",
+    "lecture_number": 38,
+    "playlist_index": 42,
+    "video_url": "https://www.youtube.com/watch?v=tWnHbSHwNmA",
+    "start_time": 1635.75,
+    "end_time": 1664.45,
+    "start_timestamp_str": "27:15",
+    "end_timestamp_str": "27:44",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=tWnHbSHwNmA&t=1635s",
+    "text": "ھاں ھو آپ کو اس دی ایے بلی والی والے والی تو Output میں اپنے جو کی پہلے empty تھا اس میں اکھنے اس میں لی دی دی ہو گیا لیگہ من لوگی Line Number 70 ھیں بھی اگس نہیں کرتی تو کیا وہ ہو گا آئی جہا وہ بھارچا لگیا اور Output مگہ آگیا دی آ گیا اب آپ اپا شلے گیا اب آپ نے قلیکال مار دی طرف گیا اب آپ کو کہان سلا گیا 3 آئے تو بھا جا چکا",
+    "segment_span": [
+      51,
+      60
+    ]
+  }
+]

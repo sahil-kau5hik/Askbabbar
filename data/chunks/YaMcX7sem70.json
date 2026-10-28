@@ -1,0 +1,200 @@
+[
+  {
+    "chunk_id": "YaMcX7sem70_000002_000071",
+    "video_id": "YaMcX7sem70",
+    "video_title": "Lecture 125: Longest Arithmetic Subsequence || DP Series",
+    "lecture_number": 125,
+    "playlist_index": 134,
+    "video_url": "https://www.youtube.com/watch?v=YaMcX7sem70",
+    "start_time": 2.86,
+    "end_time": 71.95,
+    "start_timestamp_str": "00:02",
+    "end_timestamp_str": "01:11",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=YaMcX7sem70&t=2s",
+    "text": "Hello, How are you? This is Love Babbar and welcome to the channel. Good Health! 10-10-13-14-19",
+    "segment_span": [
+      0,
+      2
+    ]
+  },
+  {
+    "chunk_id": "YaMcX7sem70_000256_000474",
+    "video_id": "YaMcX7sem70",
+    "video_title": "Lecture 125: Longest Arithmetic Subsequence || DP Series",
+    "lecture_number": 125,
+    "playlist_index": 134,
+    "video_url": "https://www.youtube.com/watch?v=YaMcX7sem70",
+    "start_time": 256.02,
+    "end_time": 474.35,
+    "start_timestamp_str": "04:16",
+    "end_timestamp_str": "07:54",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=YaMcX7sem70&t=256s",
+    "text": "ndex 0-1 2 3 4 5 2. 2 Numbers Choose 2 Number Choose 2 numbers",
+    "segment_span": [
+      3,
+      4
+    ]
+  },
+  {
+    "chunk_id": "YaMcX7sem70_000475_000902",
+    "video_id": "YaMcX7sem70",
+    "video_title": "Lecture 125: Longest Arithmetic Subsequence || DP Series",
+    "lecture_number": 125,
+    "playlist_index": 134,
+    "video_url": "https://www.youtube.com/watch?v=YaMcX7sem70",
+    "start_time": 475.35,
+    "end_time": 902.3,
+    "start_timestamp_str": "07:55",
+    "end_timestamp_str": "15:02",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=YaMcX7sem70&t=475s",
+    "text": "2 numres Choose 2 NUMBER 2 numbes 2 numes Choose 1 Numbers 2 numeres Choose 2 P3 2 nummes Choose 2 32 nummes choose 2 numbs 1 nummes Pick 2 numcs 3 nummes Add to 2 numtes 1 numtual number Choose 2 5-5",
+    "segment_span": [
+      5,
+      13
+    ]
+  },
+  {
+    "chunk_id": "YaMcX7sem70_000903_001091",
+    "video_id": "YaMcX7sem70",
+    "video_title": "Lecture 125: Longest Arithmetic Subsequence || DP Series",
+    "lecture_number": 125,
+    "playlist_index": 134,
+    "video_url": "https://www.youtube.com/watch?v=YaMcX7sem70",
+    "start_time": 903.3,
+    "end_time": 1091.1,
+    "start_timestamp_str": "15:03",
+    "end_timestamp_str": "18:11",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=YaMcX7sem70&t=903s",
+    "text": "5-6 14, 19 14 15 13 10 15 ایک دیکھا؟",
+    "segment_span": [
+      14,
+      21
+    ]
+  },
+  {
+    "chunk_id": "YaMcX7sem70_001092_001241",
+    "video_id": "YaMcX7sem70",
+    "video_title": "Lecture 125: Longest Arithmetic Subsequence || DP Series",
+    "lecture_number": 125,
+    "playlist_index": 134,
+    "video_url": "https://www.youtube.com/watch?v=YaMcX7sem70",
+    "start_time": 1092.1,
+    "end_time": 1241.62,
+    "start_timestamp_str": "18:12",
+    "end_timestamp_str": "20:41",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=YaMcX7sem70&t=1092s",
+    "text": "اور کیا پاس کرنا میں؟ یہ انڈکس بیز دی اور دیکھی ہے جائے تھیں کہتے بات بنجانشتے ہیں ایک باتا ہے اور وہ 2 بلس کیوں کیا ہے منا نولا بہا سی بات ابھی دھان سے کر دیکوچ ہمیں تو کہ لاش کے 2 אלیمنٹوں میں نکالتے ہو یہ 2 אלіمنٹیں میں نیکالی یہ باکی سرچ کر کے لاؤ تو ان 2 אלریمنٹ کو نکل لیا ان کی لنت کیوں کہا بھی آد کرنا جاپ کو backward answer دی رہا ہے جا بایکward answer آپ کو اتنا بات دیرا ہے ایسی پیچھے کی طرف گیا مجھے ملا 7",
+    "segment_span": [
+      22,
+      35
+    ]
+  },
+  {
+    "chunk_id": "YaMcX7sem70_001241_001302",
+    "video_id": "YaMcX7sem70",
+    "video_title": "Lecture 125: Longest Arithmetic Subsequence || DP Series",
+    "lecture_number": 125,
+    "playlist_index": 134,
+    "video_url": "https://www.youtube.com/watch?v=YaMcX7sem70",
+    "start_time": 1241.92,
+    "end_time": 1302.59,
+    "start_timestamp_str": "20:41",
+    "end_timestamp_str": "21:42",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=YaMcX7sem70&t=1241s",
+    "text": "7 & 10 کا دفرنز ٹینا رہا تم اجھ کو انٹلٹتا کر لیا میں و اجس کے پیشے بھی طانس رسکتا ہے تو اس کے پریچھا والیان سکل میں نے آپے فنگشن کال کر دی سال جی قومة جیق قومa دفرینس قومа ای ختم اس پراکار اس پرکار اپنے آنسر دیان کر دیا ایتین کے چلنا چیئیں میں نے قمپائل انڈن کی ای اس کو ایک بر 2",
+    "segment_span": [
+      36,
+      52
+    ]
+  },
+  {
+    "chunk_id": "YaMcX7sem70_001304_001429",
+    "video_id": "YaMcX7sem70",
+    "video_title": "Lecture 125: Longest Arithmetic Subsequence || DP Series",
+    "lecture_number": 125,
+    "playlist_index": 134,
+    "video_url": "https://www.youtube.com/watch?v=YaMcX7sem70",
+    "start_time": 1304.59,
+    "end_time": 1429.38,
+    "start_timestamp_str": "21:44",
+    "end_timestamp_str": "23:49",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=YaMcX7sem70&t=1304s",
+    "text": "4 Index Index A of i dfq value",
+    "segment_span": [
+      53,
+      57
+    ]
+  },
+  {
+    "chunk_id": "YaMcX7sem70_001431_001543",
+    "video_id": "YaMcX7sem70",
+    "video_title": "Lecture 125: Longest Arithmetic Subsequence || DP Series",
+    "lecture_number": 125,
+    "playlist_index": 134,
+    "video_url": "https://www.youtube.com/watch?v=YaMcX7sem70",
+    "start_time": 1431.38,
+    "end_time": 1543.49,
+    "start_timestamp_str": "23:51",
+    "end_timestamp_str": "25:43",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=YaMcX7sem70&t=1431s",
+    "text": "2dp vali index change index output 1% Index per Multi-Pull",
+    "segment_span": [
+      58,
+      63
+    ]
+  },
+  {
+    "chunk_id": "YaMcX7sem70_001545_002119",
+    "video_id": "YaMcX7sem70",
+    "video_title": "Lecture 125: Longest Arithmetic Subsequence || DP Series",
+    "lecture_number": 125,
+    "playlist_index": 134,
+    "video_url": "https://www.youtube.com/watch?v=YaMcX7sem70",
+    "start_time": 1545.49,
+    "end_time": 2119.36,
+    "start_timestamp_str": "25:45",
+    "end_timestamp_str": "35:19",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=YaMcX7sem70&t=1545s",
+    "text": "1% index 2%,D1,D2,D3 4% 4% 4% 5% ھاکھا لیکن میں ہم وقت ہم آچھا ہے",
+    "segment_span": [
+      64,
+      70
+    ]
+  },
+  {
+    "chunk_id": "YaMcX7sem70_002119_002234",
+    "video_id": "YaMcX7sem70",
+    "video_title": "Lecture 125: Longest Arithmetic Subsequence || DP Series",
+    "lecture_number": 125,
+    "playlist_index": 134,
+    "video_url": "https://www.youtube.com/watch?v=YaMcX7sem70",
+    "start_time": 2119.36,
+    "end_time": 2234.12,
+    "start_timestamp_str": "35:19",
+    "end_timestamp_str": "37:14",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=YaMcX7sem70&t=2119s",
+    "text": "تم ایک پیارے سے ہندیتا ہمیں تم اییک پر ایک فردار گزارشن نکال پاہ گے تم این دوچی سے کرنیا تم اکھ فاملہ پتا ہوئی بیگہ تم اپی کے انڈر ہو دے تھے تم اے پلس بیبا ایٹھو اور ایک ایک چاہتا تم اگر ہو ایک بیڑ بیٹو اور و بہتے ہیں",
+    "segment_span": [
+      71,
+      78
+    ]
+  },
+  {
+    "chunk_id": "YaMcX7sem70_002234_002260",
+    "video_id": "YaMcX7sem70",
+    "video_title": "Lecture 125: Longest Arithmetic Subsequence || DP Series",
+    "lecture_number": 125,
+    "playlist_index": 134,
+    "video_url": "https://www.youtube.com/watch?v=YaMcX7sem70",
+    "start_time": 2234.36,
+    "end_time": 2260.15,
+    "start_timestamp_str": "37:14",
+    "end_timestamp_str": "37:40",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=YaMcX7sem70&t=2234s",
+    "text": "لیکن ایک بہا ہوں بہجا ہی نہیں بھا گا بہی ہی بہٹ ہوں انسان کی جنگزگی میں کبھی کبیں کچھ چیزیں ہو جاتی ہیں تو رکھا ہوتا ہا ہاتی ہے ابھی بھی اگر تم پورا لیکس میں کل بھی کوئی دن دالتے لیکھیں بھی بھند کر رہتا ہے تو ابھی وہ دیسے کوئے سکھوڑھا ہے اس کے دورا پیشمن لیک سکتے ہے اب یہ نہیں کر روہا ہے اب یہ نکارا ہم نہیں دالوں",
+    "segment_span": [
+      79,
+      90
+    ]
+  }
+]

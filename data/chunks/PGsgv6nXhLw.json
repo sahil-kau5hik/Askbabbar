@@ -1,0 +1,128 @@
+[
+  {
+    "chunk_id": "PGsgv6nXhLw_000002_000063",
+    "video_id": "PGsgv6nXhLw",
+    "video_title": "Lecture 102: Introduction to Dynamic Programming | Memoization | Tabulation | Space Optimisation",
+    "lecture_number": 102,
+    "playlist_index": 111,
+    "video_url": "https://www.youtube.com/watch?v=PGsgv6nXhLw",
+    "start_time": 2.83,
+    "end_time": 63.73,
+    "start_timestamp_str": "00:02",
+    "end_timestamp_str": "01:03",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=PGsgv6nXhLw&t=2s",
+    "text": "Hello, How are you? Welcome to this channel. We have completed 5th lecture number 102 on Century. ھاہ بھلکھا کہ ہم ایس دیپیسید میں جتنے میلیکٹر بنا ہیں وہ اس پر کر ہو کہ سامنے والے وقتی کو دیபی پر کمانٹ بنجا ہوں کہ وہ کل کو گگل کے انٹرவی میں بیٹھت ہے اور وہاں پر اسے دیP سے لیڈٹ کوئی بھی کوشن پوچھا جاتا ہے تو وہ اسے بہتی عرام سے سال کر پائے اسے پہلیں بہاں تھی ایمپاٹٹٹ اور دفیقل کنسپ دیلوہ کر چکے ہیں اسے دیپی سے لیڈی کوئی بھی کشن پوچھا جاتا ہے تو وہ اسے بہت ہرامسے سالو کر پائیں اسے پیلم بہاں تی ایمپوتٹٹٹڑیفیگل کنسپ دیلوکار چکے ہیں جیسے کی پانٹرز اسے ایپ پانژرز بہاد لوگ کنفیوز ہوتے پانطرز کے اندر فاہا پیکے چھوڑ دیتے کہ مصے کوڑیں نہیں ہوگی ہم نے وہ قور گیا چیک کر لے نا",
+    "segment_span": [
+      0,
+      15
+    ]
+  },
+  {
+    "chunk_id": "PGsgv6nXhLw_000063_000128",
+    "video_id": "PGsgv6nXhLw",
+    "video_title": "Lecture 102: Introduction to Dynamic Programming | Memoization | Tabulation | Space Optimisation",
+    "lecture_number": 102,
+    "playlist_index": 111,
+    "video_url": "https://www.youtube.com/watch?v=PGsgv6nXhLw",
+    "start_time": 63.83,
+    "end_time": 128.23,
+    "start_timestamp_str": "01:03",
+    "end_timestamp_str": "02:08",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=PGsgv6nXhLw&t=63s",
+    "text": "لوگ بتا دیں گے 1DRAP, DPP on Greats and DPP of Subsequences",
+    "segment_span": [
+      16,
+      17
+    ]
+  },
+  {
+    "chunk_id": "PGsgv6nXhLw_000129_000247",
+    "video_id": "PGsgv6nXhLw",
+    "video_title": "Lecture 102: Introduction to Dynamic Programming | Memoization | Tabulation | Space Optimisation",
+    "lecture_number": 102,
+    "playlist_index": 111,
+    "video_url": "https://www.youtube.com/watch?v=PGsgv6nXhLw",
+    "start_time": 129.23,
+    "end_time": 247.06,
+    "start_timestamp_str": "02:09",
+    "end_timestamp_str": "04:07",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=PGsgv6nXhLw&t=129s",
+    "text": "And lots more things I will solve a pattern here I am going to show you the fun Remember this time it is complete After completing this episode Let's start What does dp do? Let us understand There are many codes When we write these code ھاکہ میں آپ فلسٹیکٹ لپنڈ یا بیکن لپoonڈ سیکھنے والے ہیں",
+    "segment_span": [
+      18,
+      28
+    ]
+  },
+  {
+    "chunk_id": "PGsgv6nXhLw_000247_000702",
+    "video_id": "PGsgv6nXhLw",
+    "video_title": "Lecture 102: Introduction to Dynamic Programming | Memoization | Tabulation | Space Optimisation",
+    "lecture_number": 102,
+    "playlist_index": 111,
+    "video_url": "https://www.youtube.com/watch?v=PGsgv6nXhLw",
+    "start_time": 247.16,
+    "end_time": 702.08,
+    "start_timestamp_str": "04:07",
+    "end_timestamp_str": "11:42",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=PGsgv6nXhLw&t=247s",
+    "text": "but by building industry level projects in a real development environment at the end of their programs all your project will be made and you'll get more effective and strong GitHub profile in your full set, what to do with this back-end tech use them as well so that everyone can visit here and also meet personalized for access because it's your dream job double surety What is there to do? I'm going to attach a link in description 5-7%-7%, 7%-8%-9% 6%-6%-4%, 8%-5% overlapping subproblems",
+    "segment_span": [
+      29,
+      44
+    ]
+  },
+  {
+    "chunk_id": "PGsgv6nXhLw_001067_001703",
+    "video_id": "PGsgv6nXhLw",
+    "video_title": "Lecture 102: Introduction to Dynamic Programming | Memoization | Tabulation | Space Optimisation",
+    "lecture_number": 102,
+    "playlist_index": 111,
+    "video_url": "https://www.youtube.com/watch?v=PGsgv6nXhLw",
+    "start_time": 1067.36,
+    "end_time": 1703.84,
+    "start_timestamp_str": "17:47",
+    "end_timestamp_str": "28:23",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=PGsgv6nXhLw&t=1067s",
+    "text": "FF3 1 plus 1 2 F4 F2 F2 F1 F4 F4 F5 F3 1,2 ,3 ,4 ,5 ,6",
+    "segment_span": [
+      45,
+      56
+    ]
+  },
+  {
+    "chunk_id": "PGsgv6nXhLw_001704_001858",
+    "video_id": "PGsgv6nXhLw",
+    "video_title": "Lecture 102: Introduction to Dynamic Programming | Memoization | Tabulation | Space Optimisation",
+    "lecture_number": 102,
+    "playlist_index": 111,
+    "video_url": "https://www.youtube.com/watch?v=PGsgv6nXhLw",
+    "start_time": 1704.84,
+    "end_time": 1858.79,
+    "start_timestamp_str": "28:24",
+    "end_timestamp_str": "30:58",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=PGsgv6nXhLw&t=1704s",
+    "text": "2,0 ,1 ,2 ,4 4 0 1 1 2 1 2 2 3 1.0",
+    "segment_span": [
+      57,
+      67
+    ]
+  },
+  {
+    "chunk_id": "PGsgv6nXhLw_001859_002239",
+    "video_id": "PGsgv6nXhLw",
+    "video_title": "Lecture 102: Introduction to Dynamic Programming | Memoization | Tabulation | Space Optimisation",
+    "lecture_number": 102,
+    "playlist_index": 111,
+    "video_url": "https://www.youtube.com/watch?v=PGsgv6nXhLw",
+    "start_time": 1859.79,
+    "end_time": 2239.71,
+    "start_timestamp_str": "30:59",
+    "end_timestamp_str": "37:19",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=PGsgv6nXhLw&t=1859s",
+    "text": "2.0 2 2.1 2.2 2.3 2.4 3.2 4.5 4.6 5.9 6.9 7.8 9.9 dp اوشہ انت ہے ہماری ویڈیوز کے بھی تو شو میٹنائیں ملتنائم اوسی نکشل میں تو اپتاک لی",
+    "segment_span": [
+      68,
+      83
+    ]
+  }
+]

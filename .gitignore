@@ -1,0 +1,40 @@
+# Python virtual environment
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Environment secrets
+.env
+.env.local
+
+# Data storage (keep manifests and sample data, ignore heavy audio/embeddings)
+data/audio/*
+!data/audio/.gitkeep
+data/qdrant_db/
+*.mp3
+*.wav
+*.m4a
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Test & coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Scratch & Temporary
+scratch/
+

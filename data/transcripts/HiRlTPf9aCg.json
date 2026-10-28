@@ -1,0 +1,518 @@
+{
+  "video_id": "HiRlTPf9aCg",
+  "lecture_number": 51,
+  "video_title": "Lecture 51: Add 2 Numbers represented by Linked Lists || C++ Placement Course",
+  "total_duration": 1583.43,
+  "segments": [
+    {
+      "id": 0,
+      "start": 3.25,
+      "end": 26.93,
+      "text": "Bapar C++ Placement DSA Course. Topics, Linear Search, Linears Search, Recursion, Time Complexity O"
+    },
+    {
+      "id": 1,
+      "start": 157.09,
+      "end": 160.09,
+      "text": "T-level is conducting test in 9 category,"
+    },
+    {
+      "id": 2,
+      "start": 160.11,
+      "end": 161.11,
+      "text": "which you will be able to sell."
+    },
+    {
+      "id": 3,
+      "start": 161.13,
+      "end": 164.11,
+      "text": "There are also categories like operation associated tests"
+    },
+    {
+      "id": 4,
+      "start": 164.13,
+      "end": 165.13,
+      "text": "H-A-G Generalist Test"
+    },
+    {
+      "id": 5,
+      "start": 165.15,
+      "end": 167.15,
+      "text": "Associate Product Management Test"
+    },
+    {
+      "id": 6,
+      "start": 167.17,
+      "end": 169.17,
+      "text": "Which provide salaries around 25 Lp"
+    },
+    {
+      "id": 7,
+      "start": 169.19,
+      "end": 171.19,
+      "text": "jobs and from 200 plus big companies"
+    },
+    {
+      "id": 8,
+      "start": 171.21,
+      "end": 173.21,
+      "text": "Like PATM Razer Pay Credit etc"
+    },
+    {
+      "id": 9,
+      "start": 173.23,
+      "end": 174.21,
+      "text": "Right?"
+    },
+    {
+      "id": 10,
+      "start": 174.23,
+      "end": 175.21,
+      "text": "If available on the site"
+    },
+    {
+      "id": 11,
+      "start": 175.23,
+      "end": 177.23,
+      "text": "What do we have here"
+    },
+    {
+      "id": 12,
+      "start": 177.25,
+      "end": 178.25,
+      "text": "What can we do"
+    },
+    {
+      "id": 13,
+      "start": 178.27,
+      "end": 180.25,
+      "text": "You'll go there for mock test section"
+    },
+    {
+      "id": 14,
+      "start": 180.27,
+      "end": 181.27,
+      "text": "You might give samples"
+    },
+    {
+      "id": 15,
+      "start": 181.29,
+      "end": 182.27,
+      "text": "You may write your ID"
+    },
+    {
+      "id": 16,
+      "start": 182.29,
+      "end": 183.29,
+      "text": "Which part of this company asks you"
+    },
+    {
+      "id": 17,
+      "start": 183.31,
+      "end": 185.31,
+      "text": "The level has 10 crore plus what jobs"
+    },
+    {
+      "id": 18,
+      "start": 185.31,
+      "end": 188.31,
+      "text": "ڈڈ ڑڈ ٹڑ ٦ ٧ ٣ ١ ٧ ژ ٣ ڭ ٣"
+    },
+    {
+      "id": 19,
+      "start": 189.31,
+      "end": 190.31,
+      "text": "ډڈ く ٣"
+    },
+    {
+      "id": 20,
+      "start": 191.31,
+      "end": 192.31,
+      "text": "ڝ ٣"
+    },
+    {
+      "id": 21,
+      "start": 194.31,
+      "end": 195.31,
+      "text": "ڀ ٣"
+    },
+    {
+      "id": 22,
+      "start": 196.31,
+      "end": 197.31,
+      "text": "ڃڈ"
+    },
+    {
+      "id": 23,
+      "start": 198.31,
+      "end": 199.31,
+      "text": "ڒ ٣"
+    },
+    {
+      "id": 24,
+      "start": 200.31,
+      "end": 201.31,
+      "text": "ڊ ٣"
+    },
+    {
+      "id": 25,
+      "start": 202.31,
+      "end": 203.31,
+      "text": "ڋ ٣"
+    },
+    {
+      "id": 26,
+      "start": 204.31,
+      "end": 205.31,
+      "text": "ڇ ٣"
+    },
+    {
+      "id": 27,
+      "start": 206.31,
+      "end": 207.31,
+      "text": "ڂ ٣"
+    },
+    {
+      "id": 28,
+      "start": 208.31,
+      "end": 209.31,
+      "text": "چ ٣"
+    },
+    {
+      "id": 29,
+      "start": 210.31,
+      "end": 211.31,
+      "text": "ڍ ٣"
+    },
+    {
+      "id": 30,
+      "start": 212.31,
+      "end": 213.31,
+      "text": "ڎ ٣"
+    },
+    {
+      "id": 31,
+      "start": 368.52,
+      "end": 372.52,
+      "text": "1st step , i reverse the word"
+    },
+    {
+      "id": 32,
+      "start": 375.16,
+      "end": 378.16,
+      "text": "2nd step , add"
+    },
+    {
+      "id": 33,
+      "start": 379.16,
+      "end": 382.64,
+      "text": "and then start from left"
+    },
+    {
+      "id": 34,
+      "start": 383.64,
+      "end": 387.64,
+      "text": "If you see it, I will revert to answer"
+    },
+    {
+      "id": 35,
+      "start": 388.64,
+      "end": 389.64,
+      "text": "3"
+    },
+    {
+      "id": 36,
+      "start": 390.64,
+      "end": 391.64,
+      "text": "9"
+    },
+    {
+      "id": 37,
+      "start": 392.64,
+      "end": 394.64,
+      "text": "0"
+    },
+    {
+      "id": 38,
+      "start": 395.64,
+      "end": 397.64,
+      "text": "3"
+    },
+    {
+      "id": 39,
+      "start": 594.6,
+      "end": 596.6,
+      "text": "ہم نے کہاں او لستانتگ میں 1KRIs 0"
+    },
+    {
+      "id": 40,
+      "start": 596.7,
+      "end": 598.7,
+      "text": "ہم نئے او اللہ استانتک میں 1kRIs0"
+    },
+    {
+      "id": 41,
+      "start": 598.8,
+      "end": 601.8,
+      "text": "و ہم یہاں بہتنا انسرول لندگلز بانے بات ہے"
+    },
+    {
+      "id": 42,
+      "start": 601.9,
+      "end": 605.2,
+      "text": "ہمیں کہاہ او لو ایک ایس 0KR is 0"
+    },
+    {
+      "id": 43,
+      "start": 605.3,
+      "end": 607.2,
+      "text": "ہم ایک جو ایک بہا جو 3 جو جو"
+    },
+    {
+      "id": 44,
+      "start": 607.3,
+      "end": 608.3,
+      "text": "0"
+    },
+    {
+      "id": 45,
+      "start": 608.4,
+      "end": 609.3,
+      "text": "فریعا لڑیٹا"
+    },
+    {
+      "id": 46,
+      "start": 609.4,
+      "end": 610.3,
+      "text": "اور یہ لڈیٹة"
+    },
+    {
+      "id": 47,
+      "start": 610.4,
+      "end": 613.5,
+      "text": "این 3 کو پلس کر کے اپنے قانی کا لیکс سمنگا لہ"
+    },
+    {
+      "id": 48,
+      "start": 613.6,
+      "end": 614.9,
+      "text": "سمجھا گیا"
+    },
+    {
+      "id": 49,
+      "start": 615.0,
+      "end": 616.6,
+      "text": "سماجھا جی 10"
+    },
+    {
+      "id": 50,
+      "start": 616.7,
+      "end": 619.16,
+      "text": "سمانھاگی 10"
+    },
+    {
+      "id": 51,
+      "start": 619.26,
+      "end": 620.36,
+      "text": "آپ کیا کرتے ہو"
+    },
+    {
+      "id": 52,
+      "start": 620.46,
+      "end": 621.66,
+      "text": "آپ ہمے شا"
+    },
+    {
+      "id": 53,
+      "start": 621.76,
+      "end": 622.66,
+      "text": "جو بھی آپ کا سماتھا"
+    },
+    {
+      "id": 54,
+      "start": 683.01,
+      "end": 685.01,
+      "text": "10"
+    },
+    {
+      "id": 55,
+      "start": 1089.95,
+      "end": 1090.95,
+      "text": "। ू।"
+    },
+    {
+      "id": 56,
+      "start": 1090.95,
+      "end": 1091.95,
+      "text": "॥ ॉ।"
+    },
+    {
+      "id": 57,
+      "start": 1091.95,
+      "end": 1092.95,
+      "text": "ृ।"
+    },
+    {
+      "id": 58,
+      "start": 1093.95,
+      "end": 1094.95,
+      "text": "॒"
+    },
+    {
+      "id": 59,
+      "start": 1098.95,
+      "end": 1101.71,
+      "text": "ॊ।"
+    },
+    {
+      "id": 60,
+      "start": 1102.71,
+      "end": 1103.71,
+      "text": "ो"
+    },
+    {
+      "id": 61,
+      "start": 1104.71,
+      "end": 1105.9,
+      "text": "ॆ"
+    },
+    {
+      "id": 62,
+      "start": 1106.9,
+      "end": 1107.9,
+      "text": "॓"
+    },
+    {
+      "id": 63,
+      "start": 1108.9,
+      "end": 1110.8,
+      "text": "ॅ"
+    },
+    {
+      "id": 64,
+      "start": 1111.8,
+      "end": 1112.8,
+      "text": "॔"
+    },
+    {
+      "id": 65,
+      "start": 1113.8,
+      "end": 1114.8,
+      "text": "ख़"
+    },
+    {
+      "id": 66,
+      "start": 1115.8,
+      "end": 1116.8,
+      "text": "क़"
+    },
+    {
+      "id": 67,
+      "start": 1117.8,
+      "end": 1118.8,
+      "text": "ु"
+    },
+    {
+      "id": 68,
+      "start": 1119.8,
+      "end": 1120.8,
+      "text": "ॐ"
+    },
+    {
+      "id": 69,
+      "start": 1320.54,
+      "end": 1322.54,
+      "text": "1st data"
+    },
+    {
+      "id": 70,
+      "start": 1350.9,
+      "end": 1351.9,
+      "text": "1.0"
+    },
+    {
+      "id": 71,
+      "start": 1352.9,
+      "end": 1353.9,
+      "text": "2.0"
+    },
+    {
+      "id": 72,
+      "start": 1354.9,
+      "end": 1356.44,
+      "text": "2.1"
+    },
+    {
+      "id": 73,
+      "start": 1357.44,
+      "end": 1358.44,
+      "text": "2.2"
+    },
+    {
+      "id": 74,
+      "start": 1359.44,
+      "end": 1360.44,
+      "text": "2.3"
+    },
+    {
+      "id": 75,
+      "start": 1361.44,
+      "end": 1362.44,
+      "text": "2.4"
+    },
+    {
+      "id": 76,
+      "start": 1363.44,
+      "end": 1364.44,
+      "text": "3.9"
+    },
+    {
+      "id": 77,
+      "start": 1365.44,
+      "end": 1366.44,
+      "text": "4.9"
+    },
+    {
+      "id": 78,
+      "start": 1367.44,
+      "end": 1368.44,
+      "text": "5.6"
+    },
+    {
+      "id": 79,
+      "start": 1369.44,
+      "end": 1370.44,
+      "text": "6.8"
+    },
+    {
+      "id": 80,
+      "start": 1371.44,
+      "end": 1372.44,
+      "text": "7.5"
+    },
+    {
+      "id": 81,
+      "start": 1373.44,
+      "end": 1374.44,
+      "text": "8.7"
+    },
+    {
+      "id": 82,
+      "start": 1375.44,
+      "end": 1376.44,
+      "text": "9.9"
+    },
+    {
+      "id": 83,
+      "start": 1377.44,
+      "end": 1378.44,
+      "text": "10.5"
+    },
+    {
+      "id": 84,
+      "start": 1568.23,
+      "end": 1573.52,
+      "text": "1st take , 3rd take , 4th take"
+    }
+  ]
+}

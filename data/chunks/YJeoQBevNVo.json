@@ -1,0 +1,308 @@
+[
+  {
+    "chunk_id": "YJeoQBevNVo_000003_000125",
+    "video_id": "YJeoQBevNVo",
+    "video_title": "Lecture 12: Binary Search Explained in 1 Video [Theory + Code]",
+    "lecture_number": 12,
+    "playlist_index": 12,
+    "video_url": "https://www.youtube.com/watch?v=YJeoQBevNVo",
+    "start_time": 3.22,
+    "end_time": 125.66,
+    "start_timestamp_str": "00:03",
+    "end_timestamp_str": "02:05",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=YJeoQBevNVo&t=3s",
+    "text": "Hello ji, how are you? This is Love Babbar and welcome to the channel Code Help. Today we will talk about a very important topic in this video . Your online tests can be found on any of your questions or other topics related with us at www.interviewmikotions.com ایک چیز ہم اولیدی پڑا چکے ہیں وہ چیس کیا تھی وہتی لینیر سرس رہیٹ ہم نے سیکن last lecture میں ابھی پڈاؤ تھا کہ لینریر سٹھ کے بارے میں جب نے آئیس کا انتڈکشنوالی بیٹھو دیکھیں تو ابتاکہ لینر سریس نہ گئی چیاز ہوتی ہے کیا ہوتا ہے ایک بریوائی صرف آئے تھے آپ کو اگر ہے تو بھی او اس کنڈیکس ریٹان کر دو اگری نہیں ہے تو",
+    "segment_span": [
+      0,
+      7
+    ]
+  },
+  {
+    "chunk_id": "YJeoQBevNVo_000125_000186",
+    "video_id": "YJeoQBevNVo",
+    "video_title": "Lecture 12: Binary Search Explained in 1 Video [Theory + Code]",
+    "lecture_number": 12,
+    "playlist_index": 12,
+    "video_url": "https://www.youtube.com/watch?v=YJeoQBevNVo",
+    "start_time": 125.68,
+    "end_time": 186.14,
+    "start_timestamp_str": "02:05",
+    "end_timestamp_str": "03:06",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=YJeoQBevNVo&t=125s",
+    "text": "بھائی آگری بلو دیکھ لو اس پکار ملینی او سلس کی اندر کرتا تھا تلینے سلست کندر میں کم بیٹھٹے کر بات کروں کیا کرتے تھا ہم ایک فولوک چاہ دیں نا 0 سلے کی انتر اب ہم چیک کرتی دے کہ یار ایف ایار آ رب آئی ایس اکل ٹو کی اگار ایک لے بھئی سمپل جبات اریٹرن کر دیں دیکس جو گینڈک آپ لے اگھر نہیں ہے تاپنے فنگشن کے نمیمانے سونٹن کیوں تا تھا تیار مجھے ویڈلینی مڑے اس پہ کر آپ نے کچھ کچھی کوڑ لکھا ہوتا دا لینیر شرس کے گئیس میں last video my complexity کے او پڑتی تو آپ کو یہ پورا کا پورa قورت دیکھ کے اندادہ لگے گئے یہ تو simpel ہے اس کی ٹائم کمپلکشٹی or of n or big over and طابق کیا پتا لگا here linear search ke case میں N size ke array ke liye worst case میں میں N comparison کرتا ہوں اگر آپ کو بھولوں کے آپ کو ایک آرے ہے, جس کی لنٹھ جو ہے وہاں عزار. مدہ اس میں ٹوٹل ہزار value's پڑی ہوئی ہے اور میں اس میں لینیر سر try کر رہوں.",
+    "segment_span": [
+      8,
+      30
+    ]
+  },
+  {
+    "chunk_id": "YJeoQBevNVo_000187_000249",
+    "video_id": "YJeoQBevNVo",
+    "video_title": "Lecture 12: Binary Search Explained in 1 Video [Theory + Code]",
+    "lecture_number": 12,
+    "playlist_index": 12,
+    "video_url": "https://www.youtube.com/watch?v=YJeoQBevNVo",
+    "start_time": 187.14,
+    "end_time": 249.72,
+    "start_timestamp_str": "03:07",
+    "end_timestamp_str": "04:09",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=YJeoQBevNVo&t=187s",
+    "text": "تو میں worst case میں کیا کر ہوگا حزار comparison کر ریا ہوں گa اگری آپ کو یہ پوری گا تھا سمجھ میں آگی ہے تو آپ کو لینے سٹھ سے مداز چکی ہے worst cases and if you don't present your element then i compare it with a total of 1000 comparisons 1. 2. 4. 5. 6. 7. 8. 9. 9. 9. 9. 9. 9. 10. جیسے گرم بات کن تو کرڈ one mg me show urban company upgrad پوہد اچھے لوگی کمپنیز جاں پر آپ develop a job لے سکتے ہیں اگر میں بات کروں لیٹر بوڑ کی تو کچھ ایک زمپلس ہیں جسے Herman Preet Singh and Besu Jit Patra جانون ریسینٹلی ہائپٹوں میں Back and Generic Profile کو crack کیا جس کا ctc 28.5 lakh per annum ہے",
+    "segment_span": [
+      31,
+      62
+    ]
+  },
+  {
+    "chunk_id": "YJeoQBevNVo_000249_000313",
+    "video_id": "YJeoQBevNVo",
+    "video_title": "Lecture 12: Binary Search Explained in 1 Video [Theory + Code]",
+    "lecture_number": 12,
+    "playlist_index": 12,
+    "video_url": "https://www.youtube.com/watch?v=YJeoQBevNVo",
+    "start_time": 249.74,
+    "end_time": 313.8,
+    "start_timestamp_str": "04:09",
+    "end_timestamp_str": "05:13",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=YJeoQBevNVo&t=249s",
+    "text": "اگی لیڑر بوت پہ بنیا تھا آپ کو بہت سرپائزی ملنے والے ہیں بات کہیں کہ آچھا بھیئے کیا کیا کرنا ہے سپس پڑھا کو 테스트 کرنا ہوتا ریشٹر کروں آپ کی backend profiler sq.a frenter proiler sq., analytics profile sqp bism development Profile sqpe بہت سائے профiles یہاں پر ہے کچھ بھیاں try کر سکتے ہیں test دینہ ہیں interviews hongage interview crack کرنے اور آگے بہا آپ کا offer ہو گا یہ سارا کا سارа προحص آپ اپنی پہلی جو بھی ہوا 15 دین میں لے سکیں ہیں get hired keg a jaa lots of tested up na free slot bookar na eapne hisav se tess deen hai crack karnna intro dhe ki wilkul hero one اپنے میں محسکر نہ بھیا جواب لگی مجھا آگیا یہاں پر آپ کو میں دکوپن کٹھ دیکھ رہا ہے یا فرلین کا پڑیسکشن میں مل جاگ اس کا پیوز کر سکتے ہیں اور پھر جیتنی وڈی جوابلیلوں ذنیوات ابائیں گا مضا تو جہاں آپ کی بات ہوتی ہے بنری سرچ کی اپنا نے بولا کہ بنری سرч تو بہتی پیارہ طوپی گئے تیکہ ایک زمپلے تھے بہلے",
+    "segment_span": [
+      63,
+      92
+    ]
+  },
+  {
+    "chunk_id": "YJeoQBevNVo_000313_000377",
+    "video_id": "YJeoQBevNVo",
+    "video_title": "Lecture 12: Binary Search Explained in 1 Video [Theory + Code]",
+    "lecture_number": 12,
+    "playlist_index": 12,
+    "video_url": "https://www.youtube.com/watch?v=YJeoQBevNVo",
+    "start_time": 313.82,
+    "end_time": 377.06,
+    "start_timestamp_str": "05:13",
+    "end_timestamp_str": "06:17",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=YJeoQBevNVo&t=313s",
+    "text": "تیگہ Monotonic Element should be in monotonic functions I will show you an example of the increasing order So i have shown This is my final search",
+    "segment_span": [
+      93,
+      98
+    ]
+  },
+  {
+    "chunk_id": "YJeoQBevNVo_000473_000637",
+    "video_id": "YJeoQBevNVo",
+    "video_title": "Lecture 12: Binary Search Explained in 1 Video [Theory + Code]",
+    "lecture_number": 12,
+    "playlist_index": 12,
+    "video_url": "https://www.youtube.com/watch?v=YJeoQBevNVo",
+    "start_time": 473.3,
+    "end_time": 637.44,
+    "start_timestamp_str": "07:53",
+    "end_timestamp_str": "10:37",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=YJeoQBevNVo&t=473s",
+    "text": "13th is 9. 13rd is 9 19th in the right side This means I don't need to search for this part So what we did? We found out that we have searched it so, 13-27 This index 3 1% 4% 1% 1%, 1%, 2%. 1%, 3%, 2%, 2%, 2%, 2%, 2%, 2%, 1 2 3 4 5",
+    "segment_span": [
+      99,
+      124
+    ]
+  },
+  {
+    "chunk_id": "YJeoQBevNVo_000668_000829",
+    "video_id": "YJeoQBevNVo",
+    "video_title": "Lecture 12: Binary Search Explained in 1 Video [Theory + Code]",
+    "lecture_number": 12,
+    "playlist_index": 12,
+    "video_url": "https://www.youtube.com/watch?v=YJeoQBevNVo",
+    "start_time": 668.31,
+    "end_time": 829.17,
+    "start_timestamp_str": "11:08",
+    "end_timestamp_str": "13:49",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=YJeoQBevNVo&t=668s",
+    "text": "11 0 equal to 27 2 part 1st part 27 is a big level it means you have got the right one I wrote this part down 13 19 27 index 3 4 5 1 , 2 , 3 , 4 , 8 , 16 , 22 , 34",
+    "segment_span": [
+      125,
+      134
+    ]
+  },
+  {
+    "chunk_id": "YJeoQBevNVo_000880_001041",
+    "video_id": "YJeoQBevNVo",
+    "video_title": "Lecture 12: Binary Search Explained in 1 Video [Theory + Code]",
+    "lecture_number": 12,
+    "playlist_index": 12,
+    "video_url": "https://www.youtube.com/watch?v=YJeoQBevNVo",
+    "start_time": 880.58,
+    "end_time": 1041.73,
+    "start_timestamp_str": "14:40",
+    "end_timestamp_str": "17:21",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=YJeoQBevNVo&t=880s",
+    "text": "1,2,0 1.20 0 0 4 4 4 4 2 3 2 0 0 اگر مان لے دیکھیں کہ ہمیں رکیز اٹھ ہوتی, ایٹھ حوتی و میں اس کے سنا بھی پہنچا پڑھا تو ما کیا کرتا؟ 4 is not equal to 8 8 رہا وہ 4 سے بڑا ہے اس کا مطلب ایک سوال اپات پہ آ گئے ایک اپنی چوتا رہی اس کو یہ اٹ ہے 17 19 or 27 index is",
+    "segment_span": [
+      135,
+      156
+    ]
+  },
+  {
+    "chunk_id": "YJeoQBevNVo_001042_001126",
+    "video_id": "YJeoQBevNVo",
+    "video_title": "Lecture 12: Binary Search Explained in 1 Video [Theory + Code]",
+    "lecture_number": 12,
+    "playlist_index": 12,
+    "video_url": "https://www.youtube.com/watch?v=YJeoQBevNVo",
+    "start_time": 1042.73,
+    "end_time": 1126.43,
+    "start_timestamp_str": "17:22",
+    "end_timestamp_str": "18:46",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=YJeoQBevNVo&t=1042s",
+    "text": "345 start plus end up on 2 3 and 5 8 upon 4 ایک ایک خمضا بلائلیمات اگرسٹن کرتے ہیں",
+    "segment_span": [
+      157,
+      161
+    ]
+  },
+  {
+    "chunk_id": "YJeoQBevNVo_001127_001290",
+    "video_id": "YJeoQBevNVo",
+    "video_title": "Lecture 12: Binary Search Explained in 1 Video [Theory + Code]",
+    "lecture_number": 12,
+    "playlist_index": 12,
+    "video_url": "https://www.youtube.com/watch?v=YJeoQBevNVo",
+    "start_time": 1127.43,
+    "end_time": 1290.2,
+    "start_timestamp_str": "18:47",
+    "end_timestamp_str": "21:30",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=YJeoQBevNVo&t=1127s",
+    "text": "not found اس پر کاری تھی اپنی بائنیری سچگی کیا میں اس کو קورد کر سکتا ہوں آپ کو کر دیگاتیں ایک زمپل کے ساتھ ایو ان ایرے گوڑ رہے دونوں ٹیپ کر لیں گے ایک چیز امجھ دان ٹھنا ایک دیکریزیں ایک بنایا 12 md++1",
+    "segment_span": [
+      162,
+      173
+    ]
+  },
+  {
+    "chunk_id": "YJeoQBevNVo_001291_001627",
+    "video_id": "YJeoQBevNVo",
+    "video_title": "Lecture 12: Binary Search Explained in 1 Video [Theory + Code]",
+    "lecture_number": 12,
+    "playlist_index": 12,
+    "video_url": "https://www.youtube.com/watch?v=YJeoQBevNVo",
+    "start_time": 1291.2,
+    "end_time": 1627.32,
+    "start_timestamp_str": "21:31",
+    "end_timestamp_str": "27:07",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=YJeoQBevNVo&t=1291s",
+    "text": "if you want to go in left part then start and end here how it will come from mid-minus 1 this means when we have to enter the left parts then add ndg++2 then add 2md++ if your key is big let me click 0-0-1-2-3-4-5-6",
+    "segment_span": [
+      174,
+      183
+    ]
+  },
+  {
+    "chunk_id": "YJeoQBevNVo_001779_001878",
+    "video_id": "YJeoQBevNVo",
+    "video_title": "Lecture 12: Binary Search Explained in 1 Video [Theory + Code]",
+    "lecture_number": 12,
+    "playlist_index": 12,
+    "video_url": "https://www.youtube.com/watch?v=YJeoQBevNVo",
+    "start_time": 1779.64,
+    "end_time": 1878.3,
+    "start_timestamp_str": "29:39",
+    "end_timestamp_str": "31:18",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=YJeoQBevNVo&t=1779s",
+    "text": "s n plus and minus S upon 2 m x 3 4 5 6 7 8 9 6KLmrAnsRansRansH2",
+    "segment_span": [
+      184,
+      201
+    ]
+  },
+  {
+    "chunk_id": "YJeoQBevNVo_001880_001970",
+    "video_id": "YJeoQBevNVo",
+    "video_title": "Lecture 12: Binary Search Explained in 1 Video [Theory + Code]",
+    "lecture_number": 12,
+    "playlist_index": 12,
+    "video_url": "https://www.youtube.com/watch?v=YJeoQBevNVo",
+    "start_time": 1880.3,
+    "end_time": 1970.05,
+    "start_timestamp_str": "31:20",
+    "end_timestamp_str": "32:50",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=YJeoQBevNVo&t=1880s",
+    "text": "14kLmRansSRansh3 16kLmsR2 13kLMSR3 nautfount.",
+    "segment_span": [
+      202,
+      205
+    ]
+  },
+  {
+    "chunk_id": "YJeoQBevNVo_001970_002043",
+    "video_id": "YJeoQBevNVo",
+    "video_title": "Lecture 12: Binary Search Explained in 1 Video [Theory + Code]",
+    "lecture_number": 12,
+    "playlist_index": 12,
+    "video_url": "https://www.youtube.com/watch?v=YJeoQBevNVo",
+    "start_time": 1970.05,
+    "end_time": 2043.65,
+    "start_timestamp_str": "32:50",
+    "end_timestamp_str": "34:03",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=YJeoQBevNVo&t=1970s",
+    "text": "dhan. ۔ ۔ ۔ ۔ ۔ ۔ ۔ ۔ ۔ ۔ ۔ 0,15,7,3",
+    "segment_span": [
+      206,
+      218
+    ]
+  },
+  {
+    "chunk_id": "YJeoQBevNVo_002044_002196",
+    "video_id": "YJeoQBevNVo",
+    "video_title": "Lecture 12: Binary Search Explained in 1 Video [Theory + Code]",
+    "lecture_number": 12,
+    "playlist_index": 12,
+    "video_url": "https://www.youtube.com/watch?v=YJeoQBevNVo",
+    "start_time": 2044.84,
+    "end_time": 2196.26,
+    "start_timestamp_str": "34:04",
+    "end_timestamp_str": "36:36",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=YJeoQBevNVo&t=2044s",
+    "text": "1 0 1 2 3 4 5 6 7 8 9 10 1 value 10 10 Log of Anathia",
+    "segment_span": [
+      219,
+      225
+    ]
+  },
+  {
+    "chunk_id": "YJeoQBevNVo_002196_002260",
+    "video_id": "YJeoQBevNVo",
+    "video_title": "Lecture 12: Binary Search Explained in 1 Video [Theory + Code]",
+    "lecture_number": 12,
+    "playlist_index": 12,
+    "video_url": "https://www.youtube.com/watch?v=YJeoQBevNVo",
+    "start_time": 2196.26,
+    "end_time": 2260.22,
+    "start_timestamp_str": "36:36",
+    "end_timestamp_str": "37:40",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=YJeoQBevNVo&t=2196s",
+    "text": "The Off-Log N or the first case Very good You can learn this in a condition Try to code Try to run after coding Try to get rid How is it going? How was the complexion پر آٹھے والے کوشنے کرتے ہو یا فیر آپ وہکہ لوگ ایشن پروپنا موتیشہ دے اس میں کرتیں",
+    "segment_span": [
+      226,
+      236
+    ]
+  },
+  {
+    "chunk_id": "YJeoQBevNVo_002261_002279",
+    "video_id": "YJeoQBevNVo",
+    "video_title": "Lecture 12: Binary Search Explained in 1 Video [Theory + Code]",
+    "lecture_number": 12,
+    "playlist_index": 12,
+    "video_url": "https://www.youtube.com/watch?v=YJeoQBevNVo",
+    "start_time": 2261.22,
+    "end_time": 2279.38,
+    "start_timestamp_str": "37:41",
+    "end_timestamp_str": "37:59",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=YJeoQBevNVo&t=2261s",
+    "text": "تو بہت پیارے پیری کچھیں اس میں پچھے ہوں اب ہم نے کیا سی کہا بانی ریسٹ سے کام سب سمجھ لے پلکھڑ دن سے آگے کیا کرنے والیں بہاہت سائے کو شنس کرنیا والے بانین ریزٹ کیوں پر بہہت مدانے والا ہے آگی والے لیکچر میں باک کیا جانا چھوپ چا پکچھوں کو بتانا ہے",
+    "segment_span": [
+      237,
+      245
+    ]
+  }
+]

@@ -1,0 +1,302 @@
+{
+  "video_id": "fqkqx6OBRDE",
+  "lecture_number": 99,
+  "video_title": "Lecture 99: Articulation Points in Graphs || C++ Placement Series",
+  "total_duration": 1791.55,
+  "segments": [
+    {
+      "id": 0,
+      "start": 3.44,
+      "end": 12.18,
+      "text": "Hello Ji, How are you? This is Love Babbar & welcome to the channel. We will be on Parchment Election No. 99 and here we have another very important concept using Georgians algorithm"
+    },
+    {
+      "id": 1,
+      "start": 133.72,
+      "end": 135.72,
+      "text": "ایک کامل کیا آپ کے سامل در شاریام,"
+    },
+    {
+      "id": 2,
+      "start": 137.08,
+      "end": 139.88,
+      "text": "انہوں نے بولا ہے کہ یار اگر یہ والا گرف ہوتا"
+    },
+    {
+      "id": 3,
+      "start": 140.08,
+      "end": 142.38,
+      "text": "تو اس گرف کے اندر F1 ایک اٹیولیشن پونٹے"
+    },
+    {
+      "id": 4,
+      "start": 142.48,
+      "end": 145.18,
+      "text": "کی ایک کو ریمو کرنے کے بعد ایکкомپٹ ایبی والا بچ جائے گا"
+    },
+    {
+      "id": 5,
+      "start": 145.28,
+      "end": 147.38,
+      "text": "اور ایک مپٹن ایدی والа بچجائےگا"
+    },
+    {
+      "id": 6,
+      "start": 147.88,
+      "end": 148.48,
+      "text": "بات بڑیا"
+    },
+    {
+      "id": 7,
+      "start": 148.58,
+      "end": 149.88,
+      "text": "اگری اس و لگر آپ کی بات کریں"
+    },
+    {
+      "id": 8,
+      "start": 149.98,
+      "end": 150.88,
+      "text": "تو بیکوں ری مبکھ کریں گے"
+    },
+    {
+      "id": 9,
+      "start": 150.98,
+      "end": 152.38,
+      "text": "تب بییی اٹیکرویشنت پونک پکھ منا جسکتا"
+    },
+    {
+      "id": 10,
+      "start": 152.48,
+      "end": 153.78,
+      "text": "کیوں کی ایک مپپٹ A والا ہو گیا"
+    },
+    {
+      "id": 11,
+      "start": 372.58,
+      "end": 376.58,
+      "text": "7,7,7 parent is not equal to 1."
+    },
+    {
+      "id": 12,
+      "start": 377.58,
+      "end": 378.58,
+      "text": "Why?"
+    },
+    {
+      "id": 13,
+      "start": 379.58,
+      "end": 383.58,
+      "text": "If we have this condition in full field then I say that you are a declaration point"
+    },
+    {
+      "id": 14,
+      "start": 384.58,
+      "end": 386.58,
+      "text": "This thing comes into our understanding"
+    },
+    {
+      "id": 15,
+      "start": 387.58,
+      "end": 389.58,
+      "text": "if it gets found and the conditions get fulfilled"
+    },
+    {
+      "id": 16,
+      "start": 390.58,
+      "end": 393.58,
+      "text": "Then what will be the question of where do i discuss"
+    },
+    {
+      "id": 17,
+      "start": 394.58,
+      "end": 396.58,
+      "text": "Now let's go ahead"
+    },
+    {
+      "id": 18,
+      "start": 397.68,
+      "end": 399.68,
+      "text": "So now when we said time or zero"
+    },
+    {
+      "id": 19,
+      "start": 1127.4,
+      "end": 1129.4,
+      "text": "ھاں نے وہ لہا وقتر تو نہیں"
+    },
+    {
+      "id": 20,
+      "start": 1130.4,
+      "end": 1130.9,
+      "text": "ان"
+    },
+    {
+      "id": 21,
+      "start": 1131.4,
+      "end": 1133.4,
+      "text": "ھوڑڑ میک اپنے بھول"
+    },
+    {
+      "id": 22,
+      "start": 1134.4,
+      "end": 1135.4,
+      "text": "اس کنامہ بھی اجی بزڈ"
+    },
+    {
+      "id": 23,
+      "start": 1136.5,
+      "end": 1137.5,
+      "text": "اور ہمیں کیا کرنا ہے"
+    },
+    {
+      "id": 24,
+      "start": 1138.5,
+      "end": 1139.5,
+      "text": "ہم اپنا آنسر بشٹور کرنا تھا لوگ لہ وقتρ"
+    },
+    {
+      "id": 25,
+      "start": 1140.5,
+      "end": 1141.5,
+      "text": "of"
+    },
+    {
+      "id": 26,
+      "start": 1142.85,
+      "end": 1143.85,
+      "text": "انت"
+    },
+    {
+      "id": 27,
+      "start": 1144.85,
+      "end": 1145.85,
+      "text": "اور ہوں نے بھال جا جی اس کا نام کرتے"
+    },
+    {
+      "id": 28,
+      "start": 1146.85,
+      "end": 1147.85,
+      "text": "اٹیکلوشن پائٹ اور اس کا سائیز ہیں"
+    },
+    {
+      "id": 29,
+      "start": 1148.85,
+      "end": 1149.85,
+      "text": "اس رکار"
+    },
+    {
+      "id": 30,
+      "start": 1150.85,
+      "end": 1151.85,
+      "text": "ان کی value starting میں دینے بتاگی"
+    },
+    {
+      "id": 31,
+      "start": 1152.85,
+      "end": 1154.85,
+      "text": "ہوں کہ نے وہ لا کی ان جو حلیٹ سے"
+    },
+    {
+      "id": 32,
+      "start": 1538.36,
+      "end": 1540.36,
+      "text": "و ایک ایک اللہ ایک الاسوالا کے جو کی بیکتج کے لئے تھا"
+    },
+    {
+      "id": 33,
+      "start": 1541.36,
+      "end": 1542.36,
+      "text": "جس میں last time code مرے تھے تھa"
+    },
+    {
+      "id": 34,
+      "start": 1543.36,
+      "end": 1544.36,
+      "text": "بیکاتج کے تم لوگ پڑڑ کرتے و تم بلطل لو"
+    },
+    {
+      "id": 35,
+      "start": 1545.36,
+      "end": 1546.36,
+      "text": "of node is equal to minimum"
+    },
+    {
+      "id": 36,
+      "start": 1547.36,
+      "end": 1549.36,
+      "text": "Of low off node"
+    },
+    {
+      "id": 37,
+      "start": 1551.19,
+      "end": 1552.19,
+      "text": "common discovery, Time-of"
+    },
+    {
+      "id": 38,
+      "start": 1553.57,
+      "end": 1554.57,
+      "text": "اپ کا جو بن نبرف ہا"
+    },
+    {
+      "id": 39,
+      "start": 1557.43,
+      "end": 1559.43,
+      "text": "ایک ہے اس وقت آپ نے یہ بھی کر لیا"
+    },
+    {
+      "id": 40,
+      "start": 1560.43,
+      "end": 1561.43,
+      "text": "اگه بارا ہے آپ نے وہ طار قلیشل لگا دی"
+    },
+    {
+      "id": 41,
+      "start": 1562.43,
+      "end": 1563.43,
+      "text": "جمال ااش فرگی دی"
+    },
+    {
+      "id": 42,
+      "start": 1564.43,
+      "end": 1565.43,
+      "text": "جس وہ میں starting out with checker"
+    },
+    {
+      "id": 43,
+      "start": 1566.43,
+      "end": 1568.43,
+      "text": "because your parent is equal"
+    },
+    {
+      "id": 44,
+      "start": 1781.69,
+      "end": 1782.69,
+      "text": "کر لیا ہے."
+    },
+    {
+      "id": 45,
+      "start": 1782.93,
+      "end": 1784.93,
+      "text": "گراف کریں گا ہمہ رہے ہیں."
+    },
+    {
+      "id": 46,
+      "start": 1785.17,
+      "end": 1787.81,
+      "text": "و I will see you in the next video, bye-bye"
+    },
+    {
+      "id": 47,
+      "start": 1787.93,
+      "end": 1789.73,
+      "text": "and see you again in my next videos"
+    },
+    {
+      "id": 48,
+      "start": 1789.97,
+      "end": 1790.69,
+      "text": "Thank You"
+    }
+  ]
+}

@@ -1,0 +1,332 @@
+{
+  "video_id": "MFAAZW2znv8",
+  "lecture_number": 107,
+  "video_title": "Lecture 107: Cut Rod into Segments of X, Y, Z || DP Series",
+  "total_duration": 1478.1,
+  "segments": [
+    {
+      "id": 0,
+      "start": 33.54,
+      "end": 42.58,
+      "text": "C++ Placement DSA Course. Topics, Linear Search, Lineart Search, Web, Trie, Graph,"
+    },
+    {
+      "id": 1,
+      "start": 63.54,
+      "end": 65.54,
+      "text": "Kodeng Ninjaz"
+    },
+    {
+      "id": 2,
+      "start": 93.54,
+      "end": 94.54,
+      "text": "ملے والا ہے."
+    },
+    {
+      "id": 3,
+      "start": 94.54,
+      "end": 95.54,
+      "text": "کوشبھر آنے والے بندیں,"
+    },
+    {
+      "id": 4,
+      "start": 95.58,
+      "end": 97.54,
+      "text": "اورڈی پڑی بڑھی کمپنیا فورچ ہو گئے ہیں"
+    },
+    {
+      "id": 5,
+      "start": 97.58,
+      "end": 98.98,
+      "text": "تو اس کیا پکہ تانشل لنگ کی نہیں ہے"
+    },
+    {
+      "id": 6,
+      "start": 99.02,
+      "end": 100.02,
+      "text": "اللانگوچ کیا کر بات کریں"
+    },
+    {
+      "id": 7,
+      "start": 100.06,
+      "end": 101.78,
+      "text": "ہندی انگلش دونہ میں بلے بل ہے"
+    },
+    {
+      "id": 8,
+      "start": 101.82,
+      "end": 102.86,
+      "text": "کوشن سوال کرتے ہیں"
+    },
+    {
+      "id": 9,
+      "start": 102.9,
+      "end": 103.82,
+      "text": "آپ کو حنتビデュیڈوزوں میں جائیں گے"
+    },
+    {
+      "id": 10,
+      "start": 103.86,
+      "end": 105.66,
+      "text": "تو اگر آپ کو کوئی بھی پیڑ کوش کریں گا"
+    },
+    {
+      "id": 11,
+      "start": 105.7,
+      "end": 107.18,
+      "text": "تو اب آپ سمجھ دار ہے"
+    },
+    {
+      "id": 12,
+      "start": 107.22,
+      "end": 109.5,
+      "text": "آپ کے پاس یہ لیکن дисکسیم سے پڈا آہا ہے"
+    },
+    {
+      "id": 13,
+      "start": 109.54,
+      "end": 110.48,
+      "text": "ایسپی کلک کر کیا آپ لے سکتے"
+    },
+    {
+      "id": 14,
+      "start": 110.48,
+      "end": 112.48,
+      "text": "20% discount, 2020."
+    },
+    {
+      "id": 15,
+      "start": 114.48,
+      "end": 117.48,
+      "text": "A very famous problem is called cut into segments"
+    },
+    {
+      "id": 16,
+      "start": 118.48,
+      "end": 120.48,
+      "text": "Road cutting problems"
+    },
+    {
+      "id": 17,
+      "start": 121.48,
+      "end": 122.48,
+      "text": "Roads"
+    },
+    {
+      "id": 18,
+      "start": 123.48,
+      "end": 124.48,
+      "text": "Question?"
+    },
+    {
+      "id": 19,
+      "start": 125.48,
+      "end": 126.48,
+      "text": "You are given an integer end"
+    },
+    {
+      "id": 20,
+      "start": 127.48,
+      "end": 133.4,
+      "text": "You need to remind the maximum number of segment you can make"
+    },
+    {
+      "id": 21,
+      "start": 134.4,
+      "end": 136.4,
+      "text": "Provided that each segment"
+    },
+    {
+      "id": 22,
+      "start": 948.76,
+      "end": 949.76,
+      "text": "1.0"
+    },
+    {
+      "id": 23,
+      "start": 950.76,
+      "end": 951.76,
+      "text": "2.0"
+    },
+    {
+      "id": 24,
+      "start": 953.01,
+      "end": 954.01,
+      "text": "3.0"
+    },
+    {
+      "id": 25,
+      "start": 955.01,
+      "end": 956.01,
+      "text": "4.0"
+    },
+    {
+      "id": 26,
+      "start": 957.01,
+      "end": 958.01,
+      "text": "5.0"
+    },
+    {
+      "id": 27,
+      "start": 959.01,
+      "end": 960.01,
+      "text": "6.0"
+    },
+    {
+      "id": 28,
+      "start": 961.01,
+      "end": 962.01,
+      "text": "7.0"
+    },
+    {
+      "id": 29,
+      "start": 963.01,
+      "end": 964.01,
+      "text": "9.0"
+    },
+    {
+      "id": 30,
+      "start": 965.01,
+      "end": 966.01,
+      "text": "8.0"
+    },
+    {
+      "id": 31,
+      "start": 967.01,
+      "end": 968.01,
+      "text": "9.2"
+    },
+    {
+      "id": 32,
+      "start": 969.01,
+      "end": 970.01,
+      "text": "10.9"
+    },
+    {
+      "id": 33,
+      "start": 971.01,
+      "end": 972.01,
+      "text": "11.6"
+    },
+    {
+      "id": 34,
+      "start": 973.01,
+      "end": 974.01,
+      "text": "12.8"
+    },
+    {
+      "id": 35,
+      "start": 975.01,
+      "end": 976.01,
+      "text": "13.4"
+    },
+    {
+      "id": 36,
+      "start": 1410.44,
+      "end": 1413.14,
+      "text": "اس کو store grab, return , and then what is the third step"
+    },
+    {
+      "id": 37,
+      "start": 1413.24,
+      "end": 1414.74,
+      "text": "After base cases"
+    },
+    {
+      "id": 38,
+      "start": 1414.84,
+      "end": 1416.34,
+      "text": "Check your DP so that answer will be read"
+    },
+    {
+      "id": 39,
+      "start": 1416.44,
+      "end": 1417.34,
+      "text": "If you want to know if it's read"
+    },
+    {
+      "id": 40,
+      "start": 1417.44,
+      "end": 1418.34,
+      "text": "Read down very good"
+    },
+    {
+      "id": 41,
+      "start": 1418.44,
+      "end": 1419.84,
+      "text": "And we have to do this"
+    },
+    {
+      "id": 42,
+      "start": 1419.94,
+      "end": 1420.34,
+      "text": "Simple"
+    },
+    {
+      "id": 43,
+      "start": 1420.44,
+      "end": 1422.34,
+      "text": "What are tabulation"
+    },
+    {
+      "id": 44,
+      "start": 1422.44,
+      "end": 1424.34,
+      "text": "You initialize accordingly"
+    },
+    {
+      "id": 45,
+      "start": 1424.44,
+      "end": 1425.34,
+      "text": "And after doing that"
+    },
+    {
+      "id": 46,
+      "start": 1425.44,
+      "end": 1426.64,
+      "text": "Reconciliation has been made"
+    },
+    {
+      "id": 47,
+      "start": 1426.74,
+      "end": 1428.34,
+      "text": "Based on those bases"
+    },
+    {
+      "id": 48,
+      "start": 1428.44,
+      "end": 1429.68,
+      "text": "Answering"
+    },
+    {
+      "id": 49,
+      "start": 1429.84,
+      "end": 1430.44,
+      "text": "Very Good"
+    },
+    {
+      "id": 50,
+      "start": 1430.54,
+      "end": 1432.74,
+      "text": "Check all of these for a range call"
+    },
+    {
+      "id": 51,
+      "start": 1432.84,
+      "end": 1434.44,
+      "text": "From here I got 1-1"
+    },
+    {
+      "id": 52,
+      "start": 1434.54,
+      "end": 1435.94,
+      "text": "And it was called as Entaqil Aenima"
+    },
+    {
+      "id": 53,
+      "start": 1436.04,
+      "end": 1437.84,
+      "text": "So i put my 4 loop there"
+    }
+  ]
+}

@@ -1,0 +1,362 @@
+{
+  "video_id": "VTr3Nh7BadI",
+  "lecture_number": 80,
+  "video_title": "Lecture 80: Longest Common Prefix Problem || Tries || C++ Placement Series",
+  "total_duration": 1216.38,
+  "segments": [
+    {
+      "id": 0,
+      "start": 2.83,
+      "end": 6.83,
+      "text": "Hello, how are you? Love Babbar and welcome to the channel."
+    },
+    {
+      "id": 1,
+      "start": 99.17,
+      "end": 100.17,
+      "text": "cccc"
+    },
+    {
+      "id": 2,
+      "start": 101.17,
+      "end": 102.17,
+      "text": "cc"
+    },
+    {
+      "id": 3,
+      "start": 103.17,
+      "end": 104.17,
+      "text": "cc"
+    },
+    {
+      "id": 4,
+      "start": 105.17,
+      "end": 106.33,
+      "text": "cc"
+    },
+    {
+      "id": 5,
+      "start": 107.33,
+      "end": 108.33,
+      "text": "o"
+    },
+    {
+      "id": 6,
+      "start": 109.33,
+      "end": 110.33,
+      "text": "o"
+    },
+    {
+      "id": 7,
+      "start": 111.33,
+      "end": 112.33,
+      "text": "o"
+    },
+    {
+      "id": 8,
+      "start": 113.49,
+      "end": 114.49,
+      "text": "o"
+    },
+    {
+      "id": 9,
+      "start": 115.49,
+      "end": 117.49,
+      "text": "d"
+    },
+    {
+      "id": 10,
+      "start": 118.49,
+      "end": 119.49,
+      "text": "c"
+    },
+    {
+      "id": 11,
+      "start": 120.49,
+      "end": 121.49,
+      "text": "a"
+    },
+    {
+      "id": 12,
+      "start": 122.49,
+      "end": 123.49,
+      "text": "n"
+    },
+    {
+      "id": 13,
+      "start": 124.49,
+      "end": 125.49,
+      "text": "r"
+    },
+    {
+      "id": 14,
+      "start": 156.38,
+      "end": 186.38,
+      "text": "ڈڑڑ ڑ"
+    },
+    {
+      "id": 15,
+      "start": 216.38,
+      "end": 217.38,
+      "text": "nd g"
+    },
+    {
+      "id": 16,
+      "start": 218.38,
+      "end": 219.38,
+      "text": "nd"
+    },
+    {
+      "id": 17,
+      "start": 220.38,
+      "end": 222.38,
+      "text": "nd"
+    },
+    {
+      "id": 18,
+      "start": 223.45,
+      "end": 225.45,
+      "text": "nd"
+    },
+    {
+      "id": 19,
+      "start": 226.45,
+      "end": 228.45,
+      "text": "n"
+    },
+    {
+      "id": 20,
+      "start": 229.74,
+      "end": 230.74,
+      "text": "c"
+    },
+    {
+      "id": 21,
+      "start": 231.74,
+      "end": 233.83,
+      "text": "o"
+    },
+    {
+      "id": 22,
+      "start": 234.83,
+      "end": 235.83,
+      "text": "d"
+    },
+    {
+      "id": 23,
+      "start": 236.83,
+      "end": 238.83,
+      "text": "s"
+    },
+    {
+      "id": 24,
+      "start": 239.83,
+      "end": 241.83,
+      "text": "a"
+    },
+    {
+      "id": 25,
+      "start": 243.02,
+      "end": 244.02,
+      "text": "t"
+    },
+    {
+      "id": 26,
+      "start": 335.75,
+      "end": 336.75,
+      "text": "1."
+    },
+    {
+      "id": 27,
+      "start": 338.84,
+      "end": 340.84,
+      "text": "2."
+    },
+    {
+      "id": 28,
+      "start": 341.84,
+      "end": 343.84,
+      "text": "3."
+    },
+    {
+      "id": 29,
+      "start": 431.26,
+      "end": 434.26,
+      "text": "PLUS PLUS, he loop upne chaladia for remaining strings"
+    },
+    {
+      "id": 30,
+      "start": 438.01,
+      "end": 441.01,
+      "text": "For comparison"
+    },
+    {
+      "id": 31,
+      "start": 442.01,
+      "end": 443.52,
+      "text": "For comparing"
+    },
+    {
+      "id": 32,
+      "start": 444.52,
+      "end": 450.54,
+      "text": "corrector with rest of the string"
+    },
+    {
+      "id": 33,
+      "start": 451.86,
+      "end": 453.86,
+      "text": "Now i said that i had to check"
+    },
+    {
+      "id": 34,
+      "start": 454.86,
+      "end": 455.86,
+      "text": "what is ok if we match"
+    },
+    {
+      "id": 35,
+      "start": 456.86,
+      "end": 458.86,
+      "text": "So here my condition came not matched"
+    },
+    {
+      "id": 36,
+      "start": 459.86,
+      "end": 461.86,
+      "text": "where I told you guys man and people do not match"
+    },
+    {
+      "id": 37,
+      "start": 462.86,
+      "end": 463.86,
+      "text": "so now let me break it"
+    },
+    {
+      "id": 38,
+      "start": 921.3,
+      "end": 923.3,
+      "text": "1.0%"
+    },
+    {
+      "id": 39,
+      "start": 925.3,
+      "end": 927.3,
+      "text": "2.0%,"
+    },
+    {
+      "id": 40,
+      "start": 929.3,
+      "end": 931.3,
+      "text": "2.1%"
+    },
+    {
+      "id": 41,
+      "start": 933.3,
+      "end": 935.3,
+      "text": "3.2%"
+    },
+    {
+      "id": 42,
+      "start": 937.3,
+      "end": 939.3,
+      "text": "4.3%"
+    },
+    {
+      "id": 43,
+      "start": 941.3,
+      "end": 943.3,
+      "text": "5.4%"
+    },
+    {
+      "id": 44,
+      "start": 945.3,
+      "end": 947.3,
+      "text": "6.5%"
+    },
+    {
+      "id": 45,
+      "start": 947.3,
+      "end": 949.78,
+      "text": "Root node"
+    },
+    {
+      "id": 46,
+      "start": 950.78,
+      "end": 951.78,
+      "text": "Insert"
+    },
+    {
+      "id": 47,
+      "start": 953.91,
+      "end": 954.91,
+      "text": "Insert"
+    },
+    {
+      "id": 48,
+      "start": 955.91,
+      "end": 956.91,
+      "text": "All strings"
+    },
+    {
+      "id": 49,
+      "start": 957.91,
+      "end": 958.91,
+      "text": "into try"
+    },
+    {
+      "id": 50,
+      "start": 959.91,
+      "end": 960.91,
+      "text": "4 loop"
+    },
+    {
+      "id": 51,
+      "start": 961.91,
+      "end": 962.91,
+      "text": "I"
+    },
+    {
+      "id": 52,
+      "start": 964.39,
+      "end": 965.39,
+      "text": "plus"
+    },
+    {
+      "id": 53,
+      "start": 966.39,
+      "end": 967.39,
+      "text": "I"
+    },
+    {
+      "id": 54,
+      "start": 968.39,
+      "end": 970.39,
+      "text": "Try to add all string"
+    },
+    {
+      "id": 55,
+      "start": 971.39,
+      "end": 973.74,
+      "text": "Insert"
+    },
+    {
+      "id": 56,
+      "start": 974.74,
+      "end": 976.74,
+      "text": "Insert"
+    },
+    {
+      "id": 57,
+      "start": 978.74,
+      "end": 986.41,
+      "text": "1st is equals to a r of 0"
+    },
+    {
+      "id": 58,
+      "start": 1215.08,
+      "end": 1217.08,
+      "text": "then I want."
+    }
+  ]
+}

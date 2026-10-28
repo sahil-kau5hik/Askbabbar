@@ -1,0 +1,254 @@
+[
+  {
+    "chunk_id": "sNrLlmOIn-c_000003_000189",
+    "video_id": "sNrLlmOIn-c",
+    "video_title": "Lecture 9: Introduction to Arrays in C++",
+    "lecture_number": 9,
+    "playlist_index": 9,
+    "video_url": "https://www.youtube.com/watch?v=sNrLlmOIn-c",
+    "start_time": 3.86,
+    "end_time": 189.02,
+    "start_timestamp_str": "00:03",
+    "end_timestamp_str": "03:09",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=sNrLlmOIn-c&t=3s",
+    "text": "Hello, How are you? This is Love Babbar and welcome to this channel. پاس بیلو پاس پیلیو پسی افرنے جانا سیکھا تھا کچھ کچھی کپریوں گبھی کرنے والے ہیں تو سیگنے کے لئے پہا ہوں ساری چیزیں start کرتے ہیں ویڈیوگے ساتھ شروع کرتیں سب سے پہلی چینز ایک سیٹشن میں آپ کو دیتا ہون وہ سیچشن نم سمجھے کوئیش کریں گے اور اس کے بعد ہم پتلگہ گیا گیا ہے دعنا میں نے آپ کو کیابلہ کے دوست میں آپ کا تین وریبل دیאתا ہم تین value دیاتا ہو a bc یہاں پیارے آپ کی ایک چیز آتی ہے اس کم بلتے ہیں ایری",
+    "segment_span": [
+      0,
+      15
+    ]
+  },
+  {
+    "chunk_id": "sNrLlmOIn-c_000189_000250",
+    "video_id": "sNrLlmOIn-c",
+    "video_title": "Lecture 9: Introduction to Arrays in C++",
+    "lecture_number": 9,
+    "playlist_index": 9,
+    "video_url": "https://www.youtube.com/watch?v=sNrLlmOIn-c",
+    "start_time": 189.02,
+    "end_time": 250.12,
+    "start_timestamp_str": "03:09",
+    "end_timestamp_str": "04:10",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=sNrLlmOIn-c&t=189s",
+    "text": "تو ایرے گیا ہوتا پیر ایرا سموستے ہیں کہ افر کے ساتھ اگر لیٹر بود پیم بنیادہ دیکھا آپ کو بہت سے روپائزی ملے والے ہیں بعد کہیں کہ اچھا بھیا کہ ایک سے کیا کرنا ہے سبب سے براکہ تسکری ویستر کرنا ہوتا ریستری کروں آپ کی بیکنٹ پروفیل اصدقیی افراینٹر پروڈیسکتی انیٹیکس پروضیسٹی بیزنٹ دیوڑپنٹ پروپیل ٹیو ٹھای پروحسی ایسے آنپر ہے کچھ بھی آپ چاہی کر سکتے ہیں ٹس دینہ ہیں انٹرவு اس کراک کرنے اور آپ کے بعد آپ کو offer ہوگa یہ سارا کا سارа پروھس آپ اپنی پہلی جو بھی آپ اپندر آ دین میں لے سکتے ہیں get hired کی گئیں یہاں بہت ساری 테ستیں آپ کو اپنا فری سلوت بوک کرنا ہے اپني حصاب سے ٹیس دین ہے کرایک کرنا interview دیکھیں بلکل ہی رواننا ابھی محسکر نہ بھی یا job like",
+    "segment_span": [
+      16,
+      38
+    ]
+  },
+  {
+    "chunk_id": "sNrLlmOIn-c_000250_000504",
+    "video_id": "sNrLlmOIn-c",
+    "video_title": "Lecture 9: Introduction to Arrays in C++",
+    "lecture_number": 9,
+    "playlist_index": 9,
+    "video_url": "https://www.youtube.com/watch?v=sNrLlmOIn-c",
+    "start_time": 250.32,
+    "end_time": 504.06,
+    "start_timestamp_str": "04:10",
+    "end_timestamp_str": "08:24",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=sNrLlmOIn-c&t=250s",
+    "text": "جو عبلاک گیا یہاہ پر آپ کو میں نکوپن کو دیکر آوے ھا ایک ہار چیز جتنے بھی یہ value spreding",
+    "segment_span": [
+      39,
+      41
+    ]
+  },
+  {
+    "chunk_id": "sNrLlmOIn-c_000504_000863",
+    "video_id": "sNrLlmOIn-c",
+    "video_title": "Lecture 9: Introduction to Arrays in C++",
+    "lecture_number": 9,
+    "playlist_index": 9,
+    "video_url": "https://www.youtube.com/watch?v=sNrLlmOIn-c",
+    "start_time": 504.06,
+    "end_time": 863.02,
+    "start_timestamp_str": "08:24",
+    "end_timestamp_str": "14:23",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=sNrLlmOIn-c&t=504s",
+    "text": "جتا نمیشہ ایرے پناڑے کون ساری values کو آپ ایک چیس ہوتی ہے اس کو بولتیں index Index کے دورا access کر ذکتے ہیں میں چاہتا ہوں کہ میری a رئی کار مجھتیس رہ المان جا ہی تو میں اس کے index کو use her کو اس کا access کر پاہنگا Index کیا ہوتا ہے آگے چلٹے اسی کہیں کیا مجا اب تک نہیں سوچھا میں یہ کہ an ہوتتا کیا ہے کیا سے store ہوتa چھوٹھا ساعدی لگیا Index کیа ہوتة ہے ارے کچھ بھی نہیں ہے. ایک لیسٹ ہوتی ہے. سیم ٹائپ کے لیمڈ سے پڑے ہوتے ہیں اور اس کا مارے بلتوں. میرا فایدہ کیا ہے؟ کیوں بہی میں کو کیوں جی آرے? بہ爷 کیوں میں اجھے رے؟ کیوں کیوں؟ کیوں پای باتانا. رита تو کوئی بھی لگا سکتا ہے. بہیں باتا ہوں. طيک ہے تو میں نے آپ کو بولا کہ ملٹیپل سییم طائپ کی ویلوز کو ایک ویریابل میں شٹور کرنے گا 1.0",
+    "segment_span": [
+      42,
+      69
+    ]
+  },
+  {
+    "chunk_id": "sNrLlmOIn-c_000864_001414",
+    "video_id": "sNrLlmOIn-c",
+    "video_title": "Lecture 9: Introduction to Arrays in C++",
+    "lecture_number": 9,
+    "playlist_index": 9,
+    "video_url": "https://www.youtube.com/watch?v=sNrLlmOIn-c",
+    "start_time": 864.02,
+    "end_time": 1414.26,
+    "start_timestamp_str": "14:24",
+    "end_timestamp_str": "23:34",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=sNrLlmOIn-c&t=864s",
+    "text": "2 2 2 2 2 2 2 2 v 1 v 1 اس کو 14 ڈ.",
+    "segment_span": [
+      70,
+      82
+    ]
+  },
+  {
+    "chunk_id": "sNrLlmOIn-c_001416_001775",
+    "video_id": "sNrLlmOIn-c",
+    "video_title": "Lecture 9: Introduction to Arrays in C++",
+    "lecture_number": 9,
+    "playlist_index": 9,
+    "video_url": "https://www.youtube.com/watch?v=sNrLlmOIn-c",
+    "start_time": 1416.36,
+    "end_time": 1775.39,
+    "start_timestamp_str": "23:36",
+    "end_timestamp_str": "29:35",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=sNrLlmOIn-c&t=1416s",
+    "text": "اب, دیکھو کیا ہو? میں نے اس کو Ran ka Rao ok اس نے, اولاد دوست, چھو تو پہلے 20 ڑو تو بنا لیں تفتقس کرو اس کو کیا ما تر بھی اس بات کا کہ آپ کے سدو کاندار کے بعد کہ ہے آپ نے, وہ لگے مجھے ری نائی کی جوثی بہت شے لگئے اس نے، اولا 20 ศہروں پے لے گئے آپ نے اولہ 10 ڨہربے کیا وہ جو تھی دے گا نہیں دےگا ھاکہ ہم نے سے چیلیمانٹ سٹھ کریں گے ہیں",
+    "segment_span": [
+      83,
+      95
+    ]
+  },
+  {
+    "chunk_id": "sNrLlmOIn-c_001776_002599",
+    "video_id": "sNrLlmOIn-c",
+    "video_title": "Lecture 9: Introduction to Arrays in C++",
+    "lecture_number": 9,
+    "playlist_index": 9,
+    "video_url": "https://www.youtube.com/watch?v=sNrLlmOIn-c",
+    "start_time": 1776.39,
+    "end_time": 2599.28,
+    "start_timestamp_str": "29:36",
+    "end_timestamp_str": "43:19",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=sNrLlmOIn-c&t=1776s",
+    "text": "اس کے اس میں اریکہ سائیس پندھ رہتا ہم نی سے دو ہی اریمنٹی ہے تو پاکی کے سارے وریے باکین کے سالی لوگ کوئیشنز میں 0 باپولیٹ ہو جائے گا ہے یا آپ نے اسی پا کر لی کیا سپا کرلی کہلتے ہیں اپنے اباکھی ایسا میں کھلتی کہالتے ہم تلاگتا ہے ارکی ایرم ارگے سائے سے آگے کی لوگیشین میں یہاں پر ایکسیс کرنے کا ٹھائی کیا تو ھا ہوتی ہے وہ سو ہم سیک چکھا ہے بیکلیں",
+    "segment_span": [
+      96,
+      105
+    ]
+  },
+  {
+    "chunk_id": "sNrLlmOIn-c_002600_002718",
+    "video_id": "sNrLlmOIn-c",
+    "video_title": "Lecture 9: Introduction to Arrays in C++",
+    "lecture_number": 9,
+    "playlist_index": 9,
+    "video_url": "https://www.youtube.com/watch?v=sNrLlmOIn-c",
+    "start_time": 2600.28,
+    "end_time": 2718.57,
+    "start_timestamp_str": "43:20",
+    "end_timestamp_str": "45:18",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=sNrLlmOIn-c&t=2600s",
+    "text": "اب ہم آگے بڑھ سکتے ہیں اور ہم نے آپ کو سے کہا دیا بھی تک کیا رہی ہے یہ فنشنز میں کیسے پاس ہوتے ہیں اس کو تھولٹوبics اور آگیکستان کر کریں آپ کو ایک چیسے ہاتے آپ کو مینے کلش کشن کر کے دیگھا تھا ہوں و کشنت کیا کہتا ہے کہ دوست تربازنا ایک ارے پڑا گوہ ہے اور تنہ میرے کو اول پھرنا بتا کہ اس کا میکسیمام ایلیمنٹ کونسا ہے ہم نے یہاں پر ایک ویریابل دان ایک گستا کی کر دیا ہے",
+    "segment_span": [
+      106,
+      115
+    ]
+  },
+  {
+    "chunk_id": "sNrLlmOIn-c_002719_003639",
+    "video_id": "sNrLlmOIn-c",
+    "video_title": "Lecture 9: Introduction to Arrays in C++",
+    "lecture_number": 9,
+    "playlist_index": 9,
+    "video_url": "https://www.youtube.com/watch?v=sNrLlmOIn-c",
+    "start_time": 2719.07,
+    "end_time": 3639.12,
+    "start_timestamp_str": "45:19",
+    "end_timestamp_str": "01:00:39",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=sNrLlmOIn-c&t=2719s",
+    "text": "جو کی ایک بہت ہی گتی آپ رکٹس ہے وہاں تھی گتیا آپ ركٹس انگلش مگر ان اس کا بولیں اچھے شبتوں میں بیڈ رکtes not a good thing ایسا نہیں کرنا ہوتا تھا OK گرٹسے ایசے نہیں کر نہ ہوتa اگر امکڑ رکτس کے بعد کریں اس کے کم پیریزن میں تو بھی آگر میں جادہ سائز کا بناثوں مگربان و ایسم ناثون پہلے والے کا ADDRESS دیدیا وہ کہاںストور ہو گیاں میں نے آپ علیکہ کہ انت ARR یہ تو اس ARR کے اندرストور ہوں گیا",
+    "segment_span": [
+      116,
+      132
+    ]
+  },
+  {
+    "chunk_id": "sNrLlmOIn-c_003640_004378",
+    "video_id": "sNrLlmOIn-c",
+    "video_title": "Lecture 9: Introduction to Arrays in C++",
+    "lecture_number": 9,
+    "playlist_index": 9,
+    "video_url": "https://www.youtube.com/watch?v=sNrLlmOIn-c",
+    "start_time": 3640.89,
+    "end_time": 4378.94,
+    "start_timestamp_str": "01:00:40",
+    "end_timestamp_str": "01:12:58",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=sNrLlmOIn-c&t=3640s",
+    "text": "اگر اب اس ARNAB کوئی بھی προسیسن کر ہو گئے کی سبھی پرکار کی میک کچھ آژ کرتا ہوں میں کچhrی موگ کرتتا اگری کچھی اپنا دیٹ کرتے ہیں تو وہ آپ Actual Array پر ہی کر رہی ہو جو کی ہاں پانا پڑھا ہے بائنے ریسرش کا کیا بات ہے پڑا ہی پیارہ پژا موتا ہے",
+    "segment_span": [
+      133,
+      135
+    ]
+  },
+  {
+    "chunk_id": "sNrLlmOIn-c_004379_004505",
+    "video_id": "sNrLlmOIn-c",
+    "video_title": "Lecture 9: Introduction to Arrays in C++",
+    "lecture_number": 9,
+    "playlist_index": 9,
+    "video_url": "https://www.youtube.com/watch?v=sNrLlmOIn-c",
+    "start_time": 4379.94,
+    "end_time": 4505.54,
+    "start_timestamp_str": "01:12:59",
+    "end_timestamp_str": "01:15:05",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=sNrLlmOIn-c&t=4379s",
+    "text": "بائینی سرش انترریوز میں آر لین کوٹنگ ٹیشٹ میں کمپنی کے اسسمنٹ میں ویس آپ یہ والی کشن پوچھا چاہا ہاتھا ہوتے ہیں بائνے رہی سریش پڈے ہیں ایسی بائனے رے سرچ پڄیں گے دنیا ہاتا ہے بائنای سیچ بہت بہن کر لہولے پڒیں گی سیمپل سے لیکھا ادوانز کشینجے میں ادیانز او بسی کو کر لگر لگ رہیو تو نہیں ہوتی بہت بہاری بھت پچھا مالی چیڑو تیئے تیگے",
+    "segment_span": [
+      136,
+      143
+    ]
+  },
+  {
+    "chunk_id": "sNrLlmOIn-c_004506_004567",
+    "video_id": "sNrLlmOIn-c",
+    "video_title": "Lecture 9: Introduction to Arrays in C++",
+    "lecture_number": 9,
+    "playlist_index": 9,
+    "video_url": "https://www.youtube.com/watch?v=sNrLlmOIn-c",
+    "start_time": 4506.98,
+    "end_time": 4567.7,
+    "start_timestamp_str": "01:15:06",
+    "end_timestamp_str": "01:16:07",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=sNrLlmOIn-c&t=4506s",
+    "text": "سلات کرتے ہیں بہا سمپچی تیکوں اویو اٹس کرنگ دیگی کرنا بہیں نائیں کو ایان او ایا جا اوو او که ایہان ایے جا بار لوگی ایسا ہو تا 1 2 3 4 5 6 2 اس کو ریسکوڑی بھرس میں اس پر کار کر رہوں کرتے کچھ میں رہا ہوں ہر کسی کی بویشن در پلیس ہو ری ہے جو یہاں فرستا وہ یہاہ دا کے فرس بن گیا ایس ایز سے لگیف سراب کرتا جا رہے ہو سنگ نایم یہا تھا آگیا یہا ہاں بھی آگئا اب یہا یہا بھی اس طرف سے لفس سیکن تھا سبن اس کو کچن نہیں کرنا, اس کو ρائٹ سے سیکنت بنانے سرAB کر دیا سنپل",
+    "segment_span": [
+      144,
+      158
+    ]
+  },
+  {
+    "chunk_id": "sNrLlmOIn-c_004568_004815",
+    "video_id": "sNrLlmOIn-c",
+    "video_title": "Lecture 9: Introduction to Arrays in C++",
+    "lecture_number": 9,
+    "playlist_index": 9,
+    "video_url": "https://www.youtube.com/watch?v=sNrLlmOIn-c",
+    "start_time": 4568.84,
+    "end_time": 4815.97,
+    "start_timestamp_str": "01:16:08",
+    "end_timestamp_str": "01:20:15",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=sNrLlmOIn-c&t=4568s",
+    "text": "ہمیں سمجھ ماغے کتھ بھی نہیں کرνے nd start",
+    "segment_span": [
+      159,
+      160
+    ]
+  },
+  {
+    "chunk_id": "sNrLlmOIn-c_004815_005389",
+    "video_id": "sNrLlmOIn-c",
+    "video_title": "Lecture 9: Introduction to Arrays in C++",
+    "lecture_number": 9,
+    "playlist_index": 9,
+    "video_url": "https://www.youtube.com/watch?v=sNrLlmOIn-c",
+    "start_time": 4815.97,
+    "end_time": 5389.99,
+    "start_timestamp_str": "01:20:15",
+    "end_timestamp_str": "01:29:49",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=sNrLlmOIn-c&t=4815s",
+    "text": "nd nd nd nd nd nd nm-1nx پڑیٹی کی بیڈز پانا پہنگو ہوں گہ",
+    "segment_span": [
+      161,
+      168
+    ]
+  }
+]

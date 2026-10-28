@@ -1,0 +1,380 @@
+{
+  "video_id": "cdHEpbBVjRM",
+  "lecture_number": 35,
+  "video_title": "Lecture35: Merge Sort using Recursion | Day-5 | 10 Day Recursion Challenge",
+  "total_duration": 1462.76,
+  "segments": [
+    {
+      "id": 0,
+      "start": 3.25,
+      "end": 13.25,
+      "text": "Helloji, how are you? This is Love Babbar and welcome to channel Code Hill. Today we have reached 5th episode of Total Lecture. We will talk about the important concept in this video"
+    },
+    {
+      "id": 1,
+      "start": 98.05,
+      "end": 101.58,
+      "text": "10 × 10 Ø"
+    },
+    {
+      "id": 2,
+      "start": 103.81,
+      "end": 105.81,
+      "text": "Index 0, 1 , 2 , 3 , 4"
+    },
+    {
+      "id": 3,
+      "start": 107.81,
+      "end": 111.81,
+      "text": "6 × 8 × 9 × 12 × 13 × 14 × 16 × 15 × 18 × 19 × 17 ×"
+    },
+    {
+      "id": 4,
+      "start": 113.81,
+      "end": 115.81,
+      "text": "10 ß"
+    },
+    {
+      "id": 5,
+      "start": 119.81,
+      "end": 123.81,
+      "text": "10 ÷ÂRÖ"
+    },
+    {
+      "id": 6,
+      "start": 257.06,
+      "end": 259.06,
+      "text": "3-3-4-3"
+    },
+    {
+      "id": 7,
+      "start": 260.28,
+      "end": 262.28,
+      "text": "43-8"
+    },
+    {
+      "id": 8,
+      "start": 263.28,
+      "end": 264.28,
+      "text": "4-3"
+    },
+    {
+      "id": 9,
+      "start": 265.28,
+      "end": 267.28,
+      "text": "4-2"
+    },
+    {
+      "id": 10,
+      "start": 268.28,
+      "end": 270.28,
+      "text": "9-8"
+    },
+    {
+      "id": 11,
+      "start": 271.28,
+      "end": 274.4,
+      "text": "8-2"
+    },
+    {
+      "id": 12,
+      "start": 275.4,
+      "end": 276.4,
+      "text": "6-1"
+    },
+    {
+      "id": 13,
+      "start": 277.4,
+      "end": 279.4,
+      "text": "4-1"
+    },
+    {
+      "id": 14,
+      "start": 280.4,
+      "end": 282.4,
+      "text": "4-0"
+    },
+    {
+      "id": 15,
+      "start": 283.4,
+      "end": 285.4,
+      "text": "7-7"
+    },
+    {
+      "id": 16,
+      "start": 377.29,
+      "end": 379.59,
+      "text": "اگر بڑھا بژڈڈ سبالی کر بات کرتے قوڈگننجاز کے بارے میں"
+    },
+    {
+      "id": 17,
+      "start": 379.69,
+      "end": 381.39,
+      "text": "اس فریڈیسے کوٹھ کا آپ تک پہنچانے میں"
+    },
+    {
+      "id": 18,
+      "start": 381.49,
+      "end": 384.39,
+      "text": "контینٹ کونٹینٹینکسپٹی سلیکل بیڈیاں سپونشہ شتتک"
+    },
+    {
+      "id": 19,
+      "start": 384.49,
+      "end": 386.59,
+      "text": "ایک مجھر چنگزے قرڈنجانیں سپورٹ کیا ہے"
+    },
+    {
+      "id": 20,
+      "start": 386.69,
+      "end": 387.99,
+      "text": "وقت آپ تیک کوٹس پہاچ بائیں"
+    },
+    {
+      "id": 21,
+      "start": 388.49,
+      "end": 388.99,
+      "text": "thanks to them"
+    },
+    {
+      "id": 22,
+      "start": 389.09,
+      "end": 389.99,
+      "text": "قوٹنجاس کیا ہیں"
+    },
+    {
+      "id": 23,
+      "start": 390.09,
+      "end": 390.89,
+      "text": "it is my largest"
+    },
+    {
+      "id": 24,
+      "start": 390.99,
+      "end": 392.09,
+      "text": "quoting magician platform"
+    },
+    {
+      "id": 25,
+      "start": 392.19,
+      "end": 393.89,
+      "text": "جہاں پر آپ بہت پرکار کی کور سے دیسکتا گئے"
+    },
+    {
+      "id": 26,
+      "start": 393.99,
+      "end": 394.53,
+      "text": "آپ انترشد ہے"
+    },
+    {
+      "id": 27,
+      "start": 394.53,
+      "end": 396.53,
+      "text": "P8 Courses"
+    },
+    {
+      "id": 28,
+      "start": 424.53,
+      "end": 427.21,
+      "text": "LANGUAGE ke kya ka baat karin ? Hindi, English doonam na belaybal hai"
+    },
+    {
+      "id": 29,
+      "start": 427.47,
+      "end": 429.39,
+      "text": "Kurshun sual karta time aapko hinti videosu maida jai ngayin ki"
+    },
+    {
+      "id": 30,
+      "start": 429.53,
+      "end": 431.13,
+      "text": "To ka ako ko hi bi pietkurt khairita hain"
+    },
+    {
+      "id": 31,
+      "start": 431.73,
+      "end": 432.71,
+      "text": "To ka baap samas dhar hai"
+    },
+    {
+      "id": 32,
+      "start": 432.91,
+      "end": 434.91,
+      "text": "Aapke paaase ye link niskefse na parha huwaha"
+    },
+    {
+      "id": 33,
+      "start": 435.01,
+      "end": 436.05,
+      "text": "Ispikli kaar ka apalye saqta"
+    },
+    {
+      "id": 34,
+      "start": 436.19,
+      "end": 437.65,
+      "text": "20% discount jo ke maximum hai"
+    },
+    {
+      "id": 35,
+      "start": 437.95,
+      "end": 438.73,
+      "text": "Baapko moe ljaega"
+    },
+    {
+      "id": 36,
+      "start": 439.19,
+      "end": 439.71,
+      "text": "Dhania wad"
+    },
+    {
+      "id": 37,
+      "start": 440.29,
+      "end": 440.69,
+      "text": "Chana"
+    },
+    {
+      "id": 38,
+      "start": 440.95,
+      "end": 442.89,
+      "text": "Mane bola ispiklim palitumant kaar ni ki 2 brochuza"
+    },
+    {
+      "id": 39,
+      "start": 446.01,
+      "end": 446.41,
+      "text": "Tika"
+    },
+    {
+      "id": 40,
+      "start": 447.24,
+      "end": 448.12,
+      "text": "Samas te hang kashe"
+    },
+    {
+      "id": 41,
+      "start": 448.22,
+      "end": 448.98,
+      "text": "Eik hum garengi"
+    },
+    {
+      "id": 42,
+      "start": 449.06,
+      "end": 450.18,
+      "text": "Eik aap ko hoom vagma deingi"
+    },
+    {
+      "id": 43,
+      "start": 450.4,
+      "end": 451.2,
+      "text": "Eik tar ka dikhata hai"
+    },
+    {
+      "id": 44,
+      "start": 451.46,
+      "end": 451.78,
+      "text": "Tika"
+    },
+    {
+      "id": 45,
+      "start": 482.96,
+      "end": 490.97,
+      "text": "ھا مہی کیساکتا این دونوں ایرے کو مرش کر کے ایک کار سوٹڑ ایریہ بنا سکتے ہیں تو کوشن کیا بند گیا پہلائی ایک سوڑڑ آری ہے دوسک سوطڑ"
+    },
+    {
+      "id": 46,
+      "start": 491.01,
+      "end": 493.71,
+      "text": "ایارے ایک دونیں سوارڑ دیاریس کو مرج کرنا ہے آپ نے کوشنت سناؤں گا"
+    },
+    {
+      "id": 47,
+      "start": 494.54,
+      "end": 498.5,
+      "text": "مرج 2 سواطڑ ھائیس یا میں آلڈی قربی رکھا ہے اسی سیریز کے اندر"
+    },
+    {
+      "id": 48,
+      "start": 499.1,
+      "end": 501.52,
+      "text": "تو وہی ورالوجک لگاتیں گی ہم این דونوں"
+    },
+    {
+      "id": 49,
+      "start": 501.54,
+      "end": 504.7,
+      "text": "ایرا کو مργش کرے کے یہ والا ایרי بنانے کے لئے"
+    },
+    {
+      "id": 50,
+      "start": 1392.62,
+      "end": 1396.26,
+      "text": "ایک بر دیکھ کرنا اوشششکل نہیں آئی کہ مدسہ مطاعتہا ہے میں سمجھاتا ہوں پڑھتے ایک شکور کرنا اس کو"
+    },
+    {
+      "id": 51,
+      "start": 1396.62,
+      "end": 1397.42,
+      "text": "کیسا رہی ہے"
+    },
+    {
+      "id": 52,
+      "start": 1397.7,
+      "end": 1398.14,
+      "text": "تیگہ"
+    },
+    {
+      "id": 53,
+      "start": 1398.42,
+      "end": 1401.26,
+      "text": "ایس چیز کو ایک پژھیک نہ نہیں آیا یہ تو مالکسی video بناغیں"
+    },
+    {
+      "id": 54,
+      "start": 1401.3,
+      "end": 1402.6,
+      "text": "پناتوں گا کوئیشوں نہیں ہے"
+    },
+    {
+      "id": 55,
+      "start": 1402.62,
+      "end": 1402.98,
+      "text": "لیکہ"
+    },
+    {
+      "id": 56,
+      "start": 1403.08,
+      "end": 1404.7,
+      "text": "بڑٹے کرنا آپ کو کو دھون نائک بارکی"
+    },
+    {
+      "id": 57,
+      "start": 1404.72,
+      "end": 1406.08,
+      "text": "O&Log & KSR"
+    },
+    {
+      "id": 58,
+      "start": 1406.54,
+      "end": 1408.28,
+      "text": "اور جس نے ایک تجی کا سال کرنا پروچھ میں"
+    },
+    {
+      "id": 59,
+      "start": 1408.42,
+      "end": 1409.44,
+      "text": "یہ والام نے کود کر لیا"
+    },
+    {
+      "id": 60,
+      "start": 1409.48,
+      "end": 1410.48,
+      "text": "یہ والاکہ کچھ کرنے ہیں"
+    },
+    {
+      "id": 61,
+      "start": 1411.38,
+      "end": 1412.5,
+      "text": "انویریشن کاؤں ٹھوم بکھ میں"
+    }
+  ]
+}

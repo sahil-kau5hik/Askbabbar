@@ -1,0 +1,290 @@
+{
+  "video_id": "T_boOrr0rvk",
+  "lecture_number": 90,
+  "video_title": "Lecture 90: Topological Sort ( Using DFS ) || Placement Series",
+  "total_duration": 1208.23,
+  "segments": [
+    {
+      "id": 0,
+      "start": 3.44,
+      "end": 13.44,
+      "text": "Hello Ji, how are you? Welcome to the channel. We have reached our lecture number 90 on a very important concept which is called topological sort"
+    },
+    {
+      "id": 1,
+      "start": 95.52,
+      "end": 105.99,
+      "text": "you to v,you always appears before we in that ordering"
+    },
+    {
+      "id": 2,
+      "start": 106.99,
+      "end": 108.99,
+      "text": "so what do i understand from this?"
+    },
+    {
+      "id": 3,
+      "start": 109.99,
+      "end": 111.99,
+      "text": "its an order of one example"
+    },
+    {
+      "id": 4,
+      "start": 112.99,
+      "end": 116.99,
+      "text": "every user is going through which u will come with the first"
+    },
+    {
+      "id": 5,
+      "start": 117.99,
+      "end": 120.99,
+      "text": "for example there are many very important examples"
+    },
+    {
+      "id": 6,
+      "start": 120.99,
+      "end": 122.02,
+      "text": "1-1.0"
+    },
+    {
+      "id": 7,
+      "start": 123.02,
+      "end": 124.02,
+      "text": "0-1-2"
+    },
+    {
+      "id": 8,
+      "start": 125.02,
+      "end": 126.02,
+      "text": "0-3-2"
+    },
+    {
+      "id": 9,
+      "start": 127.02,
+      "end": 128.02,
+      "text": "0-4-2"
+    },
+    {
+      "id": 10,
+      "start": 129.02,
+      "end": 130.02,
+      "text": "0-5-2"
+    },
+    {
+      "id": 11,
+      "start": 131.02,
+      "end": 132.02,
+      "text": "0-6-9"
+    },
+    {
+      "id": 12,
+      "start": 133.02,
+      "end": 134.02,
+      "text": "0-7"
+    },
+    {
+      "id": 13,
+      "start": 135.02,
+      "end": 136.02,
+      "text": "0-8"
+    },
+    {
+      "id": 14,
+      "start": 137.02,
+      "end": 138.02,
+      "text": "0"
+    },
+    {
+      "id": 15,
+      "start": 139.02,
+      "end": 140.02,
+      "text": "0-9-2"
+    },
+    {
+      "id": 16,
+      "start": 141.02,
+      "end": 142.02,
+      "text": "0-10-2"
+    },
+    {
+      "id": 17,
+      "start": 143.02,
+      "end": 144.02,
+      "text": "0-11-2"
+    },
+    {
+      "id": 18,
+      "start": 145.02,
+      "end": 146.02,
+      "text": "0-132"
+    },
+    {
+      "id": 19,
+      "start": 147.02,
+      "end": 148.02,
+      "text": "0-12"
+    },
+    {
+      "id": 20,
+      "start": 178.02,
+      "end": 179.02,
+      "text": "1-1-0."
+    },
+    {
+      "id": 21,
+      "start": 179.02,
+      "end": 180.02,
+      "text": "1-2-1 0"
+    },
+    {
+      "id": 22,
+      "start": 181.12,
+      "end": 182.12,
+      "text": "2-3-210"
+    },
+    {
+      "id": 23,
+      "start": 183.12,
+      "end": 184.12,
+      "text": "1-4-1"
+    },
+    {
+      "id": 24,
+      "start": 185.12,
+      "end": 186.12,
+      "text": "1-6-1"
+    },
+    {
+      "id": 25,
+      "start": 187.12,
+      "end": 188.12,
+      "text": "1-9"
+    },
+    {
+      "id": 26,
+      "start": 189.12,
+      "end": 190.12,
+      "text": "1-8-1"
+    },
+    {
+      "id": 27,
+      "start": 191.12,
+      "end": 193.6,
+      "text": "1-7"
+    },
+    {
+      "id": 28,
+      "start": 194.6,
+      "end": 195.6,
+      "text": "1-5"
+    },
+    {
+      "id": 29,
+      "start": 196.6,
+      "end": 197.6,
+      "text": "1-11"
+    },
+    {
+      "id": 30,
+      "start": 198.6,
+      "end": 199.6,
+      "text": "1-12"
+    },
+    {
+      "id": 31,
+      "start": 200.6,
+      "end": 201.6,
+      "text": "1-13"
+    },
+    {
+      "id": 32,
+      "start": 202.6,
+      "end": 203.6,
+      "text": "1-14"
+    },
+    {
+      "id": 33,
+      "start": 204.6,
+      "end": 205.6,
+      "text": "1-15"
+    },
+    {
+      "id": 34,
+      "start": 326.72,
+      "end": 331.72,
+      "text": "1x2 2x3 3x1"
+    },
+    {
+      "id": 35,
+      "start": 768.78,
+      "end": 770.78,
+      "text": "پر آپاکٹ کرنا آپ possible نہیں ہیں"
+    },
+    {
+      "id": 36,
+      "start": 771.78,
+      "end": 773.78,
+      "text": "جس سے آگے پر اپا کٹ کر نہ آپ possible"
+    },
+    {
+      "id": 37,
+      "start": 775.16,
+      "end": 776.16,
+      "text": "اور اس کا منیستیکم دلہ ہے"
+    },
+    {
+      "id": 38,
+      "start": 777.16,
+      "end": 778.16,
+      "text": "ہم نسکم دол ہے پتے سب سے last میں لیکنے والائی چی"
+    },
+    {
+      "id": 39,
+      "start": 779.16,
+      "end": 780.16,
+      "text": "so that's why in this way"
+    },
+    {
+      "id": 40,
+      "start": 781.16,
+      "end": 783.16,
+      "text": "we have taken a valid topological sort"
+    },
+    {
+      "id": 41,
+      "start": 784.16,
+      "end": 785.16,
+      "text": "We took an valid Topological Sort"
+    },
+    {
+      "id": 42,
+      "start": 786.22,
+      "end": 788.22,
+      "text": "کیا سکو کوٹ کریں بہت سان کوٹ ہو گa"
+    },
+    {
+      "id": 43,
+      "start": 789.22,
+      "end": 790.22,
+      "text": "Time complexity話 کریں"
+    },
+    {
+      "id": 44,
+      "start": 791.22,
+      "end": 792.22,
+      "text": "I am going to take time complexity linear"
+    },
+    {
+      "id": 45,
+      "start": 793.22,
+      "end": 793.72,
+      "text": "of n plus e, number of more"
+    },
+    {
+      "id": 46,
+      "start": 795.22,
+      "end": 796.22,
+      "text": "Space complexity話 ڈ کریں"
+    }
+  ]
+}

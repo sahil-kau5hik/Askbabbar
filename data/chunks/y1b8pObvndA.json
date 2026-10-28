@@ -1,0 +1,110 @@
+[
+  {
+    "chunk_id": "y1b8pObvndA_000002_000063",
+    "video_id": "y1b8pObvndA",
+    "video_title": "Lecture 135: Longest Common Subsequence || DP on Strings",
+    "lecture_number": 135,
+    "playlist_index": 144,
+    "video_url": "https://www.youtube.com/watch?v=y1b8pObvndA",
+    "start_time": 2.8,
+    "end_time": 63.83,
+    "start_timestamp_str": "00:02",
+    "end_timestamp_str": "01:03",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=y1b8pObvndA&t=2s",
+    "text": "Hello Ji, How are you? Love Babbar & Welcome to the channel. ھاں گیدہ سکنڈر کیا پڑا ہے؟ ایک ہی بیسی دی ایک و سیکن میں کیا pڑیا ہے؟ ایک سی ای آپ کو کئی ریطان کرنے آپ کو لانگست کامن سب سیکو انس کی لن تریتان کر نی ہے OK سب سے بلے سمستن سپ سیخو انス کیا ہوتا سب کا لئے سامستن شکوانس کیا h ایک ایک لژسے کی میرا پاس ایک ٹرینگ ہے ایک بی سی دیک ای اپے میرا باس ٦رینг ہے 1-1. 2-2. 1-2 1-3.",
+    "segment_span": [
+      0,
+      19
+    ]
+  },
+  {
+    "chunk_id": "y1b8pObvndA_000065_000145",
+    "video_id": "y1b8pObvndA",
+    "video_title": "Lecture 135: Longest Common Subsequence || DP on Strings",
+    "lecture_number": 135,
+    "playlist_index": 144,
+    "video_url": "https://www.youtube.com/watch?v=y1b8pObvndA",
+    "start_time": 65.83,
+    "end_time": 145.83,
+    "start_timestamp_str": "01:05",
+    "end_timestamp_str": "02:25",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=y1b8pObvndA&t=65s",
+    "text": "1-4 1-6 1-5 1 1-7 1-8 1-9 1-10 1-11 A, B , C",
+    "segment_span": [
+      20,
+      29
+    ]
+  },
+  {
+    "chunk_id": "y1b8pObvndA_000147_000478",
+    "video_id": "y1b8pObvndA",
+    "video_title": "Lecture 135: Longest Common Subsequence || DP on Strings",
+    "lecture_number": 135,
+    "playlist_index": 144,
+    "video_url": "https://www.youtube.com/watch?v=y1b8pObvndA",
+    "start_time": 147.83,
+    "end_time": 478.48,
+    "start_timestamp_str": "02:27",
+    "end_timestamp_str": "07:58",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=y1b8pObvndA&t=147s",
+    "text": "A,B,C ایبی سی بیسی دیی ایس سی",
+    "segment_span": [
+      30,
+      31
+    ]
+  },
+  {
+    "chunk_id": "y1b8pObvndA_000479_000653",
+    "video_id": "y1b8pObvndA",
+    "video_title": "Lecture 135: Longest Common Subsequence || DP on Strings",
+    "lecture_number": 135,
+    "playlist_index": 144,
+    "video_url": "https://www.youtube.com/watch?v=y1b8pObvndA",
+    "start_time": 479.48,
+    "end_time": 653.07,
+    "start_timestamp_str": "07:59",
+    "end_timestamp_str": "10:53",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=y1b8pObvndA&t=479s",
+    "text": "آپ نے آئی کو آگے بڑایا ایپل بیپت آپ نا پڑیا آئے بی بڈا جیری منسیم جہی پڈائے گا اگر میں اس کے اس کی بات کرنوں سکنے والے گیا آپ نے جی کو آگیں بژا جیو گیا ایک ای بہل ہے ای پہلے ہی بھی کیوبور تھا ابھی بھی بی کیوب پژے OK اور جی کہاں پڒہ جی میرا سی کیو پړا ہے سی کا بڗا بښا آگی بٹھا ہے تھا 2",
+    "segment_span": [
+      32,
+      39
+    ]
+  },
+  {
+    "chunk_id": "y1b8pObvndA_000654_001083",
+    "video_id": "y1b8pObvndA",
+    "video_title": "Lecture 135: Longest Common Subsequence || DP on Strings",
+    "lecture_number": 135,
+    "playlist_index": 144,
+    "video_url": "https://www.youtube.com/watch?v=y1b8pObvndA",
+    "start_time": 654.58,
+    "end_time": 1083.08,
+    "start_timestamp_str": "10:54",
+    "end_timestamp_str": "18:03",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=y1b8pObvndA&t=654s",
+    "text": "2 1 2 2 2 2 2 3 4 5 6 7 8 ھاپنے رکھر جی فنگشن کالم میں پیرامیٹرس بھیتے ہو اسی کو ریدان کرنا تو آپ نے وہ لہت دیپی آف 0,0",
+    "segment_span": [
+      40,
+      53
+    ]
+  },
+  {
+    "chunk_id": "y1b8pObvndA_001084_001326",
+    "video_id": "y1b8pObvndA",
+    "video_title": "Lecture 135: Longest Common Subsequence || DP on Strings",
+    "lecture_number": 135,
+    "playlist_index": 144,
+    "video_url": "https://www.youtube.com/watch?v=y1b8pObvndA",
+    "start_time": 1084.03,
+    "end_time": 1326.26,
+    "start_timestamp_str": "18:04",
+    "end_timestamp_str": "22:06",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=y1b8pObvndA&t=1084s",
+    "text": "دیکھئے ہم نے اس کو کمنٹ کر دی اور ریٹان کر دیا ریڈان سال بٹاب و ٹیکس ٦ کاما ٹکس ٣ اس کو رنکوڑ گیا اس کو рنکروڑ gia کیا کر بڑ ہے؟ کیا کہ ربڑ ہیں? اس نے وہ لا جی بیکو لکا ہے آہہہ ہمیں رنگ کوڑ Gia आजी प्रें है।",
+    "segment_span": [
+      54,
+      64
+    ]
+  }
+]

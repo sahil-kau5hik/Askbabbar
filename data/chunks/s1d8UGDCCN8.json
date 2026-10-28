@@ -1,0 +1,254 @@
+[
+  {
+    "chunk_id": "s1d8UGDCCN8_000003_000097",
+    "video_id": "s1d8UGDCCN8",
+    "video_title": "Lecture 64: Binary Tree FAANG Interview Questions || Part-2",
+    "lecture_number": 64,
+    "playlist_index": 70,
+    "video_url": "https://www.youtube.com/watch?v=s1d8UGDCCN8",
+    "start_time": 3.25,
+    "end_time": 97.79,
+    "start_timestamp_str": "00:03",
+    "end_timestamp_str": "01:37",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=s1d8UGDCCN8&t=3s",
+    "text": "Hello, how are you? Welcome to the channel. We have reached lecture number 64 and we will solve all three of these questions here on Trees series active in last two videos 2,3 4 5 6 7 8",
+    "segment_span": [
+      0,
+      1
+    ]
+  },
+  {
+    "chunk_id": "s1d8UGDCCN8_000098_000243",
+    "video_id": "s1d8UGDCCN8",
+    "video_title": "Lecture 64: Binary Tree FAANG Interview Questions || Part-2",
+    "lecture_number": 64,
+    "playlist_index": 70,
+    "video_url": "https://www.youtube.com/watch?v=s1d8UGDCCN8",
+    "start_time": 98.29,
+    "end_time": 243.05,
+    "start_timestamp_str": "01:38",
+    "end_timestamp_str": "04:03",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=s1d8UGDCCN8&t=98s",
+    "text": "so zigzag traversal what is it? zigzag traverse this means listen to the point first of all I will print left2 right order then my answer has been made after that i'll print both sides and repeat four two for now if you go in left1 3 A lot of you have given the test",
+    "segment_span": [
+      2,
+      19
+    ]
+  },
+  {
+    "chunk_id": "s1d8UGDCCN8_000243_000813",
+    "video_id": "s1d8UGDCCN8",
+    "video_title": "Lecture 64: Binary Tree FAANG Interview Questions || Part-2",
+    "lecture_number": 64,
+    "playlist_index": 70,
+    "video_url": "https://www.youtube.com/watch?v=s1d8UGDCCN8",
+    "start_time": 243.05,
+    "end_time": 813.22,
+    "start_timestamp_str": "04:03",
+    "end_timestamp_str": "13:33",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=s1d8UGDCCN8&t=243s",
+    "text": "but your practice is very good and your bound to get a job once you clear The level conducting tests in 9 category which will be visible as well 10KROD PLUS what jobs 1.5KRD 1.6KRB 1.8KRRB 2.9KRG 1.2KRJ 1.3KRW 1.4KRS 1.0KR 1.1KR ھاکہ لگا ہاں سوڑھا گیا تھا پھر تسکہ اس پاس کر دوسارے ہیں اہاری فڑا پٹ سے",
+    "segment_span": [
+      20,
+      40
+    ]
+  },
+  {
+    "chunk_id": "s1d8UGDCCN8_000814_001090",
+    "video_id": "s1d8UGDCCN8",
+    "video_title": "Lecture 64: Binary Tree FAANG Interview Questions || Part-2",
+    "lecture_number": 64,
+    "playlist_index": 70,
+    "video_url": "https://www.youtube.com/watch?v=s1d8UGDCCN8",
+    "start_time": 814.22,
+    "end_time": 1090.06,
+    "start_timestamp_str": "13:34",
+    "end_timestamp_str": "18:10",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=s1d8UGDCCN8&t=814s",
+    "text": "ایک 520 واؤ تو یہ 520 تسیکہ اسمارے پاس ہو گئیں اس پکار ہم نے اپنا سلیشن ختم کر بھی اور ہم کیا سمجھ ماغے گا بھی اپورت ہم کر لیں جیکز ایک ٹرورٹ سے ناہا ہمیں کرنا آگے ہم میں کہا بہلا دوارہ دیکھیں ایک کیوں بناتے ہیں اس میں روٹنٹ ہم ندالا ہم ان کے بولا start-ing میں left to right jaanah ھاں ھوزنیا شروع کیا ھنیا ھری ہاں کیا",
+    "segment_span": [
+      41,
+      46
+    ]
+  },
+  {
+    "chunk_id": "s1d8UGDCCN8_001090_001151",
+    "video_id": "s1d8UGDCCN8",
+    "video_title": "Lecture 64: Binary Tree FAANG Interview Questions || Part-2",
+    "lecture_number": 64,
+    "playlist_index": 70,
+    "video_url": "https://www.youtube.com/watch?v=s1d8UGDCCN8",
+    "start_time": 1090.56,
+    "end_time": 1151.84,
+    "start_timestamp_str": "18:10",
+    "end_timestamp_str": "19:11",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=s1d8UGDCCN8&t=1090s",
+    "text": "اینشورت جاب کا یہ ليفنڈ والا فنگچنانے یار وہ اس پر کار پر انٹ کر رہا ہے تو ليفنت پر نک کر را رہے ہا وہ لفتوڑ رائٹ کی تریکشن میں اپلتین فرچھے فر اٹ فردس ارگیا رہ ایس پر اکا بود بڑیا دو چیزوں بھی اب ثورٹ پات اپنڇ کر رادوں گا اس میں بھی چھوٹھا سے کیا چیار ليفناڈ آلژی پرنڋ بڈی ہے پر ایک چیزاں دھانتا ہے آپ کو اس کو ریبوش جائکس نے پر انٹ کرانا ہے تو بہت ساری کنڈیشن بن گئی ہے",
+    "segment_span": [
+      47,
+      57
+    ]
+  },
+  {
+    "chunk_id": "s1d8UGDCCN8_001152_001214",
+    "video_id": "s1d8UGDCCN8",
+    "video_title": "Lecture 64: Binary Tree FAANG Interview Questions || Part-2",
+    "lecture_number": 64,
+    "playlist_index": 70,
+    "video_url": "https://www.youtube.com/watch?v=s1d8UGDCCN8",
+    "start_time": 1152.84,
+    "end_time": 1214.95,
+    "start_timestamp_str": "19:12",
+    "end_timestamp_str": "20:14",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=s1d8UGDCCN8&t=1152s",
+    "text": "پر اسکم بڑی پیاس آل کریں گے ہیں کیوں کہ میں ان کو تین اللہ گلک پاٹ میں طور دیا تین allah ghalaq pate mé تو اس کو فٹا فٹیک پر قورد کرتے ہیں لوگی کاف کو مہے بتا دیا ہے ایت انہیں ہی لوگے کاف کچھ نہیں ہے 1.5mm 2.6mm 3.8mm",
+    "segment_span": [
+      58,
+      66
+    ]
+  },
+  {
+    "chunk_id": "s1d8UGDCCN8_001216_001607",
+    "video_id": "s1d8UGDCCN8",
+    "video_title": "Lecture 64: Binary Tree FAANG Interview Questions || Part-2",
+    "lecture_number": 64,
+    "playlist_index": 70,
+    "video_url": "https://www.youtube.com/watch?v=s1d8UGDCCN8",
+    "start_time": 1216.95,
+    "end_time": 1607.67,
+    "start_timestamp_str": "20:16",
+    "end_timestamp_str": "26:47",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=s1d8UGDCCN8&t=1216s",
+    "text": "4.9mm 5.2mm 6.3mm ڈ ڑ ژ ڧ ڨ ڡ ڤ ڝ ڗ ڭ ڣ ڇ ڒ ډ ښ ڷ ڃ چ ڋ ڍ ڛ ڰ ڦ گ ڴ ڕ ڔ ڹ ڂ ڪ ڟ ڵ ڢ ڶ ڬ ں ڀ ڼ ڮ ڲ ڱ ڥ ږ ڞ ک ګ ڻ ھ ڎ ڿ څ ڠ ڙ ڽ ڏ ڜ ړ ڸ ڳ ڐ ڊ ڄ ڌ ځ �",
+    "segment_span": [
+      67,
+      70
+    ]
+  },
+  {
+    "chunk_id": "s1d8UGDCCN8_001943_002003",
+    "video_id": "s1d8UGDCCN8",
+    "video_title": "Lecture 64: Binary Tree FAANG Interview Questions || Part-2",
+    "lecture_number": 64,
+    "playlist_index": 70,
+    "video_url": "https://www.youtube.com/watch?v=s1d8UGDCCN8",
+    "start_time": 1943.29,
+    "end_time": 2003.62,
+    "start_timestamp_str": "32:23",
+    "end_timestamp_str": "33:23",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=s1d8UGDCCN8&t=1943s",
+    "text": "4, 5 6 7 8 9 We said we have to do vertical order traversal So let's say that everyone is doing a vertical line Don't be afraid If you look at this order carefully My answer will come First comes 4 Then it comes 2 Then here 1 And then 5 or 6 1,5 or 6 3 OR 8 3 OR 9 4 OR 9 2 OR 9 5 OR 9 6 OR 9 6 OR 10 7 OR 9 9",
+    "segment_span": [
+      71,
+      96
+    ]
+  },
+  {
+    "chunk_id": "s1d8UGDCCN8_002004_002101",
+    "video_id": "s1d8UGDCCN8",
+    "video_title": "Lecture 64: Binary Tree FAANG Interview Questions || Part-2",
+    "lecture_number": 64,
+    "playlist_index": 70,
+    "video_url": "https://www.youtube.com/watch?v=s1d8UGDCCN8",
+    "start_time": 2004.62,
+    "end_time": 2101.89,
+    "start_timestamp_str": "33:24",
+    "end_timestamp_str": "35:01",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=s1d8UGDCCN8&t=2004s",
+    "text": "8 OR 9 6KWT, 3KWP1.",
+    "segment_span": [
+      97,
+      98
+    ]
+  },
+  {
+    "chunk_id": "s1d8UGDCCN8_002102_003462",
+    "video_id": "s1d8UGDCCN8",
+    "video_title": "Lecture 64: Binary Tree FAANG Interview Questions || Part-2",
+    "lecture_number": 64,
+    "playlist_index": 70,
+    "video_url": "https://www.youtube.com/watch?v=s1d8UGDCCN8",
+    "start_time": 2102.89,
+    "end_time": 3462.0,
+    "start_timestamp_str": "35:02",
+    "end_timestamp_str": "57:42",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=s1d8UGDCCN8&t=2102s",
+    "text": "7KW2. 9KW3. Horizontal Distance is different from horizontal distance Horizontial Distance depends on what you do ھاں آپ کو 6th ھکہ پیچھا آپ کو 5th ۔",
+    "segment_span": [
+      99,
+      103
+    ]
+  },
+  {
+    "chunk_id": "s1d8UGDCCN8_003464_003585",
+    "video_id": "s1d8UGDCCN8",
+    "video_title": "Lecture 64: Binary Tree FAANG Interview Questions || Part-2",
+    "lecture_number": 64,
+    "playlist_index": 70,
+    "video_url": "https://www.youtube.com/watch?v=s1d8UGDCCN8",
+    "start_time": 3464.32,
+    "end_time": 3585.33,
+    "start_timestamp_str": "57:44",
+    "end_timestamp_str": "59:45",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=s1d8UGDCCN8&t=3464s",
+    "text": "ھو آپ کو 1 2 9 hidover ھے آپ کو 7th ڈھگیا ھیں آپ کو ایسٹو کر لئے ھیکھا میں کو دھیانے سے دیکھیں 1-1-2-2",
+    "segment_span": [
+      104,
+      108
+    ]
+  },
+  {
+    "chunk_id": "s1d8UGDCCN8_003587_003715",
+    "video_id": "s1d8UGDCCN8",
+    "video_title": "Lecture 64: Binary Tree FAANG Interview Questions || Part-2",
+    "lecture_number": 64,
+    "playlist_index": 70,
+    "video_url": "https://www.youtube.com/watch?v=s1d8UGDCCN8",
+    "start_time": 3587.33,
+    "end_time": 3715.22,
+    "start_timestamp_str": "59:47",
+    "end_timestamp_str": "01:01:55",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=s1d8UGDCCN8&t=3587s",
+    "text": "2-3 2-6 4 3-264 4-267 4-27 1 2 3 4 5 6 7 8 9",
+    "segment_span": [
+      109,
+      115
+    ]
+  },
+  {
+    "chunk_id": "s1d8UGDCCN8_003804_003884",
+    "video_id": "s1d8UGDCCN8",
+    "video_title": "Lecture 64: Binary Tree FAANG Interview Questions || Part-2",
+    "lecture_number": 64,
+    "playlist_index": 70,
+    "video_url": "https://www.youtube.com/watch?v=s1d8UGDCCN8",
+    "start_time": 3804.4,
+    "end_time": 3884.49,
+    "start_timestamp_str": "01:03:24",
+    "end_timestamp_str": "01:04:44",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=s1d8UGDCCN8&t=3804s",
+    "text": "ھاں ہم سے بہت سارے کوشنگے گی گیییے اب دھرہ رکھاشیں گی طرف ہاتے کیا وہ یہ Level Up سے نہیں کر سکتے اسکنگ بھی لگل کر سیکتے ہیں پر میں کہ آپ کو چھوٹے گوڑھے سمجھا سکھتا ہوں فا پڑے والے کوڑڑ پے کیوں جا ہونے میرا انٹن تو یہ ہے کہ مگہ آپ کو سپسے آنچیز اور سب سے اپٹیمال تری کے سی آپ کو پکڑ آپ دھنگ کے دوست ایسے کردی وہ ترہا لیکشن ہو جائے گے تو ام جانگر کرسی بھی کی طرف ہے؟ پر ام لیکرشن کو آس مجھنے والے سمجھتے ہیں کس پر کر روگا میں سمپس سیز بولی آپ کو میرا دیما کہرائے کہر کسیز لевولل پے جاؤ گئے تو بس فش نور کو پر انٹ کر رہ دو اب ٹی کیا مجے کیا سپتلکہ یہ فش נور دے یہ کچھ آیا آپ کا وہ یہ فاش نور دیں کیا سے پتلگے گئا و بھالے بہت اصانع یہ پتلاگا نہ کہ تم کبھ نکس لیوال پر محاجے",
+    "segment_span": [
+      116,
+      133
+    ]
+  },
+  {
+    "chunk_id": "s1d8UGDCCN8_003885_003901",
+    "video_id": "s1d8UGDCCN8",
+    "video_title": "Lecture 64: Binary Tree FAANG Interview Questions || Part-2",
+    "lecture_number": 64,
+    "playlist_index": 70,
+    "video_url": "https://www.youtube.com/watch?v=s1d8UGDCCN8",
+    "start_time": 3885.14,
+    "end_time": 3901.36,
+    "start_timestamp_str": "01:04:45",
+    "end_timestamp_str": "01:05:01",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=s1d8UGDCCN8&t=3885s",
+    "text": "تم کبر نکش لیول پر پہنچے تو اس کو اگر سمجھ کوئی اش کرتے ہیں میں نے کہ بلکہ میرا فنگشن کیس پر گار کا ہوگا جب ایساول کرنے دارا ہوں اس کے اندار چیز ہوں گی اس کےндار دار چینز ہون گی بہلہ تو آپ کا روٹ جو ہوگیا ہوں دوسرا آپ نے کوئے لیے لوگہ لیلے لو لیس کے انڈرایا ہوا پھر آپ کیا کروگی",
+    "segment_span": [
+      134,
+      142
+    ]
+  }
+]

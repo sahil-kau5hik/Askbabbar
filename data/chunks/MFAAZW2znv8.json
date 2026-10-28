@@ -1,0 +1,74 @@
+[
+  {
+    "chunk_id": "MFAAZW2znv8_000033_000094",
+    "video_id": "MFAAZW2znv8",
+    "video_title": "Lecture 107: Cut Rod into Segments of X, Y, Z || DP Series",
+    "lecture_number": 107,
+    "playlist_index": 116,
+    "video_url": "https://www.youtube.com/watch?v=MFAAZW2znv8",
+    "start_time": 33.54,
+    "end_time": 94.54,
+    "start_timestamp_str": "00:33",
+    "end_timestamp_str": "01:34",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=MFAAZW2znv8&t=33s",
+    "text": "C++ Placement DSA Course. Topics, Linear Search, Lineart Search, Web, Trie, Graph, Kodeng Ninjaz ملے والا ہے.",
+    "segment_span": [
+      0,
+      2
+    ]
+  },
+  {
+    "chunk_id": "MFAAZW2znv8_000094_000949",
+    "video_id": "MFAAZW2znv8",
+    "video_title": "Lecture 107: Cut Rod into Segments of X, Y, Z || DP Series",
+    "lecture_number": 107,
+    "playlist_index": 116,
+    "video_url": "https://www.youtube.com/watch?v=MFAAZW2znv8",
+    "start_time": 94.54,
+    "end_time": 949.76,
+    "start_timestamp_str": "01:34",
+    "end_timestamp_str": "15:49",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=MFAAZW2znv8&t=94s",
+    "text": "کوشبھر آنے والے بندیں, اورڈی پڑی بڑھی کمپنیا فورچ ہو گئے ہیں تو اس کیا پکہ تانشل لنگ کی نہیں ہے اللانگوچ کیا کر بات کریں ہندی انگلش دونہ میں بلے بل ہے کوشن سوال کرتے ہیں آپ کو حنتビデュیڈوزوں میں جائیں گے تو اگر آپ کو کوئی بھی پیڑ کوش کریں گا تو اب آپ سمجھ دار ہے آپ کے پاس یہ لیکن дисکسیم سے پڈا آہا ہے ایسپی کلک کر کیا آپ لے سکتے 20% discount, 2020. A very famous problem is called cut into segments Road cutting problems Roads Question? You are given an integer end You need to remind the maximum number of segment you can make Provided that each segment 1.0",
+    "segment_span": [
+      3,
+      22
+    ]
+  },
+  {
+    "chunk_id": "MFAAZW2znv8_000950_001413",
+    "video_id": "MFAAZW2znv8",
+    "video_title": "Lecture 107: Cut Rod into Segments of X, Y, Z || DP Series",
+    "lecture_number": 107,
+    "playlist_index": 116,
+    "video_url": "https://www.youtube.com/watch?v=MFAAZW2znv8",
+    "start_time": 950.76,
+    "end_time": 1413.14,
+    "start_timestamp_str": "15:50",
+    "end_timestamp_str": "23:33",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=MFAAZW2znv8&t=950s",
+    "text": "2.0 3.0 4.0 5.0 6.0 7.0 9.0 8.0 9.2 10.9 11.6 12.8 13.4 اس کو store grab, return , and then what is the third step",
+    "segment_span": [
+      23,
+      36
+    ]
+  },
+  {
+    "chunk_id": "MFAAZW2znv8_001413_001437",
+    "video_id": "MFAAZW2znv8",
+    "video_title": "Lecture 107: Cut Rod into Segments of X, Y, Z || DP Series",
+    "lecture_number": 107,
+    "playlist_index": 116,
+    "video_url": "https://www.youtube.com/watch?v=MFAAZW2znv8",
+    "start_time": 1413.24,
+    "end_time": 1437.84,
+    "start_timestamp_str": "23:33",
+    "end_timestamp_str": "23:57",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=MFAAZW2znv8&t=1413s",
+    "text": "After base cases Check your DP so that answer will be read If you want to know if it's read Read down very good And we have to do this Simple What are tabulation You initialize accordingly And after doing that Reconciliation has been made Based on those bases Answering Very Good Check all of these for a range call From here I got 1-1 And it was called as Entaqil Aenima So i put my 4 loop there",
+    "segment_span": [
+      37,
+      53
+    ]
+  }
+]

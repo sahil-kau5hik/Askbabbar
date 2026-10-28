@@ -1,0 +1,590 @@
+{
+  "video_id": "P0UsAxtXq2Y",
+  "lecture_number": 27,
+  "video_title": "Lecture27: Double Pointers in C++ || Pointers Practice MCQs",
+  "total_duration": 3171.75,
+  "segments": [
+    {
+      "id": 0,
+      "start": 3.89,
+      "end": 9.95,
+      "text": "Lugi, how's this love book? Welcome to the channel code help. This is my lecture about 26 of our ponderes"
+    },
+    {
+      "id": 1,
+      "start": 10.05,
+      "end": 13.57,
+      "text": "We have covered 2 parts for 3 videos in series"
+    },
+    {
+      "id": 2,
+      "start": 13.69,
+      "end": 18.55,
+      "text": "The third part we will talk here are Indepth Ponderes"
+    },
+    {
+      "id": 3,
+      "start": 18.55,
+      "end": 25.45,
+      "text": "جیتنا ہم نے اب تک پڑلیا ہے بہت سارے ایک زامپس بہثہ رکوشنز ہے کہیں ہیں جن کے آوٹ پڈ ہم نکال میں والے پژل دیمات سے نکارلیں گے"
+    },
+    {
+      "id": 4,
+      "start": 25.55,
+      "end": 26.83,
+      "text": "بعد میکزی گھڑ کریں نکانے گے"
+    },
+    {
+      "id": 5,
+      "start": 27.43,
+      "end": 31.69,
+      "text": "تو پونٹر کی انڈرستانگ آپ کے بلکل کشل کلیر ہو جائے گئے اس βیڈوں کو دیکھنے کے بعد"
+    },
+    {
+      "id": 6,
+      "start": 32.21,
+      "end": 34.17,
+      "text": "یہ آپ کا پاٹھ Number 3 ۔"
+    },
+    {
+      "id": 7,
+      "start": 35.06,
+      "end": 35.38,
+      "text": "شاہو"
+    },
+    {
+      "id": 8,
+      "start": 160.82,
+      "end": 163.82,
+      "text": "but here i have written on the script of shion"
+    },
+    {
+      "id": 9,
+      "start": 164.82,
+      "end": 166.82,
+      "text": "now im at memory level"
+    },
+    {
+      "id": 10,
+      "start": 167.82,
+      "end": 169.82,
+      "text": "how much to consider"
+    },
+    {
+      "id": 11,
+      "start": 170.82,
+      "end": 171.82,
+      "text": "how many bytes"
+    },
+    {
+      "id": 12,
+      "start": 173.08,
+      "end": 175.08,
+      "text": "to be considered"
+    },
+    {
+      "id": 13,
+      "start": 178.61,
+      "end": 179.61,
+      "text": "if my entire height is"
+    },
+    {
+      "id": 14,
+      "start": 180.61,
+      "end": 181.61,
+      "text": "you know that I need 4 byte"
+    },
+    {
+      "id": 15,
+      "start": 182.61,
+      "end": 183.61,
+      "text": "right?"
+    },
+    {
+      "id": 16,
+      "start": 184.61,
+      "end": 185.61,
+      "text": "if it was double, then i want 8 byte"
+    },
+    {
+      "id": 17,
+      "start": 186.61,
+      "end": 187.61,
+      "text": "so this time"
+    },
+    {
+      "id": 18,
+      "start": 188.61,
+      "end": 189.61,
+      "text": "if its a different thing"
+    },
+    {
+      "id": 19,
+      "start": 344.22,
+      "end": 346.22,
+      "text": "& Simultaelma, Inspection Entries"
+    },
+    {
+      "id": 20,
+      "start": 346.22,
+      "end": 348.22,
+      "text": "So you have to be clear"
+    },
+    {
+      "id": 21,
+      "start": 349.22,
+      "end": 350.22,
+      "text": "What is your in-depth functioning"
+    },
+    {
+      "id": 22,
+      "start": 351.22,
+      "end": 353.22,
+      "text": "Now I will tell you"
+    },
+    {
+      "id": 23,
+      "start": 354.22,
+      "end": 356.22,
+      "text": "What is the double bonster"
+    },
+    {
+      "id": 24,
+      "start": 357.22,
+      "end": 358.22,
+      "text": "This video is sponsored by Cryo"
+    },
+    {
+      "id": 25,
+      "start": 359.22,
+      "end": 361.22,
+      "text": "The words Leading Project-Driven Platform"
+    },
+    {
+      "id": 26,
+      "start": 362.22,
+      "end": 363.22,
+      "text": "If we are targeting a job"
+    },
+    {
+      "id": 27,
+      "start": 364.22,
+      "end": 365.22,
+      "text": "We should keep doing this series"
+    },
+    {
+      "id": 28,
+      "start": 366.22,
+      "end": 367.22,
+      "text": "If we want development"
+    },
+    {
+      "id": 29,
+      "start": 368.22,
+      "end": 369.22,
+      "text": "Then cryo's place for You"
+    },
+    {
+      "id": 30,
+      "start": 370.22,
+      "end": 371.22,
+      "text": "We'll get different programs"
+    },
+    {
+      "id": 31,
+      "start": 372.22,
+      "end": 373.22,
+      "text": "Like Full Stack program"
+    },
+    {
+      "id": 32,
+      "start": 374.22,
+      "end": 379.82,
+      "text": "پرگرام کا گرید اس لیول کہاہی ki آپ جو پروjekٹ دوولہ کرنے والے ہیں ان کے اندر وہ انтانشپ لیوال کے پروجھ سے ہیں"
+    },
+    {
+      "id": 33,
+      "start": 380.02,
+      "end": 382.08,
+      "text": "یہاں پر تیزے پرکتکلی آپ کرنیں والے ہو"
+    },
+    {
+      "id": 34,
+      "start": 382.28,
+      "end": 386.02,
+      "text": "ہر پرغام کے اینم آپ کو ستنی پروjekt ہوگے کیا آپ کر جو میں بہت تگلہ ہو جائے گا"
+    },
+    {
+      "id": 35,
+      "start": 386.22,
+      "end": 388.22,
+      "text": "اتنا اینی یہاہ پر کفیلوشپ رگرارم بھی ہے"
+    },
+    {
+      "id": 36,
+      "start": 388.42,
+      "end": 393.22,
+      "text": "جس میں آپ کو پلیسمن کی گرنٹی ری چاہتی ہے کہ ایک پرڑک بیس کمپری مہاپ کی پلےسمن کرواضی جائی گی"
+    },
+    {
+      "id": 37,
+      "start": 461.15,
+      "end": 462.15,
+      "text": "1.0"
+    },
+    {
+      "id": 38,
+      "start": 463.15,
+      "end": 464.15,
+      "text": "2.0"
+    },
+    {
+      "id": 39,
+      "start": 465.38,
+      "end": 466.38,
+      "text": "3.0"
+    },
+    {
+      "id": 40,
+      "start": 467.38,
+      "end": 468.38,
+      "text": "4.0"
+    },
+    {
+      "id": 41,
+      "start": 469.38,
+      "end": 470.38,
+      "text": "5.0"
+    },
+    {
+      "id": 42,
+      "start": 471.38,
+      "end": 472.38,
+      "text": "6.0"
+    },
+    {
+      "id": 43,
+      "start": 473.38,
+      "end": 474.38,
+      "text": "7.0"
+    },
+    {
+      "id": 44,
+      "start": 475.38,
+      "end": 476.38,
+      "text": "9.0"
+    },
+    {
+      "id": 45,
+      "start": 477.38,
+      "end": 478.38,
+      "text": "8.0"
+    },
+    {
+      "id": 46,
+      "start": 479.38,
+      "end": 480.38,
+      "text": "9.1"
+    },
+    {
+      "id": 47,
+      "start": 481.38,
+      "end": 482.38,
+      "text": "9.2"
+    },
+    {
+      "id": 48,
+      "start": 483.38,
+      "end": 484.38,
+      "text": "10.9"
+    },
+    {
+      "id": 49,
+      "start": 485.38,
+      "end": 486.38,
+      "text": "11.3"
+    },
+    {
+      "id": 50,
+      "start": 487.38,
+      "end": 488.38,
+      "text": "12.4"
+    },
+    {
+      "id": 51,
+      "start": 686.65,
+      "end": 687.65,
+      "text": "PTRKADRJ"
+    },
+    {
+      "id": 52,
+      "start": 688.65,
+      "end": 689.65,
+      "text": "820BHP"
+    },
+    {
+      "id": 53,
+      "start": 690.65,
+      "end": 691.94,
+      "text": "RG"
+    },
+    {
+      "id": 54,
+      "start": 692.94,
+      "end": 693.94,
+      "text": "RG"
+    },
+    {
+      "id": 55,
+      "start": 694.94,
+      "end": 696.94,
+      "text": "RG"
+    },
+    {
+      "id": 56,
+      "start": 697.94,
+      "end": 698.94,
+      "text": "RG"
+    },
+    {
+      "id": 57,
+      "start": 699.94,
+      "end": 700.94,
+      "text": "RG"
+    },
+    {
+      "id": 58,
+      "start": 701.94,
+      "end": 702.94,
+      "text": "RG"
+    },
+    {
+      "id": 59,
+      "start": 703.94,
+      "end": 704.94,
+      "text": "RG"
+    },
+    {
+      "id": 60,
+      "start": 705.94,
+      "end": 706.94,
+      "text": "RG"
+    },
+    {
+      "id": 61,
+      "start": 707.94,
+      "end": 708.94,
+      "text": "RG"
+    },
+    {
+      "id": 62,
+      "start": 709.94,
+      "end": 710.94,
+      "text": "RG"
+    },
+    {
+      "id": 63,
+      "start": 711.94,
+      "end": 712.94,
+      "text": "RG"
+    },
+    {
+      "id": 64,
+      "start": 713.94,
+      "end": 714.97,
+      "text": "RG"
+    },
+    {
+      "id": 65,
+      "start": 1900.41,
+      "end": 1901.41,
+      "text": "8."
+    },
+    {
+      "id": 66,
+      "start": 1901.41,
+      "end": 1902.41,
+      "text": "8."
+    },
+    {
+      "id": 67,
+      "start": 1902.41,
+      "end": 1903.41,
+      "text": "8."
+    },
+    {
+      "id": 68,
+      "start": 1903.41,
+      "end": 1904.41,
+      "text": "8."
+    },
+    {
+      "id": 69,
+      "start": 1904.41,
+      "end": 1905.41,
+      "text": "8."
+    },
+    {
+      "id": 70,
+      "start": 2312.87,
+      "end": 2314.87,
+      "text": "ھاکسکلی سیمہتے ہیں یہاں بہت بڑیا ہے"
+    },
+    {
+      "id": 71,
+      "start": 2316.87,
+      "end": 2318.87,
+      "text": "لیکن سال کریں گے میں سالک کر پارے ہیں"
+    },
+    {
+      "id": 72,
+      "start": 2320.87,
+      "end": 2322.87,
+      "text": "آگے چلتے ہوگے"
+    },
+    {
+      "id": 73,
+      "start": 2324.87,
+      "end": 2326.87,
+      "text": "میری پاس کیا پڑا ہوا ہے"
+    },
+    {
+      "id": 74,
+      "start": 2328.87,
+      "end": 2331.29,
+      "text": "میری بہا چھے سائے چھاگے ہیں گیارا ٹیرہ پڈا ہوں"
+    },
+    {
+      "id": 75,
+      "start": 2333.29,
+      "end": 2335.29,
+      "text": "ایک کس اور ٹینہ"
+    },
+    {
+      "id": 76,
+      "start": 2337.29,
+      "end": 2339.29,
+      "text": "مجھے کیا ہوتا ہے؟"
+    },
+    {
+      "id": 77,
+      "start": 2404.82,
+      "end": 2405.82,
+      "text": "13."
+    },
+    {
+      "id": 78,
+      "start": 2406.82,
+      "end": 2408.21,
+      "text": "15."
+    },
+    {
+      "id": 79,
+      "start": 2413.59,
+      "end": 2414.59,
+      "text": "10."
+    },
+    {
+      "id": 80,
+      "start": 2415.59,
+      "end": 2417.59,
+      "text": "12,"
+    },
+    {
+      "id": 81,
+      "start": 2418.59,
+      "end": 2419.59,
+      "text": "14"
+    },
+    {
+      "id": 82,
+      "start": 2420.59,
+      "end": 2422.59,
+      "text": "11."
+    },
+    {
+      "id": 83,
+      "start": 2423.59,
+      "end": 2424.59,
+      "text": "12."
+    },
+    {
+      "id": 84,
+      "start": 2425.59,
+      "end": 2426.59,
+      "text": "12."
+    },
+    {
+      "id": 85,
+      "start": 2427.59,
+      "end": 2428.59,
+      "text": "12."
+    },
+    {
+      "id": 86,
+      "start": 2429.59,
+      "end": 2430.59,
+      "text": "12."
+    },
+    {
+      "id": 87,
+      "start": 2431.59,
+      "end": 2432.59,
+      "text": "13."
+    },
+    {
+      "id": 88,
+      "start": 2433.59,
+      "end": 2434.59,
+      "text": "13."
+    },
+    {
+      "id": 89,
+      "start": 2435.59,
+      "end": 2436.59,
+      "text": "13."
+    },
+    {
+      "id": 90,
+      "start": 2533.47,
+      "end": 2557.7,
+      "text": "ڈ ڑ ژ ڧ ڡ ڝ ڭ ڗ ڨ ڤ ډ ڍ ڇ ڃ ڣ ڦ ڒ ڛ گ ڋ ښ ڪ ڂ چ ڀ ږ ڷ ں ڶ ڰ ڱ ڕ ڢ ڮ ڟ ڔ ڴ ڬ ڼ ڹ ڵ ڲ ڻ ڥ څ ک ڿ ڙ ڏ ڜ ګ ڽ ڊ ڎ ھ ڠ ڞ ړ ڳ ڸ ڐ ڄ ڌ ځ �"
+    },
+    {
+      "id": 91,
+      "start": 3148.61,
+      "end": 3153.5,
+      "text": "او او بیسا او جبان جو امام او مدر او دیم او سکلی بیدو اما او آشا کرتا ان این تین بیڈو ایس او پاٹ او"
+    },
+    {
+      "id": 92,
+      "start": 3153.6,
+      "end": 3157.64,
+      "text": "باٹ تو پانٹر ام اون لین او کلیار ہوگا و او اس باہتی گرنٹی ہے"
+    },
+    {
+      "id": 93,
+      "start": 3157.68,
+      "end": 3162.14,
+      "text": "او ان کے آپ کسی بھی کمپنی کی اوان لین سیسان مدار کر او چنانا ہی گا"
+    },
+    {
+      "id": 94,
+      "start": 3162.16,
+      "end": 3165.44,
+      "text": "اب کر لوگ او کر لو گے او آپ نے 3 مدن سے دیکھتو"
+    },
+    {
+      "id": 95,
+      "start": 3165.46,
+      "end": 3170.22,
+      "text": "او رہا امسا کلیں بیدا او عورا مدانے والا مطانا بیل گا اونسرشن کر"
+    },
+    {
+      "id": 96,
+      "start": 3170.22,
+      "end": 3171.22,
+      "text": "Baba"
+    }
+  ]
+}

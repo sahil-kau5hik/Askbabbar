@@ -1,0 +1,716 @@
+{
+  "video_id": "rlpw7oi-bpE",
+  "lecture_number": 26,
+  "video_title": "Lecture 26: Pointers in C++ || Part-2 || DSA Placement Course - Love Babbar",
+  "total_duration": 3838.42,
+  "segments": [
+    {
+      "id": 0,
+      "start": 0.0,
+      "end": 6.0,
+      "text": "Hello, this is Love Babbar and welcome to the channel Code Help. This video's lesson number 26 of DSA Series"
+    },
+    {
+      "id": 1,
+      "start": 253.02,
+      "end": 255.02,
+      "text": "Re-level test are completely free,"
+    },
+    {
+      "id": 2,
+      "start": 255.02,
+      "end": 257.02,
+      "text": "in this many startups and unicorns"
+    },
+    {
+      "id": 3,
+      "start": 257.04,
+      "end": 259.04,
+      "text": "which is being hired"
+    },
+    {
+      "id": 4,
+      "start": 259.06,
+      "end": 261.06,
+      "text": "Another feature here has been added to the sample question"
+    },
+    {
+      "id": 5,
+      "start": 261.08,
+      "end": 263.08,
+      "text": "so that you can buy a mock test"
+    },
+    {
+      "id": 6,
+      "start": 263.1,
+      "end": 265.1,
+      "text": "and before giving real tests"
+    },
+    {
+      "id": 7,
+      "start": 265.12,
+      "end": 267.12,
+      "text": "I will explain what's going on with these results"
+    },
+    {
+      "id": 8,
+      "start": 267.14,
+      "end": 269.14,
+      "text": "So they have already provided 7 crore plus"
+    },
+    {
+      "id": 9,
+      "start": 269.16,
+      "end": 270.16,
+      "text": "about jobs"
+    },
+    {
+      "id": 10,
+      "start": 270.18,
+      "end": 272.18,
+      "text": "And some of them are not coming"
+    },
+    {
+      "id": 11,
+      "start": 272.2,
+      "end": 273.18,
+      "text": "because their leaderboards"
+    },
+    {
+      "id": 12,
+      "start": 273.2,
+      "end": 274.2,
+      "text": "were built"
+    },
+    {
+      "id": 13,
+      "start": 274.22,
+      "end": 276.22,
+      "text": "and 5.0 literboard"
+    },
+    {
+      "id": 14,
+      "start": 276.24,
+      "end": 278.24,
+      "text": "You get an exciting price"
+    },
+    {
+      "id": 15,
+      "start": 278.26,
+      "end": 280.26,
+      "text": "I am not sure"
+    },
+    {
+      "id": 16,
+      "start": 280.28,
+      "end": 282.28,
+      "text": "Now if we want to make a job"
+    },
+    {
+      "id": 17,
+      "start": 677.84,
+      "end": 685.84,
+      "text": "ھاکتے لیے لیکن ایک سوارنگ دیکھتے بہت ہم ایک بیٹھ ایک دیکنگ گزل پر بھی بھیڑا ہے"
+    },
+    {
+      "id": 18,
+      "start": 686.84,
+      "end": 689.84,
+      "text": "ایک خاص بہیں گے لگر بہنگ رہے ہیں"
+    },
+    {
+      "id": 19,
+      "start": 690.84,
+      "end": 693.54,
+      "text": "ایک جان ایک ایک چیز گزلا ہے"
+    },
+    {
+      "id": 20,
+      "start": 694.7,
+      "end": 696.7,
+      "text": "ایک مجھے لکھتا ہے"
+    },
+    {
+      "id": 21,
+      "start": 697.7,
+      "end": 699.7,
+      "text": "ایک اللہ بھی پر دیکس گزا ہے"
+    },
+    {
+      "id": 22,
+      "start": 700.7,
+      "end": 703.7,
+      "text": "ایک لیکھ بھی گزال گزول"
+    },
+    {
+      "id": 23,
+      "start": 767.7,
+      "end": 768.7,
+      "text": "0th location address"
+    },
+    {
+      "id": 24,
+      "start": 769.1,
+      "end": 769.7,
+      "text": "i-cather shara"
+    },
+    {
+      "id": 25,
+      "start": 769.9,
+      "end": 770.38,
+      "text": "koi biya ka number"
+    },
+    {
+      "id": 26,
+      "start": 770.54,
+      "end": 771.18,
+      "text": "aap dhiro gantijar me"
+    },
+    {
+      "id": 27,
+      "start": 771.38,
+      "end": 772.3,
+      "text": "unka pa na plas kar liya"
+    },
+    {
+      "id": 28,
+      "start": 772.5,
+      "end": 773.1,
+      "text": "ab jo"
+    },
+    {
+      "id": 29,
+      "start": 773.3,
+      "end": 775.1,
+      "text": "Ataj generate ho ke ayah"
+    },
+    {
+      "id": 30,
+      "start": 775.3,
+      "end": 776.3,
+      "text": "aghaa haji yatraj jenit ho keayah"
+    },
+    {
+      "id": 31,
+      "start": 776.5,
+      "end": 777.9,
+      "text": "usma aapne star lagadiyah"
+    },
+    {
+      "id": 32,
+      "start": 778.1,
+      "end": 779.3,
+      "text": "to hai haap ek value jenrit ho keye"
+    },
+    {
+      "id": 33,
+      "start": 779.5,
+      "end": 780.7,
+      "text": "ki jukeh s'address se padhi huyogi"
+    },
+    {
+      "id": 34,
+      "start": 780.9,
+      "end": 781.54,
+      "text": "samaji isbhat kom"
+    },
+    {
+      "id": 35,
+      "start": 781.74,
+      "end": 782.1,
+      "text": "samastain"
+    },
+    {
+      "id": 36,
+      "start": 782.5,
+      "end": 783.7,
+      "text": "manik array banaya"
+    },
+    {
+      "id": 37,
+      "start": 783.9,
+      "end": 784.7,
+      "text": "Isprakhar"
+    },
+    {
+      "id": 38,
+      "start": 785.72,
+      "end": 786.72,
+      "text": "ismich ar location"
+    },
+    {
+      "id": 39,
+      "start": 788.04,
+      "end": 789.04,
+      "text": "zeroth index first and second"
+    },
+    {
+      "id": 40,
+      "start": 789.24,
+      "end": 789.44,
+      "text": "index"
+    },
+    {
+      "id": 41,
+      "start": 790.04,
+      "end": 791.64,
+      "text": "third index ni apuaia 23"
+    },
+    {
+      "id": 42,
+      "start": 791.84,
+      "end": 792.84,
+      "text": "122"
+    },
+    {
+      "id": 43,
+      "start": 793.04,
+      "end": 793.84,
+      "text": "41"
+    },
+    {
+      "id": 44,
+      "start": 794.24,
+      "end": 795.04,
+      "text": "67"
+    },
+    {
+      "id": 45,
+      "start": 795.24,
+      "end": 795.64,
+      "text": "Isprakar"
+    },
+    {
+      "id": 46,
+      "start": 796.24,
+      "end": 797.04,
+      "text": "abja mainabullah"
+    },
+    {
+      "id": 47,
+      "start": 1138.4,
+      "end": 1147.4,
+      "text": "اس کے لئے اور یہاں پہلی لوگشن کو پانٹ کر راو گا یعنی کے سمبل تیول کندر AR کی انتری ہوئی پڑھے ہوگی پہلای والے کے اٹرس کے ساتھ"
+    },
+    {
+      "id": 48,
+      "start": 1148.4,
+      "end": 1149.4,
+      "text": "اس پر گار"
+    },
+    {
+      "id": 49,
+      "start": 1150.4,
+      "end": 1151.4,
+      "text": "سمجھے میں یہ پڈا گا ہو گا"
+    },
+    {
+      "id": 50,
+      "start": 1152.4,
+      "end": 1154.8,
+      "text": "اس کا سائیزیں کالیں گا 40 بٹ سا لے گا"
+    },
+    {
+      "id": 51,
+      "start": 1155.8,
+      "end": 1157.8,
+      "text": "اسم جیہاں تو یہاً ایک ایرے یہ بنہپڑا ہے"
+    },
+    {
+      "id": 52,
+      "start": 1158.8,
+      "end": 1160.8,
+      "text": "اس میں قٹوٹل 10 بلوک ہیں"
+    },
+    {
+      "id": 53,
+      "start": 1161.8,
+      "end": 1163.8,
+      "text": "ایک دپا یہ بنپڈاد ہے اس کا نام ARR ہے"
+    },
+    {
+      "id": 54,
+      "start": 2107.13,
+      "end": 2112.83,
+      "text": "ایک جیم نے نحن سے بار کرویلو کی بیئے آپ نے سے انتیجر آرے اس کی بات کریں ان چیزوں کے اندر آپ کراکٹر آریس کے بعد تو پتاہی نہیں دیو"
+    },
+    {
+      "id": 55,
+      "start": 2113.66,
+      "end": 2114.36,
+      "text": "وہ کن بتا ہے"
+    },
+    {
+      "id": 56,
+      "start": 2115.2,
+      "end": 2116.2,
+      "text": "و بلو تو اس نہیں بلاؤ ہوں"
+    },
+    {
+      "id": 57,
+      "start": 2116.3,
+      "end": 2117.7,
+      "text": "پر سمیہ سمینہ نے بتایں آپ کو"
+    },
+    {
+      "id": 58,
+      "start": 2118.0,
+      "end": 2119.7,
+      "text": "تو سمیں آگیم کرایم کرتر آیس کو اسکر"
+    },
+    {
+      "id": 59,
+      "start": 2120.1,
+      "end": 2121.1,
+      "text": "اور ان کی بااتیں"
+    },
+    {
+      "id": 60,
+      "start": 2121.2,
+      "end": 2122.8,
+      "text": "سمسیہ کی محاق کیا ہوتا ہے"
+    },
+    {
+      "id": 61,
+      "start": 2124.84,
+      "end": 2125.34,
+      "text": "тیگ ہے"
+    },
+    {
+      "id": 62,
+      "start": 2125.74,
+      "end": 2128.94,
+      "text": "فیحاپے ہم نے last point میں ایک چیسی کلیں دوارا بطاروں کیوں کی مبارنٹ ہے"
+    },
+    {
+      "id": 63,
+      "start": 2129.44,
+      "end": 2129.94,
+      "text": "کہ یعر"
+    },
+    {
+      "id": 64,
+      "start": 2130.7,
+      "end": 2131.9,
+      "text": "address of arrays"
+    },
+    {
+      "id": 65,
+      "start": 2162.26,
+      "end": 2164.26,
+      "text": "ایک ایک بیلی گیم میں میں نے آپ اسشت شروعات کریں"
+    },
+    {
+      "id": 66,
+      "start": 2165.26,
+      "end": 2167.32,
+      "text": "ہمارے ساہفران کے ساتھ"
+    },
+    {
+      "id": 67,
+      "start": 2168.32,
+      "end": 2171.18,
+      "text": "کر ریکٹر آرے اس کی باتے کر لیتے تھا"
+    },
+    {
+      "id": 68,
+      "start": 2172.41,
+      "end": 2174.41,
+      "text": "اس کو سمست ہے"
+    },
+    {
+      "id": 69,
+      "start": 2175.41,
+      "end": 2177.41,
+      "text": "چھوٹس آر جادا کوئی لنبت آپیک نہیں ہے"
+    },
+    {
+      "id": 70,
+      "start": 2178.41,
+      "end": 2179.41,
+      "text": "اور اب اس کا تم کر لیں گے"
+    },
+    {
+      "id": 71,
+      "start": 2180.41,
+      "end": 2182.41,
+      "text": "ایک سمستے ہیں کہ انتیجر آریم میں کیا ہوتا ہے"
+    },
+    {
+      "id": 72,
+      "start": 2183.41,
+      "end": 2185.41,
+      "text": "ایک رر میں انتین ایرار"
+    },
+    {
+      "id": 73,
+      "start": 2186.41,
+      "end": 2188.41,
+      "text": "ایک دلدی"
+    },
+    {
+      "id": 74,
+      "start": 2189.41,
+      "end": 2192.29,
+      "text": "ایک طرح بنالی ایک"
+    },
+    {
+      "id": 75,
+      "start": 2647.74,
+      "end": 2649.74,
+      "text": "ھا ہاں آپ کا لگتر بیوگڑ افرد لیکن"
+    },
+    {
+      "id": 76,
+      "start": 2650.04,
+      "end": 2652.54,
+      "text": "so your che blog is of memory on temporary creative"
+    },
+    {
+      "id": 77,
+      "start": 2653.04,
+      "end": 2654.44,
+      "text": "sabsthe palestop you are"
+    },
+    {
+      "id": 78,
+      "start": 2654.54,
+      "end": 2655.44,
+      "text": "and second"
+    },
+    {
+      "id": 79,
+      "start": 2656.74,
+      "end": 2657.04,
+      "text": "aah"
+    },
+    {
+      "id": 80,
+      "start": 2657.14,
+      "end": 2659.14,
+      "text": "aah"
+    },
+    {
+      "id": 81,
+      "start": 2659.24,
+      "end": 2660.24,
+      "text": "aah"
+    },
+    {
+      "id": 82,
+      "start": 2660.34,
+      "end": 2661.34,
+      "text": "cia chwali"
+    },
+    {
+      "id": 83,
+      "start": 2661.44,
+      "end": 2663.54,
+      "text": "all those can the timbrey remember content copy"
+    },
+    {
+      "id": 84,
+      "start": 2663.64,
+      "end": 2664.7,
+      "text": "o jaayin"
+    },
+    {
+      "id": 85,
+      "start": 2664.8,
+      "end": 2665.8,
+      "text": "to step process"
+    },
+    {
+      "id": 86,
+      "start": 2666.3,
+      "end": 2667.3,
+      "text": "temperate memberi"
+    },
+    {
+      "id": 87,
+      "start": 2667.4,
+      "end": 2668.9,
+      "text": "e initialize value rklo"
+    },
+    {
+      "id": 88,
+      "start": 2669.0,
+      "end": 2669.8,
+      "text": "or secant free"
+    },
+    {
+      "id": 89,
+      "start": 2669.9,
+      "end": 2670.7,
+      "text": "yajmaembriee wali hai"
+    },
+    {
+      "id": 90,
+      "start": 2670.8,
+      "end": 2672.4,
+      "text": "ay skandhresh temprary mavi ko copy kardo"
+    },
+    {
+      "id": 91,
+      "start": 2672.5,
+      "end": 2673.6,
+      "text": "baat badaya sabha maagap"
+    },
+    {
+      "id": 92,
+      "start": 2674.56,
+      "end": 2677.06,
+      "text": "iis an tar content ko Temprary Mavi mein Rakhko"
+    },
+    {
+      "id": 93,
+      "start": 3011.1,
+      "end": 3014.58,
+      "text": "ھاکہ یہاں لگر بلوک ہی ہے پر بھی 124"
+    },
+    {
+      "id": 94,
+      "start": 3015.84,
+      "end": 3016.84,
+      "text": "ایسا"
+    },
+    {
+      "id": 95,
+      "start": 3017.08,
+      "end": 3020.12,
+      "text": "ابہ قائدے کے لئے وقت لوگی سمانگیے وانٹرنتی فوگ کریں"
+    },
+    {
+      "id": 96,
+      "start": 3020.32,
+      "end": 3023.04,
+      "text": "اب ہمیں پتاکیں تیجر کے گئے میں 123 اگر ہو تھا"
+    },
+    {
+      "id": 97,
+      "start": 3023.06,
+      "end": 3024.7,
+      "text": "تو 4 بڑھا تھا 127 مانگیا تھا"
+    },
+    {
+      "id": 98,
+      "start": 3024.9,
+      "end": 3025.3,
+      "text": "حنہ"
+    },
+    {
+      "id": 99,
+      "start": 3025.5,
+      "end": 3026.9,
+      "text": "پر ابھی لوگیک سمارگے کے میں ایசا کر رہے ہیں"
+    },
+    {
+      "id": 100,
+      "start": 3026.92,
+      "end": 3028.64,
+      "text": "کہ ہم نے plas 1 کر دیو تو 24 بژا"
+    },
+    {
+      "id": 101,
+      "start": 3028.66,
+      "end": 3030.5,
+      "text": "اب قائدا بہت لگی اسلی جا اف جانتے گئی"
+    },
+    {
+      "id": 102,
+      "start": 3031.18,
+      "end": 3031.68,
+      "text": "ہو گیا"
+    },
+    {
+      "id": 103,
+      "start": 3031.78,
+      "end": 3033.3,
+      "text": "فیر آپ اس سے آپے واپس آ گئیں"
+    },
+    {
+      "id": 104,
+      "start": 3817.65,
+      "end": 3819.65,
+      "text": "ابھی آگے پانٹر کچھے بڑی جائیں گے اور چھے سمجھا ہوں گے"
+    },
+    {
+      "id": 105,
+      "start": 3819.75,
+      "end": 3821.75,
+      "text": "تو کوٹھ شود میں جاکے پہنٹر کے வیلکوشن کرنا"
+    },
+    {
+      "id": 106,
+      "start": 3822.28,
+      "end": 3823.28,
+      "text": "چھیام پانچر آمیں"
+    },
+    {
+      "id": 107,
+      "start": 3823.38,
+      "end": 3823.98,
+      "text": "دیکھا"
+    },
+    {
+      "id": 108,
+      "start": 3824.08,
+      "end": 3825.88,
+      "text": "تو ایشود میں نہیں ملتے آپ سے نکشوڈیوں میں"
+    },
+    {
+      "id": 109,
+      "start": 3825.98,
+      "end": 3826.58,
+      "text": "بہت چل"
+    },
+    {
+      "id": 110,
+      "start": 3826.68,
+      "end": 3827.68,
+      "text": "و فیسو start ڈا ہے"
+    },
+    {
+      "id": 111,
+      "start": 3827.78,
+      "end": 3828.68,
+      "text": "لگاتا لگتا ہے"
+    },
+    {
+      "id": 112,
+      "start": 3828.78,
+      "end": 3829.48,
+      "text": "بژیسانے والے"
+    },
+    {
+      "id": 113,
+      "start": 3829.88,
+      "end": 3830.88,
+      "text": "اپنی پیس بنائے ریکنی"
+    },
+    {
+      "id": 114,
+      "start": 3830.98,
+      "end": 3831.68,
+      "text": "پیچھیں نہ رہے جہا رہا"
+    },
+    {
+      "id": 115,
+      "start": 3831.78,
+      "end": 3832.58,
+      "text": "رہی جہتا تو بھی گئے بعد نہیں"
+    },
+    {
+      "id": 116,
+      "start": 3832.68,
+      "end": 3833.58,
+      "text": "اپνی پейس کے سابسے"
+    },
+    {
+      "id": 117,
+      "start": 3833.58,
+      "end": 3835.58,
+      "text": "& then we will talk about it in the next video"
+    }
+  ]
+}

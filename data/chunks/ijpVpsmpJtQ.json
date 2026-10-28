@@ -1,0 +1,92 @@
+[
+  {
+    "chunk_id": "ijpVpsmpJtQ_000003_000066",
+    "video_id": "ijpVpsmpJtQ",
+    "video_title": "Lecture 101: Bellman Ford Algorithm || C++ Placement Series",
+    "lecture_number": 101,
+    "playlist_index": 110,
+    "video_url": "https://www.youtube.com/watch?v=ijpVpsmpJtQ",
+    "start_time": 3.7,
+    "end_time": 66.7,
+    "start_timestamp_str": "00:03",
+    "end_timestamp_str": "01:06",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=ijpVpsmpJtQ&t=3s",
+    "text": "Hello ji, how are you all? This is Love Corporate and welcome to this channel. ایک ایک نیگٹیو ویٹھ بھی ہو سکتے ہیں",
+    "segment_span": [
+      0,
+      1
+    ]
+  },
+  {
+    "chunk_id": "ijpVpsmpJtQ_000067_000243",
+    "video_id": "ijpVpsmpJtQ",
+    "video_title": "Lecture 101: Bellman Ford Algorithm || C++ Placement Series",
+    "lecture_number": 101,
+    "playlist_index": 110,
+    "video_url": "https://www.youtube.com/watch?v=ijpVpsmpJtQ",
+    "start_time": 67.2,
+    "end_time": 243.07,
+    "start_timestamp_str": "01:07",
+    "end_timestamp_str": "04:03",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=ijpVpsmpJtQ&t=67s",
+    "text": "جب نیجٹیف ویڈس کی بعد آتی ہے آپ لوگ گیاں آپ نے پلے سے کردுم پڑچھ گیا نہ شوٹر سپال فانگی اس کا نام کا دائکسترال کردیم آپ تو دائیکستراری بڑھ چکے تو پھر میں بلمن 4 کیوں پڈیں کیوں πڑیں بھی میرا مہ سمپل سے گیمہ دائگستر آل گیا تھا آپ کی تھی وہ نیגٹی فیڑس پر کام نہیں کردیں نیغٹی ویچھ پر اپلای آپ نہیں کر سکھتے 1-4",
+    "segment_span": [
+      2,
+      12
+    ]
+  },
+  {
+    "chunk_id": "ijpVpsmpJtQ_000244_000580",
+    "video_id": "ijpVpsmpJtQ",
+    "video_title": "Lecture 101: Bellman Ford Algorithm || C++ Placement Series",
+    "lecture_number": 101,
+    "playlist_index": 110,
+    "video_url": "https://www.youtube.com/watch?v=ijpVpsmpJtQ",
+    "start_time": 244.23,
+    "end_time": 580.37,
+    "start_timestamp_str": "04:04",
+    "end_timestamp_str": "09:40",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=ijpVpsmpJtQ&t=244s",
+    "text": "2-2 2-6 2-12 2-20 2-18 3-16 4-16 5-22 4-34 4-35 6-36 7-36 8-36 1 more time same formula apply",
+    "segment_span": [
+      13,
+      26
+    ]
+  },
+  {
+    "chunk_id": "ijpVpsmpJtQ_000582_000878",
+    "video_id": "ijpVpsmpJtQ",
+    "video_title": "Lecture 101: Bellman Ford Algorithm || C++ Placement Series",
+    "lecture_number": 101,
+    "playlist_index": 110,
+    "video_url": "https://www.youtube.com/watch?v=ijpVpsmpJtQ",
+    "start_time": 582.88,
+    "end_time": 878.27,
+    "start_timestamp_str": "09:42",
+    "end_timestamp_str": "14:38",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=ijpVpsmpJtQ&t=582s",
+    "text": "If any distance is up to date if anyone has a distance of rate this means that the negative cycle present it means there are negative cycles present and you cannot take short test You can not take long so, this probability if your distance isn't written ھاپڑڑٹڈڈھڈ ھکڑھڇڈٹڂڈ۔ ھےپڈįڈ ٹڑ ٦ ٧ ٧١ ٧ ھہڈ اپژڈ دڑ۔ ھگڑ دڒڑ اپٹڑ えژٹڋ ٧ڈ ٨ ٧ ھڑ بڑا ٦ڑ ھیڈ تڑ ھئڑ تڗڈ ٧ ٣ ٧ ٧ ٢ ٧ ٧ ٧ ٧ ٧ ٧ ٧ ٧ ٧ ٧ ٧ ٧ ٧ ٧ ٧ 2-2,1.2-1",
+    "segment_span": [
+      27,
+      63
+    ]
+  },
+  {
+    "chunk_id": "ijpVpsmpJtQ_000879_001325",
+    "video_id": "ijpVpsmpJtQ",
+    "video_title": "Lecture 101: Bellman Ford Algorithm || C++ Placement Series",
+    "lecture_number": 101,
+    "playlist_index": 110,
+    "video_url": "https://www.youtube.com/watch?v=ijpVpsmpJtQ",
+    "start_time": 879.23,
+    "end_time": 1325.79,
+    "start_timestamp_str": "14:39",
+    "end_timestamp_str": "22:05",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=ijpVpsmpJtQ&t=879s",
+    "text": "اپنے 2nd time بی apouraq pouraq parafomla Execute 1st time you have minimized data and your answer is Answer is 1,2 3 Answer 0 2 or 1 Thick So one has to reach the short distance One says Two can reach Shortness Distance Two It's exactly right And one say Three can reach Shortness is Which we had already told taptak ke liye",
+    "segment_span": [
+      64,
+      83
+    ]
+  }
+]

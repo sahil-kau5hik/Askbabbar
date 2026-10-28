@@ -1,0 +1,512 @@
+{
+  "video_id": "PGsgv6nXhLw",
+  "lecture_number": 102,
+  "video_title": "Lecture 102: Introduction to Dynamic Programming | Memoization | Tabulation | Space Optimisation",
+  "total_duration": 2240.9,
+  "segments": [
+    {
+      "id": 0,
+      "start": 2.83,
+      "end": 9.83,
+      "text": "Hello, How are you? Welcome to this channel. We have completed 5th lecture number 102 on Century."
+    },
+    {
+      "id": 1,
+      "start": 32.83,
+      "end": 34.83,
+      "text": "ھاہ بھلکھا کہ ہم ایس دیپیسید میں جتنے میلیکٹر بنا ہیں"
+    },
+    {
+      "id": 2,
+      "start": 35.83,
+      "end": 38.83,
+      "text": "وہ اس پر کر ہو کہ سامنے والے وقتی کو دیபی پر کمانٹ بنجا ہوں کہ وہ کل کو گگل کے انٹرவی میں بیٹھت ہے"
+    },
+    {
+      "id": 3,
+      "start": 39.83,
+      "end": 41.83,
+      "text": "اور وہاں پر اسے دیP سے لیڈٹ کوئی بھی کوشن پوچھا جاتا ہے"
+    },
+    {
+      "id": 4,
+      "start": 42.83,
+      "end": 43.83,
+      "text": "تو وہ اسے بہتی عرام سے سال کر پائے"
+    },
+    {
+      "id": 5,
+      "start": 44.83,
+      "end": 47.83,
+      "text": "اسے پہلیں بہاں تھی ایمپاٹٹٹ اور دفیقل کنسپ دیلوہ کر چکے ہیں"
+    },
+    {
+      "id": 6,
+      "start": 47.83,
+      "end": 50.53,
+      "text": "اسے دیپی سے لیڈی کوئی بھی کشن پوچھا جاتا ہے"
+    },
+    {
+      "id": 7,
+      "start": 50.63,
+      "end": 52.93,
+      "text": "تو وہ اسے بہت ہرامسے سالو کر پائیں"
+    },
+    {
+      "id": 8,
+      "start": 53.03,
+      "end": 54.31,
+      "text": "اسے پیلم بہاں تی"
+    },
+    {
+      "id": 9,
+      "start": 54.41,
+      "end": 56.73,
+      "text": "ایمپوتٹٹٹڑیفیگل کنسپ دیلوکار چکے ہیں"
+    },
+    {
+      "id": 10,
+      "start": 56.83,
+      "end": 57.63,
+      "text": "جیسے کی پانٹرز"
+    },
+    {
+      "id": 11,
+      "start": 57.73,
+      "end": 59.63,
+      "text": "اسے ایپ پانژرز بہاد لوگ کنفیوز ہوتے پانطرز"
+    },
+    {
+      "id": 12,
+      "start": 59.73,
+      "end": 60.97,
+      "text": "کے اندر فاہا پیکے چھوڑ دیتے کہ مصے"
+    },
+    {
+      "id": 13,
+      "start": 61.07,
+      "end": 61.73,
+      "text": "کوڑیں نہیں ہوگی"
+    },
+    {
+      "id": 14,
+      "start": 61.83,
+      "end": 62.73,
+      "text": "ہم نے وہ قور گیا"
+    },
+    {
+      "id": 15,
+      "start": 62.83,
+      "end": 63.73,
+      "text": "چیک کر لے نا"
+    },
+    {
+      "id": 16,
+      "start": 63.83,
+      "end": 64.43,
+      "text": "لوگ بتا دیں گے"
+    },
+    {
+      "id": 17,
+      "start": 125.23,
+      "end": 128.23,
+      "text": "1DRAP, DPP on Greats and DPP of Subsequences"
+    },
+    {
+      "id": 18,
+      "start": 129.23,
+      "end": 131.23,
+      "text": "And lots more things"
+    },
+    {
+      "id": 19,
+      "start": 132.23,
+      "end": 133.23,
+      "text": "I will solve a pattern here"
+    },
+    {
+      "id": 20,
+      "start": 134.23,
+      "end": 136.42,
+      "text": "I am going to show you the fun"
+    },
+    {
+      "id": 21,
+      "start": 137.42,
+      "end": 138.42,
+      "text": "Remember this time it is complete"
+    },
+    {
+      "id": 22,
+      "start": 139.42,
+      "end": 140.42,
+      "text": "After completing this episode"
+    },
+    {
+      "id": 23,
+      "start": 141.42,
+      "end": 143.42,
+      "text": "Let's start"
+    },
+    {
+      "id": 24,
+      "start": 144.42,
+      "end": 145.42,
+      "text": "What does dp do?"
+    },
+    {
+      "id": 25,
+      "start": 146.42,
+      "end": 147.42,
+      "text": "Let us understand"
+    },
+    {
+      "id": 26,
+      "start": 148.42,
+      "end": 149.42,
+      "text": "There are many codes"
+    },
+    {
+      "id": 27,
+      "start": 150.42,
+      "end": 151.42,
+      "text": "When we write these code"
+    },
+    {
+      "id": 28,
+      "start": 243.56,
+      "end": 247.06,
+      "text": "ھاکہ میں آپ فلسٹیکٹ لپنڈ یا بیکن لپoonڈ سیکھنے والے ہیں"
+    },
+    {
+      "id": 29,
+      "start": 247.16,
+      "end": 251.16,
+      "text": "but by building industry level projects in a real development environment"
+    },
+    {
+      "id": 30,
+      "start": 251.26,
+      "end": 252.46,
+      "text": "at the end of their programs"
+    },
+    {
+      "id": 31,
+      "start": 252.56,
+      "end": 253.56,
+      "text": "all your project will be made"
+    },
+    {
+      "id": 32,
+      "start": 253.66,
+      "end": 255.66,
+      "text": "and you'll get more effective"
+    },
+    {
+      "id": 33,
+      "start": 255.76,
+      "end": 257.96,
+      "text": "and strong GitHub profile"
+    },
+    {
+      "id": 34,
+      "start": 258.06,
+      "end": 260.56,
+      "text": "in your full set, what to do with this back-end"
+    },
+    {
+      "id": 35,
+      "start": 260.66,
+      "end": 261.96,
+      "text": "tech use them as well"
+    },
+    {
+      "id": 36,
+      "start": 262.06,
+      "end": 262.96,
+      "text": "so that everyone can visit here"
+    },
+    {
+      "id": 37,
+      "start": 263.06,
+      "end": 264.16,
+      "text": "and also meet personalized"
+    },
+    {
+      "id": 38,
+      "start": 264.26,
+      "end": 266.16,
+      "text": "for access"
+    },
+    {
+      "id": 39,
+      "start": 266.26,
+      "end": 268.36,
+      "text": "because it's your dream job double surety"
+    },
+    {
+      "id": 40,
+      "start": 268.46,
+      "end": 269.46,
+      "text": "What is there to do?"
+    },
+    {
+      "id": 41,
+      "start": 269.56,
+      "end": 271.46,
+      "text": "I'm going to attach a link in description"
+    },
+    {
+      "id": 42,
+      "start": 271.46,
+      "end": 273.46,
+      "text": "5-7%-7%, 7%-8%-9%"
+    },
+    {
+      "id": 43,
+      "start": 273.46,
+      "end": 275.46,
+      "text": "6%-6%-4%, 8%-5%"
+    },
+    {
+      "id": 44,
+      "start": 698.51,
+      "end": 702.08,
+      "text": "overlapping subproblems"
+    },
+    {
+      "id": 45,
+      "start": 1067.36,
+      "end": 1068.36,
+      "text": "FF3"
+    },
+    {
+      "id": 46,
+      "start": 1069.36,
+      "end": 1070.36,
+      "text": "1 plus 1"
+    },
+    {
+      "id": 47,
+      "start": 1071.36,
+      "end": 1072.36,
+      "text": "2"
+    },
+    {
+      "id": 48,
+      "start": 1073.36,
+      "end": 1074.36,
+      "text": "F4"
+    },
+    {
+      "id": 49,
+      "start": 1075.36,
+      "end": 1076.36,
+      "text": "F2"
+    },
+    {
+      "id": 50,
+      "start": 1077.36,
+      "end": 1079.36,
+      "text": "F2"
+    },
+    {
+      "id": 51,
+      "start": 1080.36,
+      "end": 1082.36,
+      "text": "F1"
+    },
+    {
+      "id": 52,
+      "start": 1083.36,
+      "end": 1084.36,
+      "text": "F4"
+    },
+    {
+      "id": 53,
+      "start": 1085.36,
+      "end": 1087.36,
+      "text": "F4"
+    },
+    {
+      "id": 54,
+      "start": 1088.36,
+      "end": 1092.36,
+      "text": "F5"
+    },
+    {
+      "id": 55,
+      "start": 1093.36,
+      "end": 1096.36,
+      "text": "F3"
+    },
+    {
+      "id": 56,
+      "start": 1699.84,
+      "end": 1703.84,
+      "text": "1,2 ,3 ,4 ,5 ,6"
+    },
+    {
+      "id": 57,
+      "start": 1704.84,
+      "end": 1707.84,
+      "text": "2,0 ,1 ,2 ,4"
+    },
+    {
+      "id": 58,
+      "start": 1708.84,
+      "end": 1709.84,
+      "text": "4"
+    },
+    {
+      "id": 59,
+      "start": 1710.84,
+      "end": 1711.84,
+      "text": "0"
+    },
+    {
+      "id": 60,
+      "start": 1712.84,
+      "end": 1714.84,
+      "text": "1"
+    },
+    {
+      "id": 61,
+      "start": 1715.84,
+      "end": 1716.84,
+      "text": "1"
+    },
+    {
+      "id": 62,
+      "start": 1717.84,
+      "end": 1718.84,
+      "text": "2"
+    },
+    {
+      "id": 63,
+      "start": 1719.84,
+      "end": 1720.84,
+      "text": "1"
+    },
+    {
+      "id": 64,
+      "start": 1721.84,
+      "end": 1722.84,
+      "text": "2"
+    },
+    {
+      "id": 65,
+      "start": 1723.84,
+      "end": 1724.84,
+      "text": "2"
+    },
+    {
+      "id": 66,
+      "start": 1725.84,
+      "end": 1726.84,
+      "text": "3"
+    },
+    {
+      "id": 67,
+      "start": 1857.79,
+      "end": 1858.79,
+      "text": "1.0"
+    },
+    {
+      "id": 68,
+      "start": 1859.79,
+      "end": 1861.95,
+      "text": "2.0"
+    },
+    {
+      "id": 69,
+      "start": 1862.95,
+      "end": 1863.95,
+      "text": "2"
+    },
+    {
+      "id": 70,
+      "start": 1864.95,
+      "end": 1865.95,
+      "text": "2.1"
+    },
+    {
+      "id": 71,
+      "start": 1866.95,
+      "end": 1867.95,
+      "text": "2.2"
+    },
+    {
+      "id": 72,
+      "start": 1868.95,
+      "end": 1869.95,
+      "text": "2.3"
+    },
+    {
+      "id": 73,
+      "start": 1870.95,
+      "end": 1871.95,
+      "text": "2.4"
+    },
+    {
+      "id": 74,
+      "start": 1872.95,
+      "end": 1873.95,
+      "text": "3.2"
+    },
+    {
+      "id": 75,
+      "start": 1874.95,
+      "end": 1876.84,
+      "text": "4.5"
+    },
+    {
+      "id": 76,
+      "start": 1877.84,
+      "end": 1881.12,
+      "text": "4.6"
+    },
+    {
+      "id": 77,
+      "start": 1882.12,
+      "end": 1883.12,
+      "text": "5.9"
+    },
+    {
+      "id": 78,
+      "start": 1884.53,
+      "end": 1885.53,
+      "text": "6.9"
+    },
+    {
+      "id": 79,
+      "start": 1886.53,
+      "end": 1887.53,
+      "text": "7.8"
+    },
+    {
+      "id": 80,
+      "start": 1891.19,
+      "end": 1892.89,
+      "text": "9.9"
+    },
+    {
+      "id": 81,
+      "start": 2143.6,
+      "end": 2145.6,
+      "text": "dp"
+    },
+    {
+      "id": 82,
+      "start": 2235.71,
+      "end": 2236.71,
+      "text": "اوشہ انت ہے ہماری ویڈیوز کے بھی"
+    },
+    {
+      "id": 83,
+      "start": 2237.71,
+      "end": 2239.71,
+      "text": "تو شو میٹنائیں ملتنائم اوسی نکشل میں تو اپتاک لی"
+    }
+  ]
+}

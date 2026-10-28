@@ -1,0 +1,74 @@
+[
+  {
+    "chunk_id": "ndfjV_yHpgQ_000003_000250",
+    "video_id": "ndfjV_yHpgQ",
+    "video_title": "Lecture 100: Kosaraju's Algorithm for Strongly Connected Components || C++ Placement Series",
+    "lecture_number": 100,
+    "playlist_index": 109,
+    "video_url": "https://www.youtube.com/watch?v=ndfjV_yHpgQ",
+    "start_time": 3.41,
+    "end_time": 250.36,
+    "start_timestamp_str": "00:03",
+    "end_timestamp_str": "04:10",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=ndfjV_yHpgQ&t=3s",
+    "text": "Hello, G. How are you? Welcome to the channel Good Help! Today's story is about 100 Lectures. ھایہ پورا کا بھورا شٹرانگلیکنٹڈ کرنے کیوں نہیں ہیں",
+    "segment_span": [
+      0,
+      1
+    ]
+  },
+  {
+    "chunk_id": "ndfjV_yHpgQ_000250_000311",
+    "video_id": "ndfjV_yHpgQ",
+    "video_title": "Lecture 100: Kosaraju's Algorithm for Strongly Connected Components || C++ Placement Series",
+    "lecture_number": 100,
+    "playlist_index": 109,
+    "video_url": "https://www.youtube.com/watch?v=ndfjV_yHpgQ",
+    "start_time": 250.46,
+    "end_time": 311.6,
+    "start_timestamp_str": "04:10",
+    "end_timestamp_str": "05:11",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=ndfjV_yHpgQ&t=250s",
+    "text": "میں نے وہ بہت سمپرا لیٹسے آپ منزل start کرتے آپ تو جاتے تو سے آپ رتھری جاتیں تریسے وپر چواتے آپ اس سے واپت بنتگ آپ نہیں ہاں پارے ہو یہ والی نور اور یہ والینور اینور انڈ ان نوزیٹڑ رہا گی تو یہ اس لیپ پورa کا بوراسترانکڈڈ دیکھا نہیں ہے آپ کے گرم دیکے تو دیکhoyan able to say کہ یہ کامпراٹ آپ کا یہ ہے SEC اور یہ کمпراپا یہ ہے SEC لیکن میں میں سمجھتے ہیں اس سے پڑھا دھانسے کر سوچھیں لیکھ سے",
+    "segment_span": [
+      2,
+      17
+    ]
+  },
+  {
+    "chunk_id": "ndfjV_yHpgQ_000311_001051",
+    "video_id": "ndfjV_yHpgQ",
+    "video_title": "Lecture 100: Kosaraju's Algorithm for Strongly Connected Components || C++ Placement Series",
+    "lecture_number": 100,
+    "playlist_index": 109,
+    "video_url": "https://www.youtube.com/watch?v=ndfjV_yHpgQ",
+    "start_time": 311.9,
+    "end_time": 1051.33,
+    "start_timestamp_str": "05:11",
+    "end_timestamp_str": "17:31",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=ndfjV_yHpgQ&t=311s",
+    "text": "لیکس یعگر میں یہاں سے سو چھوں تو گر لیک سے میں یہے سے دیفے start کر دے میں جیٹرایہ سکر نے پڈھے کے پژھے پڗراکٹھیں تو پہلے میں کہاں پاہلیں میں پہنچ آتا جیزیو حکہ ہے فیجھ رو سے پہاں جاتا بہن حکی ہے ثیریہا ہم میں واپس شلا گیا ٹو حکا اور اس کیا از واپاس کھا پہیں پہیا last step",
+    "segment_span": [
+      18,
+      31
+    ]
+  },
+  {
+    "chunk_id": "ndfjV_yHpgQ_001053_001074",
+    "video_id": "ndfjV_yHpgQ",
+    "video_title": "Lecture 100: Kosaraju's Algorithm for Strongly Connected Components || C++ Placement Series",
+    "lecture_number": 100,
+    "playlist_index": 109,
+    "video_url": "https://www.youtube.com/watch?v=ndfjV_yHpgQ",
+    "start_time": 1053.33,
+    "end_time": 1074.61,
+    "start_timestamp_str": "17:33",
+    "end_timestamp_str": "17:54",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=ndfjV_yHpgQ&t=1053s",
+    "text": "dfs call using above ordering we will do this not of sd.mpt int top is equal to sd dot",
+    "segment_span": [
+      32,
+      36
+    ]
+  }
+]

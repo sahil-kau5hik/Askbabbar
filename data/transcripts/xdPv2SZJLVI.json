@@ -1,0 +1,1196 @@
+{
+  "video_id": "xdPv2SZJLVI",
+  "lecture_number": 110,
+  "video_title": "Lecture 110: 0/1 KnapSack Problem || learn 2-D DP Concept || DP Series",
+  "total_duration": 3078.66,
+  "segments": [
+    {
+      "id": 0,
+      "start": 2.8,
+      "end": 3.8,
+      "text": "Hello, this is Love Babbar and welcome to the channel."
+    },
+    {
+      "id": 1,
+      "start": 3.8,
+      "end": 8.8,
+      "text": "We are on 5th January 111-0110"
+    },
+    {
+      "id": 2,
+      "start": 8.82,
+      "end": 13.8,
+      "text": "And today we will learn a series of 2DTP concepts in DPCs"
+    },
+    {
+      "id": 3,
+      "start": 13.82,
+      "end": 16.8,
+      "text": "Whenever there's two dDP talks"
+    },
+    {
+      "id": 4,
+      "start": 16.82,
+      "end": 19.8,
+      "text": "First example I studied at college"
+    },
+    {
+      "id": 5,
+      "start": 19.82,
+      "end": 21.8,
+      "text": "And i thought it was easy"
+    },
+    {
+      "id": 6,
+      "start": 21.82,
+      "end": 23.8,
+      "text": "It had napsack problem"
+    },
+    {
+      "id": 7,
+      "start": 23.82,
+      "end": 25.8,
+      "text": "Very famous problems"
+    },
+    {
+      "id": 8,
+      "start": 25.8,
+      "end": 29.9,
+      "text": "ھایسی پیٹنز پر اور بھی بہت ساری پروبلنمز بیزد ہیں"
+    },
+    {
+      "id": 9,
+      "start": 30.0,
+      "end": 31.66,
+      "text": "جس کی تارگٹسام ایک کشن ہے"
+    },
+    {
+      "id": 10,
+      "start": 31.76,
+      "end": 33.86,
+      "text": "ایک سب سٹ سم کشنت ہے"
+    },
+    {
+      "id": 11,
+      "start": 33.96,
+      "end": 38.16,
+      "text": "تو ایسے بہا ہم کچھ نمی پریٹن کے دورا سالب کی جازکتے ہیں"
+    },
+    {
+      "id": 12,
+      "start": 38.26,
+      "end": 39.96,
+      "text": "فتح فڑیس کشان کو سمجھتے"
+    },
+    {
+      "id": 13,
+      "start": 40.06,
+      "end": 42.06,
+      "text": "اور اس کو سوص نے کہ سال کرنا ہے"
+    },
+    {
+      "id": 14,
+      "start": 42.16,
+      "end": 43.26,
+      "text": "سمچھیں کی طوری ٹیپیٹ"
+    },
+    {
+      "id": 15,
+      "start": 43.36,
+      "end": 44.6,
+      "text": "کیسے پتہ لگائیں گے"
+    },
+    {
+      "id": 16,
+      "start": 44.7,
+      "end": 46.16,
+      "text": "یہ کشین ٹوژی ٦یپیکہ ہے"
+    },
+    {
+      "id": 17,
+      "start": 46.26,
+      "end": 47.9,
+      "text": "اگر میں نے رکھرجی صرویشن لکتی ہے"
+    },
+    {
+      "id": 18,
+      "start": 138.09,
+      "end": 140.09,
+      "text": "Thief can generate by shelling items"
+    },
+    {
+      "id": 19,
+      "start": 141.09,
+      "end": 142.09,
+      "text": "Thief has to be stolen"
+    },
+    {
+      "id": 20,
+      "start": 143.09,
+      "end": 144.09,
+      "text": "As much as he is stealing"
+    },
+    {
+      "id": 21,
+      "start": 145.09,
+      "end": 146.09,
+      "text": "his value"
+    },
+    {
+      "id": 22,
+      "start": 147.09,
+      "end": 148.09,
+      "text": "is maximum"
+    },
+    {
+      "id": 23,
+      "start": 149.09,
+      "end": 151.09,
+      "text": "The thing that I am going to steal"
+    },
+    {
+      "id": 24,
+      "start": 152.09,
+      "end": 153.09,
+      "text": "I have to make sure"
+    },
+    {
+      "id": 25,
+      "start": 154.09,
+      "end": 155.09,
+      "text": "that it's in the app"
+    },
+    {
+      "id": 26,
+      "start": 156.09,
+      "end": 158.09,
+      "text": "So, all of them are cumulative weight"
+    },
+    {
+      "id": 27,
+      "start": 159.09,
+      "end": 161.09,
+      "text": "and second things"
+    },
+    {
+      "id": 28,
+      "start": 162.09,
+      "end": 163.09,
+      "text": "My total values"
+    },
+    {
+      "id": 29,
+      "start": 164.09,
+      "end": 166.09,
+      "text": "is a maximum value"
+    },
+    {
+      "id": 30,
+      "start": 168.25,
+      "end": 170.25,
+      "text": "ھاں نے کہاں ایکساں پلکلی ہے"
+    },
+    {
+      "id": 31,
+      "start": 170.35,
+      "end": 172.35,
+      "text": "ھوں نے کا کہاہ کہ ایک فتح تسکے پڑھا تھا"
+    },
+    {
+      "id": 32,
+      "start": 172.45,
+      "end": 174.35,
+      "text": "تسكس کہا تھے کہا ہوں کہ میرے پاس چار عیتم سے"
+    },
+    {
+      "id": 33,
+      "start": 174.45,
+      "end": 176.05,
+      "text": "میریں پاس ٹھا عیтом سے"
+    },
+    {
+      "id": 34,
+      "start": 176.15,
+      "end": 176.75,
+      "text": "Thigga"
+    },
+    {
+      "id": 35,
+      "start": 176.85,
+      "end": 177.85,
+      "text": "ان کا ویٹ کیا؟"
+    },
+    {
+      "id": 36,
+      "start": 177.95,
+      "end": 179.15,
+      "text": "ان کا وایٹ یہ ہے جی"
+    },
+    {
+      "id": 37,
+      "start": 179.25,
+      "end": 180.25,
+      "text": "ویژ اسپرگا رہا"
+    },
+    {
+      "id": 38,
+      "start": 180.35,
+      "end": 181.15,
+      "text": "ویت ہے"
+    },
+    {
+      "id": 39,
+      "start": 181.25,
+      "end": 182.25,
+      "text": "1"
+    },
+    {
+      "id": 40,
+      "start": 182.35,
+      "end": 183.05,
+      "text": "2"
+    },
+    {
+      "id": 41,
+      "start": 183.15,
+      "end": 183.85,
+      "text": "4"
+    },
+    {
+      "id": 42,
+      "start": 183.95,
+      "end": 184.35,
+      "text": "5"
+    },
+    {
+      "id": 43,
+      "start": 184.45,
+      "end": 184.85,
+      "text": "Thigge"
+    },
+    {
+      "id": 44,
+      "start": 184.95,
+      "end": 185.75,
+      "text": "ان کی ویلو کیا ہے؟"
+    },
+    {
+      "id": 45,
+      "start": 185.85,
+      "end": 186.75,
+      "text": "ویسپر گا رجی"
+    },
+    {
+      "id": 46,
+      "start": 187.42,
+      "end": 188.22,
+      "text": "5"
+    },
+    {
+      "id": 47,
+      "start": 188.32,
+      "end": 189.22,
+      "text": "4"
+    },
+    {
+      "id": 48,
+      "start": 189.32,
+      "end": 189.82,
+      "text": "8"
+    },
+    {
+      "id": 49,
+      "start": 189.92,
+      "end": 190.42,
+      "text": "6"
+    },
+    {
+      "id": 50,
+      "start": 190.82,
+      "end": 191.92,
+      "text": "تو یہ میری value"
+    },
+    {
+      "id": 51,
+      "start": 192.02,
+      "end": 193.62,
+      "text": "یہ میری value"
+    },
+    {
+      "id": 52,
+      "start": 193.72,
+      "end": 195.32,
+      "text": "اور یہ میرا ویط ہے"
+    },
+    {
+      "id": 53,
+      "start": 195.32,
+      "end": 197.32,
+      "text": "1.5KGWATE"
+    },
+    {
+      "id": 54,
+      "start": 199.32,
+      "end": 201.32,
+      "text": "2.5MV"
+    },
+    {
+      "id": 55,
+      "start": 203.32,
+      "end": 206.15,
+      "text": "4.4MV"
+    },
+    {
+      "id": 56,
+      "start": 208.15,
+      "end": 210.15,
+      "text": "5.2MV"
+    },
+    {
+      "id": 57,
+      "start": 212.15,
+      "end": 214.15,
+      "text": "5.3MV"
+    },
+    {
+      "id": 58,
+      "start": 216.15,
+      "end": 218.15,
+      "text": "5.1MV"
+    },
+    {
+      "id": 59,
+      "start": 220.15,
+      "end": 222.15,
+      "text": "5.0MV"
+    },
+    {
+      "id": 60,
+      "start": 282.21,
+      "end": 283.65,
+      "text": "تو آپ کنسر کیاکہ 13 آگیا,"
+    },
+    {
+      "id": 61,
+      "start": 283.81,
+      "end": 285.09,
+      "text": "that's why I am here in the sample outboard"
+    },
+    {
+      "id": 62,
+      "start": 285.29,
+      "end": 286.41,
+      "text": "13 آ رہا ہے"
+    },
+    {
+      "id": 63,
+      "start": 286.65,
+      "end": 287.01,
+      "text": "OK"
+    },
+    {
+      "id": 64,
+      "start": 287.09,
+      "end": 287.89,
+      "text": "Tho lua sama naaya wiyah"
+    },
+    {
+      "id": 65,
+      "start": 287.97,
+      "end": 288.77,
+      "text": "Tho lo wa sama maaya"
+    },
+    {
+      "id": 66,
+      "start": 288.85,
+      "end": 290.09,
+      "text": "3D is sponsored by cryo"
+    },
+    {
+      "id": 67,
+      "start": 290.17,
+      "end": 293.25,
+      "text": "Cryo was a world-sleading work experience based learning platform"
+    },
+    {
+      "id": 68,
+      "start": 293.49,
+      "end": 295.25,
+      "text": "where you can enhance your software skills"
+    },
+    {
+      "id": 69,
+      "start": 295.33,
+      "end": 296.61,
+      "text": "so as to have top depth jobs"
+    },
+    {
+      "id": 70,
+      "start": 296.69,
+      "end": 297.45,
+      "text": "which you could grab"
+    },
+    {
+      "id": 71,
+      "start": 297.73,
+      "end": 298.77,
+      "text": "Unlucky usual courses"
+    },
+    {
+      "id": 72,
+      "start": 299.05,
+      "end": 300.53,
+      "text": "Cryo may be full stack development"
+    },
+    {
+      "id": 73,
+      "start": 300.61,
+      "end": 301.81,
+      "text": "or pack and relevant seek"
+    },
+    {
+      "id": 74,
+      "start": 301.89,
+      "end": 302.41,
+      "text": "but"
+    },
+    {
+      "id": 75,
+      "start": 302.53,
+      "end": 304.81,
+      "text": "buy building industry level projects"
+    },
+    {
+      "id": 76,
+      "start": 304.89,
+      "end": 306.29,
+      "text": "In real developer environment"
+    },
+    {
+      "id": 77,
+      "start": 306.37,
+      "end": 307.45,
+      "text": "Atthe end of their programs"
+    },
+    {
+      "id": 78,
+      "start": 307.53,
+      "end": 308.93,
+      "text": "all many project are made"
+    },
+    {
+      "id": 79,
+      "start": 309.01,
+      "end": 310.73,
+      "text": "Which will become more effective"
+    },
+    {
+      "id": 80,
+      "start": 310.73,
+      "end": 312.73,
+      "text": "& a strong get up profile"
+    },
+    {
+      "id": 81,
+      "start": 313.73,
+      "end": 316.73,
+      "text": "you will be able to use the tech in background"
+    },
+    {
+      "id": 82,
+      "start": 317.73,
+      "end": 320.73,
+      "text": "and also provide personalised support"
+    },
+    {
+      "id": 83,
+      "start": 321.73,
+      "end": 323.73,
+      "text": "so that your dream job can double short"
+    },
+    {
+      "id": 84,
+      "start": 324.73,
+      "end": 326.73,
+      "text": "In description, I'll attach link"
+    },
+    {
+      "id": 85,
+      "start": 327.73,
+      "end": 329.73,
+      "text": "You may have maximum possible discount"
+    },
+    {
+      "id": 86,
+      "start": 330.73,
+      "end": 333.73,
+      "text": "& unlock some free resources"
+    },
+    {
+      "id": 87,
+      "start": 334.73,
+      "end": 335.73,
+      "text": "Link is used"
+    },
+    {
+      "id": 88,
+      "start": 396.92,
+      "end": 398.92,
+      "text": "ھاکہ سال کیسے کرنا ہے"
+    },
+    {
+      "id": 89,
+      "start": 399.42,
+      "end": 401.42,
+      "text": "ایک اپروچ کیوں کہاں بات کروں"
+    },
+    {
+      "id": 90,
+      "start": 401.92,
+      "end": 403.92,
+      "text": "تو میں نے کہاہ کہا کہ بہت سنپل ہے"
+    },
+    {
+      "id": 91,
+      "start": 404.42,
+      "end": 406.7,
+      "text": "اپریوچ کے بعد کروں"
+    },
+    {
+      "id": 92,
+      "start": 407.2,
+      "end": 409.2,
+      "text": "جو بروٹ فورس میں دماغنا ہاتا ہے"
+    },
+    {
+      "id": 93,
+      "start": 409.7,
+      "end": 411.2,
+      "text": "جو گروٹ پورس مدوگ میں بالکل ایسے لیکن کوشن پڑتے یا تھا وہ"
+    },
+    {
+      "id": 94,
+      "start": 411.7,
+      "end": 412.7,
+      "text": "کو بروط فورست کیا ہے"
+    },
+    {
+      "id": 95,
+      "start": 413.2,
+      "end": 414.7,
+      "text": "وہ یہ ہے کہ یہ کیاہ ہے بسکلے میں"
+    },
+    {
+      "id": 96,
+      "start": 415.2,
+      "end": 416.2,
+      "text": "کیا کروں"
+    },
+    {
+      "id": 97,
+      "start": 416.7,
+      "end": 418.7,
+      "text": "комбینشان طلہ رہوں میں"
+    },
+    {
+      "id": 98,
+      "start": 419.2,
+      "end": 421.2,
+      "text": "کی комбیینشن Of these n items"
+    },
+    {
+      "id": 99,
+      "start": 421.7,
+      "end": 423.7,
+      "text": "کی اس کیس کیس Item callوں کیس item کو نہ لوپ رائٹ"
+    },
+    {
+      "id": 100,
+      "start": 485.24,
+      "end": 487.24,
+      "text": "4th"
+    },
+    {
+      "id": 101,
+      "start": 489.24,
+      "end": 491.24,
+      "text": "5th"
+    },
+    {
+      "id": 102,
+      "start": 493.24,
+      "end": 495.24,
+      "text": "6th"
+    },
+    {
+      "id": 103,
+      "start": 497.24,
+      "end": 499.24,
+      "text": "7th"
+    },
+    {
+      "id": 104,
+      "start": 501.24,
+      "end": 503.24,
+      "text": "8"
+    },
+    {
+      "id": 105,
+      "start": 505.24,
+      "end": 507.24,
+      "text": "8"
+    },
+    {
+      "id": 106,
+      "start": 509.24,
+      "end": 513.24,
+      "text": "7th"
+    },
+    {
+      "id": 107,
+      "start": 605.37,
+      "end": 607.37,
+      "text": "2nd , 2nd"
+    },
+    {
+      "id": 108,
+      "start": 609.37,
+      "end": 611.37,
+      "text": "3rd"
+    },
+    {
+      "id": 109,
+      "start": 613.37,
+      "end": 615.37,
+      "text": "1st"
+    },
+    {
+      "id": 110,
+      "start": 617.37,
+      "end": 619.37,
+      "text": "2nd"
+    },
+    {
+      "id": 111,
+      "start": 621.37,
+      "end": 623.37,
+      "text": "2nd"
+    },
+    {
+      "id": 112,
+      "start": 625.37,
+      "end": 627.37,
+      "text": "2nd"
+    },
+    {
+      "id": 113,
+      "start": 629.37,
+      "end": 631.37,
+      "text": "3rd"
+    },
+    {
+      "id": 114,
+      "start": 936.52,
+      "end": 938.1,
+      "text": "0"
+    },
+    {
+      "id": 115,
+      "start": 993.45,
+      "end": 996.45,
+      "text": "اس کو ارچی سمجھاتاں میں, بیس کے اس کے بارے میں"
+    },
+    {
+      "id": 116,
+      "start": 996.45,
+      "end": 999.45,
+      "text": "میں نے وہاں, اگر تمہارے پاس صرف ایک ہی آئیٹم ہوتی"
+    },
+    {
+      "id": 117,
+      "start": 1000.8,
+      "end": 1002.8,
+      "text": "اگریر تمھارپا صرف آئے کی آئینم ہوتی تو کہ او اس کو انکلوڈ کرتے ہیں"
+    },
+    {
+      "id": 118,
+      "start": 1003.8,
+      "end": 1005.8,
+      "text": "آپ لوگے بھی ایس کی value تو positive ہونے والی ہے"
+    },
+    {
+      "id": 119,
+      "start": 1006.8,
+      "end": 1008.8,
+      "text": "تو انکлڑ تو کرنا چی ہے"
+    },
+    {
+      "id": 120,
+      "start": 1009.8,
+      "end": 1010.8,
+      "text": "but to include karni ki bir condition"
+    },
+    {
+      "id": 121,
+      "start": 1011.8,
+      "end": 1012.8,
+      "text": "کہ آپ کے bag میں capriciu تو ہو"
+    },
+    {
+      "id": 122,
+      "start": 1013.8,
+      "end": 1014.8,
+      "text": "امان لہاں کا backpast ke loka hai"
+    },
+    {
+      "id": 123,
+      "start": 1015.8,
+      "end": 1016.8,
+      "text": "maar اس کا weight 10 ke loa hai"
+    },
+    {
+      "id": 124,
+      "start": 1017.8,
+      "end": 1018.8,
+      "text": "تو جہ بیز کے سامنے یہ سوچ کے لئے کہ کہ ایک ایٹام"
+    },
+    {
+      "id": 125,
+      "start": 1019.8,
+      "end": 1020.8,
+      "text": "present ہے میرپاس"
+    },
+    {
+      "id": 126,
+      "start": 1701.94,
+      "end": 1702.94,
+      "text": "0-0.0"
+    },
+    {
+      "id": 127,
+      "start": 1703.94,
+      "end": 1704.94,
+      "text": "0-1.0"
+    },
+    {
+      "id": 128,
+      "start": 1705.94,
+      "end": 1706.94,
+      "text": "0-2.0"
+    },
+    {
+      "id": 129,
+      "start": 1707.94,
+      "end": 1708.94,
+      "text": "0-3.0"
+    },
+    {
+      "id": 130,
+      "start": 1709.94,
+      "end": 1710.94,
+      "text": "0-4.0"
+    },
+    {
+      "id": 131,
+      "start": 1711.94,
+      "end": 1712.94,
+      "text": "0-6.0"
+    },
+    {
+      "id": 132,
+      "start": 1713.94,
+      "end": 1715.1,
+      "text": "0-5"
+    },
+    {
+      "id": 133,
+      "start": 1716.1,
+      "end": 1717.1,
+      "text": "0-7"
+    },
+    {
+      "id": 134,
+      "start": 1718.1,
+      "end": 1719.1,
+      "text": "0-8"
+    },
+    {
+      "id": 135,
+      "start": 1721.25,
+      "end": 1722.6,
+      "text": "0-9"
+    },
+    {
+      "id": 136,
+      "start": 1723.6,
+      "end": 1724.6,
+      "text": "0-10"
+    },
+    {
+      "id": 137,
+      "start": 1725.6,
+      "end": 1728.36,
+      "text": "0-11"
+    },
+    {
+      "id": 138,
+      "start": 1729.81,
+      "end": 1730.81,
+      "text": "0-12"
+    },
+    {
+      "id": 139,
+      "start": 1731.81,
+      "end": 1732.81,
+      "text": "0-13"
+    },
+    {
+      "id": 140,
+      "start": 1895.1,
+      "end": 1897.16,
+      "text": "ھاں انڈکس نہیں , یہاں پر آپ کا این آیا ہے"
+    },
+    {
+      "id": 141,
+      "start": 1899.16,
+      "end": 1901.16,
+      "text": "تو کر این میرا روز ہیں تو آخری رو کون سیو کی اینما نسوان مالی رہ ہوگی"
+    },
+    {
+      "id": 142,
+      "start": 1903.16,
+      "end": 1905.16,
+      "text": "اس فکر آپ نے اس کو رطن کر واضیا"
+    },
+    {
+      "id": 143,
+      "start": 1907.16,
+      "end": 1909.16,
+      "text": "ہم نے اس کے ایک بات چلا کر رہا کر رکھا کر سای چلوی رائے کہ نہیں"
+    },
+    {
+      "id": 144,
+      "start": 1911.16,
+      "end": 1913.42,
+      "text": "ہم میں اس کو run کیا ایک ایک پار"
+    },
+    {
+      "id": 145,
+      "start": 1915.42,
+      "end": 1919.77,
+      "text": "اس کا رکتان سے رکtesر ایک تان سے"
+    },
+    {
+      "id": 146,
+      "start": 1923.13,
+      "end": 1925.13,
+      "text": "رکteان سے بات بڑیا"
+    },
+    {
+      "id": 147,
+      "start": 1925.13,
+      "end": 1928.13,
+      "text": "tappulation 1"
+    },
+    {
+      "id": 148,
+      "start": 1931.13,
+      "end": 1934.13,
+      "text": "step number 2"
+    },
+    {
+      "id": 149,
+      "start": 1944.31,
+      "end": 1947.31,
+      "text": "take care of remaining recursive calls"
+    },
+    {
+      "id": 150,
+      "start": 1948.31,
+      "end": 1952.31,
+      "text": "index or capacity"
+    },
+    {
+      "id": 151,
+      "start": 2047.75,
+      "end": 2049.75,
+      "text": "1%"
+    },
+    {
+      "id": 152,
+      "start": 2051.75,
+      "end": 2053.75,
+      "text": "2%"
+    },
+    {
+      "id": 153,
+      "start": 2055.75,
+      "end": 2057.75,
+      "text": "10%"
+    },
+    {
+      "id": 154,
+      "start": 2059.75,
+      "end": 2061.75,
+      "text": "2%,"
+    },
+    {
+      "id": 155,
+      "start": 2063.75,
+      "end": 2065.94,
+      "text": "2%,"
+    },
+    {
+      "id": 156,
+      "start": 2067.94,
+      "end": 2069.94,
+      "text": "2%,"
+    },
+    {
+      "id": 157,
+      "start": 2073.19,
+      "end": 2075.19,
+      "text": "2%,"
+    },
+    {
+      "id": 158,
+      "start": 2396.66,
+      "end": 2400.64,
+      "text": "bhoj"
+    },
+    {
+      "id": 159,
+      "start": 2400.66,
+      "end": 2404.66,
+      "text": "bhoi"
+    },
+    {
+      "id": 160,
+      "start": 2404.68,
+      "end": 2406.66,
+      "text": "bhoji"
+    },
+    {
+      "id": 161,
+      "start": 2406.68,
+      "end": 2408.86,
+      "text": "bhoje"
+    },
+    {
+      "id": 162,
+      "start": 2408.88,
+      "end": 2411.88,
+      "text": "bhoja"
+    },
+    {
+      "id": 163,
+      "start": 2411.92,
+      "end": 2414.88,
+      "text": "bhojo"
+    },
+    {
+      "id": 164,
+      "start": 2414.92,
+      "end": 2416.92,
+      "text": "bhojs"
+    },
+    {
+      "id": 165,
+      "start": 2416.94,
+      "end": 2420.86,
+      "text": "che"
+    },
+    {
+      "id": 166,
+      "start": 2420.88,
+      "end": 2423.05,
+      "text": "bho"
+    },
+    {
+      "id": 167,
+      "start": 2423.07,
+      "end": 2425.11,
+      "text": "dh"
+    },
+    {
+      "id": 168,
+      "start": 2737.88,
+      "end": 2738.88,
+      "text": "1.0"
+    },
+    {
+      "id": 169,
+      "start": 2739.88,
+      "end": 2740.88,
+      "text": "2.0"
+    },
+    {
+      "id": 170,
+      "start": 2741.88,
+      "end": 2742.88,
+      "text": "4.0"
+    },
+    {
+      "id": 171,
+      "start": 2743.88,
+      "end": 2745.88,
+      "text": "5.0"
+    },
+    {
+      "id": 172,
+      "start": 2746.88,
+      "end": 2747.88,
+      "text": "6.0"
+    },
+    {
+      "id": 173,
+      "start": 2748.88,
+      "end": 2749.88,
+      "text": "7.0"
+    },
+    {
+      "id": 174,
+      "start": 2750.97,
+      "end": 2751.97,
+      "text": "9.0"
+    },
+    {
+      "id": 175,
+      "start": 2752.97,
+      "end": 2753.97,
+      "text": "8.0"
+    },
+    {
+      "id": 176,
+      "start": 2754.97,
+      "end": 2755.97,
+      "text": "9.9"
+    },
+    {
+      "id": 177,
+      "start": 2756.97,
+      "end": 2757.97,
+      "text": "10.0"
+    },
+    {
+      "id": 178,
+      "start": 2758.97,
+      "end": 2759.97,
+      "text": "11.0"
+    },
+    {
+      "id": 179,
+      "start": 2760.97,
+      "end": 2761.97,
+      "text": "12.0"
+    },
+    {
+      "id": 180,
+      "start": 2762.97,
+      "end": 2763.97,
+      "text": "13.0"
+    },
+    {
+      "id": 181,
+      "start": 2764.97,
+      "end": 2765.97,
+      "text": "14.0"
+    },
+    {
+      "id": 182,
+      "start": 2948.72,
+      "end": 2953.72,
+      "text": "ھاکہ لگیٹ کرنا ہوں پسے کنسپ بیس کے اس کا نالیس کر کے اسکل آج رکھنا ہے آپ کو جو DPR اس کو انشلعت کرنا ہے"
+    },
+    {
+      "id": 183,
+      "start": 2954.72,
+      "end": 2956.72,
+      "text": "بیز کے اچھ کیا دھارپر اور فر جو کسی اس بچے ہیں"
+    },
+    {
+      "id": 184,
+      "start": 2957.72,
+      "end": 2959.72,
+      "text": "اچکھیں اس بجے سے اسے اسے ضرور کو حنکل کرتا ہے"
+    },
+    {
+      "id": 185,
+      "start": 2960.72,
+      "end": 2961.72,
+      "text": "اس کے لابا ایک باکے ساری روز بچی ہوئی ہے"
+    },
+    {
+      "id": 186,
+      "start": 2962.72,
+      "end": 2963.72,
+      "text": "تو باكی سارھی رواز کے لئے آپ نے 2-4 روڑ بلا گا دیا"
+    },
+    {
+      "id": 187,
+      "start": 2964.72,
+      "end": 2966.72,
+      "text": "و اُس میں آپ نے جو بھی لوگ تھا آپ کو آگری یہاں پہلکھا ہوا"
+    },
+    {
+      "id": 188,
+      "start": 3058.42,
+      "end": 3060.42,
+      "text": "ڈڑڑ ڑ'"
+    },
+    {
+      "id": 189,
+      "start": 3061.42,
+      "end": 3062.42,
+      "text": "ژڑ"
+    },
+    {
+      "id": 190,
+      "start": 3063.42,
+      "end": 3064.42,
+      "text": "ڝڑ"
+    },
+    {
+      "id": 191,
+      "start": 3065.42,
+      "end": 3066.42,
+      "text": "ڭ"
+    },
+    {
+      "id": 192,
+      "start": 3067.42,
+      "end": 3068.42,
+      "text": "ډ"
+    },
+    {
+      "id": 193,
+      "start": 3069.42,
+      "end": 3070.42,
+      "text": "گ"
+    },
+    {
+      "id": 194,
+      "start": 3071.42,
+      "end": 3072.42,
+      "text": "ڣ"
+    },
+    {
+      "id": 195,
+      "start": 3073.42,
+      "end": 3074.42,
+      "text": "ڤ"
+    },
+    {
+      "id": 196,
+      "start": 3075.48,
+      "end": 3076.48,
+      "text": "ڋ"
+    },
+    {
+      "id": 197,
+      "start": 3077.48,
+      "end": 3078.48,
+      "text": "ڦ"
+    }
+  ]
+}

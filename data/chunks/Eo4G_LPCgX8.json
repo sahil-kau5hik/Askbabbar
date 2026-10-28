@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "Eo4G_LPCgX8_000153_000928",
+    "video_id": "Eo4G_LPCgX8",
+    "video_title": "Lecture 116: Min Score Triangulation of Polygon || DP Series",
+    "lecture_number": 116,
+    "playlist_index": 125,
+    "video_url": "https://www.youtube.com/watch?v=Eo4G_LPCgX8",
+    "start_time": 153.89,
+    "end_time": 928.51,
+    "start_timestamp_str": "02:33",
+    "end_timestamp_str": "15:28",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=Eo4G_LPCgX8&t=153s",
+    "text": "144, 1x1444, Minimum Score. ھاں سے رہے ہیں",
+    "segment_span": [
+      0,
+      1
+    ]
+  },
+  {
+    "chunk_id": "Eo4G_LPCgX8_000930_000958",
+    "video_id": "Eo4G_LPCgX8",
+    "video_title": "Lecture 116: Min Score Triangulation of Polygon || DP Series",
+    "lecture_number": 116,
+    "playlist_index": 125,
+    "video_url": "https://www.youtube.com/watch?v=Eo4G_LPCgX8",
+    "start_time": 930.51,
+    "end_time": 958.99,
+    "start_timestamp_str": "15:30",
+    "end_timestamp_str": "15:58",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=Eo4G_LPCgX8&t=930s",
+    "text": "ھوڑھے ھکھے ھیکھے ھے ھیں ھہ ھ ھ ھ ھ ھ ھ",
+    "segment_span": [
+      2,
+      13
+    ]
+  }
+]

@@ -1,0 +1,218 @@
+{
+  "video_id": "KFqhgQeQAXc",
+  "lecture_number": 134,
+  "video_title": "Lecture 134: Buy and Sell Stock [Part 5] || DP Series",
+  "total_duration": 505.79,
+  "segments": [
+    {
+      "id": 0,
+      "start": 3.57,
+      "end": 4.57,
+      "text": "Hello, how are you? Love Babbar and welcome to the channel."
+    },
+    {
+      "id": 1,
+      "start": 5.57,
+      "end": 6.57,
+      "text": "Welcome back to the Channel."
+    },
+    {
+      "id": 2,
+      "start": 94.05,
+      "end": 100.05,
+      "text": "تبو آپ کو ایک Transaction fee دینی پڑے گی یہ ہے یہ ہے"
+    },
+    {
+      "id": 3,
+      "start": 101.05,
+      "end": 105.05,
+      "text": "ان شاہٹ ان ہمیں بولا گیا ہے یہاں ہمے بولائے گیاں ہاں ملٹپل Transaction کر لو کوئیش ہو نہیں ہے"
+    },
+    {
+      "id": 4,
+      "start": 106.05,
+      "end": 110.05,
+      "text": "ایسے سکن والا variant صنا بویش سےیں کہاں מلٹھپل transaction کر لو کوئے بھیش ہو نہ ہیں"
+    },
+    {
+      "id": 5,
+      "start": 110.05,
+      "end": 115.35,
+      "text": "but condition is that in every transaction you have to pay 1 transaction fee"
+    },
+    {
+      "id": 6,
+      "start": 115.37,
+      "end": 117.05,
+      "text": "its amount will be given up"
+    },
+    {
+      "id": 7,
+      "start": 117.07,
+      "end": 118.37,
+      "text": "we understand the examples"
+    },
+    {
+      "id": 8,
+      "start": 118.39,
+      "end": 124.93,
+      "text": "let's say my price which I got, it has a value of Rs.1.3"
+    },
+    {
+      "id": 9,
+      "start": 124.95,
+      "end": 126.83,
+      "text": "2.8"
+    },
+    {
+      "id": 10,
+      "start": 126.85,
+      "end": 128.95,
+      "text": "4.9"
+    },
+    {
+      "id": 11,
+      "start": 128.97,
+      "end": 132.95,
+      "text": "and fees are fine"
+    },
+    {
+      "id": 12,
+      "start": 132.97,
+      "end": 134.67,
+      "text": "so what did he do?"
+    },
+    {
+      "id": 13,
+      "start": 415.04,
+      "end": 417.04,
+      "text": "ھاپنے بس فنکشن کال کر کے انزر تنکر باگیہ"
+    },
+    {
+      "id": 14,
+      "start": 419.8,
+      "end": 421.9,
+      "text": "سال پیڑیت ہے"
+    },
+    {
+      "id": 15,
+      "start": 422.9,
+      "end": 427.04,
+      "text": "کیا لگتا جلے گا"
+    },
+    {
+      "id": 16,
+      "start": 428.04,
+      "end": 430.07,
+      "text": "ہم نے اس کو رنکیا اور یہ"
+    },
+    {
+      "id": 17,
+      "start": 431.07,
+      "end": 432.07,
+      "text": "اجا بھی ایک سبٹڈ آگیا"
+    },
+    {
+      "id": 18,
+      "start": 433.07,
+      "end": 439.22,
+      "text": "ہم نی اس کو سببٹ کیا اور یہ"
+    },
+    {
+      "id": 19,
+      "start": 440.22,
+      "end": 442.73,
+      "text": "چلو کلچڈ ہوگئے"
+    },
+    {
+      "id": 20,
+      "start": 443.73,
+      "end": 444.73,
+      "text": "سکسس فل آگئی"
+    },
+    {
+      "id": 21,
+      "start": 445.73,
+      "end": 446.73,
+      "text": "بہت بڑیا"
+    },
+    {
+      "id": 22,
+      "start": 447.73,
+      "end": 448.73,
+      "text": "بییا کر میں اس کو یہاں پیز دینگے جگا"
+    },
+    {
+      "id": 23,
+      "start": 449.73,
+      "end": 450.73,
+      "text": "مانلوں میں start-ing میں his"
+    },
+    {
+      "id": 24,
+      "start": 451.73,
+      "end": 452.73,
+      "text": "دیے تھا"
+    },
+    {
+      "id": 25,
+      "start": 482.82,
+      "end": 489.48,
+      "text": "So, this prakar , you can buy & sell stocks of 5 or 4 variants which are lead code present"
+    },
+    {
+      "id": 26,
+      "start": 489.74,
+      "end": 494.26,
+      "text": "You have done it and if your stock has solved the problem then its very nice"
+    },
+    {
+      "id": 27,
+      "start": 494.5,
+      "end": 495.6,
+      "text": "If you understood something"
+    },
+    {
+      "id": 28,
+      "start": 495.62,
+      "end": 496.86,
+      "text": "Then like subscribe"
+    },
+    {
+      "id": 29,
+      "start": 497.14,
+      "end": 498.72,
+      "text": "Comments from all these things"
+    },
+    {
+      "id": 30,
+      "start": 498.74,
+      "end": 500.12,
+      "text": "I tell a lot to you"
+    },
+    {
+      "id": 31,
+      "start": 500.22,
+      "end": 501.52,
+      "text": "So please give me a thumbs up"
+    },
+    {
+      "id": 32,
+      "start": 501.62,
+      "end": 502.52,
+      "text": "Thank you very much for watching"
+    },
+    {
+      "id": 33,
+      "start": 502.54,
+      "end": 503.24,
+      "text": "See you in next video"
+    },
+    {
+      "id": 34,
+      "start": 503.26,
+      "end": 504.1,
+      "text": "Till then take care"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "chunk_id": "T_boOrr0rvk_000003_000105",
+    "video_id": "T_boOrr0rvk",
+    "video_title": "Lecture 90: Topological Sort ( Using DFS ) || Placement Series",
+    "lecture_number": 90,
+    "playlist_index": 98,
+    "video_url": "https://www.youtube.com/watch?v=T_boOrr0rvk",
+    "start_time": 3.44,
+    "end_time": 105.99,
+    "start_timestamp_str": "00:03",
+    "end_timestamp_str": "01:45",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=T_boOrr0rvk&t=3s",
+    "text": "Hello Ji, how are you? Welcome to the channel. We have reached our lecture number 90 on a very important concept which is called topological sort you to v,you always appears before we in that ordering",
+    "segment_span": [
+      0,
+      1
+    ]
+  },
+  {
+    "chunk_id": "T_boOrr0rvk_000106_000179",
+    "video_id": "T_boOrr0rvk",
+    "video_title": "Lecture 90: Topological Sort ( Using DFS ) || Placement Series",
+    "lecture_number": 90,
+    "playlist_index": 98,
+    "video_url": "https://www.youtube.com/watch?v=T_boOrr0rvk",
+    "start_time": 106.99,
+    "end_time": 179.02,
+    "start_timestamp_str": "01:46",
+    "end_timestamp_str": "02:59",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=T_boOrr0rvk&t=106s",
+    "text": "so what do i understand from this? its an order of one example every user is going through which u will come with the first for example there are many very important examples 1-1.0 0-1-2 0-3-2 0-4-2 0-5-2 0-6-9 0-7 0-8 0 0-9-2 0-10-2 0-11-2 0-132 0-12 1-1-0.",
+    "segment_span": [
+      2,
+      20
+    ]
+  },
+  {
+    "chunk_id": "T_boOrr0rvk_000179_000331",
+    "video_id": "T_boOrr0rvk",
+    "video_title": "Lecture 90: Topological Sort ( Using DFS ) || Placement Series",
+    "lecture_number": 90,
+    "playlist_index": 98,
+    "video_url": "https://www.youtube.com/watch?v=T_boOrr0rvk",
+    "start_time": 179.02,
+    "end_time": 331.72,
+    "start_timestamp_str": "02:59",
+    "end_timestamp_str": "05:31",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=T_boOrr0rvk&t=179s",
+    "text": "1-2-1 0 2-3-210 1-4-1 1-6-1 1-9 1-8-1 1-7 1-5 1-11 1-12 1-13 1-14 1-15 1x2 2x3 3x1",
+    "segment_span": [
+      21,
+      34
+    ]
+  },
+  {
+    "chunk_id": "T_boOrr0rvk_000768_000796",
+    "video_id": "T_boOrr0rvk",
+    "video_title": "Lecture 90: Topological Sort ( Using DFS ) || Placement Series",
+    "lecture_number": 90,
+    "playlist_index": 98,
+    "video_url": "https://www.youtube.com/watch?v=T_boOrr0rvk",
+    "start_time": 768.78,
+    "end_time": 796.22,
+    "start_timestamp_str": "12:48",
+    "end_timestamp_str": "13:16",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=T_boOrr0rvk&t=768s",
+    "text": "پر آپاکٹ کرنا آپ possible نہیں ہیں جس سے آگے پر اپا کٹ کر نہ آپ possible اور اس کا منیستیکم دلہ ہے ہم نسکم دол ہے پتے سب سے last میں لیکنے والائی چی so that's why in this way we have taken a valid topological sort We took an valid Topological Sort کیا سکو کوٹ کریں بہت سان کوٹ ہو گa Time complexity話 کریں I am going to take time complexity linear of n plus e, number of more Space complexity話 ڈ کریں",
+    "segment_span": [
+      35,
+      46
+    ]
+  }
+]

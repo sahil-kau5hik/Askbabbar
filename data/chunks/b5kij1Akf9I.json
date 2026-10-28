@@ -1,0 +1,92 @@
+[
+  {
+    "chunk_id": "b5kij1Akf9I_000033_000137",
+    "video_id": "b5kij1Akf9I",
+    "video_title": "Lecture 86: BFS Traversal in Graph || C++ Placement Series",
+    "lecture_number": 86,
+    "playlist_index": 94,
+    "video_url": "https://www.youtube.com/watch?v=b5kij1Akf9I",
+    "start_time": 33.47,
+    "end_time": 137.94,
+    "start_timestamp_str": "00:33",
+    "end_timestamp_str": "02:17",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=b5kij1Akf9I&t=33s",
+    "text": "Liste-Balley Repetition is printed. BFS, BFS if we talk about the form of BFS 4-3",
+    "segment_span": [
+      0,
+      1
+    ]
+  },
+  {
+    "chunk_id": "b5kij1Akf9I_000139_000622",
+    "video_id": "b5kij1Akf9I",
+    "video_title": "Lecture 86: BFS Traversal in Graph || C++ Placement Series",
+    "lecture_number": 86,
+    "playlist_index": 94,
+    "video_url": "https://www.youtube.com/watch?v=b5kij1Akf9I",
+    "start_time": 139.94,
+    "end_time": 622.61,
+    "start_timestamp_str": "02:19",
+    "end_timestamp_str": "10:22",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=b5kij1Akf9I&t=139s",
+    "text": "3-4 5-3 2-2 3 3-1 4-2 ھاں کیا ہے کہاں پڑھ کرسکتا ہوں نہیں کر سکا کیوں کی 1",
+    "segment_span": [
+      2,
+      8
+    ]
+  },
+  {
+    "chunk_id": "b5kij1Akf9I_000622_000753",
+    "video_id": "b5kij1Akf9I",
+    "video_title": "Lecture 86: BFS Traversal in Graph || C++ Placement Series",
+    "lecture_number": 86,
+    "playlist_index": 94,
+    "video_url": "https://www.youtube.com/watch?v=b5kij1Akf9I",
+    "start_time": 622.71,
+    "end_time": 753.8,
+    "start_timestamp_str": "10:22",
+    "end_timestamp_str": "12:33",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=b5kij1Akf9I&t=622s",
+    "text": "ھولری ٹرو ہے اور آپ نے 4 بھی آپ نے پر انٹ کر آگی ہے لیکن آپ کا BFF traversal جہے وہ پر اٹھا ہو گیا یہ آپ کا bff traversal پر نٹ ہو گئے اور آپ کی QBMT ہو چکی ہے احان سے رہے کو پہلا آپ کا 0 آیا پھر آپ کا 3 آیا پھیر آپ کے بنائیا پھے آپ کا 2 آیا و پھیک آپ کا 4 آیا اسی same dry run آپ הפلای کریں گے اسی Same Dry Run کو آپ הפلائے کریںگے کہاہ پر ایک کس او رفوسکتا ہے یہاں پر کی لد سے آپ کو یہ والا گراف دیا ہوئے 1 node is selected and then all of its adjacent nodes are visited by one.",
+    "segment_span": [
+      9,
+      25
+    ]
+  },
+  {
+    "chunk_id": "b5kij1Akf9I_000754_001288",
+    "video_id": "b5kij1Akf9I",
+    "video_title": "Lecture 86: BFS Traversal in Graph || C++ Placement Series",
+    "lecture_number": 86,
+    "playlist_index": 94,
+    "video_url": "https://www.youtube.com/watch?v=b5kij1Akf9I",
+    "start_time": 754.8,
+    "end_time": 1288.91,
+    "start_timestamp_str": "12:34",
+    "end_timestamp_str": "21:28",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=b5kij1Akf9I&t=754s",
+    "text": "Unactive draft definition, if you have a graphic discantreed what happens to that? Now we understand the whole game's properties Let us understand this What I said in it We asked for these numbers of nodes And you can add them So they will also need to be made from adjacent 1.2x runganthur kis case",
+    "segment_span": [
+      26,
+      34
+    ]
+  },
+  {
+    "chunk_id": "b5kij1Akf9I_001289_001417",
+    "video_id": "b5kij1Akf9I",
+    "video_title": "Lecture 86: BFS Traversal in Graph || C++ Placement Series",
+    "lecture_number": 86,
+    "playlist_index": 94,
+    "video_url": "https://www.youtube.com/watch?v=b5kij1Akf9I",
+    "start_time": 1289.91,
+    "end_time": 1417.45,
+    "start_timestamp_str": "21:29",
+    "end_timestamp_str": "23:37",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=b5kij1Akf9I&t=1289s",
+    "text": "2.3x rnganthu 4.4x rg 6.5x 7.6x 9.8x 8.9x 10.7x 11.10x 12.11x 13.15x till then, bye.",
+    "segment_span": [
+      35,
+      45
+    ]
+  }
+]

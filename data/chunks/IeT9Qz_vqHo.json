@@ -1,0 +1,182 @@
+[
+  {
+    "chunk_id": "IeT9Qz_vqHo_000003_000126",
+    "video_id": "IeT9Qz_vqHo",
+    "video_title": "Lecture 124: Minimum Swaps to make Subsequences Increasing || DP Series",
+    "lecture_number": 124,
+    "playlist_index": 133,
+    "video_url": "https://www.youtube.com/watch?v=IeT9Qz_vqHo",
+    "start_time": 3.47,
+    "end_time": 126.69,
+    "start_timestamp_str": "00:03",
+    "end_timestamp_str": "02:06",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=IeT9Qz_vqHo&t=3s",
+    "text": "Hello, G. Welcome to the channel Code Help. Up on our lecture number 1-2-4124 ایکсامفلا کو دخاتاں اور اسے سمجھ میں آجائے گا",
+    "segment_span": [
+      0,
+      1
+    ]
+  },
+  {
+    "chunk_id": "IeT9Qz_vqHo_000127_000255",
+    "video_id": "IeT9Qz_vqHo",
+    "video_title": "Lecture 124: Minimum Swaps to make Subsequences Increasing || DP Series",
+    "lecture_number": 124,
+    "playlist_index": 133,
+    "video_url": "https://www.youtube.com/watch?v=IeT9Qz_vqHo",
+    "start_time": 127.69,
+    "end_time": 255.54,
+    "start_timestamp_str": "02:07",
+    "end_timestamp_str": "04:15",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=IeT9Qz_vqHo&t=127s",
+    "text": "تو یہ our example ہمیں input canter isprachar 2 eritya numms1 4 numms2 1 2 37 اگر میں یہاں پر اس کو ایک ایلیمانت کیوں پر میں گیاں میں نے بلا کیا مئیس کو انکلوڑ کروں اپنے تاگت سمبانانکلے ایک انکЛوڈ والی کالچے لگی ایک",
+    "segment_span": [
+      2,
+      11
+    ]
+  },
+  {
+    "chunk_id": "IeT9Qz_vqHo_000255_000581",
+    "video_id": "IeT9Qz_vqHo",
+    "video_title": "Lecture 124: Minimum Swaps to make Subsequences Increasing || DP Series",
+    "lecture_number": 124,
+    "playlist_index": 133,
+    "video_url": "https://www.youtube.com/watch?v=IeT9Qz_vqHo",
+    "start_time": 255.56,
+    "end_time": 581.78,
+    "start_timestamp_str": "04:15",
+    "end_timestamp_str": "09:41",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=IeT9Qz_vqHo&t=255s",
+    "text": "ایک سلوالی کولچے ۔موسی پکاری ہاں پر ہونے والا ہے ایہا پر کیس کیا؟ کیا ماستراب کروں؟ یا ما استراب نہ کروں۔ سمپل گئے، باستان گوشنے ہیں but if you start with this index, اس اندیکس کے ساتھ start with that کہ آپ یہاں بھر خڈیوڐے 1,2,3,7 ڈڑڑ ڑ'",
+    "segment_span": [
+      12,
+      21
+    ]
+  },
+  {
+    "chunk_id": "IeT9Qz_vqHo_000582_000807",
+    "video_id": "IeT9Qz_vqHo",
+    "video_title": "Lecture 124: Minimum Swaps to make Subsequences Increasing || DP Series",
+    "lecture_number": 124,
+    "playlist_index": 133,
+    "video_url": "https://www.youtube.com/watch?v=IeT9Qz_vqHo",
+    "start_time": 582.78,
+    "end_time": 807.34,
+    "start_timestamp_str": "09:42",
+    "end_timestamp_str": "13:27",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=IeT9Qz_vqHo&t=582s",
+    "text": "ژڑ ڝڑ ڭ ډڑ ڀ ڋ ڨ ڦ ڂ چ ڍ ڣ ڶ 10.",
+    "segment_span": [
+      22,
+      35
+    ]
+  },
+  {
+    "chunk_id": "IeT9Qz_vqHo_000808_000962",
+    "video_id": "IeT9Qz_vqHo",
+    "video_title": "Lecture 124: Minimum Swaps to make Subsequences Increasing || DP Series",
+    "lecture_number": 124,
+    "playlist_index": 133,
+    "video_url": "https://www.youtube.com/watch?v=IeT9Qz_vqHo",
+    "start_time": 808.34,
+    "end_time": 962.64,
+    "start_timestamp_str": "13:28",
+    "end_timestamp_str": "16:02",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=IeT9Qz_vqHo&t=808s",
+    "text": "10. 10. 11. 11. 11. 12. 13. 11. 11. 11. 11. 11. 11. ھاں میں چینجیز نہیں کر رہیں ہیں",
+    "segment_span": [
+      36,
+      49
+    ]
+  },
+  {
+    "chunk_id": "IeT9Qz_vqHo_000963_001147",
+    "video_id": "IeT9Qz_vqHo",
+    "video_title": "Lecture 124: Minimum Swaps to make Subsequences Increasing || DP Series",
+    "lecture_number": 124,
+    "playlist_index": 133,
+    "video_url": "https://www.youtube.com/watch?v=IeT9Qz_vqHo",
+    "start_time": 963.14,
+    "end_time": 1147.76,
+    "start_timestamp_str": "16:03",
+    "end_timestamp_str": "19:07",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=IeT9Qz_vqHo&t=963s",
+    "text": "تو کائی دے سے کرتوں دیکھو реالیٹی کے اندر Swap ہونے کے بعد تان سننا реالٹی کیوندر Swap ہونی کے بعد 4 کا جو پریبیس ہے یعنی پریویس بن جو ہوگا وہ 3 اور 7 کا جو پریوبیس یعندی پریرویس 2 جو جو وہ 5 ہوگa OK Let's یہ سمجھنا تحان سکنا اس کو بھی نحن لتحان اب جمہ میں اس کے آگے پانچا دیکہ ھاکلے ھوالا کے سانل کر لیا بیس رہا پڑا لیکن سانلا کر رہو",
+    "segment_span": [
+      50,
+      78
+    ]
+  },
+  {
+    "chunk_id": "IeT9Qz_vqHo_001147_001363",
+    "video_id": "IeT9Qz_vqHo",
+    "video_title": "Lecture 124: Minimum Swaps to make Subsequences Increasing || DP Series",
+    "lecture_number": 124,
+    "playlist_index": 133,
+    "video_url": "https://www.youtube.com/watch?v=IeT9Qz_vqHo",
+    "start_time": 1147.78,
+    "end_time": 1363.49,
+    "start_timestamp_str": "19:07",
+    "end_timestamp_str": "22:43",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=IeT9Qz_vqHo&t=1147s",
+    "text": "سوپا لکے اس کا پڈ کرتے ہیں جب شکلیم کی زنگ نہیں ہوتا تبیل ہوتو ہے تو اس کا مطلب میں نے کہا لگا کہ اف نمس one کا انڈیکز جو ہے بڑھا ہے کسے بڈھا ہیں تو اس و لکیں اس کی بعد کر لے تھے ہیں پے کہ اگر میرا انڑیکس یہاں پژا ہو آہا ہے لیکس میں لای نمہ 20 والکڑے دیھن چک کرتا ہوں تو کیا یہ سے بژائجی ہاں ھاں میں نے گالام میں یا نمبر افنید آپریشن",
+    "segment_span": [
+      79,
+      87
+    ]
+  },
+  {
+    "chunk_id": "IeT9Qz_vqHo_001363_001596",
+    "video_id": "IeT9Qz_vqHo",
+    "video_title": "Lecture 124: Minimum Swaps to make Subsequences Increasing || DP Series",
+    "lecture_number": 124,
+    "playlist_index": 133,
+    "video_url": "https://www.youtube.com/watch?v=IeT9Qz_vqHo",
+    "start_time": 1363.49,
+    "end_time": 1596.63,
+    "start_timestamp_str": "22:43",
+    "end_timestamp_str": "26:36",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=IeT9Qz_vqHo&t=1363s",
+    "text": "تو یہاں پہ جا آپ نے Swap کیا تو آپ کو اس Swap کنتری بھی تکرنا پڑے کا 1 PLUS کرنا پٹے کا تو اس پہ دیکھا پھڑیں تک کرنا وان پڈھا ہوں ابرا ان کیا accept it submit کر دو TLI آئے گا ریا جا آگیا TLI تو اس פرکار ہم نے اس کوشن کو دیکھی کہ رکالجن تو اس فکار ہو جاتا ایک پر رکلیا تو پھر دلی دور نہیں و روچ کے دوارہ اس کو سالب کرنے کی کوشکرتا ہم سالوٹیவ",
+    "segment_span": [
+      88,
+      100
+    ]
+  },
+  {
+    "chunk_id": "IeT9Qz_vqHo_001596_002213",
+    "video_id": "IeT9Qz_vqHo",
+    "video_title": "Lecture 124: Minimum Swaps to make Subsequences Increasing || DP Series",
+    "lecture_number": 124,
+    "playlist_index": 133,
+    "video_url": "https://www.youtube.com/watch?v=IeT9Qz_vqHo",
+    "start_time": 1596.83,
+    "end_time": 2213.36,
+    "start_timestamp_str": "26:36",
+    "end_timestamp_str": "36:53",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=IeT9Qz_vqHo&t=1596s",
+    "text": "یا میں نے کیا کیا قیبا سنپلیا جو تمہری یہاں پیزیں تھی ایسے کو باز کر دیا تھا چاہنا اب سوچھو کیا کرنا ہے سب سے بلسٹب کیا ہوتا بھی آئے آبے میں ہم کچھ نہیں بھی ہم اپنا اوگٹر بناتیں DPWLA تو یہاہ میں نے TPWLA Error Error یا بیکٹر ہم نے крید کر لیا ہم نبولا کی تم ہو N اور تم ہو نبکٹر of end 2,0 dp of index fab is equal to answer",
+    "segment_span": [
+      101,
+      117
+    ]
+  },
+  {
+    "chunk_id": "IeT9Qz_vqHo_002214_002237",
+    "video_id": "IeT9Qz_vqHo",
+    "video_title": "Lecture 124: Minimum Swaps to make Subsequences Increasing || DP Series",
+    "lecture_number": 124,
+    "playlist_index": 133,
+    "video_url": "https://www.youtube.com/watch?v=IeT9Qz_vqHo",
+    "start_time": 2214.36,
+    "end_time": 2237.62,
+    "start_timestamp_str": "36:54",
+    "end_timestamp_str": "37:17",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=IeT9Qz_vqHo&t=2214s",
+    "text": "current index value dp you are not answering this guy has two ways if i say that the name swap and its name no swap it's his name, current swap",
+    "segment_span": [
+      118,
+      122
+    ]
+  }
+]

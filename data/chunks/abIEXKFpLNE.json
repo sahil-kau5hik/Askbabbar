@@ -1,0 +1,146 @@
+[
+  {
+    "chunk_id": "abIEXKFpLNE_000003_000097",
+    "video_id": "abIEXKFpLNE",
+    "video_title": "Lecture 93: Shortest Path in Undirected Graphs || C++ Placement Series",
+    "lecture_number": 93,
+    "playlist_index": 102,
+    "video_url": "https://www.youtube.com/watch?v=abIEXKFpLNE",
+    "start_time": 3.57,
+    "end_time": 97.79,
+    "start_timestamp_str": "00:03",
+    "end_timestamp_str": "01:37",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=abIEXKFpLNE&t=3s",
+    "text": "Hello, how are you? Welcome to channel code hl. We will be back with our lecture number 93 and here we'll read the short test path in undirected graph 1-4-6-7-8",
+    "segment_span": [
+      0,
+      1
+    ]
+  },
+  {
+    "chunk_id": "abIEXKFpLNE_000154_000214",
+    "video_id": "abIEXKFpLNE",
+    "video_title": "Lecture 93: Shortest Path in Undirected Graphs || C++ Placement Series",
+    "lecture_number": 93,
+    "playlist_index": 102,
+    "video_url": "https://www.youtube.com/watch?v=abIEXKFpLNE",
+    "start_time": 154.43,
+    "end_time": 214.69,
+    "start_timestamp_str": "02:34",
+    "end_timestamp_str": "03:34",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=abIEXKFpLNE&t=154s",
+    "text": "ki ye path 1, hai ye part 2, hai baat 3 ayin aur iss sapsav ne matadhi ki shortest paat ko on sir elgurna pharaapart design karthay hai kya ka hao ga kye se he hooga aur fir code ke dharab bhaaingai So aprojis vuskarne wale hambat karne wala aaprojke baare mein kye sa solve kar na iskurshengu Before discussing approach let's first discuss about the sponsors of this video aur uske baat kahdi nogarta hai Thanks to them coding ninjas kaya hai It was our largest coding agition platform ھاں پر آپ بہت پکار کی کورسیز دیکھنے گرف آپ انٹرشڈ ہے پیڑ کورсیز کے انترگہ آپ چاہتے گھا דیوڑ کرلوں ایر مشین لرنگ کرلو اینڈ کرل ویژ کرل لو اسے دن کرلون کور سبجت OSDBMS وگرف پڑڑھلوں میں یا دیسے کرلیں جا وہاپ پائیثن کسی بھی اللیngوچ کے اندر تو آپ یہاں سے وہ پیٹ کورستے لے پائیں گے ھاں سپسے پیاری چیز جو لوگ طاریف کرتیں قوڑیں نجاز کے وہیے یہاں پر one on one doubt returning support available, qarabu kui bi doubt hati xia 2 khinti bharizwal kradya jaya ka ھکورشہ جو بنائی جاتیں بہت ویلسٹرکچہ دویاں بنائے جاتے ہیں ki ga mhe na dhalinge tawkur zal definitely milne wala hai ھیکورش بنانے والے بنتے ھوالے دی پڑی بڑھی کمپنی مفوڈ چکے ہیں تو اس کیاپ کو ٹنشل لنے کی بیڈ نہیں ہے LANGUAGE Hindi English",
+    "segment_span": [
+      2,
+      26
+    ]
+  },
+  {
+    "chunk_id": "abIEXKFpLNE_000215_000283",
+    "video_id": "abIEXKFpLNE",
+    "video_title": "Lecture 93: Shortest Path in Undirected Graphs || C++ Placement Series",
+    "lecture_number": 93,
+    "playlist_index": 102,
+    "video_url": "https://www.youtube.com/watch?v=abIEXKFpLNE",
+    "start_time": 215.69,
+    "end_time": 283.49,
+    "start_timestamp_str": "03:35",
+    "end_timestamp_str": "04:43",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=abIEXKFpLNE&t=215s",
+    "text": "Qashansawal KK Abhaap Link Link Link Link Link Link BFS BF BFS BFS 1-2 3 4",
+    "segment_span": [
+      27,
+      40
+    ]
+  },
+  {
+    "chunk_id": "abIEXKFpLNE_000283_000428",
+    "video_id": "abIEXKFpLNE",
+    "video_title": "Lecture 93: Shortest Path in Undirected Graphs || C++ Placement Series",
+    "lecture_number": 93,
+    "playlist_index": 102,
+    "video_url": "https://www.youtube.com/watch?v=abIEXKFpLNE",
+    "start_time": 283.99,
+    "end_time": 428.43,
+    "start_timestamp_str": "04:43",
+    "end_timestamp_str": "07:08",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=abIEXKFpLNE&t=283s",
+    "text": "2-1 5 3-1 8 4-1 6 5 2-8 4 7 7-6 8 357 میں نے سنو کا مجھے بات آپ کو پیڈنٹ کا ہے کہاں سے پہدا ہوگo",
+    "segment_span": [
+      41,
+      51
+    ]
+  },
+  {
+    "chunk_id": "abIEXKFpLNE_000428_000501",
+    "video_id": "abIEXKFpLNE",
+    "video_title": "Lecture 93: Shortest Path in Undirected Graphs || C++ Placement Series",
+    "lecture_number": 93,
+    "playlist_index": 102,
+    "video_url": "https://www.youtube.com/watch?v=abIEXKFpLNE",
+    "start_time": 428.43,
+    "end_time": 501.49,
+    "start_timestamp_str": "07:08",
+    "end_timestamp_str": "08:21",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=abIEXKFpLNE&t=428s",
+    "text": "کیا ہمیں پتا ہے تو ہم نے اب تک کیا کر لیا ہم سوش نور پے تھے ہم 네 سوچ نور کو پش کر دیا ہوں نے اس کا ویشل مارک کر دییا اور اس کا پیٹنٹ بھی سٹ کر دے ایتنا شٹر کر دھی ہم نور اب ہم اب ہون نے جاگا کیا رئے ایسا کرو فرنت نور نہیں گالا تو فرنٹ نور کیا گی فرند نور آگی پان تو آپ نے یہ اس کا פاپ کر دہیا آپ نے کہے بھییں نوڑ پہ جاؤ 2 3 4 2 3 آپ نے وہاں ایک 3 کو انسارٹ کرتے پہنسارط کرنے سے پہلے بیشڈ اور پیڈنٹ مارک کرتا جانے آپ نے پہ لے 2 کو پکڑا تو 2 کے لئے ہم نے اس کو بیچڈ مارق کر دیا اس کا پیٹنٹ بان سات کر دییا 2 کو حب پش کر دے پھر میں 3 کو پ پکٹا 3 کو بھیچڣ مارگ کر دہ 3 کا پینٹ بہن کر دھییا و 3 کو пش کر گیا پھریم نے 4 کو پگڑیا ھاں نے فرنٹ ہتایا, ایک نیافرنت نے گالا, اب نیفرنت کیا ہے 3",
+    "segment_span": [
+      52,
+      74
+    ]
+  },
+  {
+    "chunk_id": "abIEXKFpLNE_000501_000583",
+    "video_id": "abIEXKFpLNE",
+    "video_title": "Lecture 93: Shortest Path in Undirected Graphs || C++ Placement Series",
+    "lecture_number": 93,
+    "playlist_index": 102,
+    "video_url": "https://www.youtube.com/watch?v=abIEXKFpLNE",
+    "start_time": 501.51,
+    "end_time": 583.3,
+    "start_timestamp_str": "08:21",
+    "end_timestamp_str": "09:43",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=abIEXKFpLNE&t=501s",
+    "text": "اب نےفرن نے گала 3 ھتی کہ 3 کویاں سے پOP کر دیا 3 کے جسنوٹ بگئے 1 & 8 1 جو ہے, all day visited تو ہم نے 1 کو نگلکٹ کر دییا 8 کو پکڑ دیا 8 کوہم نے ویشوڈ مارکٹ دیا 8 کا پیرنت ہمیں 3 سٹ کردییا جو کی ماری فرنت نوڑ ہے اور ہم میں 8 کو یہاں پر پش کر دے بہت بڑییا 7%-7%",
+    "segment_span": [
+      75,
+      88
+    ]
+  },
+  {
+    "chunk_id": "abIEXKFpLNE_000585_000938",
+    "video_id": "abIEXKFpLNE",
+    "video_title": "Lecture 93: Shortest Path in Undirected Graphs || C++ Placement Series",
+    "lecture_number": 93,
+    "playlist_index": 102,
+    "video_url": "https://www.youtube.com/watch?v=abIEXKFpLNE",
+    "start_time": 585.3,
+    "end_time": 938.95,
+    "start_timestamp_str": "09:45",
+    "end_timestamp_str": "15:38",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=abIEXKFpLNE&t=585s",
+    "text": "6%-6% 7% 6% 8%, 8% 8% 10% 1 2 3 4 5 6 7 8 1 ڈڑڑ ڑ'",
+    "segment_span": [
+      89,
+      96
+    ]
+  },
+  {
+    "chunk_id": "abIEXKFpLNE_000939_000968",
+    "video_id": "abIEXKFpLNE",
+    "video_title": "Lecture 93: Shortest Path in Undirected Graphs || C++ Placement Series",
+    "lecture_number": 93,
+    "playlist_index": 102,
+    "video_url": "https://www.youtube.com/watch?v=abIEXKFpLNE",
+    "start_time": 939.95,
+    "end_time": 968.0,
+    "start_timestamp_str": "15:39",
+    "end_timestamp_str": "16:08",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=abIEXKFpLNE&t=939s",
+    "text": "ژڑ ڝڑ ڭ ډڑ ڋ ښ ڧ ڦ ڃ ڣ ڨ گ ڤ",
+    "segment_span": [
+      97,
+      109
+    ]
+  }
+]

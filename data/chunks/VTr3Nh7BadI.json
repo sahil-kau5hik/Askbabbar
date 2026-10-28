@@ -1,0 +1,110 @@
+[
+  {
+    "chunk_id": "VTr3Nh7BadI_000002_000100",
+    "video_id": "VTr3Nh7BadI",
+    "video_title": "Lecture 80: Longest Common Prefix Problem || Tries || C++ Placement Series",
+    "lecture_number": 80,
+    "playlist_index": 88,
+    "video_url": "https://www.youtube.com/watch?v=VTr3Nh7BadI",
+    "start_time": 2.83,
+    "end_time": 100.17,
+    "start_timestamp_str": "00:02",
+    "end_timestamp_str": "01:40",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=VTr3Nh7BadI&t=2s",
+    "text": "Hello, how are you? Love Babbar and welcome to the channel. cccc",
+    "segment_span": [
+      0,
+      1
+    ]
+  },
+  {
+    "chunk_id": "VTr3Nh7BadI_000101_000186",
+    "video_id": "VTr3Nh7BadI",
+    "video_title": "Lecture 80: Longest Common Prefix Problem || Tries || C++ Placement Series",
+    "lecture_number": 80,
+    "playlist_index": 88,
+    "video_url": "https://www.youtube.com/watch?v=VTr3Nh7BadI",
+    "start_time": 101.17,
+    "end_time": 186.38,
+    "start_timestamp_str": "01:41",
+    "end_timestamp_str": "03:06",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=VTr3Nh7BadI&t=101s",
+    "text": "cc cc cc o o o o d c a n r ڈڑڑ ڑ",
+    "segment_span": [
+      2,
+      14
+    ]
+  },
+  {
+    "chunk_id": "VTr3Nh7BadI_000216_000336",
+    "video_id": "VTr3Nh7BadI",
+    "video_title": "Lecture 80: Longest Common Prefix Problem || Tries || C++ Placement Series",
+    "lecture_number": 80,
+    "playlist_index": 88,
+    "video_url": "https://www.youtube.com/watch?v=VTr3Nh7BadI",
+    "start_time": 216.38,
+    "end_time": 336.75,
+    "start_timestamp_str": "03:36",
+    "end_timestamp_str": "05:36",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=VTr3Nh7BadI&t=216s",
+    "text": "nd g nd nd nd n c o d s a t 1.",
+    "segment_span": [
+      15,
+      26
+    ]
+  },
+  {
+    "chunk_id": "VTr3Nh7BadI_000338_000434",
+    "video_id": "VTr3Nh7BadI",
+    "video_title": "Lecture 80: Longest Common Prefix Problem || Tries || C++ Placement Series",
+    "lecture_number": 80,
+    "playlist_index": 88,
+    "video_url": "https://www.youtube.com/watch?v=VTr3Nh7BadI",
+    "start_time": 338.84,
+    "end_time": 434.26,
+    "start_timestamp_str": "05:38",
+    "end_timestamp_str": "07:14",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=VTr3Nh7BadI&t=338s",
+    "text": "2. 3. PLUS PLUS, he loop upne chaladia for remaining strings",
+    "segment_span": [
+      27,
+      29
+    ]
+  },
+  {
+    "chunk_id": "VTr3Nh7BadI_000438_000923",
+    "video_id": "VTr3Nh7BadI",
+    "video_title": "Lecture 80: Longest Common Prefix Problem || Tries || C++ Placement Series",
+    "lecture_number": 80,
+    "playlist_index": 88,
+    "video_url": "https://www.youtube.com/watch?v=VTr3Nh7BadI",
+    "start_time": 438.01,
+    "end_time": 923.3,
+    "start_timestamp_str": "07:18",
+    "end_timestamp_str": "15:23",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=VTr3Nh7BadI&t=438s",
+    "text": "For comparison For comparing corrector with rest of the string Now i said that i had to check what is ok if we match So here my condition came not matched where I told you guys man and people do not match so now let me break it 1.0%",
+    "segment_span": [
+      30,
+      38
+    ]
+  },
+  {
+    "chunk_id": "VTr3Nh7BadI_000925_001217",
+    "video_id": "VTr3Nh7BadI",
+    "video_title": "Lecture 80: Longest Common Prefix Problem || Tries || C++ Placement Series",
+    "lecture_number": 80,
+    "playlist_index": 88,
+    "video_url": "https://www.youtube.com/watch?v=VTr3Nh7BadI",
+    "start_time": 925.3,
+    "end_time": 1217.08,
+    "start_timestamp_str": "15:25",
+    "end_timestamp_str": "20:17",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=VTr3Nh7BadI&t=925s",
+    "text": "2.0%, 2.1% 3.2% 4.3% 5.4% 6.5% Root node Insert Insert All strings into try 4 loop I plus I Try to add all string Insert Insert 1st is equals to a r of 0 then I want.",
+    "segment_span": [
+      39,
+      58
+    ]
+  }
+]

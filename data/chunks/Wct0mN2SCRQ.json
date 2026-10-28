@@ -1,0 +1,74 @@
+[
+  {
+    "chunk_id": "Wct0mN2SCRQ_000003_000125",
+    "video_id": "Wct0mN2SCRQ",
+    "video_title": "Lecture 111: Combination Sum IV Problem || DP Series",
+    "lecture_number": 111,
+    "playlist_index": 120,
+    "video_url": "https://www.youtube.com/watch?v=Wct0mN2SCRQ",
+    "start_time": 3.73,
+    "end_time": 125.4,
+    "start_timestamp_str": "00:03",
+    "end_timestamp_str": "02:05",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=Wct0mN2SCRQ&t=3s",
+    "text": "Hello, how are you? Welcome to the channel, Kudal. We have reached our lecture number 1-100. Here we will talk about Dynamic Series. ان்ளாக ஏஜல கூறுசெ,",
+    "segment_span": [
+      0,
+      1
+    ]
+  },
+  {
+    "chunk_id": "Wct0mN2SCRQ_000125_000273",
+    "video_id": "Wct0mN2SCRQ",
+    "video_title": "Lecture 111: Combination Sum IV Problem || DP Series",
+    "lecture_number": 111,
+    "playlist_index": 120,
+    "video_url": "https://www.youtube.com/watch?v=Wct0mN2SCRQ",
+    "start_time": 125.42,
+    "end_time": 273.28,
+    "start_timestamp_str": "02:05",
+    "end_timestamp_str": "04:33",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=Wct0mN2SCRQ&t=125s",
+    "text": "کرாமே آپ full stack dilopment یا pack and illopments seek newwalی ہیں but by building industry level projects in a real development environment. At the end of their programs all these project will be done so that they can get more effective or strong data profile In your full stack you have to use backend what tech is going on here those are also visible and with this you'll meet personalized career assistants So as soon your dream job double surety What do I need? In description let me attach link اس کو ڈ ڑ ڇڇ ڣ ژ ډڇ へڈڇ ڝڇ ڀڇ ڃڇ ڂڇ ڋڇ ڍڇ ڒ گ ڟ ڭ ڧ ڡ چ ڨ ڶ ڪ ڤ ڊ ڦ ښ ڢ ک ڬ ڥ ڐ ڞ ږ 1,2",
+    "segment_span": [
+      2,
+      50
+    ]
+  },
+  {
+    "chunk_id": "Wct0mN2SCRQ_000273_001049",
+    "video_id": "Wct0mN2SCRQ",
+    "video_title": "Lecture 111: Combination Sum IV Problem || DP Series",
+    "lecture_number": 111,
+    "playlist_index": 120,
+    "video_url": "https://www.youtube.com/watch?v=Wct0mN2SCRQ",
+    "start_time": 273.28,
+    "end_time": 1049.32,
+    "start_timestamp_str": "04:33",
+    "end_timestamp_str": "17:29",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=Wct0mN2SCRQ&t=273s",
+    "text": "and this is the answer to 2-1 So another basic thing Let's target less than 0 Negative means negative I will turn here 0 So total number of phase 2 create one 1 plus zero I have turned it If i want to make two I will try to do something, but it won't happen",
+    "segment_span": [
+      51,
+      62
+    ]
+  },
+  {
+    "chunk_id": "Wct0mN2SCRQ_001049_001064",
+    "video_id": "Wct0mN2SCRQ",
+    "video_title": "Lecture 111: Combination Sum IV Problem || DP Series",
+    "lecture_number": 111,
+    "playlist_index": 120,
+    "video_url": "https://www.youtube.com/watch?v=Wct0mN2SCRQ",
+    "start_time": 1049.32,
+    "end_time": 1064.35,
+    "start_timestamp_str": "17:29",
+    "end_timestamp_str": "17:44",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=Wct0mN2SCRQ&t=1049s",
+    "text": "So now we have to go into the 1D space In this case my optimal solution becomes stopped So that's all We've got a good question for you Combination sum 4 We'll meet in next video See you later",
+    "segment_span": [
+      63,
+      69
+    ]
+  }
+]

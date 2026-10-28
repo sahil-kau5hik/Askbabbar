@@ -1,0 +1,374 @@
+{
+  "video_id": "tWnHbSHwNmA",
+  "lecture_number": 38,
+  "video_title": "Lecture38: Phone Keypad Problem Recursion || C++ Placement Course",
+  "total_duration": 1841.88,
+  "segments": [
+    {
+      "id": 0,
+      "start": 3.18,
+      "end": 11.18,
+      "text": "Hello, how are you? Welcome to the channel Code Help. This is our lecture number 38 if we talk about this in a 10-day session"
+    },
+    {
+      "id": 1,
+      "start": 33.18,
+      "end": 36.18,
+      "text": "ھاں ھوچن کیا کہتا ہے پہلے اس کو ساملت لتے ہیں"
+    },
+    {
+      "id": 2,
+      "start": 37.18,
+      "end": 39.18,
+      "text": "ھکوشن نے وہ کہ آپ کو انیپٹ میں ایک ھرگ دی ہو گی"
+    },
+    {
+      "id": 3,
+      "start": 40.18,
+      "end": 42.18,
+      "text": "آپ کو aniputm a ھیک ڈھرک دی ہوں گی"
+    },
+    {
+      "id": 4,
+      "start": 43.28,
+      "end": 44.28,
+      "text": "ان پٹم a ڑھریک ۔"
+    },
+    {
+      "id": 5,
+      "start": 45.28,
+      "end": 46.28,
+      "text": "جو کس فامے گویں نمبرز کی فام میں ہو"
+    },
+    {
+      "id": 6,
+      "start": 47.28,
+      "end": 49.28,
+      "text": "اس میں 1 2 3 4 لتسے"
+    },
+    {
+      "id": 7,
+      "start": 50.28,
+      "end": 51.28,
+      "text": "اس کا نمپر اسکن 0 سے لیکن 9 تک کچھ گی"
+    },
+    {
+      "id": 8,
+      "start": 52.28,
+      "end": 53.28,
+      "text": "tq nm رو سکتا"
+    },
+    {
+      "id": 9,
+      "start": 54.28,
+      "end": 55.28,
+      "text": "آپ کو کیا بولنا ہے؟"
+    },
+    {
+      "id": 10,
+      "start": 56.28,
+      "end": 57.28,
+      "text": "آپ کو بتانے کی اس نمبر اس کو اگر میں"
+    },
+    {
+      "id": 11,
+      "start": 58.28,
+      "end": 59.28,
+      "text": "اس ولي فون کی پیڑ میں دباطا"
+    },
+    {
+      "id": 12,
+      "start": 119.41,
+      "end": 121.41,
+      "text": "ھاں ہم نے کیوں لگا گا 20 3 ہے"
+    },
+    {
+      "id": 13,
+      "start": 121.41,
+      "end": 122.41,
+      "text": "ایس سے کیوں انتتتا ہے"
+    },
+    {
+      "id": 14,
+      "start": 123.41,
+      "end": 124.41,
+      "text": "A, B , C"
+    },
+    {
+      "id": 15,
+      "start": 125.41,
+      "end": 127.41,
+      "text": "ایت ای ای فر آپ نے کیا کیا بیسے گلی"
+    },
+    {
+      "id": 16,
+      "start": 128.41,
+      "end": 130.41,
+      "text": "ایک بار ایک کو دیگیست ترکلیا"
+    },
+    {
+      "id": 17,
+      "start": 131.41,
+      "end": 133.41,
+      "text": "ایک بار بیک کو دےگیسات"
+    },
+    {
+      "id": 18,
+      "start": 134.41,
+      "end": 135.41,
+      "text": "ایگے ساتھ پھر بیی کو ایف کے ساتh"
+    },
+    {
+      "id": 19,
+      "start": 136.41,
+      "end": 137.41,
+      "text": "ایے کے ساث"
+    },
+    {
+      "id": 20,
+      "start": 138.41,
+      "end": 139.41,
+      "text": "ای کے ستھ ایقے ساؤ"
+    },
+    {
+      "id": 21,
+      "start": 140.41,
+      "end": 141.41,
+      "text": "ایش فکر آپ نہیں یہ"
+    },
+    {
+      "id": 22,
+      "start": 142.41,
+      "end": 143.41,
+      "text": "سوڑیشن کریٹ کر لیا"
+    },
+    {
+      "id": 23,
+      "start": 144.41,
+      "end": 146.41,
+      "text": "و آگر ایک تک ہے کہ آپ کسی بھی آورڈنا میں"
+    },
+    {
+      "id": 24,
+      "start": 648.81,
+      "end": 655.38,
+      "text": "او او بہار نکل گا کو دیجٹوالی STRINGS"
+    },
+    {
+      "id": 25,
+      "start": 655.4,
+      "end": 663.33,
+      "text": "تو او if index is greater than equal to digit dot length your base"
+    },
+    {
+      "id": 26,
+      "start": 663.74,
+      "end": 666.84,
+      "text": "اس کے سمی کرنے آنسر کی انتر آپ کا اوپٹ شور کرنا پہلے تو"
+    },
+    {
+      "id": 27,
+      "start": 666.86,
+      "end": 669.18,
+      "text": "جسل last for lecture kenda rekaat se mousipagar"
+    },
+    {
+      "id": 28,
+      "start": 669.2,
+      "end": 670.86,
+      "text": "offer return gala"
+    },
+    {
+      "id": 29,
+      "start": 670.88,
+      "end": 673.32,
+      "text": "بہت بڑیا"
+    },
+    {
+      "id": 30,
+      "start": 673.34,
+      "end": 674.34,
+      "text": "تیگئے"
+    },
+    {
+      "id": 31,
+      "start": 674.36,
+      "end": 676.08,
+      "text": "یہ والی جی آپ کو سمجھ ما گئیئے"
+    },
+    {
+      "id": 32,
+      "start": 676.1,
+      "end": 677.54,
+      "text": "آو آگئی بڈ جاتے ہیں"
+    },
+    {
+      "id": 33,
+      "start": 1268.37,
+      "end": 1269.37,
+      "text": "Now what happened?"
+    },
+    {
+      "id": 34,
+      "start": 1269.65,
+      "end": 1271.65,
+      "text": "This Recursion call was coming back"
+    },
+    {
+      "id": 35,
+      "start": 1271.93,
+      "end": 1274.53,
+      "text": "I solved something and then there were some states"
+    },
+    {
+      "id": 36,
+      "start": 1274.77,
+      "end": 1278.13,
+      "text": "He had to solve it, I didn't know anything about the interest"
+    },
+    {
+      "id": 37,
+      "start": 1278.27,
+      "end": 1279.53,
+      "text": "But he solved everything"
+    },
+    {
+      "id": 38,
+      "start": 1279.63,
+      "end": 1281.53,
+      "text": "And came back line number 17"
+    },
+    {
+      "id": 39,
+      "start": 1281.75,
+      "end": 1282.99,
+      "text": "Why would i have to do this"
+    },
+    {
+      "id": 40,
+      "start": 1283.25,
+      "end": 1286.57,
+      "text": "Because here when we come in direction"
+    },
+    {
+      "id": 41,
+      "start": 1286.75,
+      "end": 1287.95,
+      "text": "In empty string"
+    },
+    {
+      "id": 42,
+      "start": 1288.19,
+      "end": 1289.27,
+      "text": "It was added"
+    },
+    {
+      "id": 43,
+      "start": 1289.61,
+      "end": 1290.41,
+      "text": "So whenever"
+    },
+    {
+      "id": 44,
+      "start": 1290.43,
+      "end": 1291.11,
+      "text": "When you go up"
+    },
+    {
+      "id": 45,
+      "start": 1291.27,
+      "end": 1292.45,
+      "text": "When you come from here"
+    },
+    {
+      "id": 46,
+      "start": 1292.51,
+      "end": 1293.75,
+      "text": "Today is a call"
+    },
+    {
+      "id": 47,
+      "start": 1293.91,
+      "end": 1295.47,
+      "text": "Now if I move on top of that"
+    },
+    {
+      "id": 48,
+      "start": 1295.51,
+      "end": 1296.45,
+      "text": "I will make sure"
+    },
+    {
+      "id": 49,
+      "start": 1296.47,
+      "end": 1297.59,
+      "text": "That these are falling"
+    },
+    {
+      "id": 50,
+      "start": 1513.03,
+      "end": 1515.03,
+      "text": "tx"
+    },
+    {
+      "id": 51,
+      "start": 1635.75,
+      "end": 1637.75,
+      "text": "ھاں ھو آپ کو اس دی ایے بلی والی والے والی"
+    },
+    {
+      "id": 52,
+      "start": 1638.75,
+      "end": 1641.85,
+      "text": "تو Output میں اپنے جو کی پہلے empty تھا اس میں اکھنے اس میں لی دی"
+    },
+    {
+      "id": 53,
+      "start": 1642.75,
+      "end": 1643.75,
+      "text": "دی ہو گیا"
+    },
+    {
+      "id": 54,
+      "start": 1644.75,
+      "end": 1646.75,
+      "text": "لیگہ من لوگی Line Number 70 ھیں بھی اگس نہیں کرتی"
+    },
+    {
+      "id": 55,
+      "start": 1647.75,
+      "end": 1648.78,
+      "text": "تو کیا وہ ہو گا"
+    },
+    {
+      "id": 56,
+      "start": 1649.78,
+      "end": 1650.88,
+      "text": "آئی جہا وہ بھارچا لگیا"
+    },
+    {
+      "id": 57,
+      "start": 1651.88,
+      "end": 1654.1,
+      "text": "اور Output مگہ آگیا دی آ گیا"
+    },
+    {
+      "id": 58,
+      "start": 1655.1,
+      "end": 1657.1,
+      "text": "اب آپ اپا شلے گیا"
+    },
+    {
+      "id": 59,
+      "start": 1658.1,
+      "end": 1660.1,
+      "text": "اب آپ نے قلیکال مار دی طرف گیا"
+    },
+    {
+      "id": 60,
+      "start": 1661.1,
+      "end": 1664.45,
+      "text": "اب آپ کو کہان سلا گیا 3 آئے تو بھا جا چکا"
+    }
+  ]
+}

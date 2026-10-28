@@ -1,0 +1,200 @@
+{
+  "video_id": "_iGlRDLPLxM",
+  "lecture_number": 118,
+  "video_title": "Lecture 118: Reducing Dishes LeetCode || 2D-DP || DP Series",
+  "total_duration": 1646.53,
+  "segments": [
+    {
+      "id": 0,
+      "start": 3.47,
+      "end": 4.47,
+      "text": "Hello ji, how are you all? This is Love Babbar and welcome to the channel."
+    },
+    {
+      "id": 1,
+      "start": 64.46,
+      "end": 65.46,
+      "text": "20."
+    },
+    {
+      "id": 2,
+      "start": 65.46,
+      "end": 66.46,
+      "text": "40"
+    },
+    {
+      "id": 3,
+      "start": 66.46,
+      "end": 67.46,
+      "text": "42"
+    },
+    {
+      "id": 4,
+      "start": 67.46,
+      "end": 68.46,
+      "text": "45"
+    },
+    {
+      "id": 5,
+      "start": 68.46,
+      "end": 69.46,
+      "text": "46"
+    },
+    {
+      "id": 6,
+      "start": 69.46,
+      "end": 70.46,
+      "text": "44"
+    },
+    {
+      "id": 7,
+      "start": 70.46,
+      "end": 71.46,
+      "text": "45"
+    },
+    {
+      "id": 8,
+      "start": 71.46,
+      "end": 72.46,
+      "text": "45"
+    },
+    {
+      "id": 9,
+      "start": 73.46,
+      "end": 74.46,
+      "text": "49"
+    },
+    {
+      "id": 10,
+      "start": 76.46,
+      "end": 77.46,
+      "text": "46"
+    },
+    {
+      "id": 11,
+      "start": 79.46,
+      "end": 80.46,
+      "text": "49"
+    },
+    {
+      "id": 12,
+      "start": 81.46,
+      "end": 82.46,
+      "text": "49"
+    },
+    {
+      "id": 13,
+      "start": 85.46,
+      "end": 86.46,
+      "text": "49"
+    },
+    {
+      "id": 14,
+      "start": 87.46,
+      "end": 88.46,
+      "text": "49"
+    },
+    {
+      "id": 15,
+      "start": 89.46,
+      "end": 90.46,
+      "text": "49"
+    },
+    {
+      "id": 16,
+      "start": 92.46,
+      "end": 93.46,
+      "text": "49"
+    },
+    {
+      "id": 17,
+      "start": 93.46,
+      "end": 96.16,
+      "text": "اس کو انance کرسکتاں ساتھ ایک TOP DEF جوобسگراپ کر سکتے ہیں"
+    },
+    {
+      "id": 18,
+      "start": 96.66,
+      "end": 97.72,
+      "text": "انلاک یعجل کورشیز"
+    },
+    {
+      "id": 19,
+      "start": 97.96,
+      "end": 100.9,
+      "text": "قرآئے میں آپ full stack ڑلپن یا PAK& ڈلپم ٹ سیکنے والے"
+    },
+    {
+      "id": 20,
+      "start": 101.0,
+      "end": 105.06,
+      "text": "but by building industry level projects in a real development environment"
+    },
+    {
+      "id": 21,
+      "start": 105.28,
+      "end": 106.2,
+      "text": "at the end of their programs"
+    },
+    {
+      "id": 22,
+      "start": 106.28,
+      "end": 109.52,
+      "text": "بہت سارے پڑھا چیگوں گئیں جس آپ کریں سو میں اور effective ہو جائے گا"
+    },
+    {
+      "id": 23,
+      "start": 109.8,
+      "end": 112.04,
+      "text": "و ایک strong get up profile بھی بن جائیگی"
+    },
+    {
+      "id": 24,
+      "start": 112.52,
+      "end": 114.24,
+      "text": "آپ Fullstick Dillapen میں آپ back and velpon"
+    },
+    {
+      "id": 25,
+      "start": 114.32,
+      "end": 116.74,
+      "text": "کیا کہٹیک use کرنے و سب بھی آپ کو آپ رویزی بلے"
+    },
+    {
+      "id": 26,
+      "start": 116.84,
+      "end": 119.24,
+      "text": "اور ساتے آپ کو personalised, carry your assistants"
+    },
+    {
+      "id": 27,
+      "start": 668.4,
+      "end": 669.4,
+      "text": "10."
+    },
+    {
+      "id": 28,
+      "start": 669.4,
+      "end": 670.4,
+      "text": "10."
+    },
+    {
+      "id": 29,
+      "start": 670.4,
+      "end": 671.4,
+      "text": "10."
+    },
+    {
+      "id": 30,
+      "start": 671.4,
+      "end": 672.4,
+      "text": "10."
+    },
+    {
+      "id": 31,
+      "start": 1643.15,
+      "end": 1645.15,
+      "text": "वो लिचा यह करी है।"
+    }
+  ]
+}

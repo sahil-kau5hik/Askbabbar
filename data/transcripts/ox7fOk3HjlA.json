@@ -1,0 +1,296 @@
+{
+  "video_id": "ox7fOk3HjlA",
+  "lecture_number": 127,
+  "video_title": "Lecture 127: Unique Binary Search Trees || Catalan Number",
+  "total_duration": 1226.3,
+  "segments": [
+    {
+      "id": 0,
+      "start": 2.77,
+      "end": 4.77,
+      "text": "Hello, this is Love Babbar and welcome to the channel Code Health."
+    },
+    {
+      "id": 1,
+      "start": 93.25,
+      "end": 95.25,
+      "text": "2 3"
+    },
+    {
+      "id": 2,
+      "start": 123.28,
+      "end": 125.28,
+      "text": "1 & 2"
+    },
+    {
+      "id": 3,
+      "start": 127.28,
+      "end": 129.28,
+      "text": "2 & 3"
+    },
+    {
+      "id": 4,
+      "start": 131.28,
+      "end": 133.28,
+      "text": "2 & 4"
+    },
+    {
+      "id": 5,
+      "start": 135.28,
+      "end": 137.28,
+      "text": "3 & 5"
+    },
+    {
+      "id": 6,
+      "start": 147.28,
+      "end": 149.28,
+      "text": "5 & 2"
+    },
+    {
+      "id": 7,
+      "start": 153.41,
+      "end": 155.41,
+      "text": "ھا کرنا ہم چاہتے ہیں نمپٹن میں ان کی value"
+    },
+    {
+      "id": 8,
+      "start": 156.41,
+      "end": 158.41,
+      "text": "ھیں ان رپڑن کرتا نمبر of nodes in the tree"
+    },
+    {
+      "id": 9,
+      "start": 159.41,
+      "end": 160.41,
+      "text": "اور آپ کو اوٹ پڑ میں return"
+    },
+    {
+      "id": 10,
+      "start": 161.41,
+      "end": 163.41,
+      "text": "کرنا ایک number جو کی در شاہ تا ہو"
+    },
+    {
+      "id": 11,
+      "start": 164.41,
+      "end": 166.41,
+      "text": "Number Of Structurally Unique Binary Search Trees"
+    },
+    {
+      "id": 12,
+      "start": 168.05,
+      "end": 168.85,
+      "text": "Same question exactly same"
+    },
+    {
+      "id": 13,
+      "start": 169.05,
+      "end": 170.05,
+      "text": "question our class toper s'poo sha gathou"
+    },
+    {
+      "id": 14,
+      "start": 171.05,
+      "end": 172.05,
+      "text": "نہیں بتا پائیتا ہے"
+    },
+    {
+      "id": 15,
+      "start": 174.27,
+      "end": 175.27,
+      "text": "سوستے ہیں کہ سے"
+    },
+    {
+      "id": 16,
+      "start": 176.27,
+      "end": 178.27,
+      "text": "بیسے خیلے اگر تھی کرتے"
+    },
+    {
+      "id": 17,
+      "start": 179.27,
+      "end": 180.27,
+      "text": "اس کے بعد اما گے بڑے ہیں"
+    },
+    {
+      "id": 18,
+      "start": 211.04,
+      "end": 213.04,
+      "text": "1st, 2nd & 3rd"
+    },
+    {
+      "id": 19,
+      "start": 215.04,
+      "end": 217.04,
+      "text": "4th, 5th"
+    },
+    {
+      "id": 20,
+      "start": 219.04,
+      "end": 221.04,
+      "text": "5th"
+    },
+    {
+      "id": 21,
+      "start": 223.04,
+      "end": 225.04,
+      "text": "6th"
+    },
+    {
+      "id": 22,
+      "start": 227.04,
+      "end": 229.04,
+      "text": "4th"
+    },
+    {
+      "id": 23,
+      "start": 231.04,
+      "end": 233.04,
+      "text": "5th"
+    },
+    {
+      "id": 24,
+      "start": 235.04,
+      "end": 237.04,
+      "text": "7th"
+    },
+    {
+      "id": 25,
+      "start": 241.04,
+      "end": 244.04,
+      "text": "4-5, 20"
+    },
+    {
+      "id": 26,
+      "start": 245.04,
+      "end": 247.04,
+      "text": "20"
+    },
+    {
+      "id": 27,
+      "start": 248.04,
+      "end": 250.04,
+      "text": "20"
+    },
+    {
+      "id": 28,
+      "start": 251.04,
+      "end": 253.04,
+      "text": "1"
+    },
+    {
+      "id": 29,
+      "start": 254.04,
+      "end": 256.04,
+      "text": "2"
+    },
+    {
+      "id": 30,
+      "start": 257.04,
+      "end": 259.04,
+      "text": "1"
+    },
+    {
+      "id": 31,
+      "start": 260.04,
+      "end": 261.04,
+      "text": "1"
+    },
+    {
+      "id": 32,
+      "start": 262.04,
+      "end": 264.04,
+      "text": "2"
+    },
+    {
+      "id": 33,
+      "start": 265.04,
+      "end": 266.04,
+      "text": "1"
+    },
+    {
+      "id": 34,
+      "start": 296.49,
+      "end": 297.49,
+      "text": "1-1."
+    },
+    {
+      "id": 35,
+      "start": 297.49,
+      "end": 298.49,
+      "text": "1-2."
+    },
+    {
+      "id": 36,
+      "start": 298.49,
+      "end": 299.49,
+      "text": "2-3."
+    },
+    {
+      "id": 37,
+      "start": 301.49,
+      "end": 302.49,
+      "text": "4-5."
+    },
+    {
+      "id": 38,
+      "start": 305.49,
+      "end": 306.49,
+      "text": "5-6."
+    },
+    {
+      "id": 39,
+      "start": 307.49,
+      "end": 308.49,
+      "text": "5-7."
+    },
+    {
+      "id": 40,
+      "start": 311.49,
+      "end": 312.49,
+      "text": "5-8."
+    },
+    {
+      "id": 41,
+      "start": 313.49,
+      "end": 314.49,
+      "text": "6-9"
+    },
+    {
+      "id": 42,
+      "start": 315.49,
+      "end": 316.49,
+      "text": "7-8"
+    },
+    {
+      "id": 43,
+      "start": 317.49,
+      "end": 318.49,
+      "text": "8-10"
+    },
+    {
+      "id": 44,
+      "start": 319.49,
+      "end": 320.49,
+      "text": "9-11"
+    },
+    {
+      "id": 45,
+      "start": 321.49,
+      "end": 322.49,
+      "text": "10-12"
+    },
+    {
+      "id": 46,
+      "start": 323.49,
+      "end": 324.49,
+      "text": "11-18"
+    },
+    {
+      "id": 47,
+      "start": 480.14,
+      "end": 481.42,
+      "text": "5"
+    }
+  ]
+}

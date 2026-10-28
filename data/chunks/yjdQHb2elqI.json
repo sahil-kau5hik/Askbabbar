@@ -1,0 +1,380 @@
+[
+  {
+    "chunk_id": "yjdQHb2elqI_000003_000099",
+    "video_id": "yjdQHb2elqI",
+    "video_title": "Lecture 5: Bitwise Operators, For Loops, Operator Precedence & Variable Scoping",
+    "lecture_number": 5,
+    "playlist_index": 5,
+    "video_url": "https://www.youtube.com/watch?v=yjdQHb2elqI",
+    "start_time": 3.12,
+    "end_time": 99.51,
+    "start_timestamp_str": "00:03",
+    "end_timestamp_str": "01:39",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=yjdQHb2elqI&t=3s",
+    "text": "Hello Ji, How are you? This is Love Babbar and welcome to the channel code help. 2 , 1,0 ,3",
+    "segment_span": [
+      0,
+      1
+    ]
+  },
+  {
+    "chunk_id": "yjdQHb2elqI_000100_000160",
+    "video_id": "yjdQHb2elqI",
+    "video_title": "Lecture 5: Bitwise Operators, For Loops, Operator Precedence & Variable Scoping",
+    "lecture_number": 5,
+    "playlist_index": 5,
+    "video_url": "https://www.youtube.com/watch?v=yjdQHb2elqI",
+    "start_time": 100.51,
+    "end_time": 160.59,
+    "start_timestamp_str": "01:40",
+    "end_timestamp_str": "02:40",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=yjdQHb2elqI&t=100s",
+    "text": "1-1 ,bannery form 1 0 0 2 1 0 2 1 0 1 0 1 0 1 0 1. тew gya? tam sir ke aga? 5",
+    "segment_span": [
+      2,
+      14
+    ]
+  },
+  {
+    "chunk_id": "yjdQHb2elqI_000161_000948",
+    "video_id": "yjdQHb2elqI",
+    "video_title": "Lecture 5: Bitwise Operators, For Loops, Operator Precedence & Variable Scoping",
+    "lecture_number": 5,
+    "playlist_index": 5,
+    "video_url": "https://www.youtube.com/watch?v=yjdQHb2elqI",
+    "start_time": 161.59,
+    "end_time": 948.03,
+    "start_timestamp_str": "02:41",
+    "end_timestamp_str": "15:48",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=yjdQHb2elqI&t=161s",
+    "text": "So, this is our end operator Now let's talk about We will discuss everything So today we are sponsored by cryo If you want to target a job You can do it in the series If you have to develop your plan You'll get different programs پڑھڑڑ ٹھیک ٹڑ۔ بیکنٹ دوپڑپڈام اور پڭڑام کا گرید اس لیول کہاہ کہ آپ جو پڈڑٹ ٹہڑ کرنے والے ہیں ان کے اندر وہ انٹانشپ لیوڑ کے پڣکٹ سے یہاں پر تیزے پرٹکلی آپ کرنیں والے خلپژام کے اینڈم آپ کو ستنگ پڗڑت ہوں کہ آپ کو رجوبہ بہت تگلہ ہو جائے گا اتنا اینھی یہاً ایک فیلوشپڧرگام بھی ہے جس میں آپ کو پلیسمن کی گارنٹی ری چاہتے ہیں 9.2x",
+    "segment_span": [
+      15,
+      31
+    ]
+  },
+  {
+    "chunk_id": "yjdQHb2elqI_000948_001183",
+    "video_id": "yjdQHb2elqI",
+    "video_title": "Lecture 5: Bitwise Operators, For Loops, Operator Precedence & Variable Scoping",
+    "lecture_number": 5,
+    "playlist_index": 5,
+    "video_url": "https://www.youtube.com/watch?v=yjdQHb2elqI",
+    "start_time": 948.03,
+    "end_time": 1183.45,
+    "start_timestamp_str": "15:48",
+    "end_timestamp_str": "19:43",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=yjdQHb2elqI&t=948s",
+    "text": "8.4x ok 24 21.2 22.3x 19.0x 3-4 %,",
+    "segment_span": [
+      32,
+      38
+    ]
+  },
+  {
+    "chunk_id": "yjdQHb2elqI_001184_001497",
+    "video_id": "yjdQHb2elqI",
+    "video_title": "Lecture 5: Bitwise Operators, For Loops, Operator Precedence & Variable Scoping",
+    "lecture_number": 5,
+    "playlist_index": 5,
+    "video_url": "https://www.youtube.com/watch?v=yjdQHb2elqI",
+    "start_time": 1184.45,
+    "end_time": 1497.8,
+    "start_timestamp_str": "19:44",
+    "end_timestamp_str": "24:57",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=yjdQHb2elqI&t=1184s",
+    "text": "1.0% 2.0%. 4.0%, 4.1% 4.2% 4.3% 4.9% 4.6% nd n c in n",
+    "segment_span": [
+      39,
+      47
+    ]
+  },
+  {
+    "chunk_id": "yjdQHb2elqI_001500_001630",
+    "video_id": "yjdQHb2elqI",
+    "video_title": "Lecture 5: Bitwise Operators, For Loops, Operator Precedence & Variable Scoping",
+    "lecture_number": 5,
+    "playlist_index": 5,
+    "video_url": "https://www.youtube.com/watch?v=yjdQHb2elqI",
+    "start_time": 1500.22,
+    "end_time": 1630.48,
+    "start_timestamp_str": "25:00",
+    "end_timestamp_str": "27:10",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=yjdQHb2elqI&t=1500s",
+    "text": "input layer Enter the value of N Enter now Printing Count from 1 to N 4 ھاٹا سکتے ہو ھو سے امی کالل لیکن",
+    "segment_span": [
+      48,
+      54
+    ]
+  },
+  {
+    "chunk_id": "yjdQHb2elqI_001631_001699",
+    "video_id": "yjdQHb2elqI",
+    "video_title": "Lecture 5: Bitwise Operators, For Loops, Operator Precedence & Variable Scoping",
+    "lecture_number": 5,
+    "playlist_index": 5,
+    "video_url": "https://www.youtube.com/watch?v=yjdQHb2elqI",
+    "start_time": 1631.65,
+    "end_time": 1699.63,
+    "start_timestamp_str": "27:11",
+    "end_timestamp_str": "28:19",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=yjdQHb2elqI&t=1631s",
+    "text": "کیا آپ نے پوچھا اپڑیشن نحسری ہے میں نے بلکل بھی نہیں ہتا سیکتے تو کیا میں اس کو اس طریق اسے لیکسکتا ہو 4 سامی کولن سامیکولن maar یہ تو قندہ سے لگر ہے چلے گا چلیں گا دیکھیں چا لوں سب سے پہلے انیشلائز جو چیگیز ہم نے کری ہے آپ اس کو حطا دیتا آپ اپنڈ آلیں تھی چلا کہ دیکن آیا 1 2 3 4 5",
+    "segment_span": [
+      55,
+      75
+    ]
+  },
+  {
+    "chunk_id": "yjdQHb2elqI_001701_001946",
+    "video_id": "yjdQHb2elqI",
+    "video_title": "Lecture 5: Bitwise Operators, For Loops, Operator Precedence & Variable Scoping",
+    "lecture_number": 5,
+    "playlist_index": 5,
+    "video_url": "https://www.youtube.com/watch?v=yjdQHb2elqI",
+    "start_time": 1701.63,
+    "end_time": 1946.04,
+    "start_timestamp_str": "28:21",
+    "end_timestamp_str": "32:26",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=yjdQHb2elqI&t=1701s",
+    "text": "1 2 1 1 1 1 1 1 1 1 1 1 1 1.4 Looks Float",
+    "segment_span": [
+      76,
+      88
+    ]
+  },
+  {
+    "chunk_id": "yjdQHb2elqI_001948_002099",
+    "video_id": "yjdQHb2elqI",
+    "video_title": "Lecture 5: Bitwise Operators, For Loops, Operator Precedence & Variable Scoping",
+    "lecture_number": 5,
+    "playlist_index": 5,
+    "video_url": "https://www.youtube.com/watch?v=yjdQHb2elqI",
+    "start_time": 1948.04,
+    "end_time": 2099.17,
+    "start_timestamp_str": "32:28",
+    "end_timestamp_str": "34:59",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=yjdQHb2elqI&t=1948s",
+    "text": "2.3 Lookes Floats 4.5 Lookies 3.1 Lookie 5.2 Lookries 6.2 lookies کیا ہوتا ہے ?",
+    "segment_span": [
+      89,
+      94
+    ]
+  },
+  {
+    "chunk_id": "yjdQHb2elqI_002099_002311",
+    "video_id": "yjdQHb2elqI",
+    "video_title": "Lecture 5: Bitwise Operators, For Loops, Operator Precedence & Variable Scoping",
+    "lecture_number": 5,
+    "playlist_index": 5,
+    "video_url": "https://www.youtube.com/watch?v=yjdQHb2elqI",
+    "start_time": 2099.17,
+    "end_time": 2311.76,
+    "start_timestamp_str": "34:59",
+    "end_timestamp_str": "38:31",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=yjdQHb2elqI&t=2099s",
+    "text": "پیسلے 2 numbar کا سمجھوتا اگل numbar ہوتتا ہے سمگھے 0 1 سے آپ کا 1 بن گیا 1 1 s. آپ کا 2 بن گئا 1 2 سے آپ카 3 بن گگئا 2 3 سے آپка 5 بن گہ 3 5 سے آپکہ 8 بن گیئا 5 8 SE آپ کا 13 بن گ گئa 8 13 جاپ کا 21 آپ کو کہتے ہیں کہ کوئی بھی number کون سے Number اس کے پیچھے والے 1 Numbar اس کے پی چھوال 2 سے Number حانا 21 kesté banawa پیٹھے 13 سے اور اس کے بعد پیCHE 8 سے 1,2 ,3 5 8 13 21 34",
+    "segment_span": [
+      95,
+      114
+    ]
+  },
+  {
+    "chunk_id": "yjdQHb2elqI_002311_002513",
+    "video_id": "yjdQHb2elqI",
+    "video_title": "Lecture 5: Bitwise Operators, For Loops, Operator Precedence & Variable Scoping",
+    "lecture_number": 5,
+    "playlist_index": 5,
+    "video_url": "https://www.youtube.com/watch?v=yjdQHb2elqI",
+    "start_time": 2311.76,
+    "end_time": 2513.09,
+    "start_timestamp_str": "38:31",
+    "end_timestamp_str": "41:53",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=yjdQHb2elqI&t=2311s",
+    "text": "55 189 پر اینمبر میں تو کہتی کیا تیمانٹر دو آتا اینی",
+    "segment_span": [
+      115,
+      116
+    ]
+  },
+  {
+    "chunk_id": "yjdQHb2elqI_002514_002608",
+    "video_id": "yjdQHb2elqI",
+    "video_title": "Lecture 5: Bitwise Operators, For Loops, Operator Precedence & Variable Scoping",
+    "lecture_number": 5,
+    "playlist_index": 5,
+    "video_url": "https://www.youtube.com/watch?v=yjdQHb2elqI",
+    "start_time": 2514.05,
+    "end_time": 2608.15,
+    "start_timestamp_str": "41:54",
+    "end_timestamp_str": "43:28",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=yjdQHb2elqI&t=2514s",
+    "text": "پر یہاں پیزی رو آگیا تو not a prime number ہم نے کیا بولا کہ بھائی see out Not a Prime Number اگر میراے کسی سے divide ہو گیا تو کیا میرا آگے والیںمبرشہ Divide کرنا چاہوری ہے اگه مجھے پہلے پتا لگے گیا not a Prime Number ہے پیمبر ہے ہی نہیں تو آگئے سے Divide کیوں ہی کروں من لیتا 2,3 4 5 6 سے Divid ڈا تھا 2 سے ہی پتھا لکیا مجایا ہے کہ Prime Number نہیں 1.1%",
+    "segment_span": [
+      117,
+      130
+    ]
+  },
+  {
+    "chunk_id": "yjdQHb2elqI_002610_002895",
+    "video_id": "yjdQHb2elqI",
+    "video_title": "Lecture 5: Bitwise Operators, For Loops, Operator Precedence & Variable Scoping",
+    "lecture_number": 5,
+    "playlist_index": 5,
+    "video_url": "https://www.youtube.com/watch?v=yjdQHb2elqI",
+    "start_time": 2610.15,
+    "end_time": 2895.61,
+    "start_timestamp_str": "43:30",
+    "end_timestamp_str": "48:15",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=yjdQHb2elqI&t=2610s",
+    "text": "2.2% 3.3% 4.4% 5.6% 6.9%, 7.8% cout",
+    "segment_span": [
+      131,
+      137
+    ]
+  },
+  {
+    "chunk_id": "yjdQHb2elqI_002898_002959",
+    "video_id": "yjdQHb2elqI",
+    "video_title": "Lecture 5: Bitwise Operators, For Loops, Operator Precedence & Variable Scoping",
+    "lecture_number": 5,
+    "playlist_index": 5,
+    "video_url": "https://www.youtube.com/watch?v=yjdQHb2elqI",
+    "start_time": 2898.64,
+    "end_time": 2959.36,
+    "start_timestamp_str": "48:18",
+    "end_timestamp_str": "49:19",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=yjdQHb2elqI&t=2898s",
+    "text": "i have called a see out I will continue and say see you done let's go hi Hi Hi 5th round you did not reply You are already full So we understood ھاں ہمیں بریق ہی آگیا ہمے کنتنیوی آ گیا اب ہم کچھ کرنا چاہتے ہیں Thik ہم تھولا بہت پھر دو بر اوٹھوڑا لیکوشنز کر لئے ہم آپ کو فرد بر کچھی اوپر الیکو شن دیگاروں ان سب کچنز کا پھو کمپیٹ کرنا ہے اور جا کے کمیٹمین کیان سر بتانے ہے",
+    "segment_span": [
+      138,
+      159
+    ]
+  },
+  {
+    "chunk_id": "yjdQHb2elqI_002959_003218",
+    "video_id": "yjdQHb2elqI",
+    "video_title": "Lecture 5: Bitwise Operators, For Loops, Operator Precedence & Variable Scoping",
+    "lecture_number": 5,
+    "playlist_index": 5,
+    "video_url": "https://www.youtube.com/watch?v=yjdQHb2elqI",
+    "start_time": 2959.46,
+    "end_time": 3218.63,
+    "start_timestamp_str": "49:19",
+    "end_timestamp_str": "53:38",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=yjdQHb2elqI&t=2959s",
+    "text": "دینا تو یہ کچینز آپ کے آج چکے ہیں Thik ya 4 Loups کے او پر ہو گیا آپ کا برییک اور کنتینیو کی او� ہو گئا مزا بڑا آگہ سال کرتے time آگے بژتے اب ہم آتے ہیں Variables اور ان کے scope پر کیا رو Variable تو ام نے دیکھ لیا تھا کہ Variable کیا انیشلعج کرنا ہے کیا تڈیکا ہے scope کیا ہوتا ہم ایک Variable کی Lifetime کی بات کر رہا ہے میں ایک رو Variable کی Impact کی بات کر رئے کیا حب امیں ایک Variable نیشلاعج قردیا کسی اول جگہ میں اس کو use ڈ کرنے کا try کروں تو کیا وہ possible چا لو bhaarmauqske vaharmaoqs ke rfr na hikarsakta",
+    "segment_span": [
+      160,
+      194
+    ]
+  },
+  {
+    "chunk_id": "yjdQHb2elqI_003220_003326",
+    "video_id": "yjdQHb2elqI",
+    "video_title": "Lecture 5: Bitwise Operators, For Loops, Operator Precedence & Variable Scoping",
+    "lecture_number": 5,
+    "playlist_index": 5,
+    "video_url": "https://www.youtube.com/watch?v=yjdQHb2elqI",
+    "start_time": 3220.08,
+    "end_time": 3326.83,
+    "start_timestamp_str": "53:40",
+    "end_timestamp_str": "55:26",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=yjdQHb2elqI&t=3220s",
+    "text": "mwudhe hiyaa apal ek naya bhi bananapada aega abhainkara maa to hoja aege parvaan hooga paham lehton dhar faiks kar hawa ki ye wala jo bi he boye wali bi kopant kaere ga ye baat samaj maa gai ya Bhoosh shandar Abhag arma aloh meh here paas same scope mein gore bhi bhaadun ھاکہ ہوں پر بار کوسیتاکے آئی جیسا",
+    "segment_span": [
+      195,
+      204
+    ]
+  },
+  {
+    "chunk_id": "yjdQHb2elqI_003326_003592",
+    "video_id": "yjdQHb2elqI",
+    "video_title": "Lecture 5: Bitwise Operators, For Loops, Operator Precedence & Variable Scoping",
+    "lecture_number": 5,
+    "playlist_index": 5,
+    "video_url": "https://www.youtube.com/watch?v=yjdQHb2elqI",
+    "start_time": 3326.83,
+    "end_time": 3592.3,
+    "start_timestamp_str": "55:26",
+    "end_timestamp_str": "59:52",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=yjdQHb2elqI&t=3326s",
+    "text": "اس کو ملائیری یہ لکاتا ہوئی تو اب یہ جو ہے حائی ایک باری پر انٹرین ہوگا سمجھ ایشگوں تو یہ اپنی ویریبال کے σکوپ والی چیزیر اگر کئی کسی بلوک میں دفعین ہو رہا ہے تو اس پر ایسن اس بلوقھ کے اندر ہی اپھا بہار وہ مل جائے گا اندرج نمرجی اوز کرلو اگری آپ چاہو کیا رہ میں same blok kendar same naam ke define نہیں کر با تحبوال کیا ساہوطا دیکھا دیتے ہیں",
+    "segment_span": [
+      205,
+      215
+    ]
+  },
+  {
+    "chunk_id": "yjdQHb2elqI_003593_003845",
+    "video_id": "yjdQHb2elqI",
+    "video_title": "Lecture 5: Bitwise Operators, For Loops, Operator Precedence & Variable Scoping",
+    "lecture_number": 5,
+    "playlist_index": 5,
+    "video_url": "https://www.youtube.com/watch?v=yjdQHb2elqI",
+    "start_time": 3593.4,
+    "end_time": 3845.6,
+    "start_timestamp_str": "59:53",
+    "end_timestamp_str": "01:04:05",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=yjdQHb2elqI&t=3593s",
+    "text": "تو یہ آپ کو اپرٹر پرسیم سٹے بلے سب شاد دیکho سب سا ہے پرفنز کی ہے براکٹ کی ہے تو برایکٹ دیس کر رہے باٹھان سے طب جاؤ گئے آپ کی پر سیمز بڑھ رہی ہوگی اور same line کے اندر آپ کے اصوشیٹی لیفٹ سے رائٹ کی طرف جاری گئیں دیکیا بیا آپ سمجھ نہیں ہرہ کوئی ضرورت میں اس کو یات کر رئے ہیں ہمیں بس اپنا براكٹ ساکی سے لگانا ہے ھاں انہوں نے اس کو کوئی بھی ہی آدم کرتا کسی کو یاد ہو بھین سکتا ہے ھے گیا اپنا بریکٹز روڑ لگانا سے کچھ ہی کہتے ہیں اگه نظر مارلینہ اس پر کیا چیز گیسیز لکی ہی ہے پر یاد کریں کوئے نہیں ہے ھیں گیا ہم نے اب تک کیا دیکھ لیا ہم میں اب تق دیکھی ہیا ہم نے دیکہ لیا ہمیں دیکلی افشفٹ کیا سکرتا ہے و ایک بڑی نمار کو شفٹ کرنے سے کہنفسان ہمارا ہوسکتے dj 4,5 6 x 10",
+    "segment_span": [
+      216,
+      234
+    ]
+  },
+  {
+    "chunk_id": "yjdQHb2elqI_003845_004349",
+    "video_id": "yjdQHb2elqI",
+    "video_title": "Lecture 5: Bitwise Operators, For Loops, Operator Precedence & Variable Scoping",
+    "lecture_number": 5,
+    "playlist_index": 5,
+    "video_url": "https://www.youtube.com/watch?v=yjdQHb2elqI",
+    "start_time": 3845.84,
+    "end_time": 4349.37,
+    "start_timestamp_str": "01:04:05",
+    "end_timestamp_str": "01:12:29",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=yjdQHb2elqI&t=3845s",
+    "text": "dj 5 digit digit identifiable code 24 digit digit product product digit Accept it",
+    "segment_span": [
+      235,
+      246
+    ]
+  },
+  {
+    "chunk_id": "yjdQHb2elqI_004350_004479",
+    "video_id": "yjdQHb2elqI",
+    "video_title": "Lecture 5: Bitwise Operators, For Loops, Operator Precedence & Variable Scoping",
+    "lecture_number": 5,
+    "playlist_index": 5,
+    "video_url": "https://www.youtube.com/watch?v=yjdQHb2elqI",
+    "start_time": 4350.88,
+    "end_time": 4479.03,
+    "start_timestamp_str": "01:12:30",
+    "end_timestamp_str": "01:14:39",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=yjdQHb2elqI&t=4350s",
+    "text": "Runtimes 0ms faster than 100% of c++ solution Offer 2x Code Runtime wise Open up for now You can also use this Now we have learnt many things ڈ ڑڑ ژڑ へ って いいか",
+    "segment_span": [
+      247,
+      254
+    ]
+  },
+  {
+    "chunk_id": "yjdQHb2elqI_004480_004542",
+    "video_id": "yjdQHb2elqI",
+    "video_title": "Lecture 5: Bitwise Operators, For Loops, Operator Precedence & Variable Scoping",
+    "lecture_number": 5,
+    "playlist_index": 5,
+    "video_url": "https://www.youtube.com/watch?v=yjdQHb2elqI",
+    "start_time": 4480.32,
+    "end_time": 4542.82,
+    "start_timestamp_str": "01:14:40",
+    "end_timestamp_str": "01:15:42",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=yjdQHb2elqI&t=4480s",
+    "text": "ڭڑ ڀڑ ډڑ ڃڑ ڝڑ ڇ ڋ چ گ ڡ ڎ ڶ ھاکلی بھیڑے ہوگی جوگلیٹیوری لائے گا پڑھا آپ چاہتے ہیں پیفور ہند کرنا تو آپ ایسار ایک اشن پہلے سے کر سکتے دینا پیشورم اتنایں ملتیں آپ سے نیک شود میں کونسترپن بہت سر تیسنس کر لی اگر آپ کو مزایا تو آپ بلاثکتا کہ بہی مجا آگیا اس پتبہ بہثر MC کی بہل ایک ویسیں انصاب کیانسر مجھے کم انسکشن میں تک جانے چایئے تبھی مجھے پتے لگے آپ کیتنے انٹرشڈ ہے کورس کے اندر تشعرمتنا اگلی بڑے ملیں گے آپ سے کوشن سالگر تے ہوئے لنث بہت بژی اور یا اسکل وڑیوز کی اس کا کس خوچ نہ پڑیں گا ہے ہے نا بڈھا پا بہا باہت آچکا ہے تو ملے گنگ ایک شڑھی میں اب تکتی لیے",
+    "segment_span": [
+      255,
+      281
+    ]
+  }
+]

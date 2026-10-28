@@ -1,0 +1,386 @@
+{
+  "video_id": "A3FHNCAkhxE",
+  "lecture_number": 104,
+  "video_title": "Lecture 104: Minimum Number of Coins || DP Series",
+  "total_duration": 1835.01,
+  "segments": [
+    {
+      "id": 0,
+      "start": 2.8,
+      "end": 10.3,
+      "text": "Hello, G. How's all of this? Love Babbar and welcome to the channel, Kodal! We are at 5th election in 104 by DP series Start. It is a very important question"
+    },
+    {
+      "id": 1,
+      "start": 10.3,
+      "end": 13.68,
+      "text": "جو کی میری ادوبی کے آنلائیں تس میں بھی آیا تھا,"
+    },
+    {
+      "id": 2,
+      "start": 13.7,
+      "end": 16.4,
+      "text": "amazon کی آنلا تس می بہت زوالبہ ریبیٹ کرتا ہے"
+    },
+    {
+      "id": 3,
+      "start": 16.42,
+      "end": 18.92,
+      "text": "وہ کشن ہوا از کرنے والے اس کا نام ہے"
+    },
+    {
+      "id": 4,
+      "start": 18.94,
+      "end": 21.32,
+      "text": "کوین چینج یا فر 2 بی اگزیکٹ"
+    },
+    {
+      "id": 5,
+      "start": 21.34,
+      "end": 23.92,
+      "text": "اس کا נام ہے منیمم number of coins to make a target"
+    },
+    {
+      "id": 6,
+      "start": 23.94,
+      "end": 26.82,
+      "text": "یا منیمنیم Number Of Coins To Make An Amount"
+    },
+    {
+      "id": 7,
+      "start": 26.84,
+      "end": 28.72,
+      "text": "دیکھا یا افریکار Varynt hai"
+    },
+    {
+      "id": 8,
+      "start": 28.74,
+      "end": 30.92,
+      "text": "منیوم ایلیمانٹس تو اس کے اندر حوتر گئے"
+    },
+    {
+      "id": 9,
+      "start": 30.94,
+      "end": 34.2,
+      "text": "اس کشین کے انדר آپ کو کہتا کہ آپ کے پاس ایک انپٹ ارے ہے"
+    },
+    {
+      "id": 10,
+      "start": 34.24,
+      "end": 36.06,
+      "text": "آپ کے Πاس اک انپط ار ہے"
+    },
+    {
+      "id": 11,
+      "start": 96.28,
+      "end": 98.28,
+      "text": "1 & 2"
+    },
+    {
+      "id": 12,
+      "start": 156.44,
+      "end": 157.44,
+      "text": "ھاکھا ھتے ہیں ھہتے گھا۔"
+    },
+    {
+      "id": 13,
+      "start": 157.44,
+      "end": 159.32,
+      "text": "ھوٹھا پہتا ہے ھیکسکوشن کے ترہا بڑھتیں"
+    },
+    {
+      "id": 14,
+      "start": 159.32,
+      "end": 160.54,
+      "text": "و اگر ایکسیک کچھ کو اس پگار گھتی"
+    },
+    {
+      "id": 15,
+      "start": 160.56,
+      "end": 161.6,
+      "text": "پہنانستٹ بیک کریا"
+    },
+    {
+      "id": 16,
+      "start": 161.62,
+      "end": 162.34,
+      "text": "کریا the words"
+    },
+    {
+      "id": 17,
+      "start": 162.36,
+      "end": 164.66,
+      "text": "leading work experience based learning platform"
+    },
+    {
+      "id": 18,
+      "start": 164.68,
+      "end": 165.96,
+      "text": "جہاں پہا آپ نے software skills کو"
+    },
+    {
+      "id": 19,
+      "start": 165.98,
+      "end": 166.72,
+      "text": "anask کر سکتے ہوں"
+    },
+    {
+      "id": 20,
+      "start": 166.74,
+      "end": 167.96,
+      "text": "ساہتی ایک top depth jobs"
+    },
+    {
+      "id": 21,
+      "start": 167.98,
+      "end": 168.9,
+      "text": "لگر آپ کر سیکھیں"
+    },
+    {
+      "id": 22,
+      "start": 168.92,
+      "end": 170.24,
+      "text": "انلاحیュیل قورشیز"
+    },
+    {
+      "id": 23,
+      "start": 170.26,
+      "end": 171.88,
+      "text": "کریا میں a full stack development"
+    },
+    {
+      "id": 24,
+      "start": 171.9,
+      "end": 173.26,
+      "text": "یا back and element seek 내 والے"
+    },
+    {
+      "id": 25,
+      "start": 173.28,
+      "end": 176.14,
+      "text": "but by building industry level projects"
+    },
+    {
+      "id": 26,
+      "start": 176.16,
+      "end": 177.64,
+      "text": "in real developer environment"
+    },
+    {
+      "id": 27,
+      "start": 177.66,
+      "end": 178.76,
+      "text": "at de end of their programs"
+    },
+    {
+      "id": 28,
+      "start": 178.78,
+      "end": 179.18,
+      "text": "aa both"
+    },
+    {
+      "id": 29,
+      "start": 179.2,
+      "end": 179.7,
+      "text": "very much project"
+    },
+    {
+      "id": 30,
+      "start": 301.78,
+      "end": 305.78,
+      "text": "1,2,3K"
+    },
+    {
+      "id": 31,
+      "start": 611.0,
+      "end": 612.0,
+      "text": "1x"
+    },
+    {
+      "id": 32,
+      "start": 613.0,
+      "end": 614.06,
+      "text": "1x"
+    },
+    {
+      "id": 33,
+      "start": 615.06,
+      "end": 616.06,
+      "text": "2x"
+    },
+    {
+      "id": 34,
+      "start": 617.06,
+      "end": 619.06,
+      "text": "1x"
+    },
+    {
+      "id": 35,
+      "start": 620.06,
+      "end": 622.06,
+      "text": "1x"
+    },
+    {
+      "id": 36,
+      "start": 623.06,
+      "end": 625.06,
+      "text": "1x"
+    },
+    {
+      "id": 37,
+      "start": 626.06,
+      "end": 628.06,
+      "text": "1x"
+    },
+    {
+      "id": 38,
+      "start": 629.22,
+      "end": 630.22,
+      "text": "1x"
+    },
+    {
+      "id": 39,
+      "start": 631.22,
+      "end": 632.22,
+      "text": "1x"
+    },
+    {
+      "id": 40,
+      "start": 633.22,
+      "end": 635.22,
+      "text": "1x"
+    },
+    {
+      "id": 41,
+      "start": 636.22,
+      "end": 638.22,
+      "text": "1x"
+    },
+    {
+      "id": 42,
+      "start": 1416.43,
+      "end": 1418.43,
+      "text": "kool degree time complexity"
+    },
+    {
+      "id": 43,
+      "start": 1418.43,
+      "end": 1420.43,
+      "text": "you can see that it has a recursion"
+    },
+    {
+      "id": 44,
+      "start": 1421.43,
+      "end": 1423.43,
+      "text": "and this is for loop"
+    },
+    {
+      "id": 45,
+      "start": 1425.43,
+      "end": 1426.43,
+      "text": "so i understand what will be the term"
+    },
+    {
+      "id": 46,
+      "start": 1427.43,
+      "end": 1429.43,
+      "text": "x, multiply"
+    },
+    {
+      "id": 47,
+      "start": 1430.43,
+      "end": 1431.43,
+      "text": "n"
+    },
+    {
+      "id": 48,
+      "start": 1432.43,
+      "end": 1434.43,
+      "text": "how much to build up your amount"
+    },
+    {
+      "id": 49,
+      "start": 1435.43,
+      "end": 1438.36,
+      "text": "its complexity"
+    },
+    {
+      "id": 50,
+      "start": 1439.36,
+      "end": 1441.36,
+      "text": "I have space complexity"
+    },
+    {
+      "id": 51,
+      "start": 1442.36,
+      "end": 1443.36,
+      "text": "of N"
+    },
+    {
+      "id": 52,
+      "start": 1505.06,
+      "end": 1515.82,
+      "text": "dp of i-num"
+    },
+    {
+      "id": 53,
+      "start": 1780.59,
+      "end": 1784.09,
+      "text": "ھاپنےٹانڈی بیوحکس کر دیا ایس پھر آپ نے اس کارڈشن کا سوڑشن کو سال کر لیا"
+    },
+    {
+      "id": 54,
+      "start": 1784.29,
+      "end": 1787.49,
+      "text": "و یہ تھاپ کا بہت بہا رہ سکوشن many number of coins"
+    },
+    {
+      "id": 55,
+      "start": 1788.16,
+      "end": 1789.36,
+      "text": "جہاں پتاپنا پھرت دو بہارا"
+    },
+    {
+      "id": 56,
+      "start": 1789.46,
+      "end": 1790.46,
+      "text": "اڑی کرجن بھی دیکھ لیا ہے"
+    },
+    {
+      "id": 57,
+      "start": 1790.56,
+      "end": 1791.56,
+      "text": "ممیمار ایشن بی دیکلیا"
+    },
+    {
+      "id": 58,
+      "start": 1791.66,
+      "end": 1793.56,
+      "text": "تابگلیشین بھی بھی و سپیس آفٹمیشیں کے بارے ہیں"
+    },
+    {
+      "id": 59,
+      "start": 1793.66,
+      "end": 1794.56,
+      "text": "سوچھ لیکے سپکار بھم"
+    },
+    {
+      "id": 60,
+      "start": 1794.66,
+      "end": 1797.16,
+      "text": "وہاں بھر سوجنے کی کوشش کر رہے ہیں"
+    },
+    {
+      "id": 61,
+      "start": 1797.26,
+      "end": 1799.16,
+      "text": "اور ہمارا سمیשن آپ کے سامنے"
+    },
+    {
+      "id": 62,
+      "start": 1799.26,
+      "end": 1800.16,
+      "text": "سالتو ہو گیا"
+    }
+  ]
+}

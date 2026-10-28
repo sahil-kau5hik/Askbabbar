@@ -1,0 +1,164 @@
+[
+  {
+    "chunk_id": "V0IgCltYgg4_000003_000190",
+    "video_id": "V0IgCltYgg4",
+    "video_title": "Lecture37: Recursion - Subsets / Subsequences of String [Theory + Code]",
+    "lecture_number": 37,
+    "playlist_index": 41,
+    "video_url": "https://www.youtube.com/watch?v=V0IgCltYgg4",
+    "start_time": 3.25,
+    "end_time": 190.27,
+    "start_timestamp_str": "00:03",
+    "end_timestamp_str": "03:10",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=V0IgCltYgg4&t=3s",
+    "text": "Hello G, How are you? Welcome to the channel. So today is our recursion 10 DCRecelection No. 7 In entire wave we see no. 37 We will talk about 2 important things in this video ھاں پر ایک سیری کر روزیم",
+    "segment_span": [
+      0,
+      3
+    ]
+  },
+  {
+    "chunk_id": "V0IgCltYgg4_000190_000264",
+    "video_id": "V0IgCltYgg4",
+    "video_title": "Lecture37: Recursion - Subsets / Subsequences of String [Theory + Code]",
+    "lecture_number": 37,
+    "playlist_index": 41,
+    "video_url": "https://www.youtube.com/watch?v=V0IgCltYgg4",
+    "start_time": 190.27,
+    "end_time": 264.71,
+    "start_timestamp_str": "03:10",
+    "end_timestamp_str": "04:24",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=V0IgCltYgg4&t=190s",
+    "text": "ہم کہتے ہیں ٹکنیک کا ایوز کرنے والے ہیں So this video is sponsored by 11 If you want a software domain mentor and the company has a high-speedy job so we have raised our platform for You can give very good companies like CRED, 1MG MESHO Arun Company CRED are really big Relival tests are completely free ایک ایک خاصة لیکن سوارنی نکون سے جو حائق کر رہے ہیں ایک اور نایا فیلچر ہے پیڑے کہ آپ اس دیستان پل کشن بھی پر بھی دالگی ہیں تا کیا موقت اصلاح پسلی ریل ٹس دینن سے پہلے آپ کو سوان جو باہلگت ہی گئی اس لیٹس مصے کہ ایک آپ کو پوچھے جانے والا ہے اب تا انہوں نے 7% برس برٹ جوپز تو یہ کچھ کچھی نام آپ کے سامنے آرینے کے لیڈربوڈ بڑیں گے لگر میں آپ کو ہم پہ دیکھا ہوں,",
+    "segment_span": [
+      4,
+      21
+    ]
+  },
+  {
+    "chunk_id": "V0IgCltYgg4_000264_000380",
+    "video_id": "V0IgCltYgg4",
+    "video_title": "Lecture37: Recursion - Subsets / Subsequences of String [Theory + Code]",
+    "lecture_number": 37,
+    "playlist_index": 41,
+    "video_url": "https://www.youtube.com/watch?v=V0IgCltYgg4",
+    "start_time": 264.91,
+    "end_time": 380.38,
+    "start_timestamp_str": "04:24",
+    "end_timestamp_str": "06:20",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=V0IgCltYgg4&t=264s",
+    "text": "وگر آپ روچ کو дисکلس کرنے چلیں, کیا آپ روج کیا اس کو سوال کرنگی, اب ہم نے کیا بولا? کہ یا اگر اگریم یہاں پہدھیانے سے دیکھییں کمیں کیا دیکhrائیں کہ اس میں ہم نی صرف 1 لییا اس میں humne srif 2 لیلا اس میں هم نے صرف 3 لیلیا اس میں 1 or 2 لیا but 3 لیا اس میں 2 or 3 لے but 1 لیا اس میں 13 لیا bu touni liya اس میں 3 ل لیا اس میں 39 لیا لینا 1,2x3.",
+    "segment_span": [
+      22,
+      36
+    ]
+  },
+  {
+    "chunk_id": "V0IgCltYgg4_000381_000471",
+    "video_id": "V0IgCltYgg4",
+    "video_title": "Lecture37: Recursion - Subsets / Subsequences of String [Theory + Code]",
+    "lecture_number": 37,
+    "playlist_index": 41,
+    "video_url": "https://www.youtube.com/watch?v=V0IgCltYgg4",
+    "start_time": 381.54,
+    "end_time": 471.11,
+    "start_timestamp_str": "06:21",
+    "end_timestamp_str": "07:51",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=V0IgCltYgg4&t=381s",
+    "text": "1, 2, 3 , etc., 1,1,2 x2. 1,4 x2 1,5 x2 1,6 x2 1,9 x2 1,7 x2 1,8 x2 1,0 x2 1,2,3",
+    "segment_span": [
+      37,
+      46
+    ]
+  },
+  {
+    "chunk_id": "V0IgCltYgg4_000622_001141",
+    "video_id": "V0IgCltYgg4",
+    "video_title": "Lecture37: Recursion - Subsets / Subsequences of String [Theory + Code]",
+    "lecture_number": 37,
+    "playlist_index": 41,
+    "video_url": "https://www.youtube.com/watch?v=V0IgCltYgg4",
+    "start_time": 622.02,
+    "end_time": 1141.94,
+    "start_timestamp_str": "10:22",
+    "end_timestamp_str": "19:01",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=V0IgCltYgg4&t=622s",
+    "text": "1.2KM 1.3KM 1.4KM 1.5KM 1.6KM 1.8KM 1.9KM 1.7KM ۔",
+    "segment_span": [
+      47,
+      55
+    ]
+  },
+  {
+    "chunk_id": "V0IgCltYgg4_001145_001397",
+    "video_id": "V0IgCltYgg4",
+    "video_title": "Lecture37: Recursion - Subsets / Subsequences of String [Theory + Code]",
+    "lecture_number": 37,
+    "playlist_index": 41,
+    "video_url": "https://www.youtube.com/watch?v=V0IgCltYgg4",
+    "start_time": 1145.9,
+    "end_time": 1397.96,
+    "start_timestamp_str": "19:05",
+    "end_timestamp_str": "23:17",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=V0IgCltYgg4&t=1145s",
+    "text": "۔ ۔ ۔ ۔ ۔ ۔ ۔ ۔ Himself is not a good example of the word, but it will be an answer.",
+    "segment_span": [
+      56,
+      64
+    ]
+  },
+  {
+    "chunk_id": "V0IgCltYgg4_001398_001532",
+    "video_id": "V0IgCltYgg4",
+    "video_title": "Lecture37: Recursion - Subsets / Subsequences of String [Theory + Code]",
+    "lecture_number": 37,
+    "playlist_index": 41,
+    "video_url": "https://www.youtube.com/watch?v=V0IgCltYgg4",
+    "start_time": 1398.96,
+    "end_time": 1532.02,
+    "start_timestamp_str": "23:18",
+    "end_timestamp_str": "25:32",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=V0IgCltYgg4&t=1398s",
+    "text": "Now I have to write my soil function I have said world Soil string STR String output Intindex Vector of Tring Answer You are creating a vector of tring If value is valid then you won't understand The last question ھاں میں چیوے سے مطلب انта نہیں ہے پر چک کر لیں",
+    "segment_span": [
+      65,
+      76
+    ]
+  },
+  {
+    "chunk_id": "V0IgCltYgg4_001534_001625",
+    "video_id": "V0IgCltYgg4",
+    "video_title": "Lecture37: Recursion - Subsets / Subsequences of String [Theory + Code]",
+    "lecture_number": 37,
+    "playlist_index": 41,
+    "video_url": "https://www.youtube.com/watch?v=V0IgCltYgg4",
+    "start_time": 1534.49,
+    "end_time": 1625.94,
+    "start_timestamp_str": "25:34",
+    "end_timestamp_str": "27:05",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=V0IgCltYgg4&t=1534s",
+    "text": "اپنے اس کو تحاکہ آپ کی کسٹھم ٹیس کے سمیدہ ہم و رہاں پر اس کو رنگر لیاں آپ جیکھتے روانان صرف سے آرہ نہیں چیئے پر کیوں آیا چکک کرلے تھے ہم دیکھا کہ AEB AMC اس پگارچ آر ہے اور یہ exactly the same آرے تو شیدی جن ہم ہم نے ہم نے ہمیں ہم پے دیکہتا ہے ایک سب سے پہلے سے سبسی کون سارہ آپ کو نلسٹرنگ یہ اپٹیسٹنگ آرکہ ہے ایک ایک دیکھنے کیا آپ کو فائندہ کرنا ہے",
+    "segment_span": [
+      77,
+      86
+    ]
+  },
+  {
+    "chunk_id": "V0IgCltYgg4_001626_001644",
+    "video_id": "V0IgCltYgg4",
+    "video_title": "Lecture37: Recursion - Subsets / Subsequences of String [Theory + Code]",
+    "lecture_number": 37,
+    "playlist_index": 41,
+    "video_url": "https://www.youtube.com/watch?v=V0IgCltYgg4",
+    "start_time": 1626.94,
+    "end_time": 1644.42,
+    "start_timestamp_str": "27:06",
+    "end_timestamp_str": "27:24",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=V0IgCltYgg4&t=1626s",
+    "text": "یہ دونوں کوشن پڑچ کے ذارا ہی یہ جو سکتے ہیں آپ کو دیکنے کے کیا اسے کر پا ہو گیا اسے شروع بھی نہیں بتاکھے چاہنا سمجھ میں آئے دونیں کوشنت کی نہیں ہے ایک رہے ہیں ایک بھی دیکتے آپ سے نکشڈے میں اب تک لیے",
+    "segment_span": [
+      87,
+      94
+    ]
+  }
+]

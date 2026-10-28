@@ -1,0 +1,182 @@
+[
+  {
+    "chunk_id": "_6COl6V6mng_000003_000071",
+    "video_id": "_6COl6V6mng",
+    "video_title": "Lecture 54: Introduction to Stacks [Theory + Implementation] || C++ Placement Course",
+    "lecture_number": 54,
+    "playlist_index": 59,
+    "video_url": "https://www.youtube.com/watch?v=_6COl6V6mng",
+    "start_time": 3.34,
+    "end_time": 71.28,
+    "start_timestamp_str": "00:03",
+    "end_timestamp_str": "01:11",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=_6COl6V6mng&t=3s",
+    "text": "Hello, G. How's all? This is Love Babbar and welcome to the channel code. We are at 5th lecture number 54 ھا ہی رکھا گی بہت جو آپ لیتے ہیں جو اب پیک کر رہے ہو تھی ہیں تو اپلے یہ وی پیڈ ہیں گے",
+    "segment_span": [
+      0,
+      1
+    ]
+  },
+  {
+    "chunk_id": "_6COl6V6mng_000071_000131",
+    "video_id": "_6COl6V6mng",
+    "video_title": "Lecture 54: Introduction to Stacks [Theory + Implementation] || C++ Placement Course",
+    "lecture_number": 54,
+    "playlist_index": 59,
+    "video_url": "https://www.youtube.com/watch?v=_6COl6V6mng",
+    "start_time": 71.54,
+    "end_time": 131.7,
+    "start_timestamp_str": "01:11",
+    "end_timestamp_str": "02:11",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=_6COl6V6mng&t=71s",
+    "text": "بسکل میں کہنا کیا چاروں میں آپ ایکспیسٹ آژرگی بات کروں اس کا نام ہے لیفو کیا مطلب ہے اس کا مطلب ہے last in first out یعنیو last میں دلا ہوگا وہ پہ پ سے پہلے بہا رائے گا اس کے انگر آپ نے کوئی جو وستو میں دالی کچھ بھی پرکار کا دیٹا ہو ستک کسی بے پر کر کا تو ما نے کہاں کیاں ری ہاں پہلے وان دالیا تکیں فیر میں نے اسمیں ٹو دال لیا ٹیک ہے اینی پہلا بن آیا فرٹو آیا فیری میں نے ٹری دال دیا وہت بڑیا",
+    "segment_span": [
+      2,
+      16
+    ]
+  },
+  {
+    "chunk_id": "_6COl6V6mng_000131_000192",
+    "video_id": "_6COl6V6mng",
+    "video_title": "Lecture 54: Introduction to Stacks [Theory + Implementation] || C++ Placement Course",
+    "lecture_number": 54,
+    "playlist_index": 59,
+    "video_url": "https://www.youtube.com/watch?v=_6COl6V6mng",
+    "start_time": 131.8,
+    "end_time": 192.15,
+    "start_timestamp_str": "02:11",
+    "end_timestamp_str": "03:12",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=_6COl6V6mng&t=131s",
+    "text": "فیار میں نے 4 دال بیا پو اس پر کار سے مینے چیز میں انصرت کی تھی تو اس میں انصرٹ کرنے کو ما کیا بلتا پوش опرویشن اس کا دوارہ بھولک میں سے دوالہ پOP کرنا ہے تو آپ کا 3 نکلے گا اس کا او دوہرہ کے آموچز پڑھر پOP کھرنا ہے فر آپ کا 2 نک لے گa اب ہوں گیاں میں سے پOP کیا آپ کا 1 نکھ لےگا ان شوٹ آپ نے insert کیا سکی ہوتا ان شروع کیا تھا 1,2 ,3 4 و آپ پOP جب کرتے ہیں ریمو کرتا ہے کہ صلیتا رہا ہے 4 3 2 1 that's why I am saying this is called lefo",
+    "segment_span": [
+      17,
+      37
+    ]
+  },
+  {
+    "chunk_id": "_6COl6V6mng_000192_000253",
+    "video_id": "_6COl6V6mng",
+    "video_title": "Lecture 54: Introduction to Stacks [Theory + Implementation] || C++ Placement Course",
+    "lecture_number": 54,
+    "playlist_index": 59,
+    "video_url": "https://www.youtube.com/watch?v=_6COl6V6mng",
+    "start_time": 192.59,
+    "end_time": 253.47,
+    "start_timestamp_str": "03:12",
+    "end_timestamp_str": "04:13",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=_6COl6V6mng&t=192s",
+    "text": "Lefo order ما ننے والا دیٹرسٹر ہے کہ جو بھی last میں جائے گا دیا سے last میں 4 گیا وہ سب سے پہلے یعニ first سب سے پہ لے پاپ ہوتا ہے آپ نے push operation کے بعد میں چیگلیا pop operation کے� بارے میں چکلیا اور بزیجم سیکتے ہیں ان کو کنتی نکر نہیں سے پڑے پر فڑا فٹ شاوٹر دی اپنے sponsor sko thanks to them coding ninjas تحنے دارلیں گے تو آپ کو روزل דفرٹے ملے والا ہے کچھ بھنانے والے بندے وردی بڑی بھڑھی قمپریا فور چکے ہیں تو اس کے آپ کو ٹنشل لنگیڈ نہیں ہے LANGUAGE کی اگر بعد کریں Hindi English Dona میں بلے بل ہے Qashun Saal کرتے ہیں آپ کو Hint Video سے ملجہیں گی تو آپ کا کوئی بھی پیڑ کچھی خریدنا ہیں",
+    "segment_span": [
+      38,
+      50
+    ]
+  },
+  {
+    "chunk_id": "_6COl6V6mng_000254_000608",
+    "video_id": "_6COl6V6mng",
+    "video_title": "Lecture 54: Introduction to Stacks [Theory + Implementation] || C++ Placement Course",
+    "lecture_number": 54,
+    "playlist_index": 59,
+    "video_url": "https://www.youtube.com/watch?v=_6COl6V6mng",
+    "start_time": 254.07,
+    "end_time": 608.14,
+    "start_timestamp_str": "04:14",
+    "end_timestamp_str": "10:08",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=_6COl6V6mng&t=254s",
+    "text": "تو اب آپ سمس دار ہے آپ کے پاس یہ لیکن дисکفشنے پڑا ہوئے 20% discount 2 operation seeklea Stacked LFO auto LFO Auto LFOA LFO AX LFO LFO 1.1.1",
+    "segment_span": [
+      51,
+      62
+    ]
+  },
+  {
+    "chunk_id": "_6COl6V6mng_000608_001602",
+    "video_id": "_6COl6V6mng",
+    "video_title": "Lecture 54: Introduction to Stacks [Theory + Implementation] || C++ Placement Course",
+    "lecture_number": 54,
+    "playlist_index": 59,
+    "video_url": "https://www.youtube.com/watch?v=_6COl6V6mng",
+    "start_time": 608.14,
+    "end_time": 1602.66,
+    "start_timestamp_str": "10:08",
+    "end_timestamp_str": "26:42",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=_6COl6V6mng&t=608s",
+    "text": "1.2.3 2.4 3.4 4.5 5.6 6.9 7.8 8.7 9.9 9.10 10.9 11.9 12.9 13.9 1-1-1 1-2-3 2-2 2-3 3-2 4 4 1 1 1 2 2 3 24",
+    "segment_span": [
+      63,
+      90
+    ]
+  },
+  {
+    "chunk_id": "_6COl6V6mng_001604_001836",
+    "video_id": "_6COl6V6mng",
+    "video_title": "Lecture 54: Introduction to Stacks [Theory + Implementation] || C++ Placement Course",
+    "lecture_number": 54,
+    "playlist_index": 59,
+    "video_url": "https://www.youtube.com/watch?v=_6COl6V6mng",
+    "start_time": 1604.95,
+    "end_time": 1836.27,
+    "start_timestamp_str": "26:44",
+    "end_timestamp_str": "30:36",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=_6COl6V6mng&t=1604s",
+    "text": "44 POP POP 44 43 43 اسی پرکارا کر رہا و آپ سے کوئیے,",
+    "segment_span": [
+      91,
+      97
+    ]
+  },
+  {
+    "chunk_id": "_6COl6V6mng_001836_001899",
+    "video_id": "_6COl6V6mng",
+    "video_title": "Lecture 54: Introduction to Stacks [Theory + Implementation] || C++ Placement Course",
+    "lecture_number": 54,
+    "playlist_index": 59,
+    "video_url": "https://www.youtube.com/watch?v=_6COl6V6mng",
+    "start_time": 1836.37,
+    "end_time": 1899.13,
+    "start_timestamp_str": "30:36",
+    "end_timestamp_str": "31:39",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=_6COl6V6mng&t=1836s",
+    "text": "استhire کمپلی مدیشی ایجیگی انگلیشٹ کر رکھی دیگھا آپ کو ہم بغم کرنا ہے. اس کوشن کبھی جب آپ دے پائیں تو لیکلسن میں بہت سا ہی پڑل گیا تو آپ کے لیکنسوں نے یہ بہا جدا ایسی ہونے والی آبال گیا تو وہاں جدا سانے کیوں ہی کر را دیری ہم پڈے سواتیں دیکھا تو یہ والا کام ہمارا ہو گیا ثோڑا بہوت ھاپکے سامنے کوشن یہ پڑا ہوا رائٹ پوچھو اینکا بھورا لکھنا ہے اور یہ آپ کے ساملے کسٹر ہے",
+    "segment_span": [
+      98,
+      111
+    ]
+  },
+  {
+    "chunk_id": "_6COl6V6mng_001900_002563",
+    "video_id": "_6COl6V6mng",
+    "video_title": "Lecture 54: Introduction to Stacks [Theory + Implementation] || C++ Placement Course",
+    "lecture_number": 54,
+    "playlist_index": 59,
+    "video_url": "https://www.youtube.com/watch?v=_6COl6V6mng",
+    "start_time": 1900.13,
+    "end_time": 2563.14,
+    "start_timestamp_str": "31:40",
+    "end_timestamp_str": "42:43",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=_6COl6V6mng&t=1900s",
+    "text": "اس کا بھارے لکہ تو اس کو ہم سالب کرتے ہیں میدم لکا ہوں ہے کسی پلیٹھا پیزی بھی ہو سکتے فٹھو سالб کرتیا ہم نے کہاں اپروچ او او جو ایسی راولی نیود ہے بھائی",
+    "segment_span": [
+      112,
+      118
+    ]
+  },
+  {
+    "chunk_id": "_6COl6V6mng_002563_002587",
+    "video_id": "_6COl6V6mng",
+    "video_title": "Lecture 54: Introduction to Stacks [Theory + Implementation] || C++ Placement Course",
+    "lecture_number": 54,
+    "playlist_index": 59,
+    "video_url": "https://www.youtube.com/watch?v=_6COl6V6mng",
+    "start_time": 2563.14,
+    "end_time": 2587.55,
+    "start_timestamp_str": "42:43",
+    "end_timestamp_str": "43:07",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=_6COl6V6mng&t=2563s",
+    "text": "او یا او نیو امیدیم لیکھا ہوئے او اسٹاک کا انتریکشن تھا جا بہت او سی دیا او صگر میں اسٹتاک کو انکلی مد کر دیا او حسن بی کر دییا او شکمت این او بلتا امسر نکلے میں او چیوش دیخان کوان سکشن گندر او رایگی ماری او پسٹا سوڑے اس کے بعد بوت راو شاہ دیسے",
+    "segment_span": [
+      119,
+      125
+    ]
+  }
+]

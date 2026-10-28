@@ -1,0 +1,290 @@
+{
+  "video_id": "UGY7FMHt-M8",
+  "lecture_number": 123,
+  "video_title": "Lecture 123: Partition Equal Subset Sum || DP Series",
+  "total_duration": 1678.21,
+  "segments": [
+    {
+      "id": 0,
+      "start": 3.47,
+      "end": 13.47,
+      "text": "Hello, welcome to the channel code help. Papa has arrived at lecture number 123 on another question of DP for solving a problem with our DPP distinct ways"
+    },
+    {
+      "id": 1,
+      "start": 188.24,
+      "end": 190.24,
+      "text": "اوش کے اندر کچھ کچھی آلمنت پنے ہیں"
+    },
+    {
+      "id": 2,
+      "start": 190.24,
+      "end": 193.24,
+      "text": "ہیں میں نے بلیں سارے کی ساری آلمنٹ کا سمگر توٹل ہے"
+    },
+    {
+      "id": 3,
+      "start": 193.74,
+      "end": 195.74,
+      "text": "اب توٹال جہاں وہ دو چیز ہو سکتے ہیں"
+    },
+    {
+      "id": 4,
+      "start": 195.84,
+      "end": 196.94,
+      "text": "یاتا وہ سمجھ ہیں"
+    },
+    {
+      "id": 5,
+      "start": 197.24,
+      "end": 199.04,
+      "text": "و توٹر سم جو آرہ یاتھ وہ ایوان ہو گئے"
+    },
+    {
+      "id": 6,
+      "start": 199.14,
+      "end": 200.04,
+      "text": "یاتے وہ آر ہو گیا"
+    },
+    {
+      "id": 7,
+      "start": 200.14,
+      "end": 203.24,
+      "text": "ایک ایون سمکھتا آپ دیوائٹ بائٹو کر کے دوب حاجم میں بناد ہوگے"
+    },
+    {
+      "id": 8,
+      "start": 203.34,
+      "end": 205.34,
+      "text": "کہ آپ نے دو سبسٹ منا دین کا same sام ہے"
+    },
+    {
+      "id": 9,
+      "start": 205.44,
+      "end": 209.14,
+      "text": "but کیا میں ایک آرڈ سم کو دوبحاجمیں ایکل دیوایٹ کر سکتم"
+    },
+    {
+      "id": 10,
+      "start": 209.14,
+      "end": 219.32,
+      "text": "معلیتے ہیں کہ آپ کو سارا کا سارа سن 20-23 آرہ ہوتا تو کیا آپ 23x2 11.5 کے 2 سبشٹ بنافاتے ہیں پے انтیجرس کے گئیس میں نہیں بنافتے"
+    },
+    {
+      "id": 11,
+      "start": 715.22,
+      "end": 716.22,
+      "text": "1-1,2"
+    },
+    {
+      "id": 12,
+      "start": 717.22,
+      "end": 718.22,
+      "text": "2-1"
+    },
+    {
+      "id": 13,
+      "start": 719.8,
+      "end": 720.8,
+      "text": "2-3"
+    },
+    {
+      "id": 14,
+      "start": 721.8,
+      "end": 722.8,
+      "text": "3-4"
+    },
+    {
+      "id": 15,
+      "start": 723.8,
+      "end": 724.8,
+      "text": "4-5"
+    },
+    {
+      "id": 16,
+      "start": 725.8,
+      "end": 727.57,
+      "text": "5-6"
+    },
+    {
+      "id": 17,
+      "start": 728.57,
+      "end": 729.57,
+      "text": "6-7"
+    },
+    {
+      "id": 18,
+      "start": 730.57,
+      "end": 731.57,
+      "text": "7"
+    },
+    {
+      "id": 19,
+      "start": 732.57,
+      "end": 733.73,
+      "text": "8"
+    },
+    {
+      "id": 20,
+      "start": 734.73,
+      "end": 735.73,
+      "text": "9"
+    },
+    {
+      "id": 21,
+      "start": 736.73,
+      "end": 737.73,
+      "text": "10"
+    },
+    {
+      "id": 22,
+      "start": 738.73,
+      "end": 739.73,
+      "text": "11"
+    },
+    {
+      "id": 23,
+      "start": 740.73,
+      "end": 741.73,
+      "text": "12"
+    },
+    {
+      "id": 24,
+      "start": 742.73,
+      "end": 743.73,
+      "text": "13"
+    },
+    {
+      "id": 25,
+      "start": 744.73,
+      "end": 745.73,
+      "text": "14"
+    },
+    {
+      "id": 26,
+      "start": 781.56,
+      "end": 784.56,
+      "text": "ok, wrong answer is not a must."
+    },
+    {
+      "id": 27,
+      "start": 784.56,
+      "end": 787.56,
+      "text": "tl you will get it later and then take the tail"
+    },
+    {
+      "id": 28,
+      "start": 788.56,
+      "end": 793.56,
+      "text": "we can see that there are many overlapping problems"
+    },
+    {
+      "id": 29,
+      "start": 794.56,
+      "end": 798.56,
+      "text": "so i have to convert this into dp"
+    },
+    {
+      "id": 30,
+      "start": 799.56,
+      "end": 802.56,
+      "text": "first of all let me talk about top down"
+    },
+    {
+      "id": 31,
+      "start": 803.56,
+      "end": 805.56,
+      "text": "how do they work?"
+    },
+    {
+      "id": 32,
+      "start": 1498.57,
+      "end": 1499.57,
+      "text": "ڈڑڑ ڑ'"
+    },
+    {
+      "id": 33,
+      "start": 1499.57,
+      "end": 1501.57,
+      "text": "ژڑ"
+    },
+    {
+      "id": 34,
+      "start": 1501.57,
+      "end": 1502.57,
+      "text": "ڝڑ"
+    },
+    {
+      "id": 35,
+      "start": 1503.57,
+      "end": 1504.57,
+      "text": "ڭ"
+    },
+    {
+      "id": 36,
+      "start": 1505.57,
+      "end": 1506.57,
+      "text": "ډ"
+    },
+    {
+      "id": 37,
+      "start": 1507.57,
+      "end": 1508.57,
+      "text": "ڣ"
+    },
+    {
+      "id": 38,
+      "start": 1509.57,
+      "end": 1510.57,
+      "text": "گ"
+    },
+    {
+      "id": 39,
+      "start": 1511.57,
+      "end": 1512.57,
+      "text": "ڤ"
+    },
+    {
+      "id": 40,
+      "start": 1513.57,
+      "end": 1514.57,
+      "text": "ڷ"
+    },
+    {
+      "id": 41,
+      "start": 1515.57,
+      "end": 1516.57,
+      "text": "ڋ"
+    },
+    {
+      "id": 42,
+      "start": 1517.57,
+      "end": 1518.57,
+      "text": "ڕ"
+    },
+    {
+      "id": 43,
+      "start": 1519.57,
+      "end": 1520.57,
+      "text": "ښ"
+    },
+    {
+      "id": 44,
+      "start": 1521.57,
+      "end": 1522.57,
+      "text": "ڦ"
+    },
+    {
+      "id": 45,
+      "start": 1523.57,
+      "end": 1524.57,
+      "text": "ڶ"
+    },
+    {
+      "id": 46,
+      "start": 1525.57,
+      "end": 1526.57,
+      "text": "ڧ"
+    }
+  ]
+}

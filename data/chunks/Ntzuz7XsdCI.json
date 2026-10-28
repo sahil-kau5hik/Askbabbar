@@ -1,0 +1,74 @@
+[
+  {
+    "chunk_id": "Ntzuz7XsdCI_000065_000224",
+    "video_id": "Ntzuz7XsdCI",
+    "video_title": "Lecture 120: Maximum Height by Stacking Cuboid || DP Series",
+    "lecture_number": 120,
+    "playlist_index": 129,
+    "video_url": "https://www.youtube.com/watch?v=Ntzuz7XsdCI",
+    "start_time": 65.23,
+    "end_time": 224.43,
+    "start_timestamp_str": "01:05",
+    "end_timestamp_str": "03:44",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=Ntzuz7XsdCI&t=65s",
+    "text": "C++ Placement DSA Course. Topics ھاں لیکن تا ہوا گیا, ابھی اس کوشن کو بہت اصانیصا میک دوسے کچھ کر دیں کنوڑ کر نے والے",
+    "segment_span": [
+      0,
+      1
+    ]
+  },
+  {
+    "chunk_id": "Ntzuz7XsdCI_000224_000594",
+    "video_id": "Ntzuz7XsdCI",
+    "video_title": "Lecture 120: Maximum Height by Stacking Cuboid || DP Series",
+    "lecture_number": 120,
+    "playlist_index": 129,
+    "video_url": "https://www.youtube.com/watch?v=Ntzuz7XsdCI",
+    "start_time": 224.45,
+    "end_time": 594.73,
+    "start_timestamp_str": "03:44",
+    "end_timestamp_str": "09:54",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=Ntzuz7XsdCI&t=224s",
+    "text": "اسے last question last video we have seen باہم نے رشن دول والا کچن کیا ہا رشین دول میں آپ نے دیکھا تھا کہ ساٹن کرنے کے بعد آپ نے اس پروبلم کو کنوبڑ کیا دیا تھا Longest Increasing Subsequence kendar same where say something here is going to happen Same way say a thing happening there right take second step i n'nye vula ki yaar ما کہ چاہتا ہوں میں یہ چا تھوں ki sabosin ithi saboshe bada q-ward ho 1st step one, what was the first step?",
+    "segment_span": [
+      2,
+      13
+    ]
+  },
+  {
+    "chunk_id": "Ntzuz7XsdCI_000595_000783",
+    "video_id": "Ntzuz7XsdCI",
+    "video_title": "Lecture 120: Maximum Height by Stacking Cuboid || DP Series",
+    "lecture_number": 120,
+    "playlist_index": 129,
+    "video_url": "https://www.youtube.com/watch?v=Ntzuz7XsdCI",
+    "start_time": 595.99,
+    "end_time": 783.56,
+    "start_timestamp_str": "09:55",
+    "end_timestamp_str": "13:03",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=Ntzuz7XsdCI&t=595s",
+    "text": "Sort all dimensions for every cuboid ok. Step 2 has sort of a quid basis on width or length which you can start with ھا کر سو چھوٹھ گیا ھگر یہ چل رہا ہے تو ہم کیا رکپائیں گے نہیں رک پائیںگے",
+    "segment_span": [
+      14,
+      16
+    ]
+  },
+  {
+    "chunk_id": "Ntzuz7XsdCI_000783_000801",
+    "video_id": "Ntzuz7XsdCI",
+    "video_title": "Lecture 120: Maximum Height by Stacking Cuboid || DP Series",
+    "lecture_number": 120,
+    "playlist_index": 129,
+    "video_url": "https://www.youtube.com/watch?v=Ntzuz7XsdCI",
+    "start_time": 783.58,
+    "end_time": 801.85,
+    "start_timestamp_str": "13:03",
+    "end_timestamp_str": "13:21",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=Ntzuz7XsdCI&t=783s",
+    "text": "باکھ سنپول ہے اگر نیو باقس کی جو ہیٹ ہے اغر نو بباقс کی جо جو VITT ہے وہ لزن ایکوالٹو ہے تمہارے بیس کی VITTA SAVE AND AND NEW BOX کی جیو LENT ہے وہ لزان ایک ولٹو ہیں تمہرے بے سکی لنت سے and",
+    "segment_span": [
+      17,
+      20
+    ]
+  }
+]

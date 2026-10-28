@@ -1,0 +1,398 @@
+{
+  "video_id": "BSRTUtvJSIk",
+  "lecture_number": 130,
+  "video_title": "Lecture 130: Buy and Sell Stock [Part 1] || DP Series",
+  "total_duration": 589.74,
+  "segments": [
+    {
+      "id": 0,
+      "start": 2.8,
+      "end": 4.8,
+      "text": "Hello, G. How are you? Welcome to the channel code of Love."
+    },
+    {
+      "id": 1,
+      "start": 33.28,
+      "end": 34.28,
+      "text": "اسے میں نے کہتے ہیں کہ آپ کی بڑی میں ہے"
+    },
+    {
+      "id": 2,
+      "start": 35.28,
+      "end": 36.28,
+      "text": "ابھی ہوا ہوا یہ 200K تک اس کا پہنچانا ہے"
+    },
+    {
+      "id": 3,
+      "start": 37.28,
+      "end": 39.28,
+      "text": "اور اگر سمجھے میں آجا ہے"
+    },
+    {
+      "id": 4,
+      "start": 40.28,
+      "end": 42.28,
+      "text": "تو کمینٹس میں کے پاکہ کو فیلک کے چلے گئے"
+    },
+    {
+      "id": 5,
+      "start": 43.28,
+      "end": 44.28,
+      "text": "وہاں بہت مہربانی میں در"
+    },
+    {
+      "id": 6,
+      "start": 45.28,
+      "end": 47.28,
+      "text": "تو ہمیں کوش نے وہ لیکن آپ کو anra diya wa juki prises darshaatay"
+    },
+    {
+      "id": 7,
+      "start": 48.28,
+      "end": 49.28,
+      "text": "اگسامپل کلیں انبود کی بات کریں"
+    },
+    {
+      "id": 8,
+      "start": 50.28,
+      "end": 51.28,
+      "text": "تو یہ آپ کا انبوٹ anra hai"
+    },
+    {
+      "id": 9,
+      "start": 52.28,
+      "end": 53.28,
+      "text": "جو کی prise darshata"
+    },
+    {
+      "id": 10,
+      "start": 54.28,
+      "end": 55.28,
+      "text": "آپ نے وہ کہ یہ ہے"
+    },
+    {
+      "id": 11,
+      "start": 55.28,
+      "end": 59.46,
+      "text": "ھاں پرائزیز & یہ جی میرا اریکن دکو چلیمانش ہیں"
+    },
+    {
+      "id": 12,
+      "start": 59.48,
+      "end": 65.66,
+      "text": "ہم نے بولوجی 7 15 36 4"
+    },
+    {
+      "id": 13,
+      "start": 65.7,
+      "end": 68.32,
+      "text": "تی سارے کے ساریں پر آیزیس ہیں کی بھیا"
+    },
+    {
+      "id": 14,
+      "start": 68.34,
+      "end": 72.08,
+      "text": "آپ کے دے 1 پر ایس تھا"
+    },
+    {
+      "id": 15,
+      "start": 72.1,
+      "end": 74.48,
+      "text": "آپ کے 데 2 پر یہ پر ریس tha"
+    },
+    {
+      "id": 16,
+      "start": 74.5,
+      "end": 77.44,
+      "text": "آپ کے de 3 پیے پر عیس Tha"
+    },
+    {
+      "id": 17,
+      "start": 77.46,
+      "end": 80.26,
+      "text": "آپ کے d4 پیی پر حیس THa"
+    },
+    {
+      "id": 18,
+      "start": 80.26,
+      "end": 82.26,
+      "text": "dh5 paye prastha"
+    },
+    {
+      "id": 19,
+      "start": 83.26,
+      "end": 85.26,
+      "text": "aapkye de6payee prasthar"
+    },
+    {
+      "id": 20,
+      "start": 86.74,
+      "end": 88.74,
+      "text": "you want to maximize your profit"
+    },
+    {
+      "id": 21,
+      "start": 89.74,
+      "end": 90.74,
+      "text": "by choosing single day"
+    },
+    {
+      "id": 22,
+      "start": 91.74,
+      "end": 93.74,
+      "text": "and using different days in the future"
+    },
+    {
+      "id": 23,
+      "start": 95.0,
+      "end": 96.0,
+      "text": "You"
+    },
+    {
+      "id": 24,
+      "start": 97.0,
+      "end": 98.0,
+      "text": "wants to maximise"
+    },
+    {
+      "id": 25,
+      "start": 99.0,
+      "end": 100.0,
+      "text": "1-1 stop"
+    },
+    {
+      "id": 26,
+      "start": 101.0,
+      "end": 102.0,
+      "text": "and sell one stock"
+    },
+    {
+      "id": 27,
+      "start": 103.0,
+      "end": 104.0,
+      "text": "common sense"
+    },
+    {
+      "id": 28,
+      "start": 105.0,
+      "end": 106.0,
+      "text": "any of these things"
+    },
+    {
+      "id": 29,
+      "start": 107.0,
+      "end": 108.0,
+      "text": "i will buy more"
+    },
+    {
+      "id": 30,
+      "start": 138.38,
+      "end": 143.38,
+      "text": "Ritundi maximum profit, you can achieve from this transaction."
+    },
+    {
+      "id": 31,
+      "start": 144.38,
+      "end": 145.38,
+      "text": "You have a liberty"
+    },
+    {
+      "id": 32,
+      "start": 146.38,
+      "end": 148.38,
+      "text": "I gave the liberty to do some days and sell it"
+    },
+    {
+      "id": 33,
+      "start": 149.38,
+      "end": 151.38,
+      "text": "But we are doing it again for our first vehicle"
+    },
+    {
+      "id": 34,
+      "start": 152.38,
+      "end": 155.38,
+      "text": "Buy me a maximum profit"
+    },
+    {
+      "id": 35,
+      "start": 157.5,
+      "end": 159.5,
+      "text": "How will they make that?"
+    },
+    {
+      "id": 36,
+      "start": 160.5,
+      "end": 162.5,
+      "text": "What's my approach"
+    },
+    {
+      "id": 37,
+      "start": 199.5,
+      "end": 200.5,
+      "text": "ڈڑڑ ڑ'"
+    },
+    {
+      "id": 38,
+      "start": 201.5,
+      "end": 202.5,
+      "text": "ژڑ"
+    },
+    {
+      "id": 39,
+      "start": 203.5,
+      "end": 204.5,
+      "text": "ڝڑ"
+    },
+    {
+      "id": 40,
+      "start": 205.5,
+      "end": 207.5,
+      "text": "ڭ"
+    },
+    {
+      "id": 41,
+      "start": 208.5,
+      "end": 209.5,
+      "text": "گ"
+    },
+    {
+      "id": 42,
+      "start": 210.5,
+      "end": 211.5,
+      "text": "ڤ"
+    },
+    {
+      "id": 43,
+      "start": 212.5,
+      "end": 213.5,
+      "text": "ډ"
+    },
+    {
+      "id": 44,
+      "start": 214.5,
+      "end": 215.5,
+      "text": "ڋ"
+    },
+    {
+      "id": 45,
+      "start": 216.5,
+      "end": 217.7,
+      "text": "ڍ"
+    },
+    {
+      "id": 46,
+      "start": 218.7,
+      "end": 219.7,
+      "text": "چ"
+    },
+    {
+      "id": 47,
+      "start": 220.7,
+      "end": 221.7,
+      "text": "ڊ"
+    },
+    {
+      "id": 48,
+      "start": 222.7,
+      "end": 223.7,
+      "text": "ڃ"
+    },
+    {
+      "id": 49,
+      "start": 224.7,
+      "end": 225.7,
+      "text": "ڦ"
+    },
+    {
+      "id": 50,
+      "start": 226.7,
+      "end": 227.7,
+      "text": "ڣ"
+    },
+    {
+      "id": 51,
+      "start": 354.05,
+      "end": 355.31,
+      "text": "ام میں نے کیا کیا؟"
+    },
+    {
+      "id": 52,
+      "start": 355.33,
+      "end": 356.35,
+      "text": "مجھ سلگ کرنا ہے"
+    },
+    {
+      "id": 53,
+      "start": 356.37,
+      "end": 374.14,
+      "text": "یہ بھی کرسکتاں یہ بی کرسیکتا"
+    },
+    {
+      "id": 54,
+      "start": 404.21,
+      "end": 406.21,
+      "text": "اگر میں سلکتا تو یہ دیفرنس میں میں میں ملتا"
+    },
+    {
+      "id": 55,
+      "start": 406.21,
+      "end": 409.21,
+      "text": "اگری میں آج کے دин سلیکتا تھا تو میں یہ دےفرینس میں لتا"
+    },
+    {
+      "id": 56,
+      "start": 410.46,
+      "end": 411.46,
+      "text": "مجھے چی ہے؟"
+    },
+    {
+      "id": 57,
+      "start": 412.46,
+      "end": 413.46,
+      "text": "مجا چیے؟"
+    },
+    {
+      "id": 58,
+      "start": 414.46,
+      "end": 416.46,
+      "text": "تو میں نے وہ میں میکسیم پروффٹ چی تو"
+    },
+    {
+      "id": 59,
+      "start": 417.46,
+      "end": 419.46,
+      "text": "پروφٹ will be equal to maximum of Prophet comma"
+    },
+    {
+      "id": 60,
+      "start": 420.46,
+      "end": 421.72,
+      "text": "diff"
+    },
+    {
+      "id": 61,
+      "start": 422.72,
+      "end": 424.72,
+      "text": "جو بھی میکسموں کو اٹوپرافٹ کرد رہا گئے"
+    },
+    {
+      "id": 62,
+      "start": 425.72,
+      "end": 427.72,
+      "text": "فر میں نے کہاں, here minimum is the update"
+    },
+    {
+      "id": 63,
+      "start": 428.72,
+      "end": 429.72,
+      "text": "پہلے رینس میری اتنی تھی"
+    },
+    {
+      "id": 64,
+      "start": 430.72,
+      "end": 432.72,
+      "text": "اب میں رینت جہا وہ اتني ہو گئی ہے"
+    }
+  ]
+}

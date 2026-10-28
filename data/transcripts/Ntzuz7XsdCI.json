@@ -1,0 +1,134 @@
+{
+  "video_id": "Ntzuz7XsdCI",
+  "lecture_number": 120,
+  "video_title": "Lecture 120: Maximum Height by Stacking Cuboid || DP Series",
+  "total_duration": 969.45,
+  "segments": [
+    {
+      "id": 0,
+      "start": 65.23,
+      "end": 95.23,
+      "text": "C++ Placement DSA Course. Topics"
+    },
+    {
+      "id": 1,
+      "start": 219.81,
+      "end": 224.43,
+      "text": "ھاں لیکن تا ہوا گیا, ابھی اس کوشن کو بہت اصانیصا میک دوسے کچھ کر دیں کنوڑ کر نے والے"
+    },
+    {
+      "id": 2,
+      "start": 224.45,
+      "end": 226.21,
+      "text": "اسے last question last video we have seen"
+    },
+    {
+      "id": 3,
+      "start": 226.23,
+      "end": 228.09,
+      "text": "باہم نے رشن دول والا کچن کیا ہا"
+    },
+    {
+      "id": 4,
+      "start": 228.11,
+      "end": 230.73,
+      "text": "رشین دول میں آپ نے دیکھا تھا کہ ساٹن کرنے کے بعد آپ نے"
+    },
+    {
+      "id": 5,
+      "start": 230.75,
+      "end": 234.23,
+      "text": "اس پروبلم کو کنوبڑ کیا دیا تھا Longest Increasing Subsequence"
+    },
+    {
+      "id": 6,
+      "start": 234.25,
+      "end": 236.47,
+      "text": "kendar same where say something here is going to happen"
+    },
+    {
+      "id": 7,
+      "start": 236.49,
+      "end": 238.57,
+      "text": "Same way say a thing happening there right"
+    },
+    {
+      "id": 8,
+      "start": 238.59,
+      "end": 239.88,
+      "text": "take"
+    },
+    {
+      "id": 9,
+      "start": 239.9,
+      "end": 242.32,
+      "text": "second step i n'nye vula ki yaar"
+    },
+    {
+      "id": 10,
+      "start": 242.34,
+      "end": 243.84,
+      "text": "ما کہ چاہتا ہوں میں یہ چا تھوں"
+    },
+    {
+      "id": 11,
+      "start": 243.86,
+      "end": 245.74,
+      "text": "ki sabosin ithi saboshe bada"
+    },
+    {
+      "id": 12,
+      "start": 245.76,
+      "end": 247.49,
+      "text": "q-ward ho"
+    },
+    {
+      "id": 13,
+      "start": 585.2,
+      "end": 594.73,
+      "text": "1st step one, what was the first step?"
+    },
+    {
+      "id": 14,
+      "start": 595.99,
+      "end": 603.81,
+      "text": "Sort all dimensions for every cuboid ok."
+    },
+    {
+      "id": 15,
+      "start": 604.81,
+      "end": 619.48,
+      "text": "Step 2 has sort of a quid basis on width or length which you can start with"
+    },
+    {
+      "id": 16,
+      "start": 778.18,
+      "end": 783.56,
+      "text": "ھا کر سو چھوٹھ گیا ھگر یہ چل رہا ہے تو ہم کیا رکپائیں گے نہیں رک پائیںگے"
+    },
+    {
+      "id": 17,
+      "start": 783.58,
+      "end": 787.44,
+      "text": "باکھ سنپول ہے اگر نیو باقس کی جو ہیٹ ہے اغر نو بباقс کی جо"
+    },
+    {
+      "id": 18,
+      "start": 787.46,
+      "end": 791.82,
+      "text": "جو VITT ہے وہ لزن ایکوالٹو ہے تمہارے بیس کی"
+    },
+    {
+      "id": 19,
+      "start": 791.84,
+      "end": 797.43,
+      "text": "VITTA SAVE AND AND NEW BOX کی جیو LENT ہے وہ"
+    },
+    {
+      "id": 20,
+      "start": 797.45,
+      "end": 801.85,
+      "text": "لزان ایک ولٹو ہیں تمہرے بے سکی لنت سے and"
+    }
+  ]
+}

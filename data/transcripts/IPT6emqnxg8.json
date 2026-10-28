@@ -1,0 +1,278 @@
+{
+  "video_id": "IPT6emqnxg8",
+  "lecture_number": 138,
+  "video_title": "Lecture 138: Maximum Rectangle with all 1's || DP Series",
+  "total_duration": 786.37,
+  "segments": [
+    {
+      "id": 0,
+      "start": 3.5,
+      "end": 9.98,
+      "text": "Hello ji, how are you? This is Love Babbar and welcome to this channel. Good health! You have reached the DPRK's hard question"
+    },
+    {
+      "id": 1,
+      "start": 10.0,
+      "end": 15.26,
+      "text": "The very famous one called Maximum Raktangle"
+    },
+    {
+      "id": 2,
+      "start": 15.28,
+      "end": 21.0,
+      "text": "The second platform for it was named Maximum Ratangle with all ones"
+    },
+    {
+      "id": 3,
+      "start": 21.02,
+      "end": 28.0,
+      "text": "And there were some questions about M Cross & Metrics"
+    },
+    {
+      "id": 4,
+      "start": 215.11,
+      "end": 219.21,
+      "text": "اسے آپ نے کیسے لارجست ایریعن ایسٹوگرام نکالا جاتا ہے"
+    },
+    {
+      "id": 5,
+      "start": 219.31,
+      "end": 222.91,
+      "text": "کوڑ آپ کا پورا کو رہا گیا تھا اسی کوشن کے اندر"
+    },
+    {
+      "id": 6,
+      "start": 223.01,
+      "end": 226.01,
+      "text": "دیکھا اپتیمائل چبروچا کر آپ دائیں گے آپے کوڈ گندر"
+    },
+    {
+      "id": 7,
+      "start": 226.31,
+      "end": 228.89,
+      "text": "تو آپ کے پورa کوژا ہوا کوڇ آپ کو مل جائے گا"
+    },
+    {
+      "id": 8,
+      "start": 228.99,
+      "end": 229.91,
+      "text": "یہ بارے میں سمسانانی والا"
+    },
+    {
+      "id": 9,
+      "start": 230.11,
+      "end": 231.11,
+      "text": "اور آپ چاہیں تو"
+    },
+    {
+      "id": 10,
+      "start": 231.41,
+      "end": 233.27,
+      "text": "اس video میں جاء کر دیک کر سمت سکتے ہیں"
+    },
+    {
+      "id": 11,
+      "start": 233.37,
+      "end": 234.61,
+      "text": "کسپا کر ہم نے کوڒ دیا تھа"
+    },
+    {
+      "id": 12,
+      "start": 234.71,
+      "end": 236.01,
+      "text": "تیکہ стاک پریوب کر کے"
+    },
+    {
+      "id": 13,
+      "start": 237.16,
+      "end": 237.56,
+      "text": "و تھا"
+    },
+    {
+      "id": 14,
+      "start": 237.86,
+      "end": 239.16,
+      "text": "اگر ام دھان سے دیکh his videocandent"
+    },
+    {
+      "id": 15,
+      "start": 706.28,
+      "end": 710.54,
+      "text": "ھا تم اتنا ہی تھا جی اتنہ ہی تھا جلان چیگی دیکھتے ہیں"
+    },
+    {
+      "id": 16,
+      "start": 711.82,
+      "end": 716.82,
+      "text": "اسے مرچ چھوڑ اس گلتی یہاں بھی اس پرکار اور اب دیکhochelager"
+    },
+    {
+      "id": 17,
+      "start": 717.82,
+      "end": 720.82,
+      "text": "اوکے جی اور وہ دائیں"
+    },
+    {
+      "id": 18,
+      "start": 721.89,
+      "end": 723.89,
+      "text": "اس نے وہ لہ اس نے کہاہے وہ لو بھی"
+    },
+    {
+      "id": 19,
+      "start": 724.89,
+      "end": 725.89,
+      "text": "اے وہ لو accept it"
+    },
+    {
+      "id": 20,
+      "start": 726.89,
+      "end": 728.89,
+      "text": "میں نے وہ لو سمد کروں"
+    },
+    {
+      "id": 21,
+      "start": 729.89,
+      "end": 731.89,
+      "text": "اس نے بولہ وہ لگاہئی accepted"
+    },
+    {
+      "id": 22,
+      "start": 731.89,
+      "end": 734.59,
+      "text": "تو اس پرکال آپ نے اس کوشن کو سالو کر لیا"
+    },
+    {
+      "id": 23,
+      "start": 734.59,
+      "end": 736.99,
+      "text": "اگر آپ یہاں پر ٹیم کمplectرید دیکھیں"
+    },
+    {
+      "id": 24,
+      "start": 737.09,
+      "end": 739.09,
+      "text": "یہ لوPE چل رہے آپ کا n times"
+    },
+    {
+      "id": 25,
+      "start": 739.19,
+      "end": 741.09,
+      "text": "یہ لوpe چل рہاں آپ کا m Times"
+    },
+    {
+      "id": 26,
+      "start": 741.19,
+      "end": 744.19,
+      "text": "و یہ آپ کا جل آج شریعہ یہ آپ کے n Time لے تھا"
+    },
+    {
+      "id": 27,
+      "start": 744.29,
+      "end": 745.89,
+      "text": "فرینش آپ کو کہا سمجھ ماغے"
+    },
+    {
+      "id": 28,
+      "start": 745.99,
+      "end": 746.89,
+      "text": "ٹائم کاملشٹ کیا ہو گئی"
+    },
+    {
+      "id": 29,
+      "start": 746.99,
+      "end": 748.69,
+      "text": "n 2m plus n"
+    },
+    {
+      "id": 30,
+      "start": 748.79,
+      "end": 751.19,
+      "text": "پریجی آپ کی طوٹل ٹTIME COMPLECITY ہو گیا"
+    },
+    {
+      "id": 31,
+      "start": 751.29,
+      "end": 752.09,
+      "text": "اس Solution کی"
+    },
+    {
+      "id": 32,
+      "start": 752.61,
+      "end": 753.31,
+      "text": "Right"
+    },
+    {
+      "id": 33,
+      "start": 753.41,
+      "end": 755.61,
+      "text": "تو اس بگر اپنے لارجست ایرین ایسٹوگرام"
+    },
+    {
+      "id": 34,
+      "start": 755.71,
+      "end": 757.11,
+      "text": "والے کولڈ کا use کرے"
+    },
+    {
+      "id": 35,
+      "start": 757.11,
+      "end": 760.61,
+      "text": "Maximal Raktangle, Problem Solve Curatoria"
+    },
+    {
+      "id": 36,
+      "start": 761.11,
+      "end": 765.11,
+      "text": "And this problem is very often in your online assessment"
+    },
+    {
+      "id": 37,
+      "start": 766.59,
+      "end": 767.59,
+      "text": "You understand that"
+    },
+    {
+      "id": 38,
+      "start": 768.66,
+      "end": 770.66,
+      "text": "If you understood it"
+    },
+    {
+      "id": 39,
+      "start": 771.66,
+      "end": 772.66,
+      "text": "Then like the video"
+    },
+    {
+      "id": 40,
+      "start": 773.66,
+      "end": 774.66,
+      "text": "Share with other kids"
+    },
+    {
+      "id": 41,
+      "start": 775.66,
+      "end": 776.66,
+      "text": "Subscribe to our channel"
+    },
+    {
+      "id": 42,
+      "start": 777.66,
+      "end": 780.66,
+      "text": "You will get a comment on your daily videos"
+    },
+    {
+      "id": 43,
+      "start": 781.66,
+      "end": 782.66,
+      "text": "So I will be back with another video"
+    },
+    {
+      "id": 44,
+      "start": 783.66,
+      "end": 784.66,
+      "text": "Bye"
+    }
+  ]
+}

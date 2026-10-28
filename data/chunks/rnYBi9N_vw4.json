@@ -1,0 +1,128 @@
+[
+  {
+    "chunk_id": "rnYBi9N_vw4_000003_000074",
+    "video_id": "rnYBi9N_vw4",
+    "video_title": "Lecture 96: Minimum Spanning Tree || Prim's Algorithm",
+    "lecture_number": 96,
+    "playlist_index": 105,
+    "video_url": "https://www.youtube.com/watch?v=rnYBi9N_vw4",
+    "start_time": 3.47,
+    "end_time": 74.21,
+    "start_timestamp_str": "00:03",
+    "end_timestamp_str": "01:14",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=rnYBi9N_vw4&t=3s",
+    "text": "Hello, how are you guys? Welcome to the channel Codal. We have reached our lecture number 96 on Graph's very important algorithm The next question is about Prem's Algorithm and what is spanning tree or code What can be an efficient solution for each thing ھاں میں نے کہاں اس کو سمبینے سے پہلے سب سے پانیکٹری سمجھ دی ہیں",
+    "segment_span": [
+      0,
+      3
+    ]
+  },
+  {
+    "chunk_id": "rnYBi9N_vw4_000074_000250",
+    "video_id": "rnYBi9N_vw4",
+    "video_title": "Lecture 96: Minimum Spanning Tree || Prim's Algorithm",
+    "lecture_number": 96,
+    "playlist_index": 105,
+    "video_url": "https://www.youtube.com/watch?v=rnYBi9N_vw4",
+    "start_time": 74.21,
+    "end_time": 250.59,
+    "start_timestamp_str": "01:14",
+    "end_timestamp_str": "04:10",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=rnYBi9N_vw4&t=74s",
+    "text": "لیکنوٹر گراف into a tree such that it contains n nodes and N-1 edges ھاکہ ہوں نے ونگی فائی کے اندر ایک اچھے بیک اجھ بریک ہائی بیک گیج پر جوارب گرلی ایک اور اچھی بات دیاں ان کی حوڑنگ سلگی ہوئی ان کی سٹیگ اندری تک ہے آپ کو دیکھ ریو بھی ہم",
+    "segment_span": [
+      4,
+      6
+    ]
+  },
+  {
+    "chunk_id": "rnYBi9N_vw4_000341_000403",
+    "video_id": "rnYBi9N_vw4",
+    "video_title": "Lecture 96: Minimum Spanning Tree || Prim's Algorithm",
+    "lecture_number": 96,
+    "playlist_index": 105,
+    "video_url": "https://www.youtube.com/watch?v=rnYBi9N_vw4",
+    "start_time": 341.01,
+    "end_time": 403.49,
+    "start_timestamp_str": "05:41",
+    "end_timestamp_str": "06:43",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=rnYBi9N_vw4&t=341s",
+    "text": "میںیمم کوست of weights right اگر مجھے آپ کو یہاں پر اس گراف کے لئے مییمام سپانیکٹری بہتانا ہو تو میں آپ کو کہوں گا کہ میردوست مییام سبانیکژری کچھ اس پرکار ہے آپ نے ایک نولیہا ہے, ایک النولیر ہے تو میں نے کہا کیا ہے آپ کا میییامスپانکٹری یہ والا ہے چھے دو پاچھ تین Right ھاں پہر کچھ بھی نہیں تھا, یہاں بہنے بنیا تھا",
+    "segment_span": [
+      7,
+      16
+    ]
+  },
+  {
+    "chunk_id": "rnYBi9N_vw4_000404_001487",
+    "video_id": "rnYBi9N_vw4",
+    "video_title": "Lecture 96: Minimum Spanning Tree || Prim's Algorithm",
+    "lecture_number": 96,
+    "playlist_index": 105,
+    "video_url": "https://www.youtube.com/watch?v=rnYBi9N_vw4",
+    "start_time": 404.49,
+    "end_time": 1487.65,
+    "start_timestamp_str": "06:44",
+    "end_timestamp_str": "24:47",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=rnYBi9N_vw4&t=404s",
+    "text": "یہاہ بھی نچھے بھی بنیا Thaag ھو اجویٹ سپگت 2 8 5 3 2 3 5 5 5 10 10 10 Saaf Saab دکھرے کہ جیتاں میں Spanning Tree سے بنانی کوئیش کر رہا ہوں اس میں Minimum Coast of Wits آپ کی اس وولے میں آ رہی ہے تو میں کہہ سکتا ہون کہ یہ آپ کا 1-1-2",
+    "segment_span": [
+      17,
+      23
+    ]
+  },
+  {
+    "chunk_id": "rnYBi9N_vw4_001489_001674",
+    "video_id": "rnYBi9N_vw4",
+    "video_title": "Lecture 96: Minimum Spanning Tree || Prim's Algorithm",
+    "lecture_number": 96,
+    "playlist_index": 105,
+    "video_url": "https://www.youtube.com/watch?v=rnYBi9N_vw4",
+    "start_time": 1489.22,
+    "end_time": 1674.93,
+    "start_timestamp_str": "24:49",
+    "end_timestamp_str": "27:54",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=rnYBi9N_vw4&t=1489s",
+    "text": "2-3-4 2-5 2-6 2-7 2-8 3-9 4 5 6 9 8 10 11 12 و آپ کو یہ پوری ادرس دیویل آنگ گوڑویٹز",
+    "segment_span": [
+      24,
+      38
+    ]
+  },
+  {
+    "chunk_id": "rnYBi9N_vw4_001675_001933",
+    "video_id": "rnYBi9N_vw4",
+    "video_title": "Lecture 96: Minimum Spanning Tree || Prim's Algorithm",
+    "lecture_number": 96,
+    "playlist_index": 105,
+    "video_url": "https://www.youtube.com/watch?v=rnYBi9N_vw4",
+    "start_time": 1675.19,
+    "end_time": 1933.7,
+    "start_timestamp_str": "27:55",
+    "end_timestamp_str": "32:13",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=rnYBi9N_vw4&t=1675s",
+    "text": "یو یہ رہا, وییرہا اور ویڈ یہ رھا تو اسی لوگ ارم نے یو نکال لیا وی نکان لیا ویٹنکان اللیا اور یہ اجسنسلیش میں نے کریٹ کر رہیٹے ٹیک ہے یہ باسا مجھا ہونے پھر میں نے اپنے 3 دیاد سکتے لگے بتارے کیا ایک تو کی والا جہاں پہا مینمم دیستنسائے گا اگه بچن دیا نوڈز 2nd MST VALA, where no node include have mst Indira or not to track it 3rd parent is a node currency starting with all key values int max and sd if any note starts in mst we start again let's talk about source nodes so i will say that the key value ایک ایک بچک کریں گے.",
+    "segment_span": [
+      39,
+      58
+    ]
+  },
+  {
+    "chunk_id": "rnYBi9N_vw4_001933_001958",
+    "video_id": "rnYBi9N_vw4",
+    "video_title": "Lecture 96: Minimum Spanning Tree || Prim's Algorithm",
+    "lecture_number": 96,
+    "playlist_index": 105,
+    "video_url": "https://www.youtube.com/watch?v=rnYBi9N_vw4",
+    "start_time": 1933.7,
+    "end_time": 1958.38,
+    "start_timestamp_str": "32:13",
+    "end_timestamp_str": "32:38",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=rnYBi9N_vw4&t=1933s",
+    "text": "ہم بک میں آپ کو دییا جا رہا ہے. سالو کرنا ہے. کمین تکشن بطانہ ہے کہ آپ سالر کر پائے نہیں کر پایا. اسیڈمیت نہیں. لیلتیں آپ سے نکشوڑیوں میں. آپ افیچھا انگی آپ سے. بیژیوں اس کے بیچ میں اٹھنے دیلے کے لئے. اور اشا کرتاں. اب آپ کو مریکلے بڑے دے پاں, میری بھی کچھ ہوتی ہے تو.",
+    "segment_span": [
+      59,
+      68
+    ]
+  }
+]

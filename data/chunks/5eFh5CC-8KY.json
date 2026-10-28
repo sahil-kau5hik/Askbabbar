@@ -1,0 +1,164 @@
+[
+  {
+    "chunk_id": "5eFh5CC-8KY_000003_000066",
+    "video_id": "5eFh5CC-8KY",
+    "video_title": "Lecture 109: Painting Fence Algorithm || DP Series",
+    "lecture_number": 109,
+    "playlist_index": 118,
+    "video_url": "https://www.youtube.com/watch?v=5eFh5CC-8KY",
+    "start_time": 3.6,
+    "end_time": 66.36,
+    "start_timestamp_str": "00:03",
+    "end_timestamp_str": "01:06",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=5eFh5CC-8KY&t=3s",
+    "text": "Hello, this is Love Babbar and welcome to the channel. Code Health 5th lecture number 109-1999 It's been a long time Here we have an important DPP algorithm which has its name Pinting Fence Algorithms The Caution Exact Name & Inja & Defence A Heart Difficulty Level This will be our 1DDP for last question We'll discover more patterns Let us read the questions Let me solve it We're going to solve all of them NUMBER OF COLORS. THANK YOU TO THEM CODE INJUST.",
+    "segment_span": [
+      0,
+      14
+    ]
+  },
+  {
+    "chunk_id": "5eFh5CC-8KY_000092_000172",
+    "video_id": "5eFh5CC-8KY",
+    "video_title": "Lecture 109: Painting Fence Algorithm || DP Series",
+    "lecture_number": 109,
+    "playlist_index": 118,
+    "video_url": "https://www.youtube.com/watch?v=5eFh5CC-8KY",
+    "start_time": 92.36,
+    "end_time": 172.92,
+    "start_timestamp_str": "01:32",
+    "end_timestamp_str": "02:52",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=5eFh5CC-8KY&t=92s",
+    "text": "بہت ویلسٹرکچے دویے بنائیں جاتیں کہ کرتا ہے کہ میں نے دالیں گے تو آپ کو ریل دفرٹے ملے والا ہے کوش بنانے والے بنتے اور ایڈی بڑی بھڑھی کمپریم فور چکے ہیں تو اس کی آپ کو تنشل لنگی نہیں ہے اللہ انگوش کے کر بات کریں Hindi English Dona Mabel able کوشن سوال کرتے ہیں آپ کو حینٹے βیڋوزوں میں جائیں گی تو آپ کا کوئی بھی پیڑ کوش خریدنا ہے so اب آپсاماں سوارے ہیں آپ کے پاس یہ لیکن дисکפ션 پڑا ہوا ہے ایک ہے میری پس کے کلٹس چیکے یہ دو جی دیں میں پس کندیشن گیا کیا آپ کو پینٹ کرنا ہے پینڈ کرنا ہیں پینچ کرنا چیگی not more than two not more then to adjust your position and you can't get a point but it's very important that we have not more than to adjacent. Not More Than To Adjacent Post has same color 4 5, you have to pay the spend.",
+    "segment_span": [
+      15,
+      39
+    ]
+  },
+  {
+    "chunk_id": "5eFh5CC-8KY_000173_000233",
+    "video_id": "5eFh5CC-8KY",
+    "video_title": "Lecture 109: Painting Fence Algorithm || DP Series",
+    "lecture_number": 109,
+    "playlist_index": 118,
+    "video_url": "https://www.youtube.com/watch?v=5eFh5CC-8KY",
+    "start_time": 173.92,
+    "end_time": 233.92,
+    "start_timestamp_str": "02:53",
+    "end_timestamp_str": "03:53",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=5eFh5CC-8KY&t=173s",
+    "text": "Red green blue red Is this logical? Yes because only 2 of them are same color But let's say I had it in its case that red is a yellow Because if we look at both more consecutive post So what do i mean by condition Not more than two adjacent posts If there was an adjunct but any kind of the rule change will not happen. So if I have to find out a recursive relation,",
+    "segment_span": [
+      40,
+      51
+    ]
+  },
+  {
+    "chunk_id": "5eFh5CC-8KY_000234_000315",
+    "video_id": "5eFh5CC-8KY",
+    "video_title": "Lecture 109: Painting Fence Algorithm || DP Series",
+    "lecture_number": 109,
+    "playlist_index": 118,
+    "video_url": "https://www.youtube.com/watch?v=5eFh5CC-8KY",
+    "start_time": 234.92,
+    "end_time": 315.0,
+    "start_timestamp_str": "03:54",
+    "end_timestamp_str": "05:15",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=5eFh5CC-8KY&t=234s",
+    "text": "so let's say that if we want to solve an recursive recursive relationship with solving n then it has got me going on for bonding and what is solved off Nm1 or solved by Nm2 or solved in Nm3 Or something like this 1°C",
+    "segment_span": [
+      52,
+      59
+    ]
+  },
+  {
+    "chunk_id": "5eFh5CC-8KY_000315_000376",
+    "video_id": "5eFh5CC-8KY",
+    "video_title": "Lecture 109: Painting Fence Algorithm || DP Series",
+    "lecture_number": 109,
+    "playlist_index": 118,
+    "video_url": "https://www.youtube.com/watch?v=5eFh5CC-8KY",
+    "start_time": 315.0,
+    "end_time": 376.16,
+    "start_timestamp_str": "05:15",
+    "end_timestamp_str": "06:16",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=5eFh5CC-8KY&t=315s",
+    "text": "1°K 2°C 2°D 2°F 2°M 2°S 2°N 2°P 2°L 3°C 3°K 3-2,3-2 ,3-6",
+    "segment_span": [
+      60,
+      71
+    ]
+  },
+  {
+    "chunk_id": "5eFh5CC-8KY_000378_000530",
+    "video_id": "5eFh5CC-8KY",
+    "video_title": "Lecture 109: Painting Fence Algorithm || DP Series",
+    "lecture_number": 109,
+    "playlist_index": 118,
+    "video_url": "https://www.youtube.com/watch?v=5eFh5CC-8KY",
+    "start_time": 378.16,
+    "end_time": 530.01,
+    "start_timestamp_str": "06:18",
+    "end_timestamp_str": "08:50",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=5eFh5CC-8KY&t=378s",
+    "text": "so you can understand the formula that is n 2 k minus 1 but this one simple so in short i have answered it if we say solve of two then what will be my answer? If solved off to k plus k star and solving now there are no observations 24x48",
+    "segment_span": [
+      72,
+      83
+    ]
+  },
+  {
+    "chunk_id": "5eFh5CC-8KY_000532_000790",
+    "video_id": "5eFh5CC-8KY",
+    "video_title": "Lecture 109: Painting Fence Algorithm || DP Series",
+    "lecture_number": 109,
+    "playlist_index": 118,
+    "video_url": "https://www.youtube.com/watch?v=5eFh5CC-8KY",
+    "start_time": 532.94,
+    "end_time": 790.27,
+    "start_timestamp_str": "08:52",
+    "end_timestamp_str": "13:10",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=5eFh5CC-8KY&t=532s",
+    "text": "I can't see the relation. Let's say i am n equal to 4 If you have an angle of 2,30 What is first way? First one The last two colors 2.5% 2.6% 2.2% 3.9%, 4.4% 4.8% 5.9% k-1",
+    "segment_span": [
+      84,
+      97
+    ]
+  },
+  {
+    "chunk_id": "5eFh5CC-8KY_000792_001271",
+    "video_id": "5eFh5CC-8KY",
+    "video_title": "Lecture 109: Painting Fence Algorithm || DP Series",
+    "lecture_number": 109,
+    "playlist_index": 118,
+    "video_url": "https://www.youtube.com/watch?v=5eFh5CC-8KY",
+    "start_time": 792.27,
+    "end_time": 1271.4,
+    "start_timestamp_str": "13:12",
+    "end_timestamp_str": "21:11",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=5eFh5CC-8KY&t=792s",
+    "text": "k-2 k-3 k-4 k-5 1.2KGTB",
+    "segment_span": [
+      98,
+      102
+    ]
+  },
+  {
+    "chunk_id": "5eFh5CC-8KY_001271_001389",
+    "video_id": "5eFh5CC-8KY",
+    "video_title": "Lecture 109: Painting Fence Algorithm || DP Series",
+    "lecture_number": 109,
+    "playlist_index": 118,
+    "video_url": "https://www.youtube.com/watch?v=5eFh5CC-8KY",
+    "start_time": 1271.4,
+    "end_time": 1389.88,
+    "start_timestamp_str": "21:11",
+    "end_timestamp_str": "23:09",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=5eFh5CC-8KY&t=1271s",
+    "text": "2.1KG 3.3KGN 4.4KG 5.5KG 6.6KG 7.8KG 8.9KG 9.10KG dp of i-2 2",
+    "segment_span": [
+      103,
+      112
+    ]
+  }
+]

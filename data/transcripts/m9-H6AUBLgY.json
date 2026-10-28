@@ -1,0 +1,320 @@
+{
+  "video_id": "m9-H6AUBLgY",
+  "lecture_number": 105,
+  "video_title": "Lecture 105: Maximum Sum of Non-Adjacent Elements || DP Series",
+  "total_duration": 1232.53,
+  "segments": [
+    {
+      "id": 0,
+      "start": 2.96,
+      "end": 9.96,
+      "text": "Hello, How are you? Welcome to the channel. We are launching our lecture number 105-105."
+    },
+    {
+      "id": 1,
+      "start": 123.02,
+      "end": 124.02,
+      "text": "Let's say,"
+    },
+    {
+      "id": 2,
+      "start": 124.02,
+      "end": 126.02,
+      "text": "I have said that you will be able to make a regurgative tree."
+    },
+    {
+      "id": 3,
+      "start": 126.02,
+      "end": 127.02,
+      "text": "I told him"
+    },
+    {
+      "id": 4,
+      "start": 128.02,
+      "end": 129.02,
+      "text": "I should start with the element and then sponsor it by cryo"
+    },
+    {
+      "id": 5,
+      "start": 130.02,
+      "end": 132.02,
+      "text": "Cryo is an award-leading work experience based learning platform"
+    },
+    {
+      "id": 6,
+      "start": 133.02,
+      "end": 134.02,
+      "text": "where can you enhance your software skills"
+    },
+    {
+      "id": 7,
+      "start": 135.02,
+      "end": 136.02,
+      "text": "and create top depth jobs"
+    },
+    {
+      "id": 8,
+      "start": 137.02,
+      "end": 138.02,
+      "text": "Unliked usual courses"
+    },
+    {
+      "id": 9,
+      "start": 139.02,
+      "end": 141.02,
+      "text": "Cryo may have full stack development"
+    },
+    {
+      "id": 10,
+      "start": 142.02,
+      "end": 143.02,
+      "text": "or back end elements are learnt but"
+    },
+    {
+      "id": 11,
+      "start": 144.02,
+      "end": 145.02,
+      "text": "buy building industry level projects in real developer environment"
+    },
+    {
+      "id": 12,
+      "start": 146.02,
+      "end": 147.02,
+      "text": "At at their very best of programs"
+    },
+    {
+      "id": 13,
+      "start": 148.02,
+      "end": 150.02,
+      "text": "all these project will become more effective"
+    },
+    {
+      "id": 14,
+      "start": 150.02,
+      "end": 152.22,
+      "text": "ایک ایک بیڈیوڑا پر فعل بھی بن جائے گی"
+    },
+    {
+      "id": 15,
+      "start": 152.62,
+      "end": 154.7,
+      "text": "او فلسٹ ایک دلپن میں ایک پر ایک جاندرمن کیاکہ"
+    },
+    {
+      "id": 16,
+      "start": 154.72,
+      "end": 156.92,
+      "text": "تیک ایوز کرنے والے وہ سب بھی آپ کے آپ ارویزی بلے"
+    },
+    {
+      "id": 17,
+      "start": 156.94,
+      "end": 160.12,
+      "text": "و ساتھ ایک کو پرسنلائیست کری ایسستن پھیں ملے والی"
+    },
+    {
+      "id": 18,
+      "start": 160.32,
+      "end": 161.56,
+      "text": "تاکی آپ کی دریم جو آپ کی"
+    },
+    {
+      "id": 19,
+      "start": 161.58,
+      "end": 163.46,
+      "text": "دبل شورٹی ہو اوپ کو کرنا کیا ہے"
+    },
+    {
+      "id": 20,
+      "start": 163.66,
+      "end": 165.46,
+      "text": "اس کفشن کرنگا میں قلین کا تیش کر دے تو"
+    },
+    {
+      "id": 21,
+      "start": 165.62,
+      "end": 166.78,
+      "text": "اس کو ایوس کر کریں آپ"
+    },
+    {
+      "id": 22,
+      "start": 166.98,
+      "end": 168.32,
+      "text": "میکسیم پاسیم بلڈ اسکانٹ"
+    },
+    {
+      "id": 23,
+      "start": 198.64,
+      "end": 199.64,
+      "text": "1.0"
+    },
+    {
+      "id": 24,
+      "start": 200.64,
+      "end": 201.64,
+      "text": "2.0"
+    },
+    {
+      "id": 25,
+      "start": 202.64,
+      "end": 203.64,
+      "text": "2.1"
+    },
+    {
+      "id": 26,
+      "start": 204.64,
+      "end": 205.64,
+      "text": "2.2"
+    },
+    {
+      "id": 27,
+      "start": 206.64,
+      "end": 207.64,
+      "text": "2.3"
+    },
+    {
+      "id": 28,
+      "start": 208.64,
+      "end": 209.64,
+      "text": "2.4"
+    },
+    {
+      "id": 29,
+      "start": 210.64,
+      "end": 211.64,
+      "text": "9.9"
+    },
+    {
+      "id": 30,
+      "start": 212.64,
+      "end": 213.64,
+      "text": "2.5"
+    },
+    {
+      "id": 31,
+      "start": 214.64,
+      "end": 215.64,
+      "text": "9.8"
+    },
+    {
+      "id": 32,
+      "start": 216.64,
+      "end": 218.64,
+      "text": "9.98"
+    },
+    {
+      "id": 33,
+      "start": 219.64,
+      "end": 222.64,
+      "text": "9.99"
+    },
+    {
+      "id": 34,
+      "start": 223.64,
+      "end": 225.64,
+      "text": "9.90"
+    },
+    {
+      "id": 35,
+      "start": 316.7,
+      "end": 318.7,
+      "text": "9882"
+    },
+    {
+      "id": 36,
+      "start": 320.7,
+      "end": 322.7,
+      "text": "9883"
+    },
+    {
+      "id": 37,
+      "start": 324.7,
+      "end": 326.7,
+      "text": "9881"
+    },
+    {
+      "id": 38,
+      "start": 328.7,
+      "end": 330.7,
+      "text": "9889"
+    },
+    {
+      "id": 39,
+      "start": 332.7,
+      "end": 334.7,
+      "text": "9888"
+    },
+    {
+      "id": 40,
+      "start": 336.7,
+      "end": 338.7,
+      "text": "9886"
+    },
+    {
+      "id": 41,
+      "start": 340.7,
+      "end": 342.7,
+      "text": "9887"
+    },
+    {
+      "id": 42,
+      "start": 372.7,
+      "end": 379.7,
+      "text": "1%-1%-0%-2%-3%-4%-5%-6%-9%-8%"
+    },
+    {
+      "id": 43,
+      "start": 1220.56,
+      "end": 1222.56,
+      "text": "تو میں بھی تھوڑا لگیلے چلاکی چلایکی"
+    },
+    {
+      "id": 44,
+      "start": 1223.06,
+      "end": 1225.36,
+      "text": "تو سمجھ میں آگیا تو میں ہیں گے کمن سکشن میں understood"
+    },
+    {
+      "id": 45,
+      "start": 1225.46,
+      "end": 1226.42,
+      "text": "وہ یہ مچا آگے سواد آگی"
+    },
+    {
+      "id": 46,
+      "start": 1226.52,
+      "end": 1227.76,
+      "text": "very good スواد پلسپس"
+    },
+    {
+      "id": 47,
+      "start": 1227.86,
+      "end": 1228.56,
+      "text": "مجھا پلسمپس"
+    },
+    {
+      "id": 48,
+      "start": 1228.76,
+      "end": 1229.44,
+      "text": "پلیشمن لگ جہے گی"
+    },
+    {
+      "id": 49,
+      "start": 1229.52,
+      "end": 1230.48,
+      "text": "ملیں گی آپ سنگشنگ شریم تو ابتکلی"
+    },
+    {
+      "id": 50,
+      "start": 1230.56,
+      "end": 1231.52,
+      "text": "تنے واض"
+    },
+    {
+      "id": 51,
+      "start": 1231.56,
+      "end": 1232.56,
+      "text": "وای"
+    }
+  ]
+}

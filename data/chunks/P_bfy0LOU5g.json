@@ -1,0 +1,182 @@
+[
+  {
+    "chunk_id": "P_bfy0LOU5g_000003_000076",
+    "video_id": "P_bfy0LOU5g",
+    "video_title": "Lecture 94: Shortest Path in Directed Acyclic Graphs || C++ Placement Series",
+    "lecture_number": 94,
+    "playlist_index": 103,
+    "video_url": "https://www.youtube.com/watch?v=P_bfy0LOU5g",
+    "start_time": 3.7,
+    "end_time": 76.38,
+    "start_timestamp_str": "00:03",
+    "end_timestamp_str": "01:16",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=P_bfy0LOU5g&t=3s",
+    "text": "Helloji, kestosara.dc Love Babbar & welcome to the channel. We are at 5th lecture number 94 where we will read short test path in a directed or cyclic graph 1-1.0",
+    "segment_span": [
+      0,
+      1
+    ]
+  },
+  {
+    "chunk_id": "P_bfy0LOU5g_000077_000224",
+    "video_id": "P_bfy0LOU5g",
+    "video_title": "Lecture 94: Shortest Path in Directed Acyclic Graphs || C++ Placement Series",
+    "lecture_number": 94,
+    "playlist_index": 103,
+    "video_url": "https://www.youtube.com/watch?v=P_bfy0LOU5g",
+    "start_time": 77.38,
+    "end_time": 224.55,
+    "start_timestamp_str": "01:17",
+    "end_timestamp_str": "03:44",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=P_bfy0LOU5g&t=77s",
+    "text": "0-1 2-2 4-1 2-1 2 3-3 6 9 6 4 ھندhi English 2.0 mb lj",
+    "segment_span": [
+      2,
+      12
+    ]
+  },
+  {
+    "chunk_id": "P_bfy0LOU5g_000224_000538",
+    "video_id": "P_bfy0LOU5g",
+    "video_title": "Lecture 94: Shortest Path in Directed Acyclic Graphs || C++ Placement Series",
+    "lecture_number": 94,
+    "playlist_index": 103,
+    "video_url": "https://www.youtube.com/watch?v=P_bfy0LOU5g",
+    "start_time": 224.75,
+    "end_time": 538.04,
+    "start_timestamp_str": "03:44",
+    "end_timestamp_str": "08:58",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=P_bfy0LOU5g&t=224s",
+    "text": "ھا کچھن سوال کرتے ہیں آپ کو ھینٹi video سے ملگ جائیں گی تو اگر آپ کو کوئی بھی پیڑکڈ کرینا ہے تو اب آپ سمجھ دار ہے آپ کے پاس یہ لیکن اسکفشنے پڑا ہوئے ایسپیکٹ لیک کر کیا پلے سکتے و 20% اسلام جو کے میکسیم ہے باکہ ملجائے گا Thank you OK So this is my graph and first of all Algoddam but I will tell about the reason for which we are going to solve i have told it very simple i have said that First thing I would like to know 5-2",
+    "segment_span": [
+      13,
+      29
+    ]
+  },
+  {
+    "chunk_id": "P_bfy0LOU5g_000540_000863",
+    "video_id": "P_bfy0LOU5g",
+    "video_title": "Lecture 94: Shortest Path in Directed Acyclic Graphs || C++ Placement Series",
+    "lecture_number": 94,
+    "playlist_index": 103,
+    "video_url": "https://www.youtube.com/watch?v=P_bfy0LOU5g",
+    "start_time": 540.39,
+    "end_time": 863.23,
+    "start_timestamp_str": "09:00",
+    "end_timestamp_str": "14:23",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=P_bfy0LOU5g&t=540s",
+    "text": "5-4 5-6 5-9 5-8 4-9 5-10 2-3 4 5",
+    "segment_span": [
+      30,
+      36
+    ]
+  },
+  {
+    "chunk_id": "P_bfy0LOU5g_000866_001173",
+    "video_id": "P_bfy0LOU5g",
+    "video_title": "Lecture 94: Shortest Path in Directed Acyclic Graphs || C++ Placement Series",
+    "lecture_number": 94,
+    "playlist_index": 103,
+    "video_url": "https://www.youtube.com/watch?v=P_bfy0LOU5g",
+    "start_time": 866.36,
+    "end_time": 1173.68,
+    "start_timestamp_str": "14:26",
+    "end_timestamp_str": "19:33",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=P_bfy0LOU5g&t=866s",
+    "text": "3-4 4 4 2 9 و ایک ویڈی اگر لیو پڑی ہے جو کی 9 سے سوٹی ہے تو میں نے کہاں تھی کہاً انگلٹ کر دو ثم 4 כہاں سے پانچکتاں 2 بلس 4 6 تمہیں ابڑٹ کرنے گیاں ہایاں انفیٹی پژی اچھ کر بیاں اس کے مان ثم 5 כہے سے پہانچ کتاہ 2 اور 24 تو میں نفائف کو بھی اپنیٹ کر بھی بہت پڈیا اسی پرکار اب میں نے 2 کو حطا دیا میں نے کالا 3 کہ جو top ہیں میرا وہ ہے 3 اور 3 کا distance کیا ہے 3 کا Distance 6 اپنی اجھین سے لیشٹ کو بھی پر انڈ کروالی ہے بہت بڑیہ",
+    "segment_span": [
+      37,
+      56
+    ]
+  },
+  {
+    "chunk_id": "P_bfy0LOU5g_001174_001675",
+    "video_id": "P_bfy0LOU5g",
+    "video_title": "Lecture 94: Shortest Path in Directed Acyclic Graphs || C++ Placement Series",
+    "lecture_number": 94,
+    "playlist_index": 103,
+    "video_url": "https://www.youtube.com/watch?v=P_bfy0LOU5g",
+    "start_time": 1174.43,
+    "end_time": 1675.76,
+    "start_timestamp_str": "19:34",
+    "end_timestamp_str": "27:55",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=P_bfy0LOU5g&t=1174s",
+    "text": "دو چی جو چکیں اس کے بعد ہم نے کیا بلک ہی ایار مچے کرنا دا start ھئی کیا سے کرنے تھیں مجھے سب سے پہلا کام جو کرنا تھا وہ کیا تھا مچھت توپر آجیکل صوت نکالنا تھா مجھی توپری آجیگل صوت נکالا تھா تو میں گر اینٹمین میں جاؤں یہ پر میں گراف بناؤ چکے میں نے آپ کو بلیک گرافي بناثو بھی ایک گравف میں نے بناظی ایک dj of what adg off top",
+    "segment_span": [
+      57,
+      67
+    ]
+  },
+  {
+    "chunk_id": "P_bfy0LOU5g_001676_001741",
+    "video_id": "P_bfy0LOU5g",
+    "video_title": "Lecture 94: Shortest Path in Directed Acyclic Graphs || C++ Placement Series",
+    "lecture_number": 94,
+    "playlist_index": 103,
+    "video_url": "https://www.youtube.com/watch?v=P_bfy0LOU5g",
+    "start_time": 1676.76,
+    "end_time": 1741.59,
+    "start_timestamp_str": "27:56",
+    "end_timestamp_str": "29:01",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=P_bfy0LOU5g&t=1676s",
+    "text": "you need to complete the distance if your distance is not equal then i will process it for auto ie belongs adjof ڈڑڑ ڑ' ڝڑ ژڑ ڭ' ډڑ",
+    "segment_span": [
+      68,
+      77
+    ]
+  },
+  {
+    "chunk_id": "P_bfy0LOU5g_001742_001836",
+    "video_id": "P_bfy0LOU5g",
+    "video_title": "Lecture 94: Shortest Path in Directed Acyclic Graphs || C++ Placement Series",
+    "lecture_number": 94,
+    "playlist_index": 103,
+    "video_url": "https://www.youtube.com/watch?v=P_bfy0LOU5g",
+    "start_time": 1742.59,
+    "end_time": 1836.04,
+    "start_timestamp_str": "29:02",
+    "end_timestamp_str": "30:36",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=P_bfy0LOU5g&t=1742s",
+    "text": "ڨ' ښ' ڣ' ڤ' ڦ' ڧ' ڃڑ ڶ' ھاں ان سے کیا رہا ہے",
+    "segment_span": [
+      78,
+      86
+    ]
+  },
+  {
+    "chunk_id": "P_bfy0LOU5g_001836_002020",
+    "video_id": "P_bfy0LOU5g",
+    "video_title": "Lecture 94: Shortest Path in Directed Acyclic Graphs || C++ Placement Series",
+    "lecture_number": 94,
+    "playlist_index": 103,
+    "video_url": "https://www.youtube.com/watch?v=P_bfy0LOU5g",
+    "start_time": 1836.54,
+    "end_time": 2020.08,
+    "start_timestamp_str": "30:36",
+    "end_timestamp_str": "33:40",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=P_bfy0LOU5g&t=1836s",
+    "text": "ہم نے Intermax ما نہ ہیں این فینتی گیاں یہاں پے ست کیا زمра تمہ رہان سے کہا رئے Intermax 0 2653 یہا تھا 02 2653 تو ان شوٹ ہم نئپر آنسر نہیں کال لیا Our code, بلکل صحیچ رہה ہے دو با دخاعتہاں کو کیا ہوا ہمیں گراب جنیٹ کیا اس میں sاری کی ساری جزدال دی ہمنا ایڈیانسری سپرینٹ کرا دی یا وی ایٹیانсری س پرینطو چیگیہ ہم 네 ھاں شکٹھا کرتے ہیں آپ کو سمجھ میں آگیا گا اور ویڈے تھوڑ لنبھی بنی ہے",
+    "segment_span": [
+      87,
+      103
+    ]
+  },
+  {
+    "chunk_id": "P_bfy0LOU5g_002021_002048",
+    "video_id": "P_bfy0LOU5g",
+    "video_title": "Lecture 94: Shortest Path in Directed Acyclic Graphs || C++ Placement Series",
+    "lecture_number": 94,
+    "playlist_index": 103,
+    "video_url": "https://www.youtube.com/watch?v=P_bfy0LOU5g",
+    "start_time": 2021.08,
+    "end_time": 2048.08,
+    "start_timestamp_str": "33:41",
+    "end_timestamp_str": "34:08",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=P_bfy0LOU5g&t=2021s",
+    "text": "ایشڈن میں نہیں ہی ہی ایک شودیوں میں اب تک لی ہے مبائے اور جہاں اس پلے ایک باریاتے کے بتا آگوں کہ ایسا اٹیگل کا اپچھا ہے تو فالو کرسکتے ہی اس کنر آپ کو اوژھ دیٹیل ساپ کو آر ملڈھڈڈا ہی یا پہیں نیک ٹے ویس کے بارے بعد کی گئے ہیں داخلٹ راکے باریں گے گئی ہے Thoree Pantamisa, Cochise Bossa 9-8-9-6 will get the signal Click on this article and explore Code Studio Link in description We shall meet again in next video Bye",
+    "segment_span": [
+      104,
+      114
+    ]
+  }
+]

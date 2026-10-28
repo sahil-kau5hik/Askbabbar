@@ -1,0 +1,272 @@
+[
+  {
+    "chunk_id": "xdPv2SZJLVI_000002_000140",
+    "video_id": "xdPv2SZJLVI",
+    "video_title": "Lecture 110: 0/1 KnapSack Problem || learn 2-D DP Concept || DP Series",
+    "lecture_number": 110,
+    "playlist_index": 119,
+    "video_url": "https://www.youtube.com/watch?v=xdPv2SZJLVI",
+    "start_time": 2.8,
+    "end_time": 140.09,
+    "start_timestamp_str": "00:02",
+    "end_timestamp_str": "02:20",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=xdPv2SZJLVI&t=2s",
+    "text": "Hello, this is Love Babbar and welcome to the channel. We are on 5th January 111-0110 And today we will learn a series of 2DTP concepts in DPCs Whenever there's two dDP talks First example I studied at college And i thought it was easy It had napsack problem Very famous problems ھایسی پیٹنز پر اور بھی بہت ساری پروبلنمز بیزد ہیں جس کی تارگٹسام ایک کشن ہے ایک سب سٹ سم کشنت ہے تو ایسے بہا ہم کچھ نمی پریٹن کے دورا سالب کی جازکتے ہیں فتح فڑیس کشان کو سمجھتے اور اس کو سوص نے کہ سال کرنا ہے سمچھیں کی طوری ٹیپیٹ کیسے پتہ لگائیں گے یہ کشین ٹوژی ٦یپیکہ ہے اگر میں نے رکھرجی صرویشن لکتی ہے Thief can generate by shelling items",
+    "segment_span": [
+      0,
+      18
+    ]
+  },
+  {
+    "chunk_id": "xdPv2SZJLVI_000141_000201",
+    "video_id": "xdPv2SZJLVI",
+    "video_title": "Lecture 110: 0/1 KnapSack Problem || learn 2-D DP Concept || DP Series",
+    "lecture_number": 110,
+    "playlist_index": 119,
+    "video_url": "https://www.youtube.com/watch?v=xdPv2SZJLVI",
+    "start_time": 141.09,
+    "end_time": 201.32,
+    "start_timestamp_str": "02:21",
+    "end_timestamp_str": "03:21",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=xdPv2SZJLVI&t=141s",
+    "text": "Thief has to be stolen As much as he is stealing his value is maximum The thing that I am going to steal I have to make sure that it's in the app So, all of them are cumulative weight and second things My total values is a maximum value ھاں نے کہاں ایکساں پلکلی ہے ھوں نے کا کہاہ کہ ایک فتح تسکے پڑھا تھا تسكس کہا تھے کہا ہوں کہ میرے پاس چار عیتم سے میریں پاس ٹھا عیтом سے Thigga ان کا ویٹ کیا؟ ان کا وایٹ یہ ہے جی ویژ اسپرگا رہا ویت ہے 1 2 4 5 Thigge ان کی ویلو کیا ہے؟ ویسپر گا رجی 5 4 8 6 تو یہ میری value یہ میری value اور یہ میرا ویط ہے 1.5KGWATE 2.5MV",
+    "segment_span": [
+      19,
+      54
+    ]
+  },
+  {
+    "chunk_id": "xdPv2SZJLVI_000203_000283",
+    "video_id": "xdPv2SZJLVI",
+    "video_title": "Lecture 110: 0/1 KnapSack Problem || learn 2-D DP Concept || DP Series",
+    "lecture_number": 110,
+    "playlist_index": 119,
+    "video_url": "https://www.youtube.com/watch?v=xdPv2SZJLVI",
+    "start_time": 203.32,
+    "end_time": 283.65,
+    "start_timestamp_str": "03:23",
+    "end_timestamp_str": "04:43",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=xdPv2SZJLVI&t=203s",
+    "text": "4.4MV 5.2MV 5.3MV 5.1MV 5.0MV تو آپ کنسر کیاکہ 13 آگیا,",
+    "segment_span": [
+      55,
+      60
+    ]
+  },
+  {
+    "chunk_id": "xdPv2SZJLVI_000283_000398",
+    "video_id": "xdPv2SZJLVI",
+    "video_title": "Lecture 110: 0/1 KnapSack Problem || learn 2-D DP Concept || DP Series",
+    "lecture_number": 110,
+    "playlist_index": 119,
+    "video_url": "https://www.youtube.com/watch?v=xdPv2SZJLVI",
+    "start_time": 283.81,
+    "end_time": 398.92,
+    "start_timestamp_str": "04:43",
+    "end_timestamp_str": "06:38",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=xdPv2SZJLVI&t=283s",
+    "text": "that's why I am here in the sample outboard 13 آ رہا ہے OK Tho lua sama naaya wiyah Tho lo wa sama maaya 3D is sponsored by cryo Cryo was a world-sleading work experience based learning platform where you can enhance your software skills so as to have top depth jobs which you could grab Unlucky usual courses Cryo may be full stack development or pack and relevant seek but buy building industry level projects In real developer environment Atthe end of their programs all many project are made Which will become more effective & a strong get up profile you will be able to use the tech in background and also provide personalised support so that your dream job can double short In description, I'll attach link You may have maximum possible discount & unlock some free resources Link is used ھاکہ سال کیسے کرنا ہے",
+    "segment_span": [
+      61,
+      88
+    ]
+  },
+  {
+    "chunk_id": "xdPv2SZJLVI_000399_000487",
+    "video_id": "xdPv2SZJLVI",
+    "video_title": "Lecture 110: 0/1 KnapSack Problem || learn 2-D DP Concept || DP Series",
+    "lecture_number": 110,
+    "playlist_index": 119,
+    "video_url": "https://www.youtube.com/watch?v=xdPv2SZJLVI",
+    "start_time": 399.42,
+    "end_time": 487.24,
+    "start_timestamp_str": "06:39",
+    "end_timestamp_str": "08:07",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=xdPv2SZJLVI&t=399s",
+    "text": "ایک اپروچ کیوں کہاں بات کروں تو میں نے کہاہ کہا کہ بہت سنپل ہے اپریوچ کے بعد کروں جو بروٹ فورس میں دماغنا ہاتا ہے جو گروٹ پورس مدوگ میں بالکل ایسے لیکن کوشن پڑتے یا تھا وہ کو بروط فورست کیا ہے وہ یہ ہے کہ یہ کیاہ ہے بسکلے میں کیا کروں комбینشان طلہ رہوں میں کی комбیینشن Of these n items کی اس کیس کیس Item callوں کیس item کو نہ لوپ رائٹ 4th",
+    "segment_span": [
+      89,
+      100
+    ]
+  },
+  {
+    "chunk_id": "xdPv2SZJLVI_000489_000607",
+    "video_id": "xdPv2SZJLVI",
+    "video_title": "Lecture 110: 0/1 KnapSack Problem || learn 2-D DP Concept || DP Series",
+    "lecture_number": 110,
+    "playlist_index": 119,
+    "video_url": "https://www.youtube.com/watch?v=xdPv2SZJLVI",
+    "start_time": 489.24,
+    "end_time": 607.37,
+    "start_timestamp_str": "08:09",
+    "end_timestamp_str": "10:07",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=xdPv2SZJLVI&t=489s",
+    "text": "5th 6th 7th 8 8 7th 2nd , 2nd",
+    "segment_span": [
+      101,
+      107
+    ]
+  },
+  {
+    "chunk_id": "xdPv2SZJLVI_000609_000938",
+    "video_id": "xdPv2SZJLVI",
+    "video_title": "Lecture 110: 0/1 KnapSack Problem || learn 2-D DP Concept || DP Series",
+    "lecture_number": 110,
+    "playlist_index": 119,
+    "video_url": "https://www.youtube.com/watch?v=xdPv2SZJLVI",
+    "start_time": 609.37,
+    "end_time": 938.1,
+    "start_timestamp_str": "10:09",
+    "end_timestamp_str": "15:38",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=xdPv2SZJLVI&t=609s",
+    "text": "3rd 1st 2nd 2nd 2nd 3rd 0",
+    "segment_span": [
+      108,
+      114
+    ]
+  },
+  {
+    "chunk_id": "xdPv2SZJLVI_000993_001702",
+    "video_id": "xdPv2SZJLVI",
+    "video_title": "Lecture 110: 0/1 KnapSack Problem || learn 2-D DP Concept || DP Series",
+    "lecture_number": 110,
+    "playlist_index": 119,
+    "video_url": "https://www.youtube.com/watch?v=xdPv2SZJLVI",
+    "start_time": 993.45,
+    "end_time": 1702.94,
+    "start_timestamp_str": "16:33",
+    "end_timestamp_str": "28:22",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=xdPv2SZJLVI&t=993s",
+    "text": "اس کو ارچی سمجھاتاں میں, بیس کے اس کے بارے میں میں نے وہاں, اگر تمہارے پاس صرف ایک ہی آئیٹم ہوتی اگریر تمھارپا صرف آئے کی آئینم ہوتی تو کہ او اس کو انکلوڈ کرتے ہیں آپ لوگے بھی ایس کی value تو positive ہونے والی ہے تو انکлڑ تو کرنا چی ہے but to include karni ki bir condition کہ آپ کے bag میں capriciu تو ہو امان لہاں کا backpast ke loka hai maar اس کا weight 10 ke loa hai تو جہ بیز کے سامنے یہ سوچ کے لئے کہ کہ ایک ایٹام present ہے میرپاس 0-0.0",
+    "segment_span": [
+      115,
+      126
+    ]
+  },
+  {
+    "chunk_id": "xdPv2SZJLVI_001703_001897",
+    "video_id": "xdPv2SZJLVI",
+    "video_title": "Lecture 110: 0/1 KnapSack Problem || learn 2-D DP Concept || DP Series",
+    "lecture_number": 110,
+    "playlist_index": 119,
+    "video_url": "https://www.youtube.com/watch?v=xdPv2SZJLVI",
+    "start_time": 1703.94,
+    "end_time": 1897.16,
+    "start_timestamp_str": "28:23",
+    "end_timestamp_str": "31:37",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=xdPv2SZJLVI&t=1703s",
+    "text": "0-1.0 0-2.0 0-3.0 0-4.0 0-6.0 0-5 0-7 0-8 0-9 0-10 0-11 0-12 0-13 ھاں انڈکس نہیں , یہاں پر آپ کا این آیا ہے",
+    "segment_span": [
+      127,
+      140
+    ]
+  },
+  {
+    "chunk_id": "xdPv2SZJLVI_001899_002049",
+    "video_id": "xdPv2SZJLVI",
+    "video_title": "Lecture 110: 0/1 KnapSack Problem || learn 2-D DP Concept || DP Series",
+    "lecture_number": 110,
+    "playlist_index": 119,
+    "video_url": "https://www.youtube.com/watch?v=xdPv2SZJLVI",
+    "start_time": 1899.16,
+    "end_time": 2049.75,
+    "start_timestamp_str": "31:39",
+    "end_timestamp_str": "34:09",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=xdPv2SZJLVI&t=1899s",
+    "text": "تو کر این میرا روز ہیں تو آخری رو کون سیو کی اینما نسوان مالی رہ ہوگی اس فکر آپ نے اس کو رطن کر واضیا ہم نے اس کے ایک بات چلا کر رہا کر رکھا کر سای چلوی رائے کہ نہیں ہم میں اس کو run کیا ایک ایک پار اس کا رکتان سے رکtesر ایک تان سے رکteان سے بات بڑیا tappulation 1 step number 2 take care of remaining recursive calls index or capacity 1%",
+    "segment_span": [
+      141,
+      151
+    ]
+  },
+  {
+    "chunk_id": "xdPv2SZJLVI_002051_002400",
+    "video_id": "xdPv2SZJLVI",
+    "video_title": "Lecture 110: 0/1 KnapSack Problem || learn 2-D DP Concept || DP Series",
+    "lecture_number": 110,
+    "playlist_index": 119,
+    "video_url": "https://www.youtube.com/watch?v=xdPv2SZJLVI",
+    "start_time": 2051.75,
+    "end_time": 2400.64,
+    "start_timestamp_str": "34:11",
+    "end_timestamp_str": "40:00",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=xdPv2SZJLVI&t=2051s",
+    "text": "2% 10% 2%, 2%, 2%, 2%, bhoj",
+    "segment_span": [
+      152,
+      158
+    ]
+  },
+  {
+    "chunk_id": "xdPv2SZJLVI_002400_002738",
+    "video_id": "xdPv2SZJLVI",
+    "video_title": "Lecture 110: 0/1 KnapSack Problem || learn 2-D DP Concept || DP Series",
+    "lecture_number": 110,
+    "playlist_index": 119,
+    "video_url": "https://www.youtube.com/watch?v=xdPv2SZJLVI",
+    "start_time": 2400.66,
+    "end_time": 2738.88,
+    "start_timestamp_str": "40:00",
+    "end_timestamp_str": "45:38",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=xdPv2SZJLVI&t=2400s",
+    "text": "bhoi bhoji bhoje bhoja bhojo bhojs che bho dh 1.0",
+    "segment_span": [
+      159,
+      168
+    ]
+  },
+  {
+    "chunk_id": "xdPv2SZJLVI_002739_002953",
+    "video_id": "xdPv2SZJLVI",
+    "video_title": "Lecture 110: 0/1 KnapSack Problem || learn 2-D DP Concept || DP Series",
+    "lecture_number": 110,
+    "playlist_index": 119,
+    "video_url": "https://www.youtube.com/watch?v=xdPv2SZJLVI",
+    "start_time": 2739.88,
+    "end_time": 2953.72,
+    "start_timestamp_str": "45:39",
+    "end_timestamp_str": "49:13",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=xdPv2SZJLVI&t=2739s",
+    "text": "2.0 4.0 5.0 6.0 7.0 9.0 8.0 9.9 10.0 11.0 12.0 13.0 14.0 ھاکہ لگیٹ کرنا ہوں پسے کنسپ بیس کے اس کا نالیس کر کے اسکل آج رکھنا ہے آپ کو جو DPR اس کو انشلعت کرنا ہے",
+    "segment_span": [
+      169,
+      182
+    ]
+  },
+  {
+    "chunk_id": "xdPv2SZJLVI_002954_003060",
+    "video_id": "xdPv2SZJLVI",
+    "video_title": "Lecture 110: 0/1 KnapSack Problem || learn 2-D DP Concept || DP Series",
+    "lecture_number": 110,
+    "playlist_index": 119,
+    "video_url": "https://www.youtube.com/watch?v=xdPv2SZJLVI",
+    "start_time": 2954.72,
+    "end_time": 3060.42,
+    "start_timestamp_str": "49:14",
+    "end_timestamp_str": "51:00",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=xdPv2SZJLVI&t=2954s",
+    "text": "بیز کے اچھ کیا دھارپر اور فر جو کسی اس بچے ہیں اچکھیں اس بجے سے اسے اسے ضرور کو حنکل کرتا ہے اس کے لابا ایک باکے ساری روز بچی ہوئی ہے تو باكی سارھی رواز کے لئے آپ نے 2-4 روڑ بلا گا دیا و اُس میں آپ نے جو بھی لوگ تھا آپ کو آگری یہاں پہلکھا ہوا ڈڑڑ ڑ'",
+    "segment_span": [
+      183,
+      188
+    ]
+  },
+  {
+    "chunk_id": "xdPv2SZJLVI_003061_003078",
+    "video_id": "xdPv2SZJLVI",
+    "video_title": "Lecture 110: 0/1 KnapSack Problem || learn 2-D DP Concept || DP Series",
+    "lecture_number": 110,
+    "playlist_index": 119,
+    "video_url": "https://www.youtube.com/watch?v=xdPv2SZJLVI",
+    "start_time": 3061.42,
+    "end_time": 3078.48,
+    "start_timestamp_str": "51:01",
+    "end_timestamp_str": "51:18",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=xdPv2SZJLVI&t=3061s",
+    "text": "ژڑ ڝڑ ڭ ډ گ ڣ ڤ ڋ ڦ",
+    "segment_span": [
+      189,
+      197
+    ]
+  }
+]

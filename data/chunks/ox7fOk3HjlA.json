@@ -1,0 +1,74 @@
+[
+  {
+    "chunk_id": "ox7fOk3HjlA_000002_000095",
+    "video_id": "ox7fOk3HjlA",
+    "video_title": "Lecture 127: Unique Binary Search Trees || Catalan Number",
+    "lecture_number": 127,
+    "playlist_index": 136,
+    "video_url": "https://www.youtube.com/watch?v=ox7fOk3HjlA",
+    "start_time": 2.77,
+    "end_time": 95.25,
+    "start_timestamp_str": "00:02",
+    "end_timestamp_str": "01:35",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=ox7fOk3HjlA&t=2s",
+    "text": "Hello, this is Love Babbar and welcome to the channel Code Health. 2 3",
+    "segment_span": [
+      0,
+      1
+    ]
+  },
+  {
+    "chunk_id": "ox7fOk3HjlA_000123_000213",
+    "video_id": "ox7fOk3HjlA",
+    "video_title": "Lecture 127: Unique Binary Search Trees || Catalan Number",
+    "lecture_number": 127,
+    "playlist_index": 136,
+    "video_url": "https://www.youtube.com/watch?v=ox7fOk3HjlA",
+    "start_time": 123.28,
+    "end_time": 213.04,
+    "start_timestamp_str": "02:03",
+    "end_timestamp_str": "03:33",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=ox7fOk3HjlA&t=123s",
+    "text": "1 & 2 2 & 3 2 & 4 3 & 5 5 & 2 ھا کرنا ہم چاہتے ہیں نمپٹن میں ان کی value ھیں ان رپڑن کرتا نمبر of nodes in the tree اور آپ کو اوٹ پڑ میں return کرنا ایک number جو کی در شاہ تا ہو Number Of Structurally Unique Binary Search Trees Same question exactly same question our class toper s'poo sha gathou نہیں بتا پائیتا ہے سوستے ہیں کہ سے بیسے خیلے اگر تھی کرتے اس کے بعد اما گے بڑے ہیں 1st, 2nd & 3rd",
+    "segment_span": [
+      2,
+      18
+    ]
+  },
+  {
+    "chunk_id": "ox7fOk3HjlA_000215_000297",
+    "video_id": "ox7fOk3HjlA",
+    "video_title": "Lecture 127: Unique Binary Search Trees || Catalan Number",
+    "lecture_number": 127,
+    "playlist_index": 136,
+    "video_url": "https://www.youtube.com/watch?v=ox7fOk3HjlA",
+    "start_time": 215.04,
+    "end_time": 297.49,
+    "start_timestamp_str": "03:35",
+    "end_timestamp_str": "04:57",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=ox7fOk3HjlA&t=215s",
+    "text": "4th, 5th 5th 6th 4th 5th 7th 4-5, 20 20 20 1 2 1 1 2 1 1-1.",
+    "segment_span": [
+      19,
+      34
+    ]
+  },
+  {
+    "chunk_id": "ox7fOk3HjlA_000297_000481",
+    "video_id": "ox7fOk3HjlA",
+    "video_title": "Lecture 127: Unique Binary Search Trees || Catalan Number",
+    "lecture_number": 127,
+    "playlist_index": 136,
+    "video_url": "https://www.youtube.com/watch?v=ox7fOk3HjlA",
+    "start_time": 297.49,
+    "end_time": 481.42,
+    "start_timestamp_str": "04:57",
+    "end_timestamp_str": "08:01",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=ox7fOk3HjlA&t=297s",
+    "text": "1-2. 2-3. 4-5. 5-6. 5-7. 5-8. 6-9 7-8 8-10 9-11 10-12 11-18 5",
+    "segment_span": [
+      35,
+      47
+    ]
+  }
+]

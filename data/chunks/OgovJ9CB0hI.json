@@ -1,0 +1,56 @@
+[
+  {
+    "chunk_id": "OgovJ9CB0hI_000033_001717",
+    "video_id": "OgovJ9CB0hI",
+    "video_title": "Lecture 139: Wildcard Pattern Matching || DP Series",
+    "lecture_number": 139,
+    "playlist_index": 148,
+    "video_url": "https://www.youtube.com/watch?v=OgovJ9CB0hI",
+    "start_time": 33.5,
+    "end_time": 1717.42,
+    "start_timestamp_str": "00:33",
+    "end_timestamp_str": "28:37",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=OgovJ9CB0hI&t=33s",
+    "text": "A, B C D E. And here we have called the star c-coachnmark e What is this star and what does it mean? I just explained that نحنے بلاگی ڈا ۔ کوشن مار کا مطلب ہے کی وہ کسی بھی سنگل کریکٹر سے Match کر سکتے ہیں Matches with any single corrector یعنی آپ کوشنت مارکو کسі بھی ایک کریکTER سے Replaced کر سگتے آپ کے موجودے کا آپ کی چاہیس کا کوئی بیچ سنجل کرکٹر ہو سکھتے اس سے Replacing کر سیکتے ہے Right OK Second, my name is Star Star ka mطلب ga Matches Any sequence of character i.e. MPT Strings و پریبیس بھی ایک نیچ آج آج ہے",
+    "segment_span": [
+      0,
+      21
+    ]
+  },
+  {
+    "chunk_id": "OgovJ9CB0hI_001718_001802",
+    "video_id": "OgovJ9CB0hI",
+    "video_title": "Lecture 139: Wildcard Pattern Matching || DP Series",
+    "lecture_number": 139,
+    "playlist_index": 148,
+    "video_url": "https://www.youtube.com/watch?v=OgovJ9CB0hI",
+    "start_time": 1718.42,
+    "end_time": 1802.9,
+    "start_timestamp_str": "28:38",
+    "end_timestamp_str": "30:02",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=OgovJ9CB0hI&t=1718s",
+    "text": "یعنے مجھے کیا سمجھ میںیا کہ افٹر ایچ ریشان افپریبئیس جو ہے کرنٹ کے ایک ہو گیا اپنے پورانے والے کرنڈ کے ایک ہو گئیا یہ سماجھ میں آتی ہے تو اس کو لیکن ہے اور ابھی کوشن سالو دہیا پر ان شوٹ میں اپھا کیا وہ لام میں نے بولا چھیں مجھیا اپنا دو گیکٹر بنا دیگی دیو سیں گل بن دی والے SPACE Optima solution",
+    "segment_span": [
+      22,
+      29
+    ]
+  },
+  {
+    "chunk_id": "OgovJ9CB0hI_001805_001834",
+    "video_id": "OgovJ9CB0hI",
+    "video_title": "Lecture 139: Wildcard Pattern Matching || DP Series",
+    "lecture_number": 139,
+    "playlist_index": 148,
+    "video_url": "https://www.youtube.com/watch?v=OgovJ9CB0hI",
+    "start_time": 1805.13,
+    "end_time": 1834.46,
+    "start_timestamp_str": "30:05",
+    "end_timestamp_str": "30:34",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=OgovJ9CB0hI&t=1805s",
+    "text": "xM1 xM2 xM3 xM4 xM0 xM",
+    "segment_span": [
+      30,
+      35
+    ]
+  }
+]

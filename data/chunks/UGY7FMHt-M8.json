@@ -1,0 +1,92 @@
+[
+  {
+    "chunk_id": "UGY7FMHt-M8_000003_000190",
+    "video_id": "UGY7FMHt-M8",
+    "video_title": "Lecture 123: Partition Equal Subset Sum || DP Series",
+    "lecture_number": 123,
+    "playlist_index": 132,
+    "video_url": "https://www.youtube.com/watch?v=UGY7FMHt-M8",
+    "start_time": 3.47,
+    "end_time": 190.24,
+    "start_timestamp_str": "00:03",
+    "end_timestamp_str": "03:10",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=UGY7FMHt-M8&t=3s",
+    "text": "Hello, welcome to the channel code help. Papa has arrived at lecture number 123 on another question of DP for solving a problem with our DPP distinct ways اوش کے اندر کچھ کچھی آلمنت پنے ہیں",
+    "segment_span": [
+      0,
+      1
+    ]
+  },
+  {
+    "chunk_id": "UGY7FMHt-M8_000190_000716",
+    "video_id": "UGY7FMHt-M8",
+    "video_title": "Lecture 123: Partition Equal Subset Sum || DP Series",
+    "lecture_number": 123,
+    "playlist_index": 132,
+    "video_url": "https://www.youtube.com/watch?v=UGY7FMHt-M8",
+    "start_time": 190.24,
+    "end_time": 716.22,
+    "start_timestamp_str": "03:10",
+    "end_timestamp_str": "11:56",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=UGY7FMHt-M8&t=190s",
+    "text": "ہیں میں نے بلیں سارے کی ساری آلمنٹ کا سمگر توٹل ہے اب توٹال جہاں وہ دو چیز ہو سکتے ہیں یاتا وہ سمجھ ہیں و توٹر سم جو آرہ یاتھ وہ ایوان ہو گئے یاتے وہ آر ہو گیا ایک ایون سمکھتا آپ دیوائٹ بائٹو کر کے دوب حاجم میں بناد ہوگے کہ آپ نے دو سبسٹ منا دین کا same sام ہے but کیا میں ایک آرڈ سم کو دوبحاجمیں ایکل دیوایٹ کر سکتم معلیتے ہیں کہ آپ کو سارا کا سارа سن 20-23 آرہ ہوتا تو کیا آپ 23x2 11.5 کے 2 سبشٹ بنافاتے ہیں پے انтیجرس کے گئیس میں نہیں بنافتے 1-1,2",
+    "segment_span": [
+      2,
+      11
+    ]
+  },
+  {
+    "chunk_id": "UGY7FMHt-M8_000717_000784",
+    "video_id": "UGY7FMHt-M8",
+    "video_title": "Lecture 123: Partition Equal Subset Sum || DP Series",
+    "lecture_number": 123,
+    "playlist_index": 132,
+    "video_url": "https://www.youtube.com/watch?v=UGY7FMHt-M8",
+    "start_time": 717.22,
+    "end_time": 784.56,
+    "start_timestamp_str": "11:57",
+    "end_timestamp_str": "13:04",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=UGY7FMHt-M8&t=717s",
+    "text": "2-1 2-3 3-4 4-5 5-6 6-7 7 8 9 10 11 12 13 14 ok, wrong answer is not a must.",
+    "segment_span": [
+      12,
+      26
+    ]
+  },
+  {
+    "chunk_id": "UGY7FMHt-M8_000784_001499",
+    "video_id": "UGY7FMHt-M8",
+    "video_title": "Lecture 123: Partition Equal Subset Sum || DP Series",
+    "lecture_number": 123,
+    "playlist_index": 132,
+    "video_url": "https://www.youtube.com/watch?v=UGY7FMHt-M8",
+    "start_time": 784.56,
+    "end_time": 1499.57,
+    "start_timestamp_str": "13:04",
+    "end_timestamp_str": "24:59",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=UGY7FMHt-M8&t=784s",
+    "text": "tl you will get it later and then take the tail we can see that there are many overlapping problems so i have to convert this into dp first of all let me talk about top down how do they work? ڈڑڑ ڑ'",
+    "segment_span": [
+      27,
+      32
+    ]
+  },
+  {
+    "chunk_id": "UGY7FMHt-M8_001499_001526",
+    "video_id": "UGY7FMHt-M8",
+    "video_title": "Lecture 123: Partition Equal Subset Sum || DP Series",
+    "lecture_number": 123,
+    "playlist_index": 132,
+    "video_url": "https://www.youtube.com/watch?v=UGY7FMHt-M8",
+    "start_time": 1499.57,
+    "end_time": 1526.57,
+    "start_timestamp_str": "24:59",
+    "end_timestamp_str": "25:26",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=UGY7FMHt-M8&t=1499s",
+    "text": "ژڑ ڝڑ ڭ ډ ڣ گ ڤ ڷ ڋ ڕ ښ ڦ ڶ ڧ",
+    "segment_span": [
+      33,
+      46
+    ]
+  }
+]

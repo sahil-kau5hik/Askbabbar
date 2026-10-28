@@ -1,0 +1,848 @@
+{
+  "video_id": "UeRUKRJvPa4",
+  "lecture_number": 69,
+  "video_title": "Lecture 69: Binary Search Tree & its Implementation || Insertion, Deletion & Searching a Node",
+  "total_duration": 3946.27,
+  "segments": [
+    {
+      "id": 0,
+      "start": 33.25,
+      "end": 39.89,
+      "text": "C++ Placement DSA Course. Topics, Linear Search, LineAR Search, Trie & Binary Search"
+    },
+    {
+      "id": 1,
+      "start": 185.74,
+      "end": 188.74,
+      "text": "Coors subject OSDBMS VKR PUDRALO, I am doing this on DIA"
+    },
+    {
+      "id": 2,
+      "start": 189.74,
+      "end": 190.74,
+      "text": "Jawa Python in a language"
+    },
+    {
+      "id": 3,
+      "start": 191.74,
+      "end": 192.74,
+      "text": "So you will get paid courses from here"
+    },
+    {
+      "id": 4,
+      "start": 193.74,
+      "end": 195.74,
+      "text": "The most love things people do is to take one-on-one"
+    },
+    {
+      "id": 5,
+      "start": 196.74,
+      "end": 197.74,
+      "text": "Dowdrys and support available"
+    },
+    {
+      "id": 6,
+      "start": 198.74,
+      "end": 199.74,
+      "text": "If someone has already resolved for 1-2 hours"
+    },
+    {
+      "id": 7,
+      "start": 200.74,
+      "end": 202.74,
+      "text": "Coors are very well structured"
+    },
+    {
+      "id": 8,
+      "start": 203.74,
+      "end": 204.74,
+      "text": "If they manage the product then it's definitely going to be available"
+    },
+    {
+      "id": 9,
+      "start": 205.74,
+      "end": 206.74,
+      "text": "Coors have been made"
+    },
+    {
+      "id": 10,
+      "start": 207.74,
+      "end": 208.74,
+      "text": "Already big companies have gone out"
+    },
+    {
+      "id": 11,
+      "start": 209.74,
+      "end": 210.74,
+      "text": "So don't worry about paying attention"
+    },
+    {
+      "id": 12,
+      "start": 211.74,
+      "end": 212.74,
+      "text": "If we talk about languages"
+    },
+    {
+      "id": 13,
+      "start": 516.04,
+      "end": 520.04,
+      "text": "10, 8 , 21"
+    },
+    {
+      "id": 14,
+      "start": 521.04,
+      "end": 522.04,
+      "text": "7"
+    },
+    {
+      "id": 15,
+      "start": 523.04,
+      "end": 525.04,
+      "text": "26"
+    },
+    {
+      "id": 16,
+      "start": 526.04,
+      "end": 527.04,
+      "text": "5"
+    },
+    {
+      "id": 17,
+      "start": 528.04,
+      "end": 530.04,
+      "text": "4"
+    },
+    {
+      "id": 18,
+      "start": 531.04,
+      "end": 533.04,
+      "text": "3"
+    },
+    {
+      "id": 19,
+      "start": 534.04,
+      "end": 536.04,
+      "text": "10"
+    },
+    {
+      "id": 20,
+      "start": 537.04,
+      "end": 539.04,
+      "text": "10"
+    },
+    {
+      "id": 21,
+      "start": 540.1,
+      "end": 543.1,
+      "text": "8"
+    },
+    {
+      "id": 22,
+      "start": 1018.07,
+      "end": 1019.07,
+      "text": "ڈڑڑ ڑ'"
+    },
+    {
+      "id": 23,
+      "start": 1020.49,
+      "end": 1021.49,
+      "text": "ژڑ"
+    },
+    {
+      "id": 24,
+      "start": 1024.12,
+      "end": 1025.12,
+      "text": "ڝڑ"
+    },
+    {
+      "id": 25,
+      "start": 1026.12,
+      "end": 1027.38,
+      "text": "ڭ'"
+    },
+    {
+      "id": 26,
+      "start": 1028.38,
+      "end": 1029.38,
+      "text": "ڣ"
+    },
+    {
+      "id": 27,
+      "start": 1030.76,
+      "end": 1031.76,
+      "text": "ډ"
+    },
+    {
+      "id": 28,
+      "start": 1032.76,
+      "end": 1033.76,
+      "text": "ڦ"
+    },
+    {
+      "id": 29,
+      "start": 1035.94,
+      "end": 1036.94,
+      "text": "ڧ"
+    },
+    {
+      "id": 30,
+      "start": 1037.94,
+      "end": 1038.94,
+      "text": "ڤ"
+    },
+    {
+      "id": 31,
+      "start": 1042.73,
+      "end": 1043.73,
+      "text": "ڨ"
+    },
+    {
+      "id": 32,
+      "start": 1046.26,
+      "end": 1047.26,
+      "text": "ڷ"
+    },
+    {
+      "id": 33,
+      "start": 1048.33,
+      "end": 1049.33,
+      "text": "ڃ"
+    },
+    {
+      "id": 34,
+      "start": 1050.33,
+      "end": 1051.33,
+      "text": "گ"
+    },
+    {
+      "id": 35,
+      "start": 1052.33,
+      "end": 1053.33,
+      "text": "ڰ"
+    },
+    {
+      "id": 36,
+      "start": 1254.9,
+      "end": 1255.9,
+      "text": "LnR"
+    },
+    {
+      "id": 37,
+      "start": 1256.9,
+      "end": 1258.9,
+      "text": "LnL"
+    },
+    {
+      "id": 38,
+      "start": 1259.9,
+      "end": 1260.9,
+      "text": "LnN"
+    },
+    {
+      "id": 39,
+      "start": 1261.9,
+      "end": 1263.9,
+      "text": "LnM"
+    },
+    {
+      "id": 40,
+      "start": 1264.9,
+      "end": 1266.9,
+      "text": "Ln R"
+    },
+    {
+      "id": 41,
+      "start": 1267.9,
+      "end": 1268.9,
+      "text": "Ln"
+    },
+    {
+      "id": 42,
+      "start": 1269.9,
+      "end": 1271.9,
+      "text": "Ln"
+    },
+    {
+      "id": 43,
+      "start": 1272.9,
+      "end": 1274.9,
+      "text": "Ln"
+    },
+    {
+      "id": 44,
+      "start": 1275.9,
+      "end": 1277.9,
+      "text": "Ln"
+    },
+    {
+      "id": 45,
+      "start": 1278.9,
+      "end": 1280.9,
+      "text": "Ln"
+    },
+    {
+      "id": 46,
+      "start": 1493.58,
+      "end": 1496.58,
+      "text": "وفلوگ ان ہو جاتی ہے"
+    },
+    {
+      "id": 47,
+      "start": 1497.04,
+      "end": 1499.04,
+      "text": "تو آپ سے کوئی پوچھے انٹرviewر"
+    },
+    {
+      "id": 48,
+      "start": 1499.14,
+      "end": 1501.04,
+      "text": "کہ بطاو انسرشن کم دیکھشیٹ کیا ہوتی"
+    },
+    {
+      "id": 49,
+      "start": 1501.14,
+      "end": 1504.04,
+      "text": "بائنی سرشٹری کیا تھا آپ بلنگ یہ یا آپ کی لگ این ہوتتی ہے"
+    },
+    {
+      "id": 50,
+      "start": 1504.14,
+      "end": 1505.64,
+      "text": "کیوں ہوتتي آجی"
+    },
+    {
+      "id": 51,
+      "start": 1505.74,
+      "end": 1508.4,
+      "text": "بائνی سورچن آپ کو پتن لگن کیا سنگہ لیتے"
+    },
+    {
+      "id": 52,
+      "start": 1508.5,
+      "end": 1510.7,
+      "text": "ہم نے پورا جو ہم میں وچاٹ بن آیا تھا"
+    },
+    {
+      "id": 53,
+      "start": 1510.8,
+      "end": 1512.5,
+      "text": "پھر وہ پور ایسپرشین نکال کے"
+    },
+    {
+      "id": 54,
+      "start": 1512.6,
+      "end": 1513.8,
+      "text": "ہمیں پروف گیا تھے"
+    },
+    {
+      "id": 55,
+      "start": 1513.9,
+      "end": 1515.3,
+      "text": "کہ لگا نکے سیا ہے"
+    },
+    {
+      "id": 56,
+      "start": 1515.4,
+      "end": 1516.4,
+      "text": "same وہی طریق ہے"
+    },
+    {
+      "id": 57,
+      "start": 1516.5,
+      "end": 1518.0,
+      "text": "same وہi طریقة کرنا آپ کو"
+    },
+    {
+      "id": 58,
+      "start": 1837.93,
+      "end": 1839.93,
+      "text": "نیمان نیان سریطان کر دی رائٹ پاٹ کا"
+    },
+    {
+      "id": 59,
+      "start": 1840.9,
+      "end": 1842.4,
+      "text": "Sirs in BST"
+    },
+    {
+      "id": 60,
+      "start": 1842.96,
+      "end": 1843.44,
+      "text": "اور Root"
+    },
+    {
+      "id": 61,
+      "start": 1843.64,
+      "end": 1844.34,
+      "text": "ار رائط"
+    },
+    {
+      "id": 62,
+      "start": 1847.01,
+      "end": 1847.51,
+      "text": "قتم"
+    },
+    {
+      "id": 63,
+      "start": 1847.61,
+      "end": 1848.51,
+      "text": "اتنا ایک اوڑ فاتو"
+    },
+    {
+      "id": 64,
+      "start": 1850.16,
+      "end": 1851.76,
+      "text": "ہم نے کہ بل آگر تمہا روٹنال ہے"
+    },
+    {
+      "id": 65,
+      "start": 1851.86,
+      "end": 1853.06,
+      "text": "تو تنی نیپا ہے"
+    },
+    {
+      "id": 66,
+      "start": 1853.16,
+      "end": 1854.16,
+      "text": "تمہ ملینی نوڈ یار"
+    },
+    {
+      "id": 67,
+      "start": 1854.76,
+      "end": 1855.46,
+      "text": "گرچا رجا وپنے"
+    },
+    {
+      "id": 68,
+      "start": 1855.56,
+      "end": 1855.86,
+      "text": "Fals"
+    },
+    {
+      "id": 69,
+      "start": 1856.56,
+      "end": 1856.96,
+      "text": "سیکن"
+    },
+    {
+      "id": 70,
+      "start": 1857.06,
+      "end": 1858.06,
+      "text": "کیا پتا تنے دون لی"
+    },
+    {
+      "id": 71,
+      "start": 1858.16,
+      "end": 1859.56,
+      "text": "Root کر data equal to wax"
+    },
+    {
+      "id": 72,
+      "start": 1859.96,
+      "end": 1860.96,
+      "text": "تو بائٹ رو بولدو"
+    },
+    {
+      "id": 73,
+      "start": 1861.06,
+      "end": 1862.46,
+      "text": "نہیں تو پھر ایسے کرو قمپیر کرلو"
+    },
+    {
+      "id": 74,
+      "start": 1862.56,
+      "end": 1863.16,
+      "text": "Root krita سے"
+    },
+    {
+      "id": 75,
+      "start": 1863.26,
+      "end": 1864.26,
+      "text": "و دیکھل ایک پاپٹیں ملے گی"
+    },
+    {
+      "id": 76,
+      "start": 1864.36,
+      "end": 1864.82,
+      "text": "رائט پاکٹیں"
+    },
+    {
+      "id": 77,
+      "start": 1864.96,
+      "end": 1865.26,
+      "text": "ملیں"
+    },
+    {
+      "id": 78,
+      "start": 2168.01,
+      "end": 2174.01,
+      "text": "LNR in order of BST is sorted"
+    },
+    {
+      "id": 79,
+      "start": 2175.01,
+      "end": 2177.01,
+      "text": "so this can be filed out"
+    },
+    {
+      "id": 80,
+      "start": 2178.01,
+      "end": 2180.01,
+      "text": "In order to find the binary search tree"
+    },
+    {
+      "id": 81,
+      "start": 2181.01,
+      "end": 2183.01,
+      "text": "we will always come into sorted order"
+    },
+    {
+      "id": 82,
+      "start": 2184.01,
+      "end": 2186.01,
+      "text": "We see here that you have sorted"
+    },
+    {
+      "id": 83,
+      "start": 2187.46,
+      "end": 2189.46,
+      "text": "So when I am solving questions"
+    },
+    {
+      "id": 84,
+      "start": 2190.46,
+      "end": 2192.46,
+      "text": "then it's going for a file"
+    },
+    {
+      "id": 85,
+      "start": 2456.91,
+      "end": 2458.91,
+      "text": "ھاں کچھ اور فنشنس میں نے آپٹ سیکلے ہیں"
+    },
+    {
+      "id": 86,
+      "start": 2458.91,
+      "end": 2460.91,
+      "text": "ھتیکے پچھ اچھ وار فنşنس کے آپٹсیک لے ہیں"
+    },
+    {
+      "id": 87,
+      "start": 2460.91,
+      "end": 2462.91,
+      "text": "جما میں آپ کو یہ سیخادے کہ مینم value"
+    },
+    {
+      "id": 88,
+      "start": 2463.41,
+      "end": 2464.91,
+      "text": "اور maximum value kessian nighaal tain"
+    },
+    {
+      "id": 89,
+      "start": 2465.41,
+      "end": 2466.91,
+      "text": "تو یہاں پہلے میں نے خومبا کرکا"
+    },
+    {
+      "id": 90,
+      "start": 2467.41,
+      "end": 2467.91,
+      "text": "جو آپ کو دیکھ میں"
+    },
+    {
+      "id": 91,
+      "start": 2468.41,
+      "end": 2469.41,
+      "text": "آپ کو 2 چیزیں پڑنی ہے"
+    },
+    {
+      "id": 92,
+      "start": 2469.91,
+      "end": 2471.91,
+      "text": "آپ کو پڈنا کہ ان آرڈر"
+    },
+    {
+      "id": 93,
+      "start": 2472.41,
+      "end": 2473.41,
+      "text": "Pradesh sars"
+    },
+    {
+      "id": 94,
+      "start": 2473.91,
+      "end": 2474.91,
+      "text": "کیا ہوتا ہے اور kessan nighauti"
+    },
+    {
+      "id": 95,
+      "start": 2476.45,
+      "end": 2477.45,
+      "text": "اسی پژگار"
+    },
+    {
+      "id": 96,
+      "start": 2477.95,
+      "end": 2478.45,
+      "text": "ان آρڈר"
+    },
+    {
+      "id": 97,
+      "start": 2478.95,
+      "end": 2479.45,
+      "text": "Saksasar"
+    },
+    {
+      "id": 98,
+      "start": 2479.95,
+      "end": 2480.45,
+      "text": "kiya huta hai"
+    },
+    {
+      "id": 99,
+      "start": 2480.95,
+      "end": 2481.95,
+      "text": "aur kessin nighau tain"
+    },
+    {
+      "id": 100,
+      "start": 2482.45,
+      "end": 2482.95,
+      "text": "Right"
+    },
+    {
+      "id": 101,
+      "start": 2482.95,
+      "end": 2505.47,
+      "text": "میں آپ کو سنتہی"
+    },
+    {
+      "id": 102,
+      "start": 3103.43,
+      "end": 3105.43,
+      "text": "جاں پے بھولتاں کی 0 childhood"
+    },
+    {
+      "id": 103,
+      "start": 3106.28,
+      "end": 3107.78,
+      "text": "جاہاں میں بھالتاوں کی 1 childhood"
+    },
+    {
+      "id": 104,
+      "start": 3108.28,
+      "end": 3109.78,
+      "text": "جا ہوں گلتاہ 2 childhood"
+    },
+    {
+      "id": 105,
+      "start": 3110.28,
+      "end": 3111.78,
+      "text": "طائیھ تو یہ بھڑا وہاں جلفنا"
+    },
+    {
+      "id": 106,
+      "start": 3112.28,
+      "end": 3112.78,
+      "text": "ثریمہ نے کہاں ایلسف"
+    },
+    {
+      "id": 107,
+      "start": 3113.78,
+      "end": 3115.28,
+      "text": "معان لو کی روٹ کا جو دیتا ہے"
+    },
+    {
+      "id": 108,
+      "start": 3115.78,
+      "end": 3116.78,
+      "text": "وہ بڑھا ہے آپ کی value"
+    },
+    {
+      "id": 109,
+      "start": 3117.88,
+      "end": 3118.88,
+      "text": "اس کےс میرے کرنا"
+    },
+    {
+      "id": 110,
+      "start": 3119.38,
+      "end": 3120.38,
+      "text": "اگر روط کا ٹیو ٹے value سے بژا ہے"
+    },
+    {
+      "id": 111,
+      "start": 3120.88,
+      "end": 3121.38,
+      "text": "اُس کا مطلب مجھے"
+    },
+    {
+      "id": 112,
+      "start": 3121.88,
+      "end": 3123.38,
+      "text": "چھوٹی value چاہی ایسی چھاہتے وہ لکھاں ملتی ہے"
+    },
+    {
+      "id": 113,
+      "start": 3123.88,
+      "end": 3124.38,
+      "text": "لیکھ فاتے ملقی ہے میں شاہ"
+    },
+    {
+      "id": 114,
+      "start": 3384.7,
+      "end": 3387.4,
+      "text": "اس پکہ آپ نے اس کوڑ کو ختم کرتییا"
+    },
+    {
+      "id": 115,
+      "start": 3387.42,
+      "end": 3390.0,
+      "text": "all i game view this code میں اس 2 child of a lecate"
+    },
+    {
+      "id": 116,
+      "start": 3390.02,
+      "end": 3391.16,
+      "text": "کو سمجھے نگی ہوتی ہے"
+    },
+    {
+      "id": 117,
+      "start": 3391.18,
+      "end": 3392.64,
+      "text": "یہ کس دوارہ میں آپ کو سنگہ ہوں"
+    },
+    {
+      "id": 118,
+      "start": 3392.66,
+      "end": 3393.82,
+      "text": "کیا کوڈیٹی ملے"
+    },
+    {
+      "id": 119,
+      "start": 3393.84,
+      "end": 3395.24,
+      "text": "تو تصماشتے ہیں"
+    },
+    {
+      "id": 120,
+      "start": 3395.26,
+      "end": 3396.68,
+      "text": "اچھے سے tree بن آتاமیں"
+    },
+    {
+      "id": 121,
+      "start": 3396.7,
+      "end": 3398.22,
+      "text": "اس کے بعد سے سمال میں آئی رہا"
+    },
+    {
+      "id": 122,
+      "start": 3406.34,
+      "end": 3408.18,
+      "text": "پر لٹسے کی یہ میرا ایک tree"
+    },
+    {
+      "id": 123,
+      "start": 3408.2,
+      "end": 3409.68,
+      "text": "اس مپر اپن میں values"
+    },
+    {
+      "id": 124,
+      "start": 3409.7,
+      "end": 3410.22,
+      "text": "دلتام"
+    },
+    {
+      "id": 125,
+      "start": 3410.24,
+      "end": 3411.44,
+      "text": "values کیا کیا ہونے والیم"
+    },
+    {
+      "id": 126,
+      "start": 3411.46,
+      "end": 3412.66,
+      "text": "I mean, I said let's say here"
+    },
+    {
+      "id": 127,
+      "start": 3412.68,
+      "end": 3413.9,
+      "text": "آپ کا صدر ہے"
+    },
+    {
+      "id": 128,
+      "start": 3413.92,
+      "end": 3415.46,
+      "text": "Here you are"
+    },
+    {
+      "id": 129,
+      "start": 3415.48,
+      "end": 3417.36,
+      "text": "and now there is 50"
+    },
+    {
+      "id": 130,
+      "start": 3417.38,
+      "end": 3418.9,
+      "text": "see"
+    },
+    {
+      "id": 131,
+      "start": 3418.92,
+      "end": 3421.14,
+      "text": "here the lits have 65"
+    },
+    {
+      "id": 132,
+      "start": 3421.14,
+      "end": 3423.14,
+      "text": "6.4%"
+    },
+    {
+      "id": 133,
+      "start": 3425.14,
+      "end": 3427.14,
+      "text": "7.9%"
+    },
+    {
+      "id": 134,
+      "start": 3429.14,
+      "end": 3431.33,
+      "text": "9.2%"
+    },
+    {
+      "id": 135,
+      "start": 3433.33,
+      "end": 3434.33,
+      "text": "0 Child"
+    },
+    {
+      "id": 136,
+      "start": 3435.33,
+      "end": 3437.33,
+      "text": "0 Child"
+    },
+    {
+      "id": 137,
+      "start": 3439.33,
+      "end": 3441.33,
+      "text": "0 Child"
+    },
+    {
+      "id": 138,
+      "start": 3443.33,
+      "end": 3445.33,
+      "text": "0 Child"
+    },
+    {
+      "id": 139,
+      "start": 3447.33,
+      "end": 3449.33,
+      "text": "0 Child"
+    }
+  ]
+}

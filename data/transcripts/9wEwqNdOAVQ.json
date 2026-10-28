@@ -1,0 +1,458 @@
+{
+  "video_id": "9wEwqNdOAVQ",
+  "lecture_number": 83,
+  "video_title": "Lecture 83: N-Queen Problem || Backtracking Day 2 || C++ Placement Series",
+  "total_duration": 1863.45,
+  "segments": [
+    {
+      "id": 0,
+      "start": 2.83,
+      "end": 13.83,
+      "text": "Hello, how are you all? Welcome to the channel. I am Bhaj, 83rd on Backtracking Day 2 and here we will solve another problem called N-Queen Problems"
+    },
+    {
+      "id": 1,
+      "start": 125.68,
+      "end": 129.68,
+      "text": "ھاں میں اٹک کر سکتی ہے یہ باتا میں سمجھ محطشکہ اٹیک کا مطلبہ میں سکل ہے"
+    },
+    {
+      "id": 2,
+      "start": 130.68,
+      "end": 133.68,
+      "text": "ہمارا موتو کہایا میں کرنا کہاہ ہمیں کرنا گیا ہے"
+    },
+    {
+      "id": 3,
+      "start": 134.68,
+      "end": 138.86,
+      "text": "ہمے ان کوئینز سے فیپلی پلیس کرنے ہیں"
+    },
+    {
+      "id": 4,
+      "start": 139.86,
+      "end": 143.9,
+      "text": "سے فلیپ لیس کا مضلب کیا ہے کہ اٹاک نہیں کرنیں چاہی کسی کو بھی کسі کیوں پر"
+    },
+    {
+      "id": 5,
+      "start": 144.9,
+      "end": 146.9,
+      "text": "تک ہے تو کوشن سماجھ مجھ میں آچکا ہے"
+    },
+    {
+      "id": 6,
+      "start": 147.9,
+      "end": 148.9,
+      "text": "اس کوشڈگا بے بریک کرسکتا ہوں"
+    },
+    {
+      "id": 7,
+      "start": 179.09,
+      "end": 185.09,
+      "text": "tigga, so all the games of these three conditions will be completed."
+    },
+    {
+      "id": 8,
+      "start": 186.34,
+      "end": 189.34,
+      "text": "FUTURE ON MY SPONSORDS"
+    },
+    {
+      "id": 9,
+      "start": 190.34,
+      "end": 191.34,
+      "text": "CRIVE"
+    },
+    {
+      "id": 10,
+      "start": 192.34,
+      "end": 194.34,
+      "text": "CRIBE THE WORLD'S LEADING WERE EXPIRIENCE BASE LEARNING PLATFORM"
+    },
+    {
+      "id": 11,
+      "start": 195.34,
+      "end": 197.34,
+      "text": "JAPAR AOPS YOUR SOFTRESS KILLS COUNANTS"
+    },
+    {
+      "id": 12,
+      "start": 198.34,
+      "end": 200.34,
+      "text": "UNLUCKY USEUAL COURTES"
+    },
+    {
+      "id": 13,
+      "start": 201.34,
+      "end": 203.34,
+      "text": "CRIME OF FULL STEC TILOPEMENT"
+    },
+    {
+      "id": 14,
+      "start": 203.34,
+      "end": 207.14,
+      "text": "by building industry level projects in a real development environment"
+    },
+    {
+      "id": 15,
+      "start": 207.34,
+      "end": 209.34,
+      "text": "At the end of their programs, you will have many projects"
+    },
+    {
+      "id": 16,
+      "start": 209.54,
+      "end": 214.14,
+      "text": "You'll be able to do more effective and become an extra get up profile"
+    },
+    {
+      "id": 17,
+      "start": 214.34,
+      "end": 217.34,
+      "text": "In your first check buildup I am talking about what tech use"
+    },
+    {
+      "id": 18,
+      "start": 217.54,
+      "end": 218.54,
+      "text": "All those are visible here"
+    },
+    {
+      "id": 19,
+      "start": 218.74,
+      "end": 221.94,
+      "text": "And with that also you can meet personalized career assistants"
+    },
+    {
+      "id": 20,
+      "start": 222.14,
+      "end": 224.94,
+      "text": "so as soon as there is double surety for your dream job"
+    },
+    {
+      "id": 21,
+      "start": 225.14,
+      "end": 227.14,
+      "text": "I'm going to attach link on description"
+    },
+    {
+      "id": 22,
+      "start": 227.34,
+      "end": 228.54,
+      "text": "Use it"
+    },
+    {
+      "id": 23,
+      "start": 228.74,
+      "end": 229.94,
+      "text": "You could take maximum possible discount"
+    },
+    {
+      "id": 24,
+      "start": 503.94,
+      "end": 505.94,
+      "text": "ھاکہ ہیے گھا ہے"
+    },
+    {
+      "id": 25,
+      "start": 507.94,
+      "end": 509.94,
+      "text": "ھوڑھا ہی گھائیں گے"
+    },
+    {
+      "id": 26,
+      "start": 511.94,
+      "end": 513.94,
+      "text": "ھانھے گلے گئے"
+    },
+    {
+      "id": 27,
+      "start": 515.94,
+      "end": 517.94,
+      "text": "ھنے گیاں"
+    },
+    {
+      "id": 28,
+      "start": 520.04,
+      "end": 523.48,
+      "text": "ھتے ہیں"
+    },
+    {
+      "id": 29,
+      "start": 525.48,
+      "end": 527.48,
+      "text": "ھیں گیا تھے"
+    },
+    {
+      "id": 30,
+      "start": 529.48,
+      "end": 531.48,
+      "text": "ھہی گئی گیاھ"
+    },
+    {
+      "id": 31,
+      "start": 592.7,
+      "end": 594.7,
+      "text": "sari road traverse"
+    },
+    {
+      "id": 32,
+      "start": 595.7,
+      "end": 597.7,
+      "text": "solution"
+    },
+    {
+      "id": 33,
+      "start": 599.82,
+      "end": 601.82,
+      "text": "quen place"
+    },
+    {
+      "id": 34,
+      "start": 604.13,
+      "end": 606.13,
+      "text": "bha ki baqa"
+    },
+    {
+      "id": 35,
+      "start": 607.13,
+      "end": 609.13,
+      "text": "remaining board"
+    },
+    {
+      "id": 36,
+      "start": 610.13,
+      "end": 612.13,
+      "text": "remaining"
+    },
+    {
+      "id": 37,
+      "start": 613.13,
+      "end": 616.13,
+      "text": "quen position"
+    },
+    {
+      "id": 38,
+      "start": 617.13,
+      "end": 619.13,
+      "text": "re-cursion"
+    },
+    {
+      "id": 39,
+      "start": 620.13,
+      "end": 622.13,
+      "text": "recourction"
+    },
+    {
+      "id": 40,
+      "start": 817.32,
+      "end": 819.32,
+      "text": "10%"
+    },
+    {
+      "id": 41,
+      "start": 821.32,
+      "end": 823.32,
+      "text": "10%"
+    },
+    {
+      "id": 42,
+      "start": 825.99,
+      "end": 827.99,
+      "text": "10%"
+    },
+    {
+      "id": 43,
+      "start": 829.99,
+      "end": 831.99,
+      "text": "10%"
+    },
+    {
+      "id": 44,
+      "start": 833.99,
+      "end": 837.11,
+      "text": "10%"
+    },
+    {
+      "id": 45,
+      "start": 839.11,
+      "end": 843.11,
+      "text": "10%"
+    },
+    {
+      "id": 46,
+      "start": 845.11,
+      "end": 847.66,
+      "text": "10%"
+    },
+    {
+      "id": 47,
+      "start": 1011.24,
+      "end": 1013.24,
+      "text": "1,2"
+    },
+    {
+      "id": 48,
+      "start": 1421.43,
+      "end": 1424.71,
+      "text": "ھاگلے والے میں پلیس کر رہے ہو گے"
+    },
+    {
+      "id": 49,
+      "start": 1424.97,
+      "end": 1428.89,
+      "text": "تو اس سےف والے فنشنگ کے اندر آپ کہتے کر لوگ آپ سمپل چکر لوگ اس سے ف میں"
+    },
+    {
+      "id": 50,
+      "start": 1429.25,
+      "end": 1430.11,
+      "text": "کہ یار"
+    },
+    {
+      "id": 51,
+      "start": 1430.93,
+      "end": 1431.77,
+      "text": "Map of"
+    },
+    {
+      "id": 52,
+      "start": 1431.93,
+      "end": 1434.21,
+      "text": "یہ Roon number دیا اس Sao کو پہتہ لگیا TRUE or Fall"
+    },
+    {
+      "id": 53,
+      "start": 1434.63,
+      "end": 1436.75,
+      "text": "کہ اس particular location PQPADY THIA"
+    },
+    {
+      "id": 54,
+      "start": 1437.03,
+      "end": 1437.67,
+      "text": "نہیں پڑی تھی"
+    },
+    {
+      "id": 55,
+      "start": 1438.23,
+      "end": 1440.87,
+      "text": "تو این شوٹ آپ نے O and S is کو O 1 مردیوس کر لیا"
+    },
+    {
+      "id": 56,
+      "start": 1441.43,
+      "end": 1441.93,
+      "text": "Сمجھا گی"
+    },
+    {
+      "id": 57,
+      "start": 1442.55,
+      "end": 1445.31,
+      "text": "تو آپ نے خاش میں آپ بنائیں جو بسگلی track کر رکھа کی اس Root pQPadie"
+    },
+    {
+      "id": 58,
+      "start": 1445.35,
+      "end": 1446.17,
+      "text": "کہ نہیں پٹی سمפل"
+    },
+    {
+      "id": 59,
+      "start": 1568.09,
+      "end": 1576.54,
+      "text": "ھا پہلے چکٹھے کہ یار کیا سیبان کے کورس وانگی طریع ہے تو آپ چیکٹھا کو تکتا نہیں ہے"
+    },
+    {
+      "id": 60,
+      "start": 1577.54,
+      "end": 1579.54,
+      "text": "تو اس کا مطلب آپ یہاں پر کیورا کی نہیں سکتے ہیں"
+    },
+    {
+      "id": 61,
+      "start": 1580.54,
+      "end": 1581.54,
+      "text": "understood"
+    },
+    {
+      "id": 62,
+      "start": 1582.54,
+      "end": 1583.54,
+      "text": "so here you have made map, row plus column 2"
+    },
+    {
+      "id": 63,
+      "start": 1584.54,
+      "end": 1586.54,
+      "text": "and then the low or diagonal check of your phone"
+    },
+    {
+      "id": 64,
+      "start": 1587.54,
+      "end": 1589.54,
+      "text": "this is not attacked but it was done in O1"
+    },
+    {
+      "id": 65,
+      "start": 1590.54,
+      "end": 1594.56,
+      "text": "so now let's go to upper diagonals"
+    },
+    {
+      "id": 66,
+      "start": 1716.7,
+      "end": 1718.7,
+      "text": "9"
+    },
+    {
+      "id": 67,
+      "start": 1718.7,
+      "end": 1720.7,
+      "text": "0"
+    },
+    {
+      "id": 68,
+      "start": 1780.93,
+      "end": 1806.13,
+      "text": "ཀཁཌྷགཇདྷཉམ཈ཛྷདབཔཋཕཊནཙཚངཌཏཐཆིཡཅགྷབྷལཎོཟཾ཭ཝསཻྲྀཤ཯ཿ཰ཹརཱཧཷཱིླྀ཮ཽཪཱེུུཬཞཛཨཫའཥཀྵ�"
+    },
+    {
+      "id": 69,
+      "start": 1844.67,
+      "end": 1846.96,
+      "text": "تماما کرتے ہیں"
+    },
+    {
+      "id": 70,
+      "start": 1847.96,
+      "end": 1849.96,
+      "text": "یہ پروچھم نے آپ لگا یہ"
+    },
+    {
+      "id": 71,
+      "start": 1850.96,
+      "end": 1852.96,
+      "text": "تشکے سمنی سارے پاس کر لیا ہے"
+    },
+    {
+      "id": 72,
+      "start": 1855.96,
+      "end": 1857.96,
+      "text": "تو یہ سمیشان نہیں"
+    },
+    {
+      "id": 73,
+      "start": 1858.96,
+      "end": 1860.96,
+      "text": "کمینٹس پتائیں کیا سا لگہ"
+    },
+    {
+      "id": 74,
+      "start": 1861.96,
+      "end": 1863.99,
+      "text": "بلتیں آپ سے نیک شودی میں تک لئے"
+    }
+  ]
+}

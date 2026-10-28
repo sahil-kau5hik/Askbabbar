@@ -1,0 +1,38 @@
+[
+  {
+    "chunk_id": "Z7_nMTHROZo_000772_001451",
+    "video_id": "Z7_nMTHROZo",
+    "video_title": "Lecture21: Solving LeetCode/CodeStudio Questions [Arrays]",
+    "lecture_number": 21,
+    "playlist_index": 22,
+    "video_url": "https://www.youtube.com/watch?v=Z7_nMTHROZo",
+    "start_time": 772.37,
+    "end_time": 1451.05,
+    "start_timestamp_str": "12:52",
+    "end_timestamp_str": "24:11",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=Z7_nMTHROZo&t=772s",
+    "text": "4.0-2.1 1.0 2.0 2.3 2.4 2.5 2.6 2.9 3.4 2.8 2.7 2.10 2.11 1.1",
+    "segment_span": [
+      0,
+      13
+    ]
+  },
+  {
+    "chunk_id": "Z7_nMTHROZo_001452_002008",
+    "video_id": "Z7_nMTHROZo",
+    "video_title": "Lecture21: Solving LeetCode/CodeStudio Questions [Arrays]",
+    "lecture_number": 21,
+    "playlist_index": 22,
+    "video_url": "https://www.youtube.com/watch?v=Z7_nMTHROZo",
+    "start_time": 1452.05,
+    "end_time": 2008.74,
+    "start_timestamp_str": "24:12",
+    "end_timestamp_str": "33:28",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=Z7_nMTHROZo&t=1452s",
+    "text": "2.2 3.2 3.3 3.4 4.3 5.3 6.3 7.3 8.5 9.6 10.8 11.9 و سر کوشاہوں کو تو سالب کرنے کرنیں",
+    "segment_span": [
+      14,
+      26
+    ]
+  }
+]

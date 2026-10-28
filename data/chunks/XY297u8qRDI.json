@@ -1,0 +1,128 @@
+[
+  {
+    "chunk_id": "XY297u8qRDI_000003_000248",
+    "video_id": "XY297u8qRDI",
+    "video_title": "Lecture 122: Number of Dice Rolls with Target Sum || DP Series",
+    "lecture_number": 122,
+    "playlist_index": 131,
+    "video_url": "https://www.youtube.com/watch?v=XY297u8qRDI",
+    "start_time": 3.73,
+    "end_time": 248.26,
+    "start_timestamp_str": "00:03",
+    "end_timestamp_str": "04:08",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=XY297u8qRDI&t=3s",
+    "text": "Hello, welcome to the channel. I am very happy with my lecture number 122 on Distinct Ways of DPS. 2-3-4-8",
+    "segment_span": [
+      0,
+      1
+    ]
+  },
+  {
+    "chunk_id": "XY297u8qRDI_000250_000492",
+    "video_id": "XY297u8qRDI",
+    "video_title": "Lecture 122: Number of Dice Rolls with Target Sum || DP Series",
+    "lecture_number": 122,
+    "playlist_index": 131,
+    "video_url": "https://www.youtube.com/watch?v=XY297u8qRDI",
+    "start_time": 250.61,
+    "end_time": 492.15,
+    "start_timestamp_str": "04:10",
+    "end_timestamp_str": "08:12",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=XY297u8qRDI&t=250s",
+    "text": "4-4 1-2 1-1 2-2 1-6 2-22 1,021x2.6",
+    "segment_span": [
+      2,
+      8
+    ]
+  },
+  {
+    "chunk_id": "XY297u8qRDI_000493_000644",
+    "video_id": "XY297u8qRDI",
+    "video_title": "Lecture 122: Number of Dice Rolls with Target Sum || DP Series",
+    "lecture_number": 122,
+    "playlist_index": 131,
+    "video_url": "https://www.youtube.com/watch?v=XY297u8qRDI",
+    "start_time": 493.15,
+    "end_time": 644.96,
+    "start_timestamp_str": "08:13",
+    "end_timestamp_str": "10:44",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=XY297u8qRDI&t=493s",
+    "text": "2,316 4,6 5,6 4, 6 d3 1-1,230.",
+    "segment_span": [
+      9,
+      14
+    ]
+  },
+  {
+    "chunk_id": "XY297u8qRDI_000646_000806",
+    "video_id": "XY297u8qRDI",
+    "video_title": "Lecture 122: Number of Dice Rolls with Target Sum || DP Series",
+    "lecture_number": 122,
+    "playlist_index": 131,
+    "video_url": "https://www.youtube.com/watch?v=XY297u8qRDI",
+    "start_time": 646.09,
+    "end_time": 806.88,
+    "start_timestamp_str": "10:46",
+    "end_timestamp_str": "13:26",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=XY297u8qRDI&t=646s",
+    "text": "1-280 1-340 2-360 2-490 2-590 3-690 4-790 5-890 6-990 7-870 8-10 9-11 10-12 ڈڑڑ ڑ'",
+    "segment_span": [
+      15,
+      28
+    ]
+  },
+  {
+    "chunk_id": "XY297u8qRDI_000807_000876",
+    "video_id": "XY297u8qRDI",
+    "video_title": "Lecture 122: Number of Dice Rolls with Target Sum || DP Series",
+    "lecture_number": 122,
+    "playlist_index": 131,
+    "video_url": "https://www.youtube.com/watch?v=XY297u8qRDI",
+    "start_time": 807.88,
+    "end_time": 876.76,
+    "start_timestamp_str": "13:27",
+    "end_timestamp_str": "14:36",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=XY297u8qRDI&t=807s",
+    "text": "ژڑ ڝڑ ڭ ډ ڣ ښ ڧ ڨ ڤ ڥ ڦ ڰ ڷ tl",
+    "segment_span": [
+      29,
+      42
+    ]
+  },
+  {
+    "chunk_id": "XY297u8qRDI_001041_001360",
+    "video_id": "XY297u8qRDI",
+    "video_title": "Lecture 122: Number of Dice Rolls with Target Sum || DP Series",
+    "lecture_number": 122,
+    "playlist_index": 131,
+    "video_url": "https://www.youtube.com/watch?v=XY297u8qRDI",
+    "start_time": 1041.45,
+    "end_time": 1360.14,
+    "start_timestamp_str": "17:21",
+    "end_timestamp_str": "22:40",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=XY297u8qRDI&t=1041s",
+    "text": "and here is the comparison error what it says Target was not declared in this code Where? We have used X here Now let's go Now, now Why that segmentation fault Because we created anN size of dp And NM has sent us And to do some use for Dice I will send n plus 1 ھاں میں سے لگے دیکھا, تو یہ سیز جل رہے ہیں اب میں اس کو سمجھ کر کے دیکھیئے کہا تو یہ چل گیاں, سارے کے ساری تشکے سفاؤز ہوگئیں بہت بڑی ہیں, تو ایس پکار ہم نے اس کوشن کو سالب کر لیا جوزیں TOP DOWN DPI, TOP DOWNDPI کا پر یوب کر کے پر پہ یہ مجھے تو بوٹھم آپ DPI سے کرنا ہے میرا منطب بوطھم بڈپی سے کر نہیں کر رہا وہ بھی کر واضے تھیں, کون سے بژیشی ۔",
+    "segment_span": [
+      43,
+      63
+    ]
+  },
+  {
+    "chunk_id": "XY297u8qRDI_001362_001388",
+    "video_id": "XY297u8qRDI",
+    "video_title": "Lecture 122: Number of Dice Rolls with Target Sum || DP Series",
+    "lecture_number": 122,
+    "playlist_index": 131,
+    "video_url": "https://www.youtube.com/watch?v=XY297u8qRDI",
+    "start_time": 1362.14,
+    "end_time": 1388.22,
+    "start_timestamp_str": "22:42",
+    "end_timestamp_str": "23:08",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=XY297u8qRDI&t=1362s",
+    "text": "۔ ۔ ۔ ۔ ۔",
+    "segment_span": [
+      64,
+      68
+    ]
+  }
+]

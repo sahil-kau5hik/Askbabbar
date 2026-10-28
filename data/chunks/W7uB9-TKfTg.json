@@ -1,0 +1,308 @@
+[
+  {
+    "chunk_id": "W7uB9-TKfTg_000003_000065",
+    "video_id": "W7uB9-TKfTg",
+    "video_title": "Lecture 60: Queues in C++ [STL + Implementation + Types of Queues ]",
+    "lecture_number": 60,
+    "playlist_index": 65,
+    "video_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg",
+    "start_time": 3.06,
+    "end_time": 65.68,
+    "start_timestamp_str": "00:03",
+    "end_timestamp_str": "01:05",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg&t=3s",
+    "text": "Hello Ji, How's All, This is Love Babbar and welcome to this channel. We are here at the collection number 60 And we will introduce a new concept in front of you This name is Queue Its name is queue Many things have been said about Queue What does it mean? We'll talk about Esteele We can implement them Because we can implement those types For their implementation And they're going very well We need to pass tests So first our concept تکنیکل چیزوں میں جانے سے بلیک سیمپلس ایک زامпل دیتے ہیں",
+    "segment_span": [
+      0,
+      14
+    ]
+  },
+  {
+    "chunk_id": "W7uB9-TKfTg_000066_000243",
+    "video_id": "W7uB9-TKfTg",
+    "video_title": "Lecture 60: Queues in C++ [STL + Implementation + Types of Queues ]",
+    "lecture_number": 60,
+    "playlist_index": 65,
+    "video_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg",
+    "start_time": 66.2,
+    "end_time": 243.87,
+    "start_timestamp_str": "01:06",
+    "end_timestamp_str": "04:03",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg&t=66s",
+    "text": "مانا لیتیں کہ یہاں پر ایٹیم ہے مان لیtes ہیں کی یہاہ پر 1 ایطیم ہیں اور لوگ یہاستے آتے ہے پیسے لی آپ کے پاس یہای 4 لکھنے ہیں پہل نمبر پہ یہا ہے 2 نمpper پہ ہی یہا تھا ھاہتے ہیں ۔",
+    "segment_span": [
+      15,
+      22
+    ]
+  },
+  {
+    "chunk_id": "W7uB9-TKfTg_000243_000305",
+    "video_id": "W7uB9-TKfTg",
+    "video_title": "Lecture 60: Queues in C++ [STL + Implementation + Types of Queues ]",
+    "lecture_number": 60,
+    "playlist_index": 65,
+    "video_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg",
+    "start_time": 243.87,
+    "end_time": 305.47,
+    "start_timestamp_str": "04:03",
+    "end_timestamp_str": "05:05",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg&t=243s",
+    "text": "ھو این شاٹ آپ کی کیوں at this point of time ھتی ہے کہ ایت نہیں ایلیمانٹ بچے ہیں تو ایپشوالا پاپ والا فرنٹ والا ریر والا کون شاہد بھی آپ کو سمجھ ما گیا ہے جب بھی وہ کچھ پش کرتا ہوں و ایشہ ریار میں ہوتا ہے اور میں کچھی پاک کرتے ہو تو ایسا فراٹ میں ہو ہوتے ہیں دیکھیں تو اور بھی چیزیں ہوتی اور پیو اپریشنے ہوتیں ان کو ایک بر سماجھنے سے بلے دیکنے پٹھا پٹہ نے بیڈے سوانس کو شاورٹ ہو دیتنا بھی قدید کرتے ہیں بہت ویلس فکٹھے دویے بنائیں جاتے ہیں کہ اگر احنات دارلیں گے تو آپ کو روزہ دیفرٹے ملے والا ہے کوش بنانے والے بنتے اور روڑی پڑھی بڑھی کمپنیاں فورچ جو گئے ہیں تو اس کے آپ کو ٹنشل لنے کی نہیں ہے اللہ انگوش کے کر بات کریں ہندی اگگلش دونوں میں بلے بل ہے کوشن سوال کرتے ہیں آپ کو ہند تی بیڈیوز میں جائیں گی",
+    "segment_span": [
+      23,
+      39
+    ]
+  },
+  {
+    "chunk_id": "W7uB9-TKfTg_000305_000846",
+    "video_id": "W7uB9-TKfTg",
+    "video_title": "Lecture 60: Queues in C++ [STL + Implementation + Types of Queues ]",
+    "lecture_number": 60,
+    "playlist_index": 65,
+    "video_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg",
+    "start_time": 305.51,
+    "end_time": 846.66,
+    "start_timestamp_str": "05:05",
+    "end_timestamp_str": "14:06",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg&t=305s",
+    "text": "تو آپ کا کوئی بھی پیڑ کوش خریدنا ہے تو اب آپ سمجھ دار ہے آپ کے پاس یہ لیکن дисکפشنے پڑا ہوئیں اشپیٹھ کر کیا پلے سکتے اور 20% دیسکان جو کی میکسیم ہے باکہ ملجہ گیا اگی یہ باتا میں سمجھ ما گیا تو میرکہ اسے مجھے آسا مجم آلے کہ یار میرپا سے کرے کیوں ہو گی تو اشکن در ایک پوش والا یعنسوٹ والاופریشن ہونہ چاہیے جس میں علیمیں پوچھ کر پاں ہیں یار ایک کر پاؤں انسوط کر پaoں پھر میر پاس ایک פה او پوالا عوپریشنت سے میں ایک بیسے لیم نے کچھ بھی ایک نندم سائی ویڈیا کہ بہیں مدرسز ایسکار بنانا چاہتا اور ہم نے وہ اری بنات گیا",
+    "segment_span": [
+      40,
+      47
+    ]
+  },
+  {
+    "chunk_id": "W7uB9-TKfTg_000846_000946",
+    "video_id": "W7uB9-TKfTg",
+    "video_title": "Lecture 60: Queues in C++ [STL + Implementation + Types of Queues ]",
+    "lecture_number": 60,
+    "playlist_index": 65,
+    "video_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg",
+    "start_time": 846.76,
+    "end_time": 946.32,
+    "start_timestamp_str": "14:06",
+    "end_timestamp_str": "15:46",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg&t=846s",
+    "text": "اگر میں سائز ملا وہ تو تم دینمگلی بنائیں گے کہ بس مجھ میں آگی ھاں میں نے کہاں وہ لہ کی یا فرنت جو ہے ھے میں نے کے بولا starting میں starting میں جو ہیں اگر آپ کا یہ ایری ہے اگے starting میں آپ کو یہ رہے ہیں کہ میں نے kebola یہی پر آپ کو front iei heis aapka ju start hoga و یہیپا آپ کر ریر ہے ان شوٹ ابھی آپ کا کیمتی تو اگل و Startinke kendar آپ کا Front is equal to 0 & X اور آپ کا RRB 0 & x starting ve here hai hai se bhaj maay اب اگرا میرا پاس کوئی push operation آتا ہے اگا میرا пاس کو poosh operations ایر پانکر آپ پہا پہلڑ دالدی اور ریار کو میں آسے طاقت یہ پہ لڑی ہے یہ تو بولہ ایلیمان دالو اور رکھا پڑھا",
+    "segment_span": [
+      48,
+      70
+    ]
+  },
+  {
+    "chunk_id": "W7uB9-TKfTg_000947_001009",
+    "video_id": "W7uB9-TKfTg",
+    "video_title": "Lecture 60: Queues in C++ [STL + Implementation + Types of Queues ]",
+    "lecture_number": 60,
+    "playlist_index": 65,
+    "video_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg",
+    "start_time": 947.57,
+    "end_time": 1009.15,
+    "start_timestamp_str": "15:47",
+    "end_timestamp_str": "16:49",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg&t=947s",
+    "text": "اب لٹسے بات کرتا ہوں پاپ اپریشن کے بارے میں لٹ سے میں بات کتا پاہ پپریچن کے بعد میں سمس تہس کو پیل ایشیز لٹست اپ کی کیو جہاں امتی ہیں اگر آپ کی کیوں امptی ہے تو اس کے سنس پاک میں نہیں کرتے ہیں مجھے بولنا پڈے بای کیو تا امٹی باپ کے سکار باریا کیو ایس امطی اس کا مجھے پاپ کرنا ہے ایگے مجھی کا پتہ فرنٹ سے پاہ بہت ہے تو میں نے کہاں کہ بھائی اس کو ہتا دو اور فرنت کو یہاں سے ہتاء کے آگے بڑا دوں ایتنا ہی تو کرنا ہوتا ہے",
+    "segment_span": [
+      71,
+      80
+    ]
+  },
+  {
+    "chunk_id": "W7uB9-TKfTg_001010_001544",
+    "video_id": "W7uB9-TKfTg",
+    "video_title": "Lecture 60: Queues in C++ [STL + Implementation + Types of Queues ]",
+    "lecture_number": 60,
+    "playlist_index": 65,
+    "video_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg",
+    "start_time": 1010.15,
+    "end_time": 1544.87,
+    "start_timestamp_str": "16:50",
+    "end_timestamp_str": "25:44",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg&t=1010s",
+    "text": "ایچنا ہیں تو کر نہ ہوتے تو میں نکے بولا ابھی جہاں پے کرنٹلی فرند پاٹ کرنایا ہے لیٹسے میں کالی لوگشن میں معنیسون سے ذرشاہتاں اوہا فرینٹ کنٹھا نہ یہ معنےسون داغلو اب دی لو گئیشن ہو گئے ھاں کیوں کہا ہوتا ریر میں",
+    "segment_span": [
+      81,
+      86
+    ]
+  },
+  {
+    "chunk_id": "W7uB9-TKfTg_001545_001631",
+    "video_id": "W7uB9-TKfTg",
+    "video_title": "Lecture 60: Queues in C++ [STL + Implementation + Types of Queues ]",
+    "lecture_number": 60,
+    "playlist_index": 65,
+    "video_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg",
+    "start_time": 1545.87,
+    "end_time": 1631.09,
+    "start_timestamp_str": "25:45",
+    "end_timestamp_str": "27:11",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg&t=1545s",
+    "text": "این شوٹ یہاں پہ میرے 10 دل گیا گا رہے میں رہا ہی ہا سی اتکہ آگے بڑھا گیا جو آگیں بژھنے والی چیز ہیں یہ تو نومال کیوں میں کیوں آپ کا اینما نیسان دیکھ سے اتیکہ آپ اینپا جاتے این پہر سے لیے گا ہا ہاتے but circular kew میں کیا ہوں تا سرکل رکو یہ کہتے کہ بھائے کرتے رہی یہ فل ہو گیا ہے اگر تی رہیں فل ہوں گیا پوری کے پورا اینے ایک گھوم کے یہاں آج آیا ہے بھائی تو اس کا بھولتے ہیں سرکلور کیوں ہر چیز بلکلو سیم ہے پوش کرنا پاپ کرنا سببوچ سی م ہے بس یہ والا لوگ آپ کو understood اسے CLASS میں سارے کیسا روالوجکز جو ہمارے دیماغ میں چل رہا ہے وہ ہم تالیں گے اور آگے بڑھ جائیں گیا",
+    "segment_span": [
+      87,
+      99
+    ]
+  },
+  {
+    "chunk_id": "W7uB9-TKfTg_001631_001804",
+    "video_id": "W7uB9-TKfTg",
+    "video_title": "Lecture 60: Queues in C++ [STL + Implementation + Types of Queues ]",
+    "lecture_number": 60,
+    "playlist_index": 65,
+    "video_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg",
+    "start_time": 1631.19,
+    "end_time": 1804.88,
+    "start_timestamp_str": "27:11",
+    "end_timestamp_str": "30:04",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg&t=1631s",
+    "text": "سمجھ میں یہ چیز تو سمس تھیں تو فٹھا پڑے کر پشو پڈھیں میں سمچھ لے تھے نیاں پژ میں کیوں ایک قریعت کر لے تا ہوں تا کی آپ کو تھولا سا آئیڡہ مل جا کہ اس پکار ہم پشے ان کیوں کرنے والے ہیں کیوں کے اندر تم میں نے کیا vola ki leds seger ye mr iqeux hai ھاہتا ہے اور دونوں کو اسی لگوشنے پانٹ کرا دیا فرنٹ کو بھی اور ریار کو بیے",
+    "segment_span": [
+      100,
+      104
+    ]
+  },
+  {
+    "chunk_id": "W7uB9-TKfTg_001805_002497",
+    "video_id": "W7uB9-TKfTg",
+    "video_title": "Lecture 60: Queues in C++ [STL + Implementation + Types of Queues ]",
+    "lecture_number": 60,
+    "playlist_index": 65,
+    "video_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg",
+    "start_time": 1805.08,
+    "end_time": 2497.72,
+    "start_timestamp_str": "30:05",
+    "end_timestamp_str": "41:37",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg&t=1805s",
+    "text": "بہت سمجھ میں آ گئی بہد بڑیا تیسی چیز کیا ہو سکتی ہے تیستی چین کو اسپرکار ہو بھی بھی کہ ہم نے کہا وہ لگیا یہ آپ کی ایک کیو ہے یہ آپ کے ایک کیو ہے لٹ سے کی آپ کا ریر جو ہے وہ یہاں پے ہیں و یہاہ بھی ایلیمٹیک دل چکا ہے دیکھا والاں کا فرنت جو ہیں وہ کہیں بیچ میں ہے آپ کا فرانت جا ہے وہ کہں بیج میں اگر اگل بلے چکر کرتے ہیں اگھا امتی تو نہیں ہے اگه امٹی ہو تو پاپھڑی کر پاہاں گا اگہ امطی ہو",
+    "segment_span": [
+      105,
+      117
+    ]
+  },
+  {
+    "chunk_id": "W7uB9-TKfTg_002497_002609",
+    "video_id": "W7uB9-TKfTg",
+    "video_title": "Lecture 60: Queues in C++ [STL + Implementation + Types of Queues ]",
+    "lecture_number": 60,
+    "playlist_index": 65,
+    "video_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg",
+    "start_time": 2497.74,
+    "end_time": 2609.36,
+    "start_timestamp_str": "41:37",
+    "end_timestamp_str": "43:29",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg&t=2497s",
+    "text": "پاکھا نہیں ہے پھر سیکنج اس کیا کریں کہ مانا لو سیکل ایلیمنٹ ایس کے اندر مانلاگ کی پوری کیوں کے اندری رہے صرف ایک سیکھل ہی ایЛیمنט ہے تو اگری سیکہ ایلا میں تاہیگہ تو میری کیو جہا وہ ایمٹری ہو جہے یہ اگی ایک ایر ایامٹری ہو جائے گی تو میرے کو اپنا فرنٹ اور رہیر وہ کیا اوٹپٹ جو ہے یا فر آپ کا جو پویپا بولاופریشن ہے وہ بوث سائد پر آبелے بل ہے",
+    "segment_span": [
+      118,
+      123
+    ]
+  },
+  {
+    "chunk_id": "W7uB9-TKfTg_002610_002672",
+    "video_id": "W7uB9-TKfTg",
+    "video_title": "Lecture 60: Queues in C++ [STL + Implementation + Types of Queues ]",
+    "lecture_number": 60,
+    "playlist_index": 65,
+    "video_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg",
+    "start_time": 2610.36,
+    "end_time": 2672.38,
+    "start_timestamp_str": "43:30",
+    "end_timestamp_str": "44:32",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg&t=2610s",
+    "text": "بواث سائڈ پوزسی بل ہیں ان شوٹ آپ کے پاس انپوت ریشٹٹٹڑ کیوں کیوندر کیا کر چیز ہوتیں اس کندر ایک چیوگی پوچھ باک یعنی آپ پیچھے پوش کر رہے ہیں ویر میں پواش کر رے ہوگے اور اس میں کیا ہوگا ایک پاپ پرنٹ ہوگа کیا فراٹ سے پاک کر رئے ہیں اور ویسی here aa ppap back hoga ھاں بکھ سے پش کر رہے ہیں اور اوٹپڑ کی بات کریں یا اوڈ مول کی بات کریں تو صرف ایک کی سيد سے پوزئل ہے یا نکیا بھ سیر فرنٹ کے دورا ہی پوب کرسکتے ہیں تو پوب فرنت کے بارس ہوں گیا",
+    "segment_span": [
+      124,
+      136
+    ]
+  },
+  {
+    "chunk_id": "W7uB9-TKfTg_002673_002736",
+    "video_id": "W7uB9-TKfTg",
+    "video_title": "Lecture 60: Queues in C++ [STL + Implementation + Types of Queues ]",
+    "lecture_number": 60,
+    "playlist_index": 65,
+    "video_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg",
+    "start_time": 2673.38,
+    "end_time": 2736.34,
+    "start_timestamp_str": "44:33",
+    "end_timestamp_str": "45:36",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg&t=2673s",
+    "text": "تکہ تو آپ کے انپوٹ رشٹٹٹ کیو اور آپ کی اوطپٹ رשٹٹڑ کیو ہو بھی ایک اور ٹائپ کر مجھ آپ کو بتانوں تو یہ ہوتا بہی آپ کا دبللی انڈ کیو ھاں سے پہ بھاپ کا مطلب پہ پھرڈ 4 طریق کیا اپراریشن سپوزئے گلے W&DQ کے دورا آپ ایک стاک کو یا فیر ایک Q کو 2 کو امپلمٹ کر سکتے ہیں آپ کی CPUs کے دولین کے اندر آپ کی προس کے دیولین کی اندρ اور یہ ابھی OS جو سیڈی زماری چل ری ہے",
+    "segment_span": [
+      137,
+      148
+    ]
+  },
+  {
+    "chunk_id": "W7uB9-TKfTg_002737_002797",
+    "video_id": "W7uB9-TKfTg",
+    "video_title": "Lecture 60: Queues in C++ [STL + Implementation + Types of Queues ]",
+    "lecture_number": 60,
+    "playlist_index": 65,
+    "video_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg",
+    "start_time": 2737.34,
+    "end_time": 2797.38,
+    "start_timestamp_str": "45:37",
+    "end_timestamp_str": "46:37",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg&t=2737s",
+    "text": "بھاری باتیں ہوں چکی اپراکس کے بارے انتقریب کر کے محاپی جا کر دیکھیں و بات کر رہتے , و بارے دبلی انڈیڈ کیو کے بارئے فٹابتی کو سمجھے کچھ کرتے ہیں کہ 4 اپرےشن جموچے دیکھر ہیں پوچھ فرنٹ پوپ پوٹھ پوڑھ یہ کس فرقار پھنے والے ہیں تو فٹABAD سے گئے لے بناتوں آپ کو امpleمنٹیشن سم جا پاں آپ کو مpleمنطیشیں سم میں نے کہا کہ ار میرا ناس start گ میں فرنت جو ہے اور رьر جو ہو",
+    "segment_span": [
+      149,
+      160
+    ]
+  },
+  {
+    "chunk_id": "W7uB9-TKfTg_002797_002958",
+    "video_id": "W7uB9-TKfTg",
+    "video_title": "Lecture 60: Queues in C++ [STL + Implementation + Types of Queues ]",
+    "lecture_number": 60,
+    "playlist_index": 65,
+    "video_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg",
+    "start_time": 2797.46,
+    "end_time": 2958.08,
+    "start_timestamp_str": "46:37",
+    "end_timestamp_str": "49:18",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg&t=2797s",
+    "text": "وہ minus 1 ہو فررنت رہا اور ریر جھا وہ starting و minus 1 اگ نیشری ھاکتے لیا گیا گا بہی پیچھا لیا ھیا ۔",
+    "segment_span": [
+      161,
+      163
+    ]
+  },
+  {
+    "chunk_id": "W7uB9-TKfTg_002960_003104",
+    "video_id": "W7uB9-TKfTg",
+    "video_title": "Lecture 60: Queues in C++ [STL + Implementation + Types of Queues ]",
+    "lecture_number": 60,
+    "playlist_index": 65,
+    "video_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg",
+    "start_time": 2960.08,
+    "end_time": 3104.9,
+    "start_timestamp_str": "49:20",
+    "end_timestamp_str": "51:44",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg&t=2960s",
+    "text": "بارسم چاہوں بہت بڑیا ، سلسٹے ہیں میں نے کہاں وہ لہ پوش فرنت کیا کہا ہے کہ میرا فرنٹا کر کچھ کچھی کچ் கிش کو درشار ہے اگر میرا پوچھ فرند کے ریکبا شتاعتی تو میں کیا کرتا ہوں میں پیشے آتا ہیں اور پھر اس بلوکم انصوت کرتے ہیں یہ واستمرہ میں یہ کی چار کنیشیں میں نے کیا بات ہے؟ میں نے نے نے کہتے ہو کہ آپ اس میں انصرت کریں سکتا ہے پوپ بکٹ کرتے ہیںگ بہت",
+    "segment_span": [
+      164,
+      170
+    ]
+  },
+  {
+    "chunk_id": "W7uB9-TKfTg_003105_003901",
+    "video_id": "W7uB9-TKfTg",
+    "video_title": "Lecture 60: Queues in C++ [STL + Implementation + Types of Queues ]",
+    "lecture_number": 60,
+    "playlist_index": 65,
+    "video_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg",
+    "start_time": 3105.9,
+    "end_time": 3901.94,
+    "start_timestamp_str": "51:45",
+    "end_timestamp_str": "01:05:01",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=W7uB9-TKfTg&t=3105s",
+    "text": "جم میں پوھا بک کرتا ہوں تو میں کیس پر گھار کروں گا پوڑ بکھاں سے کو تاریر سے ہوتا ہے تو ریر میں پشوالہ میں آتے پشوبہ لکھ کر دیکھتے ہے تو پشکہ کہتا تھا کہ یا رہاں آپ کا ریار ہے یہاں کھا یہا ہے کہ آپ کے پش کی رکواشتاتی ہے تو اگر بڑھاتے تھا وہ حائیم ساتھ کرتی اسی پکھے آگر پوہپ کی ریکواشта جا ہے تو آپ اس کو قات دو گیں Bye-bye",
+    "segment_span": [
+      171,
+      179
+    ]
+  }
+]

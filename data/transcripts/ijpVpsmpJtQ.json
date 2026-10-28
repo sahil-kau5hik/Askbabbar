@@ -1,0 +1,512 @@
+{
+  "video_id": "ijpVpsmpJtQ",
+  "lecture_number": 101,
+  "video_title": "Lecture 101: Bellman Ford Algorithm || C++ Placement Series",
+  "total_duration": 1325.89,
+  "segments": [
+    {
+      "id": 0,
+      "start": 3.7,
+      "end": 6.7,
+      "text": "Hello ji, how are you all? This is Love Corporate and welcome to this channel."
+    },
+    {
+      "id": 1,
+      "start": 63.7,
+      "end": 66.7,
+      "text": "ایک ایک نیگٹیو ویٹھ بھی ہو سکتے ہیں"
+    },
+    {
+      "id": 2,
+      "start": 67.2,
+      "end": 69.4,
+      "text": "جب نیجٹیف ویڈس کی بعد آتی ہے آپ لوگ گیاں"
+    },
+    {
+      "id": 3,
+      "start": 69.5,
+      "end": 70.9,
+      "text": "آپ نے پلے سے کردுم پڑچھ گیا نہ"
+    },
+    {
+      "id": 4,
+      "start": 71.0,
+      "end": 73.0,
+      "text": "شوٹر سپال فانگی اس کا نام کا دائکسترال کردیم"
+    },
+    {
+      "id": 5,
+      "start": 76.03,
+      "end": 77.33,
+      "text": "آپ تو دائیکستراری بڑھ چکے"
+    },
+    {
+      "id": 6,
+      "start": 77.63,
+      "end": 79.03,
+      "text": "تو پھر میں بلمن 4 کیوں پڈیں"
+    },
+    {
+      "id": 7,
+      "start": 79.13,
+      "end": 79.83,
+      "text": "کیوں πڑیں بھی"
+    },
+    {
+      "id": 8,
+      "start": 80.33,
+      "end": 81.83,
+      "text": "میرا مہ سمپل سے گیمہ دائگستر آل گیا تھا"
+    },
+    {
+      "id": 9,
+      "start": 81.93,
+      "end": 82.83,
+      "text": "آپ کی تھی"
+    },
+    {
+      "id": 10,
+      "start": 83.72,
+      "end": 87.02,
+      "text": "وہ نیגٹی فیڑس پر کام نہیں کردیں"
+    },
+    {
+      "id": 11,
+      "start": 87.12,
+      "end": 90.12,
+      "text": "نیغٹی ویچھ پر اپلای آپ نہیں کر سکھتے"
+    },
+    {
+      "id": 12,
+      "start": 242.07,
+      "end": 243.07,
+      "text": "1-4"
+    },
+    {
+      "id": 13,
+      "start": 244.23,
+      "end": 245.23,
+      "text": "2-2"
+    },
+    {
+      "id": 14,
+      "start": 246.23,
+      "end": 247.23,
+      "text": "2-6"
+    },
+    {
+      "id": 15,
+      "start": 248.23,
+      "end": 250.23,
+      "text": "2-12"
+    },
+    {
+      "id": 16,
+      "start": 251.23,
+      "end": 252.23,
+      "text": "2-20"
+    },
+    {
+      "id": 17,
+      "start": 253.23,
+      "end": 254.23,
+      "text": "2-18"
+    },
+    {
+      "id": 18,
+      "start": 255.23,
+      "end": 256.23,
+      "text": "3-16"
+    },
+    {
+      "id": 19,
+      "start": 257.23,
+      "end": 258.23,
+      "text": "4-16"
+    },
+    {
+      "id": 20,
+      "start": 259.23,
+      "end": 260.23,
+      "text": "5-22"
+    },
+    {
+      "id": 21,
+      "start": 261.23,
+      "end": 262.23,
+      "text": "4-34"
+    },
+    {
+      "id": 22,
+      "start": 263.23,
+      "end": 264.23,
+      "text": "4-35"
+    },
+    {
+      "id": 23,
+      "start": 265.23,
+      "end": 267.23,
+      "text": "6-36"
+    },
+    {
+      "id": 24,
+      "start": 268.23,
+      "end": 269.23,
+      "text": "7-36"
+    },
+    {
+      "id": 25,
+      "start": 270.23,
+      "end": 271.23,
+      "text": "8-36"
+    },
+    {
+      "id": 26,
+      "start": 578.37,
+      "end": 580.37,
+      "text": "1 more time same formula apply"
+    },
+    {
+      "id": 27,
+      "start": 582.88,
+      "end": 584.88,
+      "text": "If any distance is up to date"
+    },
+    {
+      "id": 28,
+      "start": 585.88,
+      "end": 586.88,
+      "text": "if anyone has a distance of rate"
+    },
+    {
+      "id": 29,
+      "start": 587.88,
+      "end": 588.88,
+      "text": "this means that"
+    },
+    {
+      "id": 30,
+      "start": 589.88,
+      "end": 591.88,
+      "text": "the negative cycle present"
+    },
+    {
+      "id": 31,
+      "start": 592.88,
+      "end": 593.88,
+      "text": "it means"
+    },
+    {
+      "id": 32,
+      "start": 594.88,
+      "end": 595.88,
+      "text": "there are negative cycles present"
+    },
+    {
+      "id": 33,
+      "start": 596.88,
+      "end": 598.88,
+      "text": "and you cannot take short test"
+    },
+    {
+      "id": 34,
+      "start": 599.88,
+      "end": 600.88,
+      "text": "You can not take long"
+    },
+    {
+      "id": 35,
+      "start": 601.88,
+      "end": 603.88,
+      "text": "so, this probability"
+    },
+    {
+      "id": 36,
+      "start": 604.88,
+      "end": 606.88,
+      "text": "if your distance isn't written"
+    },
+    {
+      "id": 37,
+      "start": 606.88,
+      "end": 607.88,
+      "text": "ھاپڑڑٹڈڈھڈ ھکڑھڇڈٹڂڈ۔"
+    },
+    {
+      "id": 38,
+      "start": 607.92,
+      "end": 609.72,
+      "text": "ھےپڈįڈ ٹڑ ٦ ٧ ٧١ ٧"
+    },
+    {
+      "id": 39,
+      "start": 609.74,
+      "end": 610.7,
+      "text": "ھہڈ اپژڈ دڑ۔"
+    },
+    {
+      "id": 40,
+      "start": 610.74,
+      "end": 612.74,
+      "text": "ھگڑ دڒڑ اپٹڑ えژٹڋ ٧ڈ"
+    },
+    {
+      "id": 41,
+      "start": 613.44,
+      "end": 613.96,
+      "text": "٨ ٧"
+    },
+    {
+      "id": 42,
+      "start": 614.32,
+      "end": 614.86,
+      "text": "ھڑ بڑا ٦ڑ"
+    },
+    {
+      "id": 43,
+      "start": 614.88,
+      "end": 615.24,
+      "text": "ھیڈ تڑ"
+    },
+    {
+      "id": 44,
+      "start": 615.26,
+      "end": 615.84,
+      "text": "ھئڑ تڗڈ"
+    },
+    {
+      "id": 45,
+      "start": 615.88,
+      "end": 616.06,
+      "text": "٧"
+    },
+    {
+      "id": 46,
+      "start": 616.08,
+      "end": 616.86,
+      "text": "٣ ٧"
+    },
+    {
+      "id": 47,
+      "start": 616.88,
+      "end": 617.86,
+      "text": "٧"
+    },
+    {
+      "id": 48,
+      "start": 618.1,
+      "end": 618.86,
+      "text": "٢ ٧"
+    },
+    {
+      "id": 49,
+      "start": 618.88,
+      "end": 619.88,
+      "text": "٧"
+    },
+    {
+      "id": 50,
+      "start": 619.9,
+      "end": 620.4,
+      "text": "٧"
+    },
+    {
+      "id": 51,
+      "start": 620.42,
+      "end": 621.1,
+      "text": "٧"
+    },
+    {
+      "id": 52,
+      "start": 621.12,
+      "end": 621.6,
+      "text": "٧"
+    },
+    {
+      "id": 53,
+      "start": 621.62,
+      "end": 622.36,
+      "text": "٧"
+    },
+    {
+      "id": 54,
+      "start": 622.4,
+      "end": 622.66,
+      "text": "٧"
+    },
+    {
+      "id": 55,
+      "start": 622.7,
+      "end": 623.3,
+      "text": "٧"
+    },
+    {
+      "id": 56,
+      "start": 623.34,
+      "end": 623.56,
+      "text": "٧"
+    },
+    {
+      "id": 57,
+      "start": 623.58,
+      "end": 624.34,
+      "text": "٧"
+    },
+    {
+      "id": 58,
+      "start": 624.38,
+      "end": 624.62,
+      "text": "٧"
+    },
+    {
+      "id": 59,
+      "start": 624.86,
+      "end": 625.36,
+      "text": "٧"
+    },
+    {
+      "id": 60,
+      "start": 625.4,
+      "end": 626.36,
+      "text": "٧"
+    },
+    {
+      "id": 61,
+      "start": 626.4,
+      "end": 626.9,
+      "text": "٧"
+    },
+    {
+      "id": 62,
+      "start": 626.92,
+      "end": 627.4,
+      "text": "٧"
+    },
+    {
+      "id": 63,
+      "start": 874.53,
+      "end": 878.27,
+      "text": "2-2,1.2-1"
+    },
+    {
+      "id": 64,
+      "start": 879.23,
+      "end": 881.43,
+      "text": "اپنے 2nd time بی apouraq pouraq parafomla"
+    },
+    {
+      "id": 65,
+      "start": 881.45,
+      "end": 882.29,
+      "text": "Execute"
+    },
+    {
+      "id": 66,
+      "start": 882.31,
+      "end": 885.15,
+      "text": "1st time you have minimized data"
+    },
+    {
+      "id": 67,
+      "start": 885.17,
+      "end": 886.49,
+      "text": "and your answer is"
+    },
+    {
+      "id": 68,
+      "start": 886.51,
+      "end": 887.51,
+      "text": "Answer is"
+    },
+    {
+      "id": 69,
+      "start": 887.53,
+      "end": 889.89,
+      "text": "1,2 3"
+    },
+    {
+      "id": 70,
+      "start": 889.91,
+      "end": 890.85,
+      "text": "Answer 0"
+    },
+    {
+      "id": 71,
+      "start": 890.87,
+      "end": 891.85,
+      "text": "2 or 1"
+    },
+    {
+      "id": 72,
+      "start": 891.87,
+      "end": 892.61,
+      "text": "Thick"
+    },
+    {
+      "id": 73,
+      "start": 892.63,
+      "end": 895.35,
+      "text": "So one has to reach the short distance"
+    },
+    {
+      "id": 74,
+      "start": 895.37,
+      "end": 896.13,
+      "text": "One says"
+    },
+    {
+      "id": 75,
+      "start": 896.15,
+      "end": 896.91,
+      "text": "Two can reach"
+    },
+    {
+      "id": 76,
+      "start": 896.93,
+      "end": 897.61,
+      "text": "Shortness Distance"
+    },
+    {
+      "id": 77,
+      "start": 897.63,
+      "end": 898.35,
+      "text": "Two"
+    },
+    {
+      "id": 78,
+      "start": 898.37,
+      "end": 899.73,
+      "text": "It's exactly right"
+    },
+    {
+      "id": 79,
+      "start": 899.75,
+      "end": 900.65,
+      "text": "And one say"
+    },
+    {
+      "id": 80,
+      "start": 900.67,
+      "end": 901.45,
+      "text": "Three can reach"
+    },
+    {
+      "id": 81,
+      "start": 901.47,
+      "end": 902.51,
+      "text": "Shortness is"
+    },
+    {
+      "id": 82,
+      "start": 902.53,
+      "end": 904.19,
+      "text": "Which we had already told"
+    },
+    {
+      "id": 83,
+      "start": 1323.79,
+      "end": 1325.79,
+      "text": "taptak ke liye"
+    }
+  ]
+}

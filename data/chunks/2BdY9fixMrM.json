@@ -1,0 +1,200 @@
+[
+  {
+    "chunk_id": "2BdY9fixMrM_000002_000098",
+    "video_id": "2BdY9fixMrM",
+    "video_title": "Lecture 68: Morris Traversal || Flatten a Binary tree to Linked List || C++ Placement Series",
+    "lecture_number": 68,
+    "playlist_index": 74,
+    "video_url": "https://www.youtube.com/watch?v=2BdY9fixMrM",
+    "start_time": 2.99,
+    "end_time": 98.9,
+    "start_timestamp_str": "00:02",
+    "end_timestamp_str": "01:38",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=2BdY9fixMrM&t=2s",
+    "text": "Hello Ji, How are you? Welcome to the channel. We have reached lecture number 68 and here we will solve a very important algorithm based on it Last year when Google had interviewed me I didn't get this question in time ̄ ̀ ̂ ̃ ̕ ̓ ̍ ̈ ̋ ̇ ̟ ̖ ̮ ͞ ́ ̨ ̲ ̘ ̗ ̉ ̚ ̅ ̯ ̱ ̣ ̰ ̙ ̺ ̬ ̧ ̛ ̜ ̩ ̤ ̭ ̎ ̦ ̢ ̻ ̡ ̹ ̴ ̥ ̵ ̷ ̸ ̶ ̏ ̝ ̪ ̫ ̌ ̐ ̾ ̳ ́ ̔ ̆ ̒ ̽ ̿ ̑ ̞ ̼ ̊ ̠ � ھاکھا ہمیں یہ چیز سمجھ میں آئی ہے",
+    "segment_span": [
+      0,
+      3
+    ]
+  },
+  {
+    "chunk_id": "2BdY9fixMrM_000098_000158",
+    "video_id": "2BdY9fixMrM",
+    "video_title": "Lecture 68: Morris Traversal || Flatten a Binary tree to Linked List || C++ Placement Series",
+    "lecture_number": 68,
+    "playlist_index": 74,
+    "video_url": "https://www.youtube.com/watch?v=2BdY9fixMrM",
+    "start_time": 98.9,
+    "end_time": 158.9,
+    "start_timestamp_str": "01:38",
+    "end_timestamp_str": "02:38",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=2BdY9fixMrM&t=98s",
+    "text": "اب بات کرتے ہیں یہ مورشٹر پر سلہ ہوتا گیا ہے فتاپٹ میں آپ کے لئے کرافیل کرتا میں گیتا ہوں اس کو تردن کریں گے آپ کو سمدھیں گی چیسے کیسے کام کرتی اس پانچڑ با ریلگل ریلاباری جیزے دیاؤس فورس حارین پر آتھم تو کیاپ کی سائیتہ کر با ہے دریم جو اپ گراپ کرنے میں اپ جو دگری ایک سوییسٹ اپ لوما کی میید نہیں ہے RELABLE ALREADY PROVIDEKAR RAI APAPAR JAKER PETITS KURSAKTESC. TEST QUALIFIQUAR LIA, RELABELL BUSHOW CASE, YOU PROFILLED SAHARI KISARI ALLAGAL A COMPRICE, SO that your probability of getting selected is higher",
+    "segment_span": [
+      4,
+      13
+    ]
+  },
+  {
+    "chunk_id": "2BdY9fixMrM_000159_000327",
+    "video_id": "2BdY9fixMrM",
+    "video_title": "Lecture 68: Morris Traversal || Flatten a Binary tree to Linked List || C++ Placement Series",
+    "lecture_number": 68,
+    "playlist_index": 74,
+    "video_url": "https://www.youtube.com/watch?v=2BdY9fixMrM",
+    "start_time": 159.9,
+    "end_time": 327.29,
+    "start_timestamp_str": "02:39",
+    "end_timestamp_str": "05:27",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=2BdY9fixMrM&t=159s",
+    "text": "A LOT OF you have given the test but not yet attempt once again Your practice quality should be much better and your bound to get a job ONCE you clear it RELabel conducting tests in 9 categories You will also see some new categories as Operations Associate Test H-A generalist's TEST, associate product management test because salaries are on 25 lp and one more new category is added that it's Android development The level of 10 crore plus word jobs has already provided the candidates if you talk about packages You can also grab them in 40 lp For example, we will be showing this to our viewers And another thing If they make a month later then there'll be an exciting price like Macbook iPhone Apple Watch So what do these things? You could book a slot for your test or next days as well That means We can get slots open ایک ایک موحیة موچھا کتری کا دیکھنے روپرانے گا",
+    "segment_span": [
+      14,
+      38
+    ]
+  },
+  {
+    "chunk_id": "2BdY9fixMrM_000327_000406",
+    "video_id": "2BdY9fixMrM",
+    "video_title": "Lecture 68: Morris Traversal || Flatten a Binary tree to Linked List || C++ Placement Series",
+    "lecture_number": 68,
+    "playlist_index": 74,
+    "video_url": "https://www.youtube.com/watch?v=2BdY9fixMrM",
+    "start_time": 327.95,
+    "end_time": 406.52,
+    "start_timestamp_str": "05:27",
+    "end_timestamp_str": "06:46",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=2BdY9fixMrM&t=327s",
+    "text": "آپ بدا کس پر کروگا میں نولی یہاں آپ کا معارش Traversal جانا وہ کام میں آنے والے آپ اب ٹمپرے لنگس بنائیں گے جس نور سے آپائیں ہیں اس کی طرف اور آپ کو TraversAL Pura compliet کر بائیںگے ایک برال کو سمسنہ علگوں نے وہ لیکنٹ جو ہے وہ روٹ پلگا دینہ تو ہم نے ایک پانٹ لگا جو یہ كرنٹ یہاہ بر روط کیوں پر OK کہ ہم نولا ھاکہ لیکنی کیا ہے؟",
+    "segment_span": [
+      39,
+      49
+    ]
+  },
+  {
+    "chunk_id": "2BdY9fixMrM_000408_000650",
+    "video_id": "2BdY9fixMrM",
+    "video_title": "Lecture 68: Morris Traversal || Flatten a Binary tree to Linked List || C++ Placement Series",
+    "lecture_number": 68,
+    "playlist_index": 74,
+    "video_url": "https://www.youtube.com/watch?v=2BdY9fixMrM",
+    "start_time": 408.52,
+    "end_time": 650.4,
+    "start_timestamp_str": "06:48",
+    "end_timestamp_str": "10:50",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=2BdY9fixMrM&t=408s",
+    "text": "ھوڑھا۔ ھتے ہیں۔ ھیں گے۔ ھائی ہے۔ ھانا۔ ھئے۔ ھیا۔ ھے۔ ھگی۔ ھڈھا اور ھالی ہے؟ ھا سنو مجھے پر دیکھا ہے",
+    "segment_span": [
+      50,
+      60
+    ]
+  },
+  {
+    "chunk_id": "2BdY9fixMrM_000650_000712",
+    "video_id": "2BdY9fixMrM",
+    "video_title": "Lecture 68: Morris Traversal || Flatten a Binary tree to Linked List || C++ Placement Series",
+    "lecture_number": 68,
+    "playlist_index": 74,
+    "video_url": "https://www.youtube.com/watch?v=2BdY9fixMrM",
+    "start_time": 650.6,
+    "end_time": 712.45,
+    "start_timestamp_str": "10:50",
+    "end_timestamp_str": "11:52",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=2BdY9fixMrM&t=650s",
+    "text": "ھتیمپورا لینگ کیشنی حاپی ہو رہا وریپاٹ میں دیانسے کو اس کا نلک کر رہی یعنی اس کو ہٹاریں جو ٹیمпورا اڑھنگ کا پنے بنائی تھا اس کو بھٹارے ہو اس بھلپاط سے ہٹرے ہو دیہانسی دیکھیا دیکہ دیکیا تو یہ اس کا پورا پورہ لوگ گیا یہ اس کے پورa پورа لوگ جیا اور اس کا کارا آپ کام کر رئے دیک ہے قوڈ بائیس ھاکہ یہاں میں پر بھائل کنڈیشن لگا دیں گے ھے بھای تبتک آگے بڑھے جاؤں جب تک تمہارہ آپ ریدیسے سے کا رائٹ نہ ہو جائیں",
+    "segment_span": [
+      61,
+      77
+    ]
+  },
+  {
+    "chunk_id": "2BdY9fixMrM_000718_000798",
+    "video_id": "2BdY9fixMrM",
+    "video_title": "Lecture 68: Morris Traversal || Flatten a Binary tree to Linked List || C++ Placement Series",
+    "lecture_number": 68,
+    "playlist_index": 74,
+    "video_url": "https://www.youtube.com/watch?v=2BdY9fixMrM",
+    "start_time": 718.38,
+    "end_time": 798.58,
+    "start_timestamp_str": "11:58",
+    "end_timestamp_str": "13:18",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=2BdY9fixMrM&t=718s",
+    "text": "تکہ جبتا کہ نلنا ہوں جائے ویوالی کنٹیشیں ہوں شکتی ویسا کنگٹیچن کیا ہے کہ وہ اپنے آپ کو پڑن کر لگے ہوں کہ وہ پہلے سے مالی اس کو پہن کر را آپ رائط مگے ھاکھا, یہاں پر ایک بار اث کو آپ پرینٹ کرنے کے لیے جانے ہیں",
+    "segment_span": [
+      78,
+      82
+    ]
+  },
+  {
+    "chunk_id": "2BdY9fixMrM_000798_001183",
+    "video_id": "2BdY9fixMrM",
+    "video_title": "Lecture 68: Morris Traversal || Flatten a Binary tree to Linked List || C++ Placement Series",
+    "lecture_number": 68,
+    "playlist_index": 74,
+    "video_url": "https://www.youtube.com/watch?v=2BdY9fixMrM",
+    "start_time": 798.78,
+    "end_time": 1183.41,
+    "start_timestamp_str": "13:18",
+    "end_timestamp_str": "19:43",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=2BdY9fixMrM&t=798s",
+    "text": "اور ایک ہاں تم پر لینگر موبال کے لے جہاں 3 بار بجد کر رہے ہیں تو اس پقارہ کو مورشٹا ہوتا ہوں ساں اتھنا سیگ احنا سیاں ایک تھوڑ ساہتی ہم الجان سیا کود خود کریں فاکی قلیریٹی آوجہا ہم ان جاء کود کی بپت میں ہم ابھی نہیں جائیں گے فایتا نہیں جو کہ بہت سانتھیں جو میں کود ہا پلکتی ہے 1.0 2.0 3.0 4.0 5.0 6.0 7.0 8.0 9.0 9.1 10.0 11.2 13.3 14.4 R1.0",
+    "segment_span": [
+      83,
+      107
+    ]
+  },
+  {
+    "chunk_id": "2BdY9fixMrM_001184_001507",
+    "video_id": "2BdY9fixMrM",
+    "video_title": "Lecture 68: Morris Traversal || Flatten a Binary tree to Linked List || C++ Placement Series",
+    "lecture_number": 68,
+    "playlist_index": 74,
+    "video_url": "https://www.youtube.com/watch?v=2BdY9fixMrM",
+    "start_time": 1184.41,
+    "end_time": 1507.14,
+    "start_timestamp_str": "19:44",
+    "end_timestamp_str": "25:07",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=2BdY9fixMrM&t=1184s",
+    "text": "R2.0 R2 R2 R2 R3 R4 R2 R2 R2 R2 R2 R2 R2 1-1-1.",
+    "segment_span": [
+      108,
+      121
+    ]
+  },
+  {
+    "chunk_id": "2BdY9fixMrM_001508_001624",
+    "video_id": "2BdY9fixMrM",
+    "video_title": "Lecture 68: Morris Traversal || Flatten a Binary tree to Linked List || C++ Placement Series",
+    "lecture_number": 68,
+    "playlist_index": 74,
+    "video_url": "https://www.youtube.com/watch?v=2BdY9fixMrM",
+    "start_time": 1508.14,
+    "end_time": 1624.84,
+    "start_timestamp_str": "25:08",
+    "end_timestamp_str": "27:04",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=2BdY9fixMrM&t=1508s",
+    "text": "1-2-3. 1-4-3.-1. 1-5-6. 1-9-8. 1-7-0. 1-10-0 1-11-0 1-12-0 1-13-0 1-14-0 1-15-0 1-16-0 0.0",
+    "segment_span": [
+      122,
+      134
+    ]
+  },
+  {
+    "chunk_id": "2BdY9fixMrM_001625_001656",
+    "video_id": "2BdY9fixMrM",
+    "video_title": "Lecture 68: Morris Traversal || Flatten a Binary tree to Linked List || C++ Placement Series",
+    "lecture_number": 68,
+    "playlist_index": 74,
+    "video_url": "https://www.youtube.com/watch?v=2BdY9fixMrM",
+    "start_time": 1625.84,
+    "end_time": 1656.23,
+    "start_timestamp_str": "27:05",
+    "end_timestamp_str": "27:36",
+    "youtube_timestamp_url": "https://www.youtube.com/watch?v=2BdY9fixMrM&t=1625s",
+    "text": "0.2 0.3 0.4 0.6 0.9 0.8 0.7 0.5 0.1 0.10 0.11 0.13 0.14",
+    "segment_span": [
+      135,
+      147
+    ]
+  }
+]
